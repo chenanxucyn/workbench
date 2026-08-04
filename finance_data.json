@@ -1,77 +1,185 @@
 {
   "news": [
     {
-      "id": "ff2a00893",
-      "title": "宝马上半年汽车利润率跌至3.6%",
-      "source": "东方财富",
-      "tag": "市场风险",
-      "time": "今日",
-      "insight": "市场大跌时最考验心态——小白核心原则：不加杠杆、不追涨杀跌。好公司跌了反而是机会。",
-      "link": "https://finance.eastmoney.com/a/202607313827428694.html"
+      "id": "ff1412eceb",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:35",
+      "title": "ST信安索赔持续推进 部分股民提交起诉",
+      "insight": "近日，股民诉北京信安世纪科技股份有限公司（简称：信安世纪、ST信安，代码：688201）证券虚假…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxc4080644.shtml"
     },
     {
-      "id": "feb0730bf",
-      "title": "券商：政策更加积极 稳市力度有望增加",
-      "source": "东方财富",
-      "tag": "资本市场",
-      "time": "今日",
-      "insight": "券商并购整合提速——说明行业集中度提升。小白学会：关注头部券商，享受行业整合红利。",
-      "link": "http://finance.eastmoney.com/a/202607313827424010.html"
+      "id": "ff24bba03d",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:35",
+      "title": "退市卓朗赔付股民1.4亿元 索赔时效只剩七个月",
+      "insight": "近日，天津卓朗信息科技股份有限公司（原简称：卓朗科技、退市卓朗，原证券代码：600225）发布投…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5311647.shtml"
     },
     {
-      "id": "f3ba6b304",
-      "title": "韩国股市熔断！SK海力士、三星电子暴涨",
-      "source": "东方财富",
-      "tag": "市场风险",
-      "time": "今日",
-      "insight": "市场大跌时最考验心态——小白核心原则：不加杠杆、不追涨杀跌。好公司跌了反而是机会。",
-      "link": "https://finance.eastmoney.com/a/202607313827442842.html"
+      "id": "ff64a00ed0",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-04 17:35",
+      "title": "光大期货0804热点追踪：一天涨4%！硅铁这波反弹，能追吗？",
+      "insight": "光大期货0804热点追踪：一天涨4%！硅铁这波反弹，能追吗？",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-04/doc-inimcxxm5310142.shtml"
     },
     {
-      "id": "f5065daf5",
-      "title": "苹果库克的最后一份财报亮相",
-      "source": "东方财富",
-      "tag": "市场动态",
-      "time": "今日",
-      "insight": "市场每天都有机会也有陷阱——小白核心原则：不懂不投，先学习再入场。关注高分红蓝筹股做底仓。",
-      "link": "https://finance.eastmoney.com/a/202607313827195654.html"
+      "id": "ff93fac210",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:34",
+      "title": "欧盟《人工智能法案》透明度新规正式生效",
+      "insight": "2026年8月2日，欧盟关于人工智能（AI）系统透明度的新规正式生效。此举旨在应对虚假信息传播、…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2082596.shtml"
     },
     {
-      "id": "ff1cba746",
-      "title": "宇树科技8月10日打新！机器人迎催化",
-      "source": "东方财富",
-      "tag": "科技股",
-      "time": "今日",
-      "insight": "科技股波动大但成长性高——小白可关注相关ETF而非个股，分散风险。注意追高风险。",
-      "link": "https://finance.eastmoney.com/a/202607313827322552.html"
+      "id": "ff2b720baa",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:32",
+      "title": "帕兰提尔发布二季度财报 营收同比激增93%上调全年业绩指引",
+      "insight": "美国人工智能软件企业帕兰提尔科技公司（Palantir Technologies）于美东时间8月…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2081473.shtml"
     },
     {
-      "id": "f2f2dc98c",
-      "title": "A股人形机器人第一股来了",
-      "source": "东方财富",
-      "tag": "市场动态",
-      "time": "今日",
-      "insight": "市场每天都有机会也有陷阱——小白核心原则：不懂不投，先学习再入场。关注高分红蓝筹股做底仓。",
-      "link": "http://finance.eastmoney.com/a/202607303827079993.html"
+      "id": "ff7c426afb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:31",
+      "title": "Grab上调业绩预期，首席财务官称人工智能助力商品配送效率提升超30%",
+      "insight": "核心要点受东南亚市场需求旺盛提振，Grab 上调全年业绩指引。公司有望在今年下半年完成中国台湾地…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2080919.shtml"
     },
     {
-      "id": "f2fead9ee",
-      "title": "韩国股市熔断了！日韩股市强势走高 SK海力士、三星电子暴涨",
-      "source": "东方财富",
-      "tag": "全球市场",
-      "time": "今日",
-      "insight": "海外市场波动影响A股情绪——学会看美股/日韩股市→A股的联动逻辑，提前做好风控。",
-      "link": "https://finance.eastmoney.com/a/202607313827442842.html"
+      "id": "ff8fc9e550",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:07",
+      "title": "印度拟折价10%出售本国最大寿险公司股份，募资至多33亿美元",
+      "insight": "核心要点印度政府计划出售印度人寿保险公司至多 6.5% 股份，筹集 33 亿美元资金。本次出售定…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxc4060162.shtml"
     },
     {
-      "id": "f945ea3d9",
-      "title": "宇树科技8月10日打新！人形机器人赛道迎重磅催化(附股)",
-      "source": "东方财富",
-      "tag": "科技股",
-      "time": "今日",
-      "insight": "科技股波动大但成长性高——小白可关注相关ETF而非个股，分散风险。注意追高风险。",
-      "link": "https://finance.eastmoney.com/a/202607313827322552.html"
+      "id": "ffa10264c4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:06",
+      "title": "受中东冲突推高油价影响 英国石油公司二季度净利润大幅增长",
+      "insight": "受美伊地缘冲突推高国际能源价格影响，英国石油公司（BP）8月4日发布的最新财报显示，该公司今年第…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxf5662995.shtml"
+    },
+    {
+      "id": "ff90902a8d",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "任子行成功摘帽，曾被处罚索赔已胜诉",
+      "insight": "2026年8月3日晚间，任子行网络技术股份有限公司（证券代码：300311）发布公告，公司撤销其…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2071220.shtml"
+    },
+    {
+      "id": "ff110c5135",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "电科数字索赔案件递交立案，误导性陈述已被罚",
+      "insight": "上海沪紫律师事务所刘鹏律师团队近日递交了25位投资者索赔案件至法院立案，目前仍在征集中。（刘鹏律…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2071043.shtml"
+    },
+    {
+      "id": "fffb7da351",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "紫天科技索赔递交立案，退市不影响维权",
+      "insight": "上海沪紫律师事务所刘鹏律师团队近日已递交一批次案件至法院立案审理。目前仍在征集受损投资者中。（刘…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5298460.shtml"
+    },
+    {
+      "id": "ff3896de34",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "云内动力索赔递交立案，符合要求即可加入",
+      "insight": "上海沪紫律师事务所刘鹏律师代理的投资者诉云内动力证券虚假陈述案，近日递交数位投资者案件至法院立案…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5298347.shtml"
+    },
+    {
+      "id": "ff0fe9afec",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "晶华微信披违规调查结果未出，受损投资者可预先登记参与维权",
+      "insight": "2024年11月15日，晶华微披露公告称因涉嫌信息披露违法违规，中国证监会决定对公司立案，公告中…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2070507.shtml"
+    },
+    {
+      "id": "fffc8f78ee",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "金圆股份信披违规被罚，投资者索赔通道持续开启",
+      "insight": "金圆股份投资者诉证券虚假陈述责任纠纷案件，目前已有多批次材料提交法院，相关投资者维权工作仍在推进…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5297873.shtml"
+    },
+    {
+      "id": "ff837c9e2a",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "福能东方遭证监会处罚落地，投资者索赔工作仍在推进",
+      "insight": "福能东方于2026年2月7日公告，公司已收到中国证监会下发的《行政处罚决定书》，意味着此前因涉嫌…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxf5666416.shtml"
+    },
+    {
+      "id": "ffe82901af",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:00",
+      "title": "伟时电子信披存瑕疵，监管出具警示函",
+      "insight": "2024年11月19日晚间，伟时电子发布公告称，公司及相关责任人收到江苏证监局出具的警示函。监管…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2069992.shtml"
+    },
+    {
+      "id": "ffd7c5d70f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 16:57",
+      "title": "美国联邦航空管理局正式授予波音737 Max 7机型适航认证",
+      "insight": "美国联邦航空管理局（FAA）正式向波音737 Max 7机型颁发适航认证。此举标志着该波音737…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxc4052444.shtml"
+    },
+    {
+      "id": "ff8ef70250",
+      "source": "e公司",
+      "tag": "股市",
+      "time": "08-04 16:49",
+      "title": "A股“股王”，“20cm”涨停！",
+      "insight": "今天（8月4日）A股市场迎来强劲反弹，创业板指和科创综指表现抢眼，领涨市场。 截至收盘，全市场合…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-04/doc-inimcxxc4049290.shtml"
+    },
+    {
+      "id": "ff90e4cd2e",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 16:29",
+      "title": "谁在托举长鑫？",
+      "insight": "来源：财经读数 合肥国资、公司九轮融资及在IPO战投阶段接力的各方资本、以朱一明为代表的公司创始…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxf5645153.shtml"
+    },
+    {
+      "id": "ffc4fed500",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 16:16",
+      "title": "问询函揭良品铺子三年“伤疤”：电商业务三年缩水10亿",
+      "insight": "来源：证券之星 7月29日，良品铺子（603719.SH）披露了对上交所年报问询函的回复公告，就…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxf5634033.shtml"
     }
   ],
-  "updateTime": "2026-08-04 17:06"
+  "updateTime": "2026-08-04 17:37"
 }
