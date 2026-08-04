@@ -37,10 +37,10 @@ DOUYIN_SOURCES = [
     "https://api.pearktrue.cn/api/douyinhot/",
 ]
 HOT_SOURCES = [
-    ("https://api.vvhan.com/api/hotlist/wbHot", "微博热搜"),
-    ("https://api.vvhan.com/api/hotlist/baidu", "百度热搜"),
-    ("https://api.vvhan.com/api/hotlist/zhihu", "知乎热榜"),
-    ("https://api.oioweb.cn/api/common/HotList?type=wbHot", "微博热搜"),
+    ("https://api.vvhan.com/api/hotlist/douyin", "抖音热点"),
+    ("https://api.oioweb.cn/api/common/DouYinHot", "抖音热点"),
+    ("https://tenapi.cn/v2/douyinhot", "抖音热点"),
+    ("https://api.pearktrue.cn/api/douyinhot/", "抖音热点"),
 ]
 FINANCE_SOURCES = [
     "https://api.vvhan.com/api/hotlist/finance",
