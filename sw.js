@@ -40,10 +40,11 @@ self.addEventListener('fetch', (event) => {
     return;
   }
 
-  // 页面导航：网络优先，离线回退到已缓存的页面
+  // 页面导航：网络优先（强制重新校验，避免浏览器缓存旧 HTML 导致看不到每日刷新）
+  // cache: 'no-cache' 让每次打开都向服务器确认是否有新版本，离线下才回退到已缓存页面
   if (req.mode === 'navigate') {
     event.respondWith(
-      fetch(req).catch(() =>
+      fetch(req, { cache: 'no-cache' }).catch(() =>
         caches.match(req) ||
         caches.match('./index.html') ||
         caches.match('./index(1).html') ||
