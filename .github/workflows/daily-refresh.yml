@@ -2,7 +2,7 @@ name: 每日数据刷新
 
 on:
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 */3 * * *'
   workflow_dispatch: {}
 
 permissions:
