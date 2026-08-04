@@ -77,11 +77,10 @@ HOT_SOURCES = [
     ("https://api.oioweb.cn/api/common/DouYinHot", "抖音热搜榜"),
     ("https://tenapi.cn/v2/douyinhot", "抖音热搜榜"),
 ]
+# 财经资讯：新浪财经滚动新闻（免 Key、实时），东方财富快讯作备用
 FINANCE_SOURCES = [
-    "https://api.vvhan.com/api/hotlist/finance",
-    "https://tenapi.cn/v2/caijing",
-    "https://api.oioweb.cn/api/common/EastMoney",
-    "https://newsapi.eastmoney.com/kuaixun/v1/get?type=1&page_size=20&page_index=1",
+    "https://feed.mix.sina.com.cn/api/roll/get?pageid=153&lid=2516&k=&num=20&page=1",
+    "https://np-listapi.eastmoney.com/comm/web/getNewsByColumns?column=350&pageSize=20&pageIndex=1&client=web",
 ]
 
 WEEKDAYS = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
@@ -118,26 +117,25 @@ def try_sources_json(urls):
 
 
 def dig_list(raw):
-    data = raw
+    if isinstance(raw, list):
+        return raw
     if isinstance(raw, dict):
-        for k in ("data", "result", "list", "items", "news", "rows"):
+        # 1) 顶层已知键
+        for k in ("data", "list", "items", "news", "rows"):
+            if isinstance(raw.get(k), list):
+                return raw[k]
+        # 2) 兼容 result / data 包裹（如新浪：result.data）
+        for k in ("result", "data"):
             v = raw.get(k)
+            if isinstance(v, dict):
+                for kk in ("data", "list", "items", "news", "rows"):
+                    if isinstance(v.get(kk), list):
+                        return v[kk]
+        # 3) 兜底：任取第一个列表值（浅层）
+        for v in raw.values():
             if isinstance(v, list):
-                data = v
-                break
-        else:
-            for v in raw.values():
-                if isinstance(v, list):
-                    data = v
-                    break
-    if isinstance(data, dict):
-        for k in ("list", "items", "data", "news", "rows"):
-            if isinstance(data.get(k), list):
-                data = data[k]
-                break
-    if not isinstance(data, list):
-        return []
-    return data
+                return v
+    return []
 
 
 def pick_text(it, *keys):
@@ -213,6 +211,30 @@ def build_hot(live, source_name):
     return items
 
 
+# 根据链接路径推断财经细分赛道标签
+FINANCE_TAG_MAP = [
+    ("usstock", "美股"), ("stock", "股市"), ("forex", "外汇"), ("fund", "基金"),
+    ("bond", "债券"), ("insurance", "保险"), ("gold", "黄金"), ("futures", "期货"),
+    ("house", "楼市"), ("money", "理财"), ("roll", "财经"),
+]
+
+def finance_tag(url):
+    u = url or ""
+    for kw, label in FINANCE_TAG_MAP:
+        if kw in u:
+            return label
+    return "财经热点"
+
+def fmt_time(sec):
+    try:
+        sec = int(sec)
+    except Exception:
+        sec = 0
+    if sec <= 0:
+        return "今日"
+    return datetime.datetime.fromtimestamp(sec, BEIJING_TZ).strftime("%m-%d %H:%M")
+
+
 def build_finance(live):
     items = []
     for i, it in enumerate(live[:30], 1):
@@ -220,15 +242,18 @@ def build_finance(live):
         title = pick_text(it, "title", "word", "name", "topic", "content", "summary")
         if not title:
             continue
+        url = pick_text(it, "url", "link", "wapurl")
+        intro = pick_text(it, "intro", "summary", "wapsummary", "brief")
+        if intro and len(intro) > 48:
+            intro = intro[:48] + "…"
         items.append({
             "id": short_id("ff", title),
-            "source": pick_text(it, "source", "src", "from") or "东方财富",
-            "tag": pick_text(it, "tag", "category") or "财经热点",
-            "time": "今日",
+            "source": pick_text(it, "media_name", "source", "src", "from") or "新浪财经",
+            "tag": finance_tag(url),
+            "time": fmt_time(pick_int(it, "ctime", "time", "publish_time", "pubDate")),
             "title": title,
-            "insight": pick_text(it, "insight", "desc")
-                       or "市场波动中保持理性——不追涨杀跌，关注长期价值。",
-            "link": "https://so.eastmoney.com/news/s?keyword=" + urllib.parse.quote(title),
+            "insight": intro or "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+            "link": url or ("https://so.eastmoney.com/news/s?keyword=" + urllib.parse.quote(title)),
         })
     return items
 
