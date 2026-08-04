@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "id": "ffd0d8b11f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 18:02",
+      "title": "投资者权衡和平谈判的不确定性，美债收益率走高",
+      "insight": "受中东谈判局势持续不确定性影响，投资者审慎权衡，美国国债收益率于周二走高。 作为美国政府融资关键…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2095145.shtml"
+    },
+    {
+      "id": "ff4e1b46e8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:59",
+      "title": "高市早苗的财政刺激举措或提振经济增长，但也将推高日本本已不断攀升的利息支出",
+      "insight": "日本首相高市早苗推进食品消费税下调方案。若该方案落地，将是日本自1989年开征消费税以来首次下调…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxm5321307.shtml"
+    },
+    {
+      "id": "ff186b4284",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:53",
+      "title": "SpaceX财报前瞻：市值蒸发5000亿后，华尔街还买不买马斯克的账？",
+      "insight": "摘要 SpaceX将于周二收盘后发布作为上市公司的首份财报（2026年二季度）。当前股价已较IP…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxf5695084.shtml"
+    },
+    {
+      "id": "ffd6d30bcb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:53",
+      "title": "特朗普警告：谈判是结束战争的最后机会 德黑兰否认开展磋商，油价上行",
+      "insight": "核心要点美国与伊朗针对外交谈判持续释放相互矛盾的信号。市场前景不明朗，国际油价周一回落之后再度走…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxf5695026.shtml"
+    },
+    {
+      "id": "ffb3aeda18",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:49",
+      "title": "做透析的宝莱特迎来造芯片的“80后”新老板？",
+      "insight": "来源 | 野马财经 半年翻倍 作者 | 高岩 编辑丨叶展 7月31日收盘，“黑马”宝莱特（300…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxm5319301.shtml"
+    },
+    {
+      "id": "ff82575c17",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:49",
+      "title": "\"牛散\"鑫多多举牌德龙汇能，操盘术与翻车史双双曝光",
+      "insight": "来源 | 野马财经 鑫多多换了“新打法” 作者 | 高岩 编辑丨叶开 7月31日，德龙汇能一字涨…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxf5695108.shtml"
+    },
+    {
+      "id": "ff66273fdc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:44",
+      "title": "英国石油利润翻倍 特朗普痛斥石油巨头“赚得太多”",
+      "insight": "核心要点英国石油（BP）周二公布二季度利润 57 亿美元，大幅超出分析师预期。财报出炉前不久，美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2087616.shtml"
+    },
+    {
+      "id": "ffc38b6864",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-04 17:42",
+      "title": "国际糖料主产国 8 月天气跟踪：产区降水分化，新榨季糖产量预期迎来关键窗口期",
+      "insight": "沐甜科技 进入 8 月，巴西中南部榨季压榨正值高峰期，短期原糖供应压力增加；而不断增强的厄尔尼诺…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-04/doc-inimcxxp2087388.shtml"
+    },
+    {
+      "id": "ff50c48060",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:40",
+      "title": "司尔特（002538）收到行政处罚决定书！符合条件投资者可登记索赔",
+      "insight": "根据最新消息，安徽省司尔特肥业股份有限公司（以下简称“司尔特”）因信披违法已被中国证监会处罚。上…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2086615.shtml"
+    },
+    {
+      "id": "ff1c722692",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-04 17:39",
+      "title": "受伊朗战事挤压原油供应，沙特阿美二季度利润大涨33%",
+      "insight": "核心要点受伊朗冲突推升油气价格影响，沙特阿美周二公布二季度利润大幅增长，业绩超出市场预期。这家石…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2085089.shtml"
+    },
+    {
       "id": "ff1412eceb",
       "source": "市场资讯",
       "tag": "股市",
@@ -17,6 +107,15 @@
       "title": "退市卓朗赔付股民1.4亿元 索赔时效只剩七个月",
       "insight": "近日，天津卓朗信息科技股份有限公司（原简称：卓朗科技、退市卓朗，原证券代码：600225）发布投…",
       "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5311647.shtml"
+    },
+    {
+      "id": "fff2dceaa1",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-04 17:35",
+      "title": "天玑科技索赔持续推进 又有股民提交起诉",
+      "insight": "2026年8月4日，投资者诉上海天玑科技股份有限公司（简称：天玑科技、ST天玑，代码：30024…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5311753.shtml"
     },
     {
       "id": "ff64a00ed0",
@@ -55,6 +154,15 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxp2080919.shtml"
     },
     {
+      "id": "ff1b5e9c2f",
+      "source": "新浪财经",
+      "tag": "理财",
+      "time": "08-04 17:30",
+      "title": "中央气象台：全国农业气象影响预报与评估（2026年08月04日）",
+      "insight": "来源：中央气象台网站 近期北方海洋牧场持续高温 辽宁和山东海参养殖高温热害风险高 7月27日以来…",
+      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-08-04/doc-inimcxxm5307648.shtml"
+    },
+    {
       "id": "ff8fc9e550",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "受中东冲突推高油价影响 英国石油公司二季度净利润大幅增长",
       "insight": "受美伊地缘冲突推高国际能源价格影响，英国石油公司（BP）8月4日发布的最新财报显示，该公司今年第…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxf5662995.shtml"
-    },
-    {
-      "id": "ff90902a8d",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "任子行成功摘帽，曾被处罚索赔已胜诉",
-      "insight": "2026年8月3日晚间，任子行网络技术股份有限公司（证券代码：300311）发布公告，公司撤销其…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2071220.shtml"
-    },
-    {
-      "id": "ff110c5135",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "电科数字索赔案件递交立案，误导性陈述已被罚",
-      "insight": "上海沪紫律师事务所刘鹏律师团队近日递交了25位投资者索赔案件至法院立案，目前仍在征集中。（刘鹏律…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2071043.shtml"
-    },
-    {
-      "id": "fffb7da351",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "紫天科技索赔递交立案，退市不影响维权",
-      "insight": "上海沪紫律师事务所刘鹏律师团队近日已递交一批次案件至法院立案审理。目前仍在征集受损投资者中。（刘…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5298460.shtml"
-    },
-    {
-      "id": "ff3896de34",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "云内动力索赔递交立案，符合要求即可加入",
-      "insight": "上海沪紫律师事务所刘鹏律师代理的投资者诉云内动力证券虚假陈述案，近日递交数位投资者案件至法院立案…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5298347.shtml"
-    },
-    {
-      "id": "ff0fe9afec",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "晶华微信披违规调查结果未出，受损投资者可预先登记参与维权",
-      "insight": "2024年11月15日，晶华微披露公告称因涉嫌信息披露违法违规，中国证监会决定对公司立案，公告中…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2070507.shtml"
-    },
-    {
-      "id": "fffc8f78ee",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "金圆股份信披违规被罚，投资者索赔通道持续开启",
-      "insight": "金圆股份投资者诉证券虚假陈述责任纠纷案件，目前已有多批次材料提交法院，相关投资者维权工作仍在推进…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxm5297873.shtml"
-    },
-    {
-      "id": "ff837c9e2a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "福能东方遭证监会处罚落地，投资者索赔工作仍在推进",
-      "insight": "福能东方于2026年2月7日公告，公司已收到中国证监会下发的《行政处罚决定书》，意味着此前因涉嫌…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxf5666416.shtml"
-    },
-    {
-      "id": "ffe82901af",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 17:00",
-      "title": "伟时电子信披存瑕疵，监管出具警示函",
-      "insight": "2024年11月19日晚间，伟时电子发布公告称，公司及相关责任人收到江苏证监局出具的警示函。监管…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-04/doc-inimcxxp2069992.shtml"
-    },
-    {
-      "id": "ffd7c5d70f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-04 16:57",
-      "title": "美国联邦航空管理局正式授予波音737 Max 7机型适航认证",
-      "insight": "美国联邦航空管理局（FAA）正式向波音737 Max 7机型颁发适航认证。此举标志着该波音737…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimcxxc4052444.shtml"
-    },
-    {
-      "id": "ff8ef70250",
-      "source": "e公司",
-      "tag": "股市",
-      "time": "08-04 16:49",
-      "title": "A股“股王”，“20cm”涨停！",
-      "insight": "今天（8月4日）A股市场迎来强劲反弹，创业板指和科创综指表现抢眼，领涨市场。 截至收盘，全市场合…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-04/doc-inimcxxc4049290.shtml"
-    },
-    {
-      "id": "ff90e4cd2e",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 16:29",
-      "title": "谁在托举长鑫？",
-      "insight": "来源：财经读数 合肥国资、公司九轮融资及在IPO战投阶段接力的各方资本、以朱一明为代表的公司创始…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxf5645153.shtml"
-    },
-    {
-      "id": "ffc4fed500",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-04 16:16",
-      "title": "问询函揭良品铺子三年“伤疤”：电商业务三年缩水10亿",
-      "insight": "来源：证券之星 7月29日，良品铺子（603719.SH）披露了对上交所年报问询函的回复公告，就…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-04/doc-inimcxxf5634033.shtml"
     }
   ],
-  "updateTime": "2026-08-04 17:37"
+  "updateTime": "2026-08-04 18:04"
 }
