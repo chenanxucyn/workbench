@@ -30,17 +30,52 @@ CTX = ssl.create_default_context()
 CTX.check_hostname = False
 CTX.verify_mode = ssl.CERT_NONE
 
-DOUYIN_SOURCES = [
-    "https://api.vvhan.com/api/hotlist/douyin",
-    "https://api.oioweb.cn/api/common/DouYinHot",
-    "https://tenapi.cn/v2/douyinhot",
-    "https://api.pearktrue.cn/api/douyinhot/",
+# 选题灵感：全网热榜聚合（抖音/微博/百度/知乎/B站实时热点），再按赛道自动分类打标签
+# uapis.cn 实测 5 个平台均可用、免费免 Key、返回真实热榜（标题/热度/视频数/播放量）
+IDEAS_SOURCES = [
+    "https://uapis.cn/api/v1/misc/hotboard?type=douyin",
+    "https://uapis.cn/api/v1/misc/hotboard?type=weibo",
+    "https://uapis.cn/api/v1/misc/hotboard?type=baidu",
+    "https://uapis.cn/api/v1/misc/hotboard?type=zhihu",
+    "https://uapis.cn/api/v1/misc/hotboard?type=bilibili",
 ]
+
+# 选题灵感 赛道分类：根据标题关键词自动归类（搞笑 / 情感共鸣 / 搞钱吐槽 / 母婴萌娃 / 热门爆款）
+CATEGORY_RULES = [
+    ("母婴萌娃", ["萌娃", "宝宝", "母婴", "育儿", "亲子", "小孩", "儿子", "女儿", "娃", "宝妈", "奶爸",
+                  "幼儿园", "早教", "怀孕", "二胎", "儿童", "小学生", "孩子", "妈妈", "爸爸", "婴儿",
+                  "带娃", "奶粉", "辅食", "尿不湿", "婆婆", "儿媳", "新生儿", "家长会"]),
+    ("搞钱/吐槽", ["赚钱", "副业", "搞钱", "吐槽", "口播", "职场", "工资", "老板", "打工人", "摸鱼", "理财",
+                  "暴富", "存款", "裁员", "失业", "创业", "房贷", "公积金", "社保", "穷", "同事", "上班",
+                  "借款", "还债", "韭菜", "消费", "省钱", "攒钱", "退休", "养老金", "穷人", "负债", "工资条"]),
+    ("情感共鸣", ["情感", "泪目", "感人", "暖心", "泪奔", "共鸣", "爱情", "结婚", "分手", "亲情", "友情",
+                  "治愈", "遗憾", "青春", "回忆", "异地", "暗恋", "前任", "婚姻", "妻子", "老公", "家庭",
+                  "父母", "家人", "初恋", "告白", "催泪", "心酸", "扎心", "委屈", "孤独", "想念", "重逢",
+                  "婆婆", "儿媳", "暗恋", "婚礼", "求婚", "分手", "出轨", "背叛", "陪伴"]),
+    ("搞笑", ["搞笑", "笑话", "沙雕", "整活", "搞怪", "喜剧", "表情包", "段子", "幽默", "翻车", "名场面",
+              "整蛊", "笑死", "神操作", "社死", "逗", "搞笑", "名场面", "翻车", "整活", "搞怪", "囧",
+              "离谱", "迷惑", "尴尬", "名场面", "翻车", "整活"]),
+]
+
+INSIGHT_BY_CAT = {
+    "母婴萌娃": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
+    "搞钱/吐槽": "职场/搞钱/吐槽类口播完播率高，借热点宣泄情绪+给方法，涨粉快。",
+    "情感共鸣": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+    "搞笑": "搞笑整活最易破圈，节奏快门槛低，适合二创或 Reaction。",
+    "热门爆款": "热点事件，从你的视角解读能快速涨粉。",
+}
+
+def classify_category(text):
+    for cat, kws in CATEGORY_RULES:
+        for kw in kws:
+            if kw in text:
+                return cat
+    return "热门爆款"
 HOT_SOURCES = [
-    ("https://api.vvhan.com/api/hotlist/douyin", "抖音热点"),
-    ("https://api.oioweb.cn/api/common/DouYinHot", "抖音热点"),
-    ("https://tenapi.cn/v2/douyinhot", "抖音热点"),
-    ("https://api.pearktrue.cn/api/douyinhot/", "抖音热点"),
+    ("https://uapis.cn/api/v1/misc/hotboard?type=douyin", "抖音热搜榜"),
+    ("https://api.vvhan.com/api/hotlist/douyin", "抖音热搜榜"),
+    ("https://api.oioweb.cn/api/common/DouYinHot", "抖音热搜榜"),
+    ("https://tenapi.cn/v2/douyinhot", "抖音热搜榜"),
 ]
 FINANCE_SOURCES = [
     "https://api.vvhan.com/api/hotlist/finance",
@@ -52,12 +87,16 @@ FINANCE_SOURCES = [
 WEEKDAYS = ["周一", "周二", "周三", "周四", "周五", "周六", "周日"]
 
 
+# 统一使用北京时间（UTC+8），避免云端 Runner（UTC）与本地（北京时间）不一致
+BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
+
+
 def now_str():
-    return datetime.datetime.now().strftime("%Y-%m-%d %H:%M")
+    return datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
 
 
 def now_date_weekday():
-    d = datetime.datetime.now()
+    d = datetime.datetime.now(BEIJING_TZ)
     return f"{d.month:02d}月{d.day:02d}日", WEEKDAYS[d.weekday()]
 
 
@@ -136,14 +175,14 @@ def build_ideas(live):
         topic = pick_text(it, "title", "word", "name", "topic", "query")
         if not topic:
             continue
+        cat = classify_category(topic)
         items.append({
             "rank": i,
             "topic": topic,
-            "heat": pick_int(it, "hot", "heat", "num", "hotScore"),
+            "heat": pick_int(it, "hot", "heat", "num", "hotScore", "hot_value"),
             "videos": pick_int(it, "videos", "video_count"),
-            "type": pick_text(it, "type", "category") or "实时上升热点",
-            "insight": pick_text(it, "insight", "desc", "description")
-                       or "热点事件，从你的视角解读能快速涨粉",
+            "type": cat,
+            "insight": INSIGHT_BY_CAT.get(cat, "热点事件，从你的视角解读能快速涨粉"),
             "link": douyin_search(topic),
             "scheme": "snssdk1128://search/" + topic,
         })
@@ -157,7 +196,7 @@ def build_hot(live, source_name):
         title = pick_text(it, "title", "word", "name", "topic", "query")
         if not title:
             continue
-        hv = pick_int(it, "hot", "heat", "num", "hotScore", "heatValue")
+        hv = pick_int(it, "hot", "heat", "num", "hotScore", "heatValue", "hot_value")
         items.append({
             "id": short_id("h", title),
             "title": title,
@@ -212,11 +251,26 @@ def main():
 
     print("== 陈安叙工作台 数据刷新 ==  时间：", ts)
 
-    # 1) 抖音灵感
+    # 1) 选题灵感（全网聚合：抖音/微博/百度/知乎/B站，按赛道分类）
     try:
-        ideas_raw = try_sources_json(DOUYIN_SOURCES)
-        ideas_items = build_ideas(dig_list(ideas_raw))
-        print(f"  [实时] ideas：成功获取 {len(ideas_items)} 条")
+        merged = []
+        seen = set()
+        for u in IDEAS_SOURCES:
+            try:
+                raw = fetch_json(u)
+            except Exception:
+                continue
+            for it in dig_list(raw):
+                it = it if isinstance(it, dict) else {"title": str(it)}
+                t = pick_text(it, "title", "word", "name", "topic", "query")
+                if not t or t in seen:
+                    continue
+                seen.add(t)
+                merged.append(it)
+        if not merged:
+            raise RuntimeError("所有选题源均不可用")
+        ideas_items = build_ideas(merged)
+        print(f"  [实时] ideas：全网聚合成功 {len(ideas_items)} 条（已按赛道分类）")
     except Exception:
         ideas_items = json.loads(json.dumps(fb.get("ideas", {}).get("ideas") or [], ensure_ascii=False))
         print(f"  [回退] ideas：接口不可用，保留原有 {len(ideas_items)} 条")
