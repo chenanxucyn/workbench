@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ffd6cafb8f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 11:12",
+      "title": "美国法官下令Verisk推进23.5亿美元收购AccuLynx的交易",
+      "insight": "美国特拉华州一名法官下令，要求数据分析公司Verisk尝试完成其计划中的23.5亿美元收购屋顶软…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimv9872219.shtml"
+    },
+    {
+      "id": "ffa229b455",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 10:46",
+      "title": "SK海力士据悉评估重庆资产方案 包括引入投资者",
+      "insight": "据知情人士称，SK海力士正研究旗下重庆资产的方案选项，包括引入投资者以帮助加速增长。 消息人士称…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimx6631227.shtml"
+    },
+    {
+      "id": "ffed1751ec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 09:41",
+      "title": "英伟达据悉将向Lancium投资至冬30亿美元",
+      "insight": "据报道，英伟达将向黑石集团支持的电力基础设施开发商Lancium投资至多30亿美元，该公司正是 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimv9824212.shtml"
+    },
+    {
+      "id": "fffd7ef51b",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-08 07:00",
+      "title": "7月非农降温难解政策分歧 通胀连续五年高于目标 美联储支持加息阵营扩大",
+      "insight": "来源：智通财经网 美国通胀连续五年高于美联储2%的政策目标，正不断考验决策层的耐心。尽管美联储7…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-08/doc-inimqccz6652193.shtml"
+    },
+    {
       "id": "fff97d9197",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -8,6 +44,15 @@
       "title": "8月8日隔夜要闻：美股创4月份以来最大单周涨幅 金价大涨 SpaceX涨近16%",
       "insight": "市场 8月8日收盘：标普指数再创新高，三大指数本周均录得较大涨幅 8月8日美股成交额前20：Sp…",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimqccv2756070.shtml"
+    },
+    {
+      "id": "ffb442c287",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-08 06:51",
+      "title": "伊朗官员称防务协议无法保障沙特安全",
+      "insight": "沙特阿拉伯王储兼首相穆罕默德·本·萨勒曼7日与到访的土耳其总统埃尔多安和巴基斯坦总理夏巴兹在沙特…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqccx4359603.shtml"
     },
     {
       "id": "ff69c0234a",
@@ -134,52 +179,7 @@
       "title": "报道：一旦阿曼与伊朗的协议宣布 美国就将解除对伊朗港口的海上封锁",
       "insight": "路透社援引一位美国官员的话报道，一旦阿曼与伊朗恢复商业航运的协议宣布，美国就将解除对伊朗港口的海…",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvx2823806.shtml"
-    },
-    {
-      "id": "ffe2fe1e52",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 04:37",
-      "title": "特朗普提名的Brett Matsumoto获参议院确认 将出任美国劳工统计局局长",
-      "insight": "美国参议院确认Brett Matsumoto出任美国劳工统计局局长。特朗普去年突然解雇前任局长后…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz4427219.shtml"
-    },
-    {
-      "id": "ff8bf2b559",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 04:36",
-      "title": "美国债市：疲弱就业数据推动美债上涨 市场削减美联储加息押注",
-      "insight": "美国国债周五上涨，因为早些时候公布的美国经济数据显示7月非农就业人数意外下降且6月新增就业人数被…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6711462.shtml"
-    },
-    {
-      "id": "ff7ff38843",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 04:35",
-      "title": "原油：油价持稳 交易员权衡霍尔木兹海峡谈判和伊朗紧张局势",
-      "insight": "原油持稳，中东紧张局势升温之际，交易员密切关注伊朗与阿曼就恢复霍尔木兹海峡通航达成协议的进展。 …",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6711155.shtml"
-    },
-    {
-      "id": "ffa61905ca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 04:24",
-      "title": "8月8日热门中概股多数上涨 小鹏汽车涨3.72%，慧荣科技跌4.23%",
-      "insight": "8月8日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高0.77%。 上涨个股（按市值从高…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpsqc4552899.shtml"
-    },
-    {
-      "id": "fff4c23a79",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 04:09",
-      "title": "8月8日收盘：标普指数再创新高，三大指数本周均录得较大涨幅",
-      "insight": "北京时间8月8日凌晨，美股周五收高，标普500指数创收盘历史新高，三大股指本周均录得较大涨幅。美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpsqe0060496.shtml"
     }
   ],
-  "updateTime": "2026-08-08 07:02"
+  "updateTime": "2026-08-08 12:17"
 }
