@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff92309bff",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 17:33",
+      "title": "美国参议院确认由特朗普提名的托德·布兰奇出任司法部长",
+      "insight": "美国参议院确认托德·布兰奇出任司法部长，将总统唐纳德·特朗普昔日的私人辩护律师提拔至领导美国最高…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqyip9653412.shtml"
+    },
+    {
       "id": "ff5ae0524f",
       "source": "每日经济新闻",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "哥伦比亚新任总统德拉埃斯普列亚宣誓就职",
       "insight": "当地时间8月7日，哥伦比亚当选总统阿韦拉多·德拉埃斯普列亚在该国第三大城市卡利宣誓就职，任期四年…",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpwvz4456617.shtml"
-    },
-    {
-      "id": "ff1d92e679",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:25",
-      "title": "特朗普力推30亿美元关键矿产投资项目",
-      "insight": "美国总统唐纳德·特朗普周五在与矿业高管的会议上力推美国在关键矿产开采领域的30亿美元投资，旨在帮…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9961069.shtml"
     }
   ],
-  "updateTime": "2026-08-08 16:06"
+  "updateTime": "2026-08-08 18:16"
 }
