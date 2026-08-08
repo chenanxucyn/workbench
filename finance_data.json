@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ffd0a1b3cc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 00:48",
+      "title": "伊朗称非常接近与阿曼达成霍尔木兹协议 但海峡开放取决于其他条件",
+      "insight": "伊朗表示，已经“非常接近”与阿曼就霍尔木兹海峡新的海上通航路线达成一项协议。本周以来，外界对于相…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimrrff9436083.shtml"
+    },
+    {
       "id": "ff4b59ac17",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "7月非农降温难解政策分歧 通胀连续五年高于目标 美联储支持加息阵营扩大",
       "insight": "来源：智通财经网 美国通胀连续五年高于美联储2%的政策目标，正不断考验决策层的耐心。尽管美联储7…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-08/doc-inimqccz6652193.shtml"
-    },
-    {
-      "id": "fff97d9197",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:57",
-      "title": "8月8日隔夜要闻：美股创4月份以来最大单周涨幅 金价大涨 SpaceX涨近16%",
-      "insight": "市场 8月8日收盘：标普指数再创新高，三大指数本周均录得较大涨幅 8月8日美股成交额前20：Sp…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimqccv2756070.shtml"
     }
   ],
-  "updateTime": "2026-08-09 00:00"
+  "updateTime": "2026-08-09 03:18"
 }
