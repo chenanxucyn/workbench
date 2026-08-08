@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff5ae0524f",
+      "source": "每日经济新闻",
+      "tag": "财经热点",
+      "time": "08-08 14:00",
+      "title": "多家A股公司公告：收到美国关税退税！最高近亿元",
+      "insight": "8月6日晚，贵州轮胎公告，公司境外全资子公司NACTR公司近期陆续收到美国海关与边境保护局的退税…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqtzp2605900.shtml"
+    },
+    {
+      "id": "ff6ffad4ec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 12:59",
+      "title": "OpenAI出于网络安全担忧暂停新Astra模型的部分研发工作",
+      "insight": "OpenAI正暂停其即将推出的一款人工智能模型的相关内部工作，以实施更严格的安全保障措施，此前发…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqptr2699541.shtml"
+    },
+    {
+      "id": "ff8ccde8ac",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 12:49",
+      "title": "美国称乌克兰将避免以油轮和黑海石油码头为打击目标",
+      "insight": "据一位美国官员透露，乌克兰已同意不将部分非俄罗斯油轮以及对哈萨克斯坦原油出口至关重要的黑海基础设…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqptt9789216.shtml"
+    },
+    {
+      "id": "ffb8031145",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-08 12:00",
+      "title": "新兴产业新设企业40万户 上半年全国经营主体发展数据发布",
+      "insight": "8月8日，市场监管总局公布数据显示，新产业新赛道企业蓄能成势，服务业新消费与高技术服务业双轮驱动…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqptt9765112.shtml"
+    },
+    {
       "id": "ffd6cafb8f",
       "source": "环球市场播报",
       "tag": "美股",
@@ -143,43 +179,7 @@
       "title": "特朗普力推30亿美元关键矿产投资项目",
       "insight": "美国总统唐纳德·特朗普周五在与矿业高管的会议上力推美国在关键矿产开采领域的30亿美元投资，旨在帮…",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9961069.shtml"
-    },
-    {
-      "id": "ff9e81353b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:24",
-      "title": "美国制裁伊朗加密货币交易所 谈判仍在继续",
-      "insight": "美国对伊朗加大经济施压，对数字资产交易所以及与伊朗影子银行体系有关的网络实施更多制裁，在有关战争…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6732646.shtml"
-    },
-    {
-      "id": "ff2564b522",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:23",
-      "title": "美日联手干预见效 对冲基金大幅削减日元空仓",
-      "insight": "美国和日本当局协同出手稳定了日元后，对冲基金大幅减少了做空押注。 商品期货交易委员会周五公布的数…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz4448529.shtml"
-    },
-    {
-      "id": "ffccc59b0e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 04:47",
-      "title": "8月8日美股成交额前20：SpaceX将自建发电厂保障电力供应",
-      "insight": "周五美股成交额第1名SpaceX收高15.83%，成交300.16亿美元。据报道，SpaceX计…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimpwwc6715478.shtml"
-    },
-    {
-      "id": "ffdb9f0dc4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 04:37",
-      "title": "报道：一旦阿曼与伊朗的协议宣布 美国就将解除对伊朗港口的海上封锁",
-      "insight": "路透社援引一位美国官员的话报道，一旦阿曼与伊朗恢复商业航运的协议宣布，美国就将解除对伊朗港口的海…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvx2823806.shtml"
     }
   ],
-  "updateTime": "2026-08-08 12:17"
+  "updateTime": "2026-08-08 16:06"
 }
