@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "fff82f0020",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 19:46",
+      "title": "阿布扎比国家石油公司称其船只在霍尔木兹海域遭袭",
+      "insight": "据阿联酋媒体报道，阿布扎比国家石油公司表示，其一艘船只在周六凌晨通过霍尔木兹海峡时遭到导弹袭击。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrerm4118391.shtml"
+    },
+    {
       "id": "ff92309bff",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,6 +17,15 @@
       "title": "美国参议院确认由特朗普提名的托德·布兰奇出任司法部长",
       "insight": "美国参议院确认托德·布兰奇出任司法部长，将总统唐纳德·特朗普昔日的私人辩护律师提拔至领导美国最高…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqyip9653412.shtml"
+    },
+    {
+      "id": "ff5807c2dc",
+      "source": "证券时报",
+      "tag": "财经热点",
+      "time": "08-08 16:38",
+      "title": "大手笔！603175，拟超20亿元扩产，优化高端PCB战略布局",
+      "insight": "8月7日晚间超颖电子（603175）公告，公司拟投资建设高多层及HDI印制电路板P3项目，投资金…",
+      "link": "https://finance.sina.com.cn/wm/2026-08-08/doc-inimqyip9631526.shtml"
     },
     {
       "id": "ff5ae0524f",
@@ -161,25 +179,7 @@
       "title": "摩根士丹利：预计美联储资产负债表将缩减1.5万亿美元",
       "insight": "摩根士丹利经济学家Seth Carpenter和Michael Gapen在报告中表示，该行的基…",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6743042.shtml"
-    },
-    {
-      "id": "ffd875efc0",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:40",
-      "title": "美国股市：标普500指数创4月以来最大周涨幅 就业走弱减轻加息压力",
-      "insight": "美国股市周五收高，此前公布的就业数据显示，美国7月就业人数意外减少，这可能促使美联储推迟加息。 …",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvx2854649.shtml"
-    },
-    {
-      "id": "ff7380c976",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-08 05:32",
-      "title": "哥伦比亚新任总统德拉埃斯普列亚宣誓就职",
-      "insight": "当地时间8月7日，哥伦比亚当选总统阿韦拉多·德拉埃斯普列亚在该国第三大城市卡利宣誓就职，任期四年…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimpwvz4456617.shtml"
     }
   ],
-  "updateTime": "2026-08-08 18:16"
+  "updateTime": "2026-08-08 22:05"
 }
