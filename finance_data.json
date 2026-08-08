@@ -1,6 +1,78 @@
 {
   "news": [
     {
+      "id": "ff4b59ac17",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-08 23:45",
+      "title": "伯克希尔第二季度回购约45亿美元股票",
+      "insight": "伯克希尔第二季度斥资约45亿美元回购自身股票，并在期内买入近200亿美元股票，显示首席执行官阿贝…",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrfc2361147.shtml"
+    },
+    {
+      "id": "ff70951ff2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 23:42",
+      "title": "伯克希尔哈撒韦盈利走高，CEO阿贝尔开始动用巴菲特积攒的巨额现金储备",
+      "insight": "伯克希尔‑哈撒韦二季度运营利润上涨16%。能源、铁路、制造业板块表现强劲，抵消保险业务走弱带来的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrrfi6185928.shtml"
+    },
+    {
+      "id": "ff4009c4a2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-08 23:42",
+      "title": "特朗普加大施压，要求亿万富翁萨金特撤出委内瑞拉",
+      "insight": "特朗普政府正加大力度施压佛罗里达石油大亨、共和党捐赠人哈里·萨金特三世，要求其从委内瑞拉撤资。 …",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrfc2359770.shtml"
+    },
+    {
+      "id": "ffa5f8b28c",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "08-08 23:07",
+      "title": "万斯谈到伊朗局势时称“我们还在博弈过程中”",
+      "insight": "美国副总统万斯在周六播出的新闻采访中谈及伊朗局势时表示：“我们还在博弈过程中。”他说：“我们正在…",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrff3948552.shtml"
+    },
+    {
+      "id": "ff3864b2f6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 22:54",
+      "title": "英国官员担心新首相伯纳姆所提财政“灵活性”可能引发市场恐慌",
+      "insight": "据知情人士透露，英国财政部官员担心，首相有关利用财政规则中的“灵活性”来加大投资的表态，可能适得…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrrff9395168.shtml"
+    },
+    {
+      "id": "ffcd26b522",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "08-08 22:38",
+      "title": "美参议院通过临时拨款法案 暂缓政府“停摆”风险",
+      "insight": "新华社纽约8月8日电（记者刘亚南）美国国会参议院8日通过一项联邦政府临时拨款法案，以避免联邦政府…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimrrfi6163863.shtml"
+    },
+    {
+      "id": "ffda66131c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-08 22:11",
+      "title": "伊朗称“非常接近”与阿曼达成霍尔木兹协议 但海峡开放取决于其他条件",
+      "insight": "伊朗表示，已经“非常接近”与阿曼就霍尔木兹海峡新的海上通航路线达成一项协议。本周以来，外界对于相…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrkxf2450360.shtml"
+    },
+    {
+      "id": "ff6667b9b8",
+      "source": "21世纪经济报道",
+      "tag": "财经",
+      "time": "08-08 21:16",
+      "title": "几元成本的AI广告或致千万市值蒸发，苏泊尔已全部下架涉事视频",
+      "insight": "“女生洗澡，大叔帮忙搓背”，当这样的荒诞剧情出现在国民家电品牌苏泊尔的官方账号上时，很多人第一反…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxm6260503.shtml"
+    },
+    {
       "id": "fff82f0020",
       "source": "环球市场播报",
       "tag": "美股",
@@ -107,79 +179,7 @@
       "title": "8月8日隔夜要闻：美股创4月份以来最大单周涨幅 金价大涨 SpaceX涨近16%",
       "insight": "市场 8月8日收盘：标普指数再创新高，三大指数本周均录得较大涨幅 8月8日美股成交额前20：Sp…",
       "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimqccv2756070.shtml"
-    },
-    {
-      "id": "ffb442c287",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-08 06:51",
-      "title": "伊朗官员称防务协议无法保障沙特安全",
-      "insight": "沙特阿拉伯王储兼首相穆罕默德·本·萨勒曼7日与到访的土耳其总统埃尔多安和巴基斯坦总理夏巴兹在沙特…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqccx4359603.shtml"
-    },
-    {
-      "id": "ff69c0234a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:37",
-      "title": "OpenAI提示新模型Astra存在潜在重大网络安全风险，强化安全管控",
-      "insight": "OpenAI周五表示，其即将推出的AI模型Astra可能具备“关键性”网络安全能力，这促使Ope…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6765308.shtml"
-    },
-    {
-      "id": "ff1470ed5f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:32",
-      "title": "特朗普重启解雇美联储理事丽莎·库克的行动",
-      "insight": "白宫本周表示，特朗普总统正在“考虑”解雇美联储理事会理事丽莎·库克，这重新启动了一项曾在6月被最…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9990988.shtml"
-    },
-    {
-      "id": "ff7574c03d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:24",
-      "title": "摩根士丹利对日元转向偏空 干预影响逐渐消退",
-      "insight": "摩根士丹利外汇策略师对日元转向偏空，他们认为，随着事实证明美日当局支撑日元汇率的措施效果短暂，日…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz9988177.shtml"
-    },
-    {
-      "id": "ff9b66adeb",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:23",
-      "title": "大宗商品综述：油价持稳 铜价微跌 金价大涨",
-      "insight": "原油持稳，中东紧张局势升温之际，交易员密切关注伊朗与阿曼就恢复霍尔木兹海峡通航达成协议的进展。铜…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvz4476417.shtml"
-    },
-    {
-      "id": "ffe169ef11",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 06:00",
-      "title": "8月8日外盘头条：伊朗内部辩论霍尔木兹协议措辞 非农爆冷削弱加息预期 SpaceX将自建发电厂保障电力供应",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、伊朗内部辩论霍尔木兹协议措辞 特朗普坚称谈判…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6752180.shtml"
-    },
-    {
-      "id": "ff4cf0bb3a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:42",
-      "title": "三菱日联：建议做多澳元/日元 美联储加息押注降温提振套息交易",
-      "insight": "三菱日联分析师建议做多澳元兑日元，因干预带来的影响正在消退，而交易员削减对美联储加息的押注改善了…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwvx2855533.shtml"
-    },
-    {
-      "id": "ffbc8203e6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 05:41",
-      "title": "摩根士丹利：预计美联储资产负债表将缩减1.5万亿美元",
-      "insight": "摩根士丹利经济学家Seth Carpenter和Michael Gapen在报告中表示，该行的基…",
-      "link": "https://finance.sina.com.cn/world/2026-08-08/doc-inimpwwc6743042.shtml"
     }
   ],
-  "updateTime": "2026-08-08 22:05"
+  "updateTime": "2026-08-09 00:00"
 }
