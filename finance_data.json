@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffd0a1b3cc",
+      "id": "ffd8563fe2",
+      "source": "经济观察报",
+      "tag": "财经热点",
+      "time": "08-09 12:15",
+      "title": "税收征管新阶段",
+      "insight": "税收征管正在进入新的阶段。多位受访者提及这一阶段并非短期现象，而是税收征管走向法治化、成熟化的必…",
+      "link": "https://finance.sina.com.cn/china/2026-08-09/doc-inimswyr8890168.shtml"
+    },
+    {
+      "id": "ffca309e29",
+      "source": "北京晚报",
+      "tag": "财经热点",
+      "time": "08-09 11:39",
+      "title": "白海豚残涡可能致北京暴雨",
+      "insight": "【#白海豚残涡可能致北京暴雨#】#京津冀将有暴雨#8月9日上午，中国气象局召开台风“白海豚”媒体…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimssst3598721.shtml"
+    },
+    {
+      "id": "ffcb3b050d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-09 00:48",
-      "title": "伊朗称非常接近与阿曼达成霍尔木兹协议 但海峡开放取决于其他条件",
-      "insight": "伊朗表示，已经“非常接近”与阿曼就霍尔木兹海峡新的海上通航路线达成一项协议。本周以来，外界对于相…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimrrff9436083.shtml"
+      "time": "08-09 11:12",
+      "title": "三星得州工厂即将投产 首批实习生招聘正式启动",
+      "insight": "三星电子即将为其位于得克萨斯州的先进晶圆代工厂开启首届实习生招募，该工厂计划于今年年底正式投产。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimssst8991175.shtml"
     },
     {
-      "id": "ff4b59ac17",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 23:45",
-      "title": "伯克希尔第二季度回购约45亿美元股票",
-      "insight": "伯克希尔第二季度斥资约45亿美元回购自身股票，并在期内买入近200亿美元股票，显示首席执行官阿贝…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrfc2361147.shtml"
-    },
-    {
-      "id": "ff70951ff2",
+      "id": "ff7df3e550",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-08 23:42",
-      "title": "伯克希尔哈撒韦盈利走高，CEO阿贝尔开始动用巴菲特积攒的巨额现金储备",
-      "insight": "伯克希尔‑哈撒韦二季度运营利润上涨16%。能源、铁路、制造业板块表现强劲，抵消保险业务走弱带来的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrrfi6185928.shtml"
+      "time": "08-09 10:53",
+      "title": "受高温影响 韩国用电量创下本年度峰值",
+      "insight": "周日行业数据显示，受持续热浪影响，韩国近日用电量创下本年度峰值。 韩国电力交易所数据显示，周五全…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimssst3571198.shtml"
     },
     {
-      "id": "ff4009c4a2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-08 23:42",
-      "title": "特朗普加大施压，要求亿万富翁萨金特撤出委内瑞拉",
-      "insight": "特朗普政府正加大力度施压佛罗里达石油大亨、共和党捐赠人哈里·萨金特三世，要求其从委内瑞拉撤资。 …",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrfc2359770.shtml"
-    },
-    {
-      "id": "ffa5f8b28c",
-      "source": "滚动播报",
-      "tag": "财经热点",
-      "time": "08-08 23:07",
-      "title": "万斯谈到伊朗局势时称“我们还在博弈过程中”",
-      "insight": "美国副总统万斯在周六播出的新闻采访中谈及伊朗局势时表示：“我们还在博弈过程中。”他说：“我们正在…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-08/doc-inimrrff3948552.shtml"
-    },
-    {
-      "id": "ff3864b2f6",
+      "id": "ff24a234f7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-08 22:54",
-      "title": "英国官员担心新首相伯纳姆所提财政“灵活性”可能引发市场恐慌",
-      "insight": "据知情人士透露，英国财政部官员担心，首相有关利用财政规则中的“灵活性”来加大投资的表态，可能适得…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrrff9395168.shtml"
+      "time": "08-09 10:51",
+      "title": "韩国旅游收支创下疫情以来顺差新高",
+      "insight": "周日行业数据显示，得益于本国流行文化的海外热度，韩国旅游收支创下新冠疫情之后的最高顺差水平。 韩…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimsssr1966593.shtml"
     },
     {
-      "id": "ffcd26b522",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "08-08 22:38",
-      "title": "美参议院通过临时拨款法案 暂缓政府“停摆”风险",
-      "insight": "新华社纽约8月8日电（记者刘亚南）美国国会参议院8日通过一项联邦政府临时拨款法案，以避免联邦政府…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimrrfi6163863.shtml"
-    },
-    {
-      "id": "ffda66131c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 22:11",
-      "title": "伊朗称“非常接近”与阿曼达成霍尔木兹协议 但海峡开放取决于其他条件",
-      "insight": "伊朗表示，已经“非常接近”与阿曼就霍尔木兹海峡新的海上通航路线达成一项协议。本周以来，外界对于相…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrkxf2450360.shtml"
-    },
-    {
-      "id": "ff6667b9b8",
-      "source": "21世纪经济报道",
+      "id": "ffc9f3f099",
+      "source": "环球网",
       "tag": "财经",
-      "time": "08-08 21:16",
-      "title": "几元成本的AI广告或致千万市值蒸发，苏泊尔已全部下架涉事视频",
-      "insight": "“女生洗澡，大叔帮忙搓背”，当这样的荒诞剧情出现在国民家电品牌苏泊尔的官方账号上时，很多人第一反…",
-      "link": "https://finance.sina.com.cn/roll/2026-08-08/doc-inimrkxm6260503.shtml"
+      "time": "08-09 10:36",
+      "title": "美媒爆“美副防长致信国防业界领袖，勒令其21天内提交增产计划”，五角大楼回应",
+      "insight": "【环球网报道 记者 闫珮云】据美国《华盛顿邮报》当地时间8日援引其获得的一份美国防部备忘录报道，…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimssst8976900.shtml"
     },
     {
-      "id": "fff82f0020",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 19:46",
-      "title": "阿布扎比国家石油公司称其船只在霍尔木兹海域遭袭",
-      "insight": "据阿联酋媒体报道，阿布扎比国家石油公司表示，其一艘船只在周六凌晨通过霍尔木兹海峡时遭到导弹袭击。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimrerm4118391.shtml"
-    },
-    {
-      "id": "ff92309bff",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 17:33",
-      "title": "美国参议院确认由特朗普提名的托德·布兰奇出任司法部长",
-      "insight": "美国参议院确认托德·布兰奇出任司法部长，将总统唐纳德·特朗普昔日的私人辩护律师提拔至领导美国最高…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqyip9653412.shtml"
-    },
-    {
-      "id": "ff5807c2dc",
-      "source": "证券时报",
-      "tag": "财经热点",
-      "time": "08-08 16:38",
-      "title": "大手笔！603175，拟超20亿元扩产，优化高端PCB战略布局",
-      "insight": "8月7日晚间超颖电子（603175）公告，公司拟投资建设高多层及HDI印制电路板P3项目，投资金…",
-      "link": "https://finance.sina.com.cn/wm/2026-08-08/doc-inimqyip9631526.shtml"
-    },
-    {
-      "id": "ff5ae0524f",
-      "source": "每日经济新闻",
-      "tag": "财经热点",
-      "time": "08-08 14:00",
-      "title": "多家A股公司公告：收到美国关税退税！最高近亿元",
-      "insight": "8月6日晚，贵州轮胎公告，公司境外全资子公司NACTR公司近期陆续收到美国海关与边境保护局的退税…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqtzp2605900.shtml"
-    },
-    {
-      "id": "ff6ffad4ec",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 12:59",
-      "title": "OpenAI出于网络安全担忧暂停新Astra模型的部分研发工作",
-      "insight": "OpenAI正暂停其即将推出的一款人工智能模型的相关内部工作，以实施更严格的安全保障措施，此前发…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqptr2699541.shtml"
-    },
-    {
-      "id": "ff8ccde8ac",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 12:49",
-      "title": "美国称乌克兰将避免以油轮和黑海石油码头为打击目标",
-      "insight": "据一位美国官员透露，乌克兰已同意不将部分非俄罗斯油轮以及对哈萨克斯坦原油出口至关重要的黑海基础设…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqptt9789216.shtml"
-    },
-    {
-      "id": "ffb8031145",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-08 12:00",
-      "title": "新兴产业新设企业40万户 上半年全国经营主体发展数据发布",
-      "insight": "8月8日，市场监管总局公布数据显示，新产业新赛道企业蓄能成势，服务业新消费与高技术服务业双轮驱动…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-08/doc-inimqptt9765112.shtml"
-    },
-    {
-      "id": "ffd6cafb8f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 11:12",
-      "title": "美国法官下令Verisk推进23.5亿美元收购AccuLynx的交易",
-      "insight": "美国特拉华州一名法官下令，要求数据分析公司Verisk尝试完成其计划中的23.5亿美元收购屋顶软…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimv9872219.shtml"
-    },
-    {
-      "id": "ffa229b455",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 10:46",
-      "title": "SK海力士据悉评估重庆资产方案 包括引入投资者",
-      "insight": "据知情人士称，SK海力士正研究旗下重庆资产的方案选项，包括引入投资者以帮助加速增长。 消息人士称…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimx6631227.shtml"
-    },
-    {
-      "id": "ffed1751ec",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-08 09:41",
-      "title": "英伟达据悉将向Lancium投资至冬30亿美元",
-      "insight": "据报道，英伟达将向黑石集团支持的电力基础设施开发商Lancium投资至多30亿美元，该公司正是 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-08/doc-inimqimv9824212.shtml"
-    },
-    {
-      "id": "fffd7ef51b",
-      "source": "市场资讯",
+      "id": "ff6c9ac503",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "08-08 07:00",
-      "title": "7月非农降温难解政策分歧 通胀连续五年高于目标 美联储支持加息阵营扩大",
-      "insight": "来源：智通财经网 美国通胀连续五年高于美联储2%的政策目标，正不断考验决策层的耐心。尽管美联储7…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-08/doc-inimqccz6652193.shtml"
+      "time": "08-09 10:34",
+      "title": "碧生源发布中期业绩 净利润1506.6万元同比增加21.48%",
+      "insight": "碧生源（00926）发布截至2026年6月30日止6个月中期业绩，该公司取得收入人民币3.05亿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3561118.shtml"
+    },
+    {
+      "id": "ff20e6f6a5",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:33",
+      "title": "越秀地产前7个月累计合同销售金额约为556.08亿元",
+      "insight": "越秀地产（00123）发布公告，2026年7月，公司实现合同销售（连同合营企业及联营公司项目的合…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5746329.shtml"
+    },
+    {
+      "id": "ff008f857f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:31",
+      "title": "金力永磁于8月7日注销272.32万股已回购股份",
+      "insight": "金力永磁（06680）发布公告，于2026年8月7日，该公司注销272.32万股已回购股份。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3559579.shtml"
+    },
+    {
+      "id": "ff567c0a68",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:31",
+      "title": "创科实业于8月7日斥资64.81万港元回购4500股",
+      "insight": "创科实业（00669）发布公告，于2026年8月7日，该公司斥资64.81万港元回购4500股。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972925.shtml"
+    },
+    {
+      "id": "fff2b345db",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:30",
+      "title": "中国旺旺于8月7日斥资725.71万港元回购220万股",
+      "insight": "中国旺旺（00151）发布公告，该公司于2026年8月7日斥资725.71万港元回购220万股股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972697.shtml"
+    },
+    {
+      "id": "ff65016dce",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:30",
+      "title": "华宝国际注销合计679.1万股已回购股份",
+      "insight": "华宝国际（00336）发布公告，于2026年8月7日注销合计679.1万股已回购股份。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5744813.shtml"
+    },
+    {
+      "id": "ff8e67aa8a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:29",
+      "title": "天安卓健发盈喜 预计中期股东应占溢利约3000万至6000万港元",
+      "insight": "天安卓健（00383）发布公告，预期集团于截至2026年6月30日止六个月录得股东应占溢利估计介…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5744424.shtml"
+    },
+    {
+      "id": "ff61db5838",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:27",
+      "title": "龙湖集团前7个月实现总合同销售金额186.4亿元",
+      "insight": "龙湖集团（00960）公布，于2026年前7个月，该集团累计实现总合同销售金额人民币 186.4…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3557573.shtml"
+    },
+    {
+      "id": "ff0644a11b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:26",
+      "title": "中梁控股前7个月累计合约销售金额约为39.8亿元 同比减少45.7%",
+      "insight": "中梁控股（02772）发布公告，2026年1月至7月，集团累计合约销售（包括合营企业及联营公司的…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1953422.shtml"
+    },
+    {
+      "id": "fff1064fd6",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:24",
+      "title": "理想汽车-W于8月6日斥资361.82万美元回购57.27万股",
+      "insight": "理想汽车-W（02015）发布公告，于2026年8月6日，该公司斥资361.82万美元回购57.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1952346.shtml"
+    },
+    {
+      "id": "ffee57fb83",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:23",
+      "title": "华能国际电力股份完成发行25亿元中期票据",
+      "insight": "华能国际电力股份（00902）发布公告，公司已于近日完成了华能国际电力股份有限公司2026年度第…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5742287.shtml"
+    },
+    {
+      "id": "ff3aa9218f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:23",
+      "title": "保诚于8月6日斥资305.74万英镑回购29.64万股",
+      "insight": "保诚（02378）发布公告，于2026年8月6日，该公司斥资305.74万英镑回购29.64万股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8969766.shtml"
+    },
+    {
+      "id": "ff081e26cf",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:22",
+      "title": "首钢资源发盈喜 预计中期股东应占综合溢利约5.5亿至6亿港元同比上升约36%至49%",
+      "insight": "首钢资源（00639）发布公告，本集团于截至2026年6月30日止六个月（本期间）预期将录得本公…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1951430.shtml"
+    },
+    {
+      "id": "ff8b35601e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-09 10:20",
+      "title": "龙旗科技获准发行30亿元债务融资工具",
+      "insight": "龙旗科技（09611）公布，近日，公司收到交易商协会出具的《接受注册通知书》（中市协注〔2026…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8968977.shtml"
     }
   ],
-  "updateTime": "2026-08-09 06:00"
+  "updateTime": "2026-08-09 12:44"
 }
