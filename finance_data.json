@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff19ff16b9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-10 04:00",
+      "title": "英伟达拟向星际之门项目背后电力企业Lancium最高投资30亿美元",
+      "insight": "据三位知情交易人士透露，英伟达已同意向电力基础设施开发商Lancium投资20亿美元。该企业是得…",
+      "link": "https://finance.sina.com.cn/7x24/2026-08-10/doc-inimuetz3123250.shtml"
+    },
+    {
       "id": "ffcec13dca",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -154,6 +163,15 @@
       "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtchr5640529.shtml"
     },
     {
+      "id": "ff1ffc16e6",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-09 14:58",
+      "title": "强脑科技韩璧丞出席香港特首顾问团会议，向特首李家超建言",
+      "insight": "来源： 本文内容综合整理自“香港特区政府湾区办速递”公众号及相关报道 2025年6月，香港特别行…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-09/doc-inimukzv1415064.shtml"
+    },
+    {
       "id": "ffeb7fae5a",
       "source": "每日经济新闻",
       "tag": "财经热点",
@@ -161,25 +179,7 @@
       "title": "长崎遭美原子弹轰炸81周年，高市早苗再度含糊表态！俄驻日大使：日本推翻“无核三原则”将招致邻国反制",
       "insight": "当地时间9日，日本长崎遭原子弹轰炸81周年纪念仪式在长崎市和平纪念公园举行。日本首相高市早苗参加…",
       "link": "https://finance.sina.com.cn/world/2026-08-09/doc-inimtchp3428947.shtml"
-    },
-    {
-      "id": "ff84c2b89a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:55",
-      "title": "俄罗斯通报称俄军持续打击敖德萨及尼古拉耶夫涉军目标",
-      "insight": "俄罗斯国防部8日发布通报称，俄军正持续对乌克兰港口基础设施及为乌克兰武装部队提供支持的船只实施火…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchp8822104.shtml"
-    },
-    {
-      "id": "ff71f0a315",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:45",
-      "title": "特朗普家族关联金融科技企业AI Financial出售其加拿大子公司",
-      "insight": "近日，与美国特朗普家族支持的加密货币项目“世界自由金融”（World Liberty Finan…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchm1817059.shtml"
     }
   ],
-  "updateTime": "2026-08-10 03:49"
+  "updateTime": "2026-08-10 06:02"
 }
