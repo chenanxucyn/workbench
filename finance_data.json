@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ffcec13dca",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-09 22:24",
+      "title": "木头姐：就业数据未显衰退，AI正驱动美国经济进入通缩与高生产率新周期",
+      "insight": "针对近期引发市场担忧的美国就业数据，美国知名投资机构方舟投资（ARK Invest）创始人凯西·…",
+      "link": "https://finance.sina.com.cn/world/2026-08-09/doc-inimtuec1652520.shtml"
+    },
+    {
       "id": "ff5338a5b7",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "特朗普家族关联金融科技企业AI Financial出售其加拿大子公司",
       "insight": "近日，与美国特朗普家族支持的加密货币项目“世界自由金融”（World Liberty Finan…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchm1817059.shtml"
-    },
-    {
-      "id": "ff3aaa115f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:43",
-      "title": "因防范网络安全隐患 OpenAI暂停新一代人工智能模型部分研发",
-      "insight": "鉴于新一代人工智能模型“Astra”被评估出具备自主发起网络攻击的高危潜能，OpenAI近日宣布…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5588994.shtml"
     }
   ],
-  "updateTime": "2026-08-09 22:06"
+  "updateTime": "2026-08-10 00:03"
 }
