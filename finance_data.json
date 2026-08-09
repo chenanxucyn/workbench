@@ -1,6 +1,168 @@
 {
   "news": [
     {
+      "id": "ffeb7fae5a",
+      "source": "每日经济新闻",
+      "tag": "财经热点",
+      "time": "08-09 14:58",
+      "title": "长崎遭美原子弹轰炸81周年，高市早苗再度含糊表态！俄驻日大使：日本推翻“无核三原则”将招致邻国反制",
+      "insight": "当地时间9日，日本长崎遭原子弹轰炸81周年纪念仪式在长崎市和平纪念公园举行。日本首相高市早苗参加…",
+      "link": "https://finance.sina.com.cn/world/2026-08-09/doc-inimtchp3428947.shtml"
+    },
+    {
+      "id": "ff84c2b89a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:55",
+      "title": "俄罗斯通报称俄军持续打击敖德萨及尼古拉耶夫涉军目标",
+      "insight": "俄罗斯国防部8日发布通报称，俄军正持续对乌克兰港口基础设施及为乌克兰武装部队提供支持的船只实施火…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchp8822104.shtml"
+    },
+    {
+      "id": "ff71f0a315",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:45",
+      "title": "特朗普家族关联金融科技企业AI Financial出售其加拿大子公司",
+      "insight": "近日，与美国特朗普家族支持的加密货币项目“世界自由金融”（World Liberty Finan…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchm1817059.shtml"
+    },
+    {
+      "id": "ff3aaa115f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:43",
+      "title": "因防范网络安全隐患 OpenAI暂停新一代人工智能模型部分研发",
+      "insight": "鉴于新一代人工智能模型“Astra”被评估出具备自主发起网络攻击的高危潜能，OpenAI近日宣布…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5588994.shtml"
+    },
+    {
+      "id": "ffaafb5491",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:41",
+      "title": "土耳其、巴基斯坦与沙特签署《麦加共同防御协定》",
+      "insight": "当地时间8日，土耳其外交部长哈坎·菲丹证实，土耳其、巴基斯坦与沙特阿拉伯已于7日正式签署《麦加共…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchm1814664.shtml"
+    },
+    {
+      "id": "ff15901bbf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:38",
+      "title": "因座椅金属车标存高温烫伤缺陷，奔驰AMG车型在美面临集体诉讼",
+      "insight": "近日，两名美国梅赛德斯-奔驰（Mercedes-Benz）AMG车型车主向美国加利福尼亚州联邦地…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5586931.shtml"
+    },
+    {
+      "id": "ff4e9dcafe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:37",
+      "title": "亚马逊拟在得州建大型自备天然气电厂 耗能与碳排放引发舆论担忧",
+      "insight": "亚马逊已确认在得克萨斯州佩科斯县筹建大型数据中心，并配套投资建设一座离网天然气发电厂。相关监管许…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5586367.shtml"
+    },
+    {
+      "id": "ffac8d983c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:32",
+      "title": "亚马逊得州数据中心项目或成全美最大碳排放源",
+      "insight": "亚马逊公司计划在美国得克萨斯州佩科斯县投资建设一座大型数据中心及配套天然气发电厂。该发电厂获准的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3544691.shtml"
+    },
+    {
+      "id": "ff3904a436",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:32",
+      "title": "沙特阿美吉赞炼油厂突发火灾已被扑灭 暂无人员伤亡报告",
+      "insight": "沙特阿拉伯能源部9日通报，沙特国家石油公司（沙特阿美）位于西南部吉赞省的一处炼油厂设施当日凌晨突…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3544555.shtml"
+    },
+    {
+      "id": "ff1af923b2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:30",
+      "title": "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
+      "insight": "美国加利福尼亚州州长加文·纽森在阿拉米达县宣布，加州正式推出一项名为“MyFirstEV”的新能…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml"
+    },
+    {
+      "id": "ff1918054d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:27",
+      "title": "福特发布全新纯电皮卡Fathom 引入新型制造架构布局入门级市场",
+      "insight": "美国福特汽车公司正式发布全新纯电动中型皮卡Fathom，基础售价为28350美元。该款车型系福特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyp1938486.shtml"
+    },
+    {
+      "id": "ff42f0dcbe",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-09 14:17",
+      "title": "视频|王虹获菲尔兹奖背后的思考：中国女性地位，为何在“收缩”？",
+      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+      "link": "https://finance.sina.com.cn/china/2026-08-09/doc-inimswyr8936625.shtml"
+    },
+    {
+      "id": "ffe6dfda56",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:16",
+      "title": "美国邮政署第三财季亏损25亿美元 警告或将关闭数千邮局并调涨邮资",
+      "insight": "美国邮政署（USPS）发布最新财务报告显示，该机构在第三财季录得25亿美元净亏损。尽管亏损规模较…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8936436.shtml"
+    },
+    {
+      "id": "ff8ccfebcf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:15",
+      "title": "达美航空一客机因驾驶舱冒烟在亚特兰大紧急迫降",
+      "insight": "8日上午，达美航空一架飞往奥兰多的波音757客机起飞后不久，因驾驶舱出现烟雾紧急折返，迫降于哈茨…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyt5708540.shtml"
+    },
+    {
+      "id": "ff026caa77",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:13",
+      "title": "美国威瑞森突发大面积通信服务中断 数千用户受影响",
+      "insight": "8日下午，威瑞森（Verizon）突发大面积通信服务中断，导致全美数千名用户的通信功能陷入瘫痪，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3536543.shtml"
+    },
+    {
+      "id": "ff49e09704",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-09 14:13",
+      "title": "视频|俞敏洪：如果我不是创始人的话，我也早跑出去了",
+      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+      "link": "https://finance.sina.com.cn/tob/2026-08-09/doc-inimswyr8935303.shtml"
+    },
+    {
+      "id": "ff47f4b23e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 14:12",
+      "title": "美国Jewel-Osco因沙门氏菌污染风险紧急召回两款莎莎酱产品",
+      "insight": "美国零售商Jewel-Osco宣布紧急召回两款鲜食莎莎酱（Salsa）产品。该批产品所用原料存在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3535713.shtml"
+    },
+    {
+      "id": "ff78317df7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-09 13:50",
+      "title": "韩国折扣店二季度零售指数录得2010年以来最大同比下滑",
+      "insight": "周日公布的官方数据显示，韩国大型折扣店二季度零售销售指数创下史上最大同比跌幅，部分原因是正在走企…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8925707.shtml"
+    },
+    {
       "id": "ffd8563fe2",
       "source": "经济观察报",
       "tag": "财经热点",
@@ -17,169 +179,7 @@
       "title": "白海豚残涡可能致北京暴雨",
       "insight": "【#白海豚残涡可能致北京暴雨#】#京津冀将有暴雨#8月9日上午，中国气象局召开台风“白海豚”媒体…",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-09/doc-inimssst3598721.shtml"
-    },
-    {
-      "id": "ffcb3b050d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 11:12",
-      "title": "三星得州工厂即将投产 首批实习生招聘正式启动",
-      "insight": "三星电子即将为其位于得克萨斯州的先进晶圆代工厂开启首届实习生招募，该工厂计划于今年年底正式投产。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimssst8991175.shtml"
-    },
-    {
-      "id": "ff7df3e550",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 10:53",
-      "title": "受高温影响 韩国用电量创下本年度峰值",
-      "insight": "周日行业数据显示，受持续热浪影响，韩国近日用电量创下本年度峰值。 韩国电力交易所数据显示，周五全…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimssst3571198.shtml"
-    },
-    {
-      "id": "ff24a234f7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 10:51",
-      "title": "韩国旅游收支创下疫情以来顺差新高",
-      "insight": "周日行业数据显示，得益于本国流行文化的海外热度，韩国旅游收支创下新冠疫情之后的最高顺差水平。 韩…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimsssr1966593.shtml"
-    },
-    {
-      "id": "ffc9f3f099",
-      "source": "环球网",
-      "tag": "财经",
-      "time": "08-09 10:36",
-      "title": "美媒爆“美副防长致信国防业界领袖，勒令其21天内提交增产计划”，五角大楼回应",
-      "insight": "【环球网报道 记者 闫珮云】据美国《华盛顿邮报》当地时间8日援引其获得的一份美国防部备忘录报道，…",
-      "link": "https://finance.sina.com.cn/roll/2026-08-09/doc-inimssst8976900.shtml"
-    },
-    {
-      "id": "ff6c9ac503",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:34",
-      "title": "碧生源发布中期业绩 净利润1506.6万元同比增加21.48%",
-      "insight": "碧生源（00926）发布截至2026年6月30日止6个月中期业绩，该公司取得收入人民币3.05亿…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3561118.shtml"
-    },
-    {
-      "id": "ff20e6f6a5",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:33",
-      "title": "越秀地产前7个月累计合同销售金额约为556.08亿元",
-      "insight": "越秀地产（00123）发布公告，2026年7月，公司实现合同销售（连同合营企业及联营公司项目的合…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5746329.shtml"
-    },
-    {
-      "id": "ff008f857f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:31",
-      "title": "金力永磁于8月7日注销272.32万股已回购股份",
-      "insight": "金力永磁（06680）发布公告，于2026年8月7日，该公司注销272.32万股已回购股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3559579.shtml"
-    },
-    {
-      "id": "ff567c0a68",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:31",
-      "title": "创科实业于8月7日斥资64.81万港元回购4500股",
-      "insight": "创科实业（00669）发布公告，于2026年8月7日，该公司斥资64.81万港元回购4500股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972925.shtml"
-    },
-    {
-      "id": "fff2b345db",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:30",
-      "title": "中国旺旺于8月7日斥资725.71万港元回购220万股",
-      "insight": "中国旺旺（00151）发布公告，该公司于2026年8月7日斥资725.71万港元回购220万股股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8972697.shtml"
-    },
-    {
-      "id": "ff65016dce",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:30",
-      "title": "华宝国际注销合计679.1万股已回购股份",
-      "insight": "华宝国际（00336）发布公告，于2026年8月7日注销合计679.1万股已回购股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5744813.shtml"
-    },
-    {
-      "id": "ff8e67aa8a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:29",
-      "title": "天安卓健发盈喜 预计中期股东应占溢利约3000万至6000万港元",
-      "insight": "天安卓健（00383）发布公告，预期集团于截至2026年6月30日止六个月录得股东应占溢利估计介…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5744424.shtml"
-    },
-    {
-      "id": "ff61db5838",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:27",
-      "title": "龙湖集团前7个月实现总合同销售金额186.4亿元",
-      "insight": "龙湖集团（00960）公布，于2026年前7个月，该集团累计实现总合同销售金额人民币 186.4…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst3557573.shtml"
-    },
-    {
-      "id": "ff0644a11b",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:26",
-      "title": "中梁控股前7个月累计合约销售金额约为39.8亿元 同比减少45.7%",
-      "insight": "中梁控股（02772）发布公告，2026年1月至7月，集团累计合约销售（包括合营企业及联营公司的…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1953422.shtml"
-    },
-    {
-      "id": "fff1064fd6",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:24",
-      "title": "理想汽车-W于8月6日斥资361.82万美元回购57.27万股",
-      "insight": "理想汽车-W（02015）发布公告，于2026年8月6日，该公司斥资361.82万美元回购57.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1952346.shtml"
-    },
-    {
-      "id": "ffee57fb83",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:23",
-      "title": "华能国际电力股份完成发行25亿元中期票据",
-      "insight": "华能国际电力股份（00902）发布公告，公司已于近日完成了华能国际电力股份有限公司2026年度第…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssv5742287.shtml"
-    },
-    {
-      "id": "ff3aa9218f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:23",
-      "title": "保诚于8月6日斥资305.74万英镑回购29.64万股",
-      "insight": "保诚（02378）发布公告，于2026年8月6日，该公司斥资305.74万英镑回购29.64万股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8969766.shtml"
-    },
-    {
-      "id": "ff081e26cf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:22",
-      "title": "首钢资源发盈喜 预计中期股东应占综合溢利约5.5亿至6亿港元同比上升约36%至49%",
-      "insight": "首钢资源（00639）发布公告，本集团于截至2026年6月30日止六个月（本期间）预期将录得本公…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimsssr1951430.shtml"
-    },
-    {
-      "id": "ff8b35601e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-09 10:20",
-      "title": "龙旗科技获准发行30亿元债务融资工具",
-      "insight": "龙旗科技（09611）公布，近日，公司收到交易商协会出具的《接受注册通知书》（中市协注〔2026…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimssst8968977.shtml"
     }
   ],
-  "updateTime": "2026-08-09 12:44"
+  "updateTime": "2026-08-09 16:09"
 }
