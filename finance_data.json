@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff5338a5b7",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-09 21:42",
+      "title": "美财长贝森特多举措干预债市，华尔街担忧“卖出美国”情绪升温",
+      "insight": "美国财政部长贝森特近日采取联合干预日元汇率、调整债券发行指导方针等一系列非常规举措，试图遏制美国…",
+      "link": "https://finance.sina.com.cn/world/2026-08-09/doc-inimtuef8608303.shtml"
+    },
+    {
+      "id": "fffb4198af",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-09 21:35",
+      "title": "300246，老板要卖控制权，结果没卖掉！上半年他已套现1.5亿元，公司连亏3年",
+      "insight": "来源：财通社 宝莱特（300246，股价19.26元，市值50.96亿元）控制权变更事项突然终止…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtuei5379041.shtml"
+    },
+    {
+      "id": "ff7cdc408c",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "08-09 21:17",
+      "title": "600449，拟最高2亿元回购，注销！",
+      "insight": "宁夏建材宣布拟回购股份。 8月9日，宁夏建材（600449）推出回购公司股份方案，公司拟斥资1亿…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtuec1630641.shtml"
+    },
+    {
+      "id": "ff02d78bcd",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "08-09 19:28",
+      "title": "摩尔线程，上半年营收同比增长147%！筹划赴港上市",
+      "insight": "8月9日晚间，国产GPU厂商摩尔线程-U发布2026年半年度报告。同时，公司拟发行H股股票并申请…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtpwi3306363.shtml"
+    },
+    {
+      "id": "ff37f88e97",
+      "source": "董秘学苑",
+      "tag": "股市",
+      "time": "08-09 19:23",
+      "title": "并购踩雷后上市公司如何维权，智动力给大家打了个样",
+      "insight": "每天都有上市公司在看并购项目，但是对于上市公司来说，做并购做大公司主业或者寻找第二增长曲线是最直…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-09/doc-inimtpwi3305756.shtml"
+    },
+    {
+      "id": "ffc578050b",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "08-09 18:56",
+      "title": "中信证券：A股市场处于超跌反弹阶段 科技聚焦核心资产 增配能化、有色等板块",
+      "insight": "中信证券发布研报称，8月初的A股市场处于超跌反弹阶段，前期跌幅越大的品种弹性越大，当前有色、化工…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-09/doc-inimtiqi1819917.shtml"
+    },
+    {
       "id": "ff25d15be2",
       "source": "市场资讯",
       "tag": "股市",
@@ -125,61 +179,7 @@
       "title": "因防范网络安全隐患 OpenAI暂停新一代人工智能模型部分研发",
       "insight": "鉴于新一代人工智能模型“Astra”被评估出具备自主发起网络攻击的高危潜能，OpenAI近日宣布…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5588994.shtml"
-    },
-    {
-      "id": "ffaafb5491",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:41",
-      "title": "土耳其、巴基斯坦与沙特签署《麦加共同防御协定》",
-      "insight": "当地时间8日，土耳其外交部长哈坎·菲丹证实，土耳其、巴基斯坦与沙特阿拉伯已于7日正式签署《麦加共…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchm1814664.shtml"
-    },
-    {
-      "id": "ff15901bbf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:38",
-      "title": "因座椅金属车标存高温烫伤缺陷，奔驰AMG车型在美面临集体诉讼",
-      "insight": "近日，两名美国梅赛德斯-奔驰（Mercedes-Benz）AMG车型车主向美国加利福尼亚州联邦地…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5586931.shtml"
-    },
-    {
-      "id": "ff4e9dcafe",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:37",
-      "title": "亚马逊拟在得州建大型自备天然气电厂 耗能与碳排放引发舆论担忧",
-      "insight": "亚马逊已确认在得克萨斯州佩科斯县筹建大型数据中心，并配套投资建设一座离网天然气发电厂。相关监管许…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimtchr5586367.shtml"
-    },
-    {
-      "id": "ffac8d983c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:32",
-      "title": "亚马逊得州数据中心项目或成全美最大碳排放源",
-      "insight": "亚马逊公司计划在美国得克萨斯州佩科斯县投资建设一座大型数据中心及配套天然气发电厂。该发电厂获准的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3544691.shtml"
-    },
-    {
-      "id": "ff3904a436",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:32",
-      "title": "沙特阿美吉赞炼油厂突发火灾已被扑灭 暂无人员伤亡报告",
-      "insight": "沙特阿拉伯能源部9日通报，沙特国家石油公司（沙特阿美）位于西南部吉赞省的一处炼油厂设施当日凌晨突…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr3544555.shtml"
-    },
-    {
-      "id": "ff1af923b2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-09 14:30",
-      "title": "美加利福尼亚州推出1.35亿美元新能源汽车购车补贴政策",
-      "insight": "美国加利福尼亚州州长加文·纽森在阿拉米达县宣布，加州正式推出一项名为“MyFirstEV”的新能…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-09/doc-inimswyr8941563.shtml"
     }
   ],
-  "updateTime": "2026-08-09 18:18"
+  "updateTime": "2026-08-09 22:06"
 }
