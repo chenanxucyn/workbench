@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "上海暴雨",
-      "heat": 11638160,
+      "heat": 11614641,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "台风白海豚实时路径",
-      "heat": 11288218,
+      "heat": 11402745,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "暑期档电影市场增势向好",
-      "heat": 11238219,
+      "heat": 11258693,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -32,18 +32,8 @@
     },
     {
       "rank": 4,
-      "topic": "易烊千玺百花奖最佳男主角",
-      "heat": 11164711,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92?type=general",
-      "scheme": "snssdk1128://search/易烊千玺百花奖最佳男主角"
-    },
-    {
-      "rank": 5,
       "topic": "南太行失联22岁女孩遗体被发现",
-      "heat": 10594625,
+      "heat": 11111288,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,9 +41,19 @@
       "scheme": "snssdk1128://search/南太行失联22岁女孩遗体被发现"
     },
     {
+      "rank": 5,
+      "topic": "开封夜市好吃到停不下来",
+      "heat": 10538280,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%80%E5%B0%81%E5%A4%9C%E5%B8%82%E5%A5%BD%E5%90%83%E5%88%B0%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5?type=general",
+      "scheme": "snssdk1128://search/开封夜市好吃到停不下来"
+    },
+    {
       "rank": 6,
       "topic": "演员秦焰去世",
-      "heat": 10573566,
+      "heat": 10494651,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -62,28 +62,18 @@
     },
     {
       "rank": 7,
-      "topic": "开封夜市好吃到停不下来",
-      "heat": 9450055,
+      "topic": "哥伦比亚发生7.5级地震",
+      "heat": 9354152,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%80%E5%B0%81%E5%A4%9C%E5%B8%82%E5%A5%BD%E5%90%83%E5%88%B0%E5%81%9C%E4%B8%8D%E4%B8%8B%E6%9D%A5?type=general",
-      "scheme": "snssdk1128://search/开封夜市好吃到停不下来"
+      "link": "https://www.douyin.com/search/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87?type=general",
+      "scheme": "snssdk1128://search/哥伦比亚发生7.5级地震"
     },
     {
       "rank": 8,
-      "topic": "穿搭天才依旧稳定发挥",
-      "heat": 9437550,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E5%A4%A9%E6%89%8D%E4%BE%9D%E6%97%A7%E7%A8%B3%E5%AE%9A%E5%8F%91%E6%8C%A5?type=general",
-      "scheme": "snssdk1128://search/穿搭天才依旧稳定发挥"
-    },
-    {
-      "rank": 9,
       "topic": "经销商：雪佛兰暂停在华新车销售",
-      "heat": 9351315,
+      "heat": 9325831,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -91,19 +81,9 @@
       "scheme": "snssdk1128://search/经销商：雪佛兰暂停在华新车销售"
     },
     {
-      "rank": 10,
-      "topic": "卫诗雅获百花奖最佳女主角",
-      "heat": 9221321,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%AB%E8%AF%97%E9%9B%85%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92?type=general",
-      "scheme": "snssdk1128://search/卫诗雅获百花奖最佳女主角"
-    },
-    {
-      "rank": 11,
+      "rank": 9,
       "topic": "一口气看懂万达现状",
-      "heat": 9195208,
+      "heat": 9210612,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -111,19 +91,39 @@
       "scheme": "snssdk1128://search/一口气看懂万达现状"
     },
     {
-      "rank": 12,
-      "topic": "遗忘之海章鱼哥太难听了",
-      "heat": 9182588,
+      "rank": 10,
+      "topic": "最权威版公瑾爆蛋",
+      "heat": 9192121,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E7%AB%A0%E9%B1%BC%E5%93%A5%E5%A4%AA%E9%9A%BE%E5%90%AC%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/遗忘之海章鱼哥太难听了"
+      "link": "https://www.douyin.com/search/%E6%9C%80%E6%9D%83%E5%A8%81%E7%89%88%E5%85%AC%E7%91%BE%E7%88%86%E8%9B%8B?type=general",
+      "scheme": "snssdk1128://search/最权威版公瑾爆蛋"
+    },
+    {
+      "rank": 11,
+      "topic": "穿搭天才依旧稳定发挥",
+      "heat": 9151636,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%A9%BF%E6%90%AD%E5%A4%A9%E6%89%8D%E4%BE%9D%E6%97%A7%E7%A8%B3%E5%AE%9A%E5%8F%91%E6%8C%A5?type=general",
+      "scheme": "snssdk1128://search/穿搭天才依旧稳定发挥"
+    },
+    {
+      "rank": 12,
+      "topic": "通勤穿出松弛感",
+      "heat": 9139613,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%80%9A%E5%8B%A4%E7%A9%BF%E5%87%BA%E6%9D%BE%E5%BC%9B%E6%84%9F?type=general",
+      "scheme": "snssdk1128://search/通勤穿出松弛感"
     },
     {
       "rank": 13,
       "topic": "“温州一建筑被台风吹塌了”不实",
-      "heat": 9121155,
+      "heat": 9111213,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,18 +132,18 @@
     },
     {
       "rank": 14,
-      "topic": "哥伦比亚发生7.5级地震",
-      "heat": 9100476,
+      "topic": "卫诗雅获百花奖最佳女主角",
+      "heat": 9099080,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%8F%91%E7%94%9F7.5%E7%BA%A7%E5%9C%B0%E9%9C%87?type=general",
-      "scheme": "snssdk1128://search/哥伦比亚发生7.5级地震"
+      "link": "https://www.douyin.com/search/%E5%8D%AB%E8%AF%97%E9%9B%85%E8%8E%B7%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E5%A5%B3%E4%B8%BB%E8%A7%92?type=general",
+      "scheme": "snssdk1128://search/卫诗雅获百花奖最佳女主角"
     },
     {
       "rank": 15,
       "topic": "百花奖获奖名单",
-      "heat": 8961029,
+      "heat": 8963217,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -152,48 +152,48 @@
     },
     {
       "rank": 16,
-      "topic": "以色列士兵把枪口对准中国记者",
-      "heat": 8712877,
+      "topic": "易烊千玺百花奖最佳男主角",
+      "heat": 8882694,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85?type=general",
-      "scheme": "snssdk1128://search/以色列士兵把枪口对准中国记者"
+      "link": "https://www.douyin.com/search/%E6%98%93%E7%83%8A%E5%8D%83%E7%8E%BA%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E7%94%B7%E4%B8%BB%E8%A7%92?type=general",
+      "scheme": "snssdk1128://search/易烊千玺百花奖最佳男主角"
     },
     {
       "rank": 17,
-      "topic": "苹果被曝探索无屏Apple Watch",
-      "heat": 8674990,
+      "topic": "蹦沙卡拉卡反差转场",
+      "heat": 8619442,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%8B%B9%E6%9E%9C%E8%A2%AB%E6%9B%9D%E6%8E%A2%E7%B4%A2%E6%97%A0%E5%B1%8FApple%20Watch?type=general",
-      "scheme": "snssdk1128://search/苹果被曝探索无屏Apple Watch"
+      "link": "https://www.douyin.com/search/%E8%B9%A6%E6%B2%99%E5%8D%A1%E6%8B%89%E5%8D%A1%E5%8F%8D%E5%B7%AE%E8%BD%AC%E5%9C%BA?type=general",
+      "scheme": "snssdk1128://search/蹦沙卡拉卡反差转场"
     },
     {
       "rank": 18,
-      "topic": "中国用竹子造无人机",
-      "heat": 8489879,
+      "topic": "遗忘之海章鱼哥太难听了",
+      "heat": 8044337,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E7%94%A8%E7%AB%B9%E5%AD%90%E9%80%A0%E6%97%A0%E4%BA%BA%E6%9C%BA?type=general",
-      "scheme": "snssdk1128://search/中国用竹子造无人机"
+      "link": "https://www.douyin.com/search/%E9%81%97%E5%BF%98%E4%B9%8B%E6%B5%B7%E7%AB%A0%E9%B1%BC%E5%93%A5%E5%A4%AA%E9%9A%BE%E5%90%AC%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/遗忘之海章鱼哥太难听了"
     },
     {
       "rank": 19,
-      "topic": "电视剧重器开播",
-      "heat": 8137996,
+      "topic": "百花奖最佳新人陈丽君",
+      "heat": 7793499,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%B5%E8%A7%86%E5%89%A7%E9%87%8D%E5%99%A8%E5%BC%80%E6%92%AD?type=general",
-      "scheme": "snssdk1128://search/电视剧重器开播"
+      "link": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%88%E4%B8%BD%E5%90%9B?type=general",
+      "scheme": "snssdk1128://search/百花奖最佳新人陈丽君"
     },
     {
       "rank": 20,
       "topic": "王骁萨日娜百花奖最佳男女配",
-      "heat": 8099344,
+      "heat": 7731630,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -202,58 +202,58 @@
     },
     {
       "rank": 21,
-      "topic": "我的暑假漫展日记",
-      "heat": 7802524,
+      "topic": "第38届百花奖闭幕式",
+      "heat": 7730161,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E6%9A%91%E5%81%87%E6%BC%AB%E5%B1%95%E6%97%A5%E8%AE%B0?type=general",
-      "scheme": "snssdk1128://search/我的暑假漫展日记"
+      "link": "https://www.douyin.com/search/%E7%AC%AC38%E5%B1%8A%E7%99%BE%E8%8A%B1%E5%A5%96%E9%97%AD%E5%B9%95%E5%BC%8F?type=general",
+      "scheme": "snssdk1128://search/第38届百花奖闭幕式"
     },
     {
       "rank": 22,
-      "topic": "河北发布暴雨橙色预警信号",
-      "heat": 7796748,
+      "topic": "这个半脸动漫惊到我了",
+      "heat": 7712243,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B2%B3%E5%8C%97%E5%8F%91%E5%B8%83%E6%9A%B4%E9%9B%A8%E6%A9%99%E8%89%B2%E9%A2%84%E8%AD%A6%E4%BF%A1%E5%8F%B7?type=general",
-      "scheme": "snssdk1128://search/河北发布暴雨橙色预警信号"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E5%8D%8A%E8%84%B8%E5%8A%A8%E6%BC%AB%E6%83%8A%E5%88%B0%E6%88%91%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/这个半脸动漫惊到我了"
     },
     {
       "rank": 23,
-      "topic": "欢迎来龙餐馆沈腾演技",
-      "heat": 7793769,
+      "topic": "以色列士兵把枪口对准中国记者",
+      "heat": 7711446,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E6%B2%88%E8%85%BE%E6%BC%94%E6%8A%80?type=general",
-      "scheme": "snssdk1128://search/欢迎来龙餐馆沈腾演技"
+      "link": "https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E5%A3%AB%E5%85%B5%E6%8A%8A%E6%9E%AA%E5%8F%A3%E5%AF%B9%E5%87%86%E4%B8%AD%E5%9B%BD%E8%AE%B0%E8%80%85?type=general",
+      "scheme": "snssdk1128://search/以色列士兵把枪口对准中国记者"
     },
     {
       "rank": 24,
-      "topic": "百花奖最佳新人陈丽君",
-      "heat": 7776751,
+      "topic": "七夕那天给我虚晃了一枪",
+      "heat": 7710463,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%99%BE%E8%8A%B1%E5%A5%96%E6%9C%80%E4%BD%B3%E6%96%B0%E4%BA%BA%E9%99%88%E4%B8%BD%E5%90%9B?type=general",
-      "scheme": "snssdk1128://search/百花奖最佳新人陈丽君"
+      "link": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E9%82%A3%E5%A4%A9%E7%BB%99%E6%88%91%E8%99%9A%E6%99%83%E4%BA%86%E4%B8%80%E6%9E%AA?type=general",
+      "scheme": "snssdk1128://search/七夕那天给我虚晃了一枪"
     },
     {
       "rank": 25,
-      "topic": "媒体评雪佛兰退出中国市场",
-      "heat": 7766406,
+      "topic": "赵鹏皓官宣加入众星时代",
+      "heat": 7709449,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E9%9B%AA%E4%BD%9B%E5%85%B0%E9%80%80%E5%87%BA%E4%B8%AD%E5%9B%BD%E5%B8%82%E5%9C%BA?type=general",
-      "scheme": "snssdk1128://search/媒体评雪佛兰退出中国市场"
+      "link": "https://www.douyin.com/search/%E8%B5%B5%E9%B9%8F%E7%9A%93%E5%AE%98%E5%AE%A3%E5%8A%A0%E5%85%A5%E4%BC%97%E6%98%9F%E6%97%B6%E4%BB%A3?type=general",
+      "scheme": "snssdk1128://search/赵鹏皓官宣加入众星时代"
     },
     {
       "rank": 26,
       "topic": "火影手游百战虎皮全爆料",
-      "heat": 7765064,
+      "heat": 7709107,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -263,7 +263,7 @@
     {
       "rank": 27,
       "topic": "大海真的好美呀",
-      "heat": 7756679,
+      "heat": 7693668,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -272,34 +272,34 @@
     },
     {
       "rank": 28,
-      "topic": "赵鹏皓官宣加入众星时代",
-      "heat": 7756137,
+      "topic": "台军“汉光演习”再出意外",
+      "heat": 7687710,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%B5%B5%E9%B9%8F%E7%9A%93%E5%AE%98%E5%AE%A3%E5%8A%A0%E5%85%A5%E4%BC%97%E6%98%9F%E6%97%B6%E4%BB%A3?type=general",
-      "scheme": "snssdk1128://search/赵鹏皓官宣加入众星时代"
+      "link": "https://www.douyin.com/search/%E5%8F%B0%E5%86%9B%E2%80%9C%E6%B1%89%E5%85%89%E6%BC%94%E4%B9%A0%E2%80%9D%E5%86%8D%E5%87%BA%E6%84%8F%E5%A4%96?type=general",
+      "scheme": "snssdk1128://search/台军“汉光演习”再出意外"
     },
     {
       "rank": 29,
+      "topic": "沈腾新电影预售票房破亿",
+      "heat": 7687264,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%B2%88%E8%85%BE%E6%96%B0%E7%94%B5%E5%BD%B1%E9%A2%84%E5%94%AE%E7%A5%A8%E6%88%BF%E7%A0%B4%E4%BA%BF?type=general",
+      "scheme": "snssdk1128://search/沈腾新电影预售票房破亿"
+    },
+    {
+      "rank": 30,
       "topic": "小眼睛避雷这个睫毛特效",
-      "heat": 7748030,
+      "heat": 7679366,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
       "link": "https://www.douyin.com/search/%E5%B0%8F%E7%9C%BC%E7%9D%9B%E9%81%BF%E9%9B%B7%E8%BF%99%E4%B8%AA%E7%9D%AB%E6%AF%9B%E7%89%B9%E6%95%88?type=general",
       "scheme": "snssdk1128://search/小眼睛避雷这个睫毛特效"
-    },
-    {
-      "rank": 30,
-      "topic": "七夕那天给我虚晃了一枪",
-      "heat": 7741156,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E9%82%A3%E5%A4%A9%E7%BB%99%E6%88%91%E8%99%9A%E6%99%83%E4%BA%86%E4%B8%80%E6%9E%AA?type=general",
-      "scheme": "snssdk1128://search/七夕那天给我虚晃了一枪"
     }
   ],
-  "updateTime": "2026-08-10 23:32"
+  "updateTime": "2026-08-11 04:09"
 }
