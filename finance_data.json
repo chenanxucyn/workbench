@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff02f32211",
+      "id": "ffed65b0fa",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-11 06:58",
+      "title": "快讯：现货黄金突破4400美元/盎司",
+      "insight": "快讯：2026年8月11日，现货黄金突破4400美元/盎司，为6月5日以来新高，日内涨0.2%。",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-08-11/doc-inimwuhx4492925.shtml"
+    },
+    {
+      "id": "ff9af546a6",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 03:51",
-      "title": "特朗普称几天前曾与美联储主席沃什“简短”交谈",
-      "insight": "美国总统特朗普表示，他几天前曾与美联储主席凯文·沃什进行过一次“简短”交谈。 特朗普在椭圆形办公…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyv0917398.shtml"
+      "time": "08-11 06:55",
+      "title": "8月11日隔夜要闻：美股收跌 油价大涨 铜价和金价走高 特朗普称要向伊朗索赔 美战略石油储备降至3亿桶以下",
+      "insight": "市场 8月11日收盘：三大指数小幅收跌，油价因伊朗不确定性上涨，英特尔拖累芯片板块走低 8月11…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0852146.shtml"
     },
     {
-      "id": "ff43850fcb",
+      "id": "ff795b83a7",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 03:35",
-      "title": "纽约汇市：美元上涨 日元回吐干预带来的一半涨幅",
-      "insight": "美元指数随油价上涨，伊朗与阿曼的协议仍未达成。日元回吐近期干预行动激发的一半涨幅，周一在十国集团…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpza6070446.shtml"
+      "time": "08-11 06:51",
+      "title": "OpenAI据悉回购70亿美元员工股份 估值维持在8520亿美元",
+      "insight": "据知情人士透露，OpenAI已完成一项员工股份出售交易，规模约70亿美元，此时该公司正考虑在华尔…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0850830.shtml"
     },
     {
-      "id": "ff20b8da94",
+      "id": "ff79befc47",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 03:34",
-      "title": "霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而伊朗提拔强硬派指挥官",
-      "insight": "美国总统唐纳德·特朗普周一强硬回击了伊朗获得战争赔偿的要求，事态的最新发展令迅速达成重新开放霍尔…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4559924.shtml"
+      "time": "08-11 06:40",
+      "title": "特朗普延长《琼斯法案》豁免90天，确保伊朗战争期间美国石油供应",
+      "insight": "特朗普政府周一在将《琼斯法案》豁免延长90天的同时收窄了豁免范围，在伊朗战争期间保留了较少的美国…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0846535.shtml"
     },
     {
-      "id": "ff4304fae2",
+      "id": "ff4068f345",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 03:19",
-      "title": "日元兑美元下跌1% 创3月份以来最大跌幅",
-      "insight": "日元周一在纽约午后交易中下跌1%，报1美元兑159.35日元。 日元在G10货币中表现最差；彭博…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7783429.shtml"
+      "time": "08-11 06:31",
+      "title": "贝森特信誓旦旦不惜一切救日元 惟市场点出美国财资部囊中羞涩",
+      "insight": "美国财政部长斯科特·贝森特不久前暗示在帮助日本拯救日元的时候可以不设上限，只不过在一些市场参与者…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhx4483198.shtml"
     },
     {
-      "id": "ffe56321ad",
+      "id": "ff8779b9c9",
+      "source": "新华社",
+      "tag": "财经",
+      "time": "08-11 06:30",
+      "title": "霍尔木兹海峡通航前景不明 国际油价10日上涨约5%",
+      "insight": "来源：新华社 霍尔木兹海峡航运恢复前景不明引发市场担忧，国际原油期货价格10日盘中持续走高，当日…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuhv7716905.shtml"
+    },
+    {
+      "id": "ff8663e331",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 02:58",
-      "title": "白宫：布兰奇宣誓就任美国司法部长",
-      "insight": "白宫新闻秘书卡罗琳· 莱维特在社交平台发文称，托德·布兰奇已宣誓就任美国司法部长。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwite6188551.shtml"
+      "tag": "财经热点",
+      "time": "08-11 06:29",
+      "title": "8月11日美股成交额前20：英伟达联手六家金融机构 筹划5000亿美元AI基建融资",
+      "insight": "周一美股成交额第2名英伟达收跌2.86%，成交303.1亿美元。据报道，阿波罗全球管理、黑石、贝…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhv7710247.shtml"
     },
     {
-      "id": "ff4bb50a0a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 01:56",
-      "title": "特朗普称伊朗应为邻国遭受的损失负责",
-      "insight": "美国总统特朗普称，伊朗“应该对黎巴嫩、叙利亚、也门和加沙人民遭受的损失和死亡负责”。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwisx1007178.shtml"
-    },
-    {
-      "id": "ff657d9cfd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 01:32",
-      "title": "英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
-      "insight": "一批美国投资巨头正与英伟达合作，拟为人工智能基础设施项目提供5000亿美元资金。 阿波罗全球管理…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwitc4651224.shtml"
-    },
-    {
-      "id": "ff1d33fd15",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 01:08",
-      "title": "高盛全球银行与市场业务联席主管：三大理由建议持续布局市场",
-      "insight": "核心要点 尽管近期多起事件引发市场担忧，高盛高管阿肖克・瓦拉丹仍建议投资者继续持有资产、留在市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwitc4643215.shtml"
-    },
-    {
-      "id": "ff7028b1dc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 01:06",
-      "title": "预测市场预期：周三重磅CPI数据或将显示通胀进一步降温",
-      "insight": "核心要点 卡尔希预测市场交易员认为，7 月居民消费价格指数（CPI）同比高于 3.3% 的概率不…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwisx0986642.shtml"
-    },
-    {
-      "id": "ff4cff7564",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:51",
-      "title": "华尔街公司与英伟达就5000亿美元AI融资协议达成合作",
-      "insight": "包括阿波罗全球管理、黑石集团、贝莱德旗下Global Infrastructure Partne…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwisx0980453.shtml"
-    },
-    {
-      "id": "ffe74ed8e7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:43",
-      "title": "伊朗和巴基斯坦讨论霍尔木兹海峡谈判及沙特防务协议",
-      "insight": "伊朗外交部发表声明称，部长阿拉格齐在与巴基斯坦外长达尔通话时讨论了正在与阿曼进行的“船舶安全通过…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmf4765420.shtml"
-    },
-    {
-      "id": "ff1dacd98a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:41",
-      "title": "欧洲股市近乎持平 收盘仍创纪录新高 财报乐观情绪提供支撑",
-      "insight": "欧洲股市收于纪录高位。当天交投整体平淡，能源股随油价上涨，而对利率敏感的公用事业和房地产板块下跌…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwckz1107003.shtml"
-    },
-    {
-      "id": "ff7d30002b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:40",
-      "title": "黄金创下七个月最佳单周表现 迈克・库为何继续加仓黄金",
-      "insight": "受美元走弱、美债收益率下行，以及就业数据意外收缩缓解市场对美联储激进加息的担忧影响，黄金上周大涨…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmc7991673.shtml"
-    },
-    {
-      "id": "fff5f2e7ab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:36",
-      "title": "美国海上封锁持续 伊朗石油码头似陷停滞",
-      "insight": "本月以来，伊朗的石油出口码头似乎大多处于闲置状态。美国继续实施封锁，试图借此向伊朗施压，迫使其达…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmf4762950.shtml"
-    },
-    {
-      "id": "ffdf40e777",
+      "id": "ff8bfabfba",
       "source": "新浪财经",
-      "tag": "美股",
-      "time": "08-11 00:35",
-      "title": "财报不及预期之际，巴里克与纽蒙特达成40亿美元交易，北美资产冲刺年底IPO",
-      "insight": "新浪财经讯，8月10日晚间消息，巴里克矿业（Barrick Mining Corp．）周一宣布与…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmf4762467.shtml"
+      "tag": "股市",
+      "time": "08-11 06:12",
+      "title": "取消涨价50%计划！Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
+      "insight": "（来源：网易科技）Anthropic取消了Claude Sonnet 5原定于8月底的涨价计划。…",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-11/doc-inimwuht0836545.shtml"
     },
     {
-      "id": "ffdfbc89c2",
+      "id": "ff507f4fd5",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:16",
-      "title": "霍尔木兹海峡重开前景未明 欧洲天然气价格大涨",
-      "insight": "欧洲天然气价格大幅上涨，伊朗与阿曼就重新开放霍尔木兹海峡展开磋商，但交易员并不相信协议能迅速恢复…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmc7982893.shtml"
+      "tag": "财经热点",
+      "time": "08-11 05:48",
+      "title": "8月11日外盘头条：霍尔木兹协议希望渺茫 英伟达携手金融巨头超5000亿美元投资AI建设 特朗普淡化与沃什接触",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0825205.shtml"
     },
     {
-      "id": "ffd6fe800f",
+      "id": "ffb7dacda8",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:13",
-      "title": "食品安全隐患持续增多，美国卫生与公众服务部拟收紧食品原料监管",
-      "insight": "美国卫生与公众服务部（HHS）提出新规：企业认定某原料具备 “一般公认安全（GRAS）” 资质时…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmf4754134.shtml"
+      "tag": "财经热点",
+      "time": "08-11 05:31",
+      "title": "大宗商品综述：油价大涨 铜价和金价走高",
+      "insight": "油价大涨，有关重开霍尔木兹海峡的协议仍未达成。铜价上涨，供应趋紧以及市场对美国加息的担忧缓解为价…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhy5977747.shtml"
     },
     {
-      "id": "ffb1536e46",
+      "id": "ff4e38038a",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:10",
-      "title": "美国战略石油储备跌破3亿桶，创1983年以来新低",
-      "insight": "受伊朗战争冲击、全球石油库存承压影响，美国战略石油储备原油库存跌破 3 亿桶，创下四十余年来新低…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmc7980716.shtml"
+      "tag": "财经热点",
+      "time": "08-11 05:29",
+      "title": "美国股市：标普500指数高位盘整 市场静待CPI和芯片股财报",
+      "insight": "标普500指数收盘微跌，在经历业绩强劲的一周后，投资者继续权衡利率前景和伊朗战争带来的不确定性。…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0818691.shtml"
     },
     {
-      "id": "ff0b6c1607",
+      "id": "ffebd9c4a0",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:07",
-      "title": "伯克希尔业绩稳健、资金投放力度加大，股价上涨2%",
-      "insight": "受益于经营业绩向好、资本投放规模提升，伯克希尔・哈撒韦股价周一走高。 这家综合企业集团的 A 类…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmf4752097.shtml"
+      "tag": "财经热点",
+      "time": "08-11 05:25",
+      "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
+      "insight": "OpenAI周一表示，其正在扩展Daybreak专属网络安全计划，以帮助参与者获取他们所需的“正…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml"
     },
     {
-      "id": "ff9ec6a9f4",
+      "id": "ffe10e8853",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 00:05",
-      "title": "西格尔：生产率低迷正在损害劳动者利益",
-      "insight": "沃顿商学院教授杰里米・西格尔表示，生产率增长不及预期，是许多美国人对经济现状感到不满的一大原因，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwcmh6249964.shtml"
+      "tag": "财经热点",
+      "time": "08-11 05:09",
+      "title": "日元重挫1% 美日历史性干预带来的半数成果已灰飞烟灭",
+      "insight": "日元跌势加重，回吐了半数美国和日本历史性联手干预激发的涨幅。 该货币兑美元周一下挫多达1%，触及…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7815359.shtml"
+    },
+    {
+      "id": "ff79bcccb4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 05:02",
+      "title": "特朗普淡化与沃什接触 美联储独立性再成焦点",
+      "insight": "美国总统唐纳德·特朗普淡化了与美联储主席凯文·沃什交谈的频率和时长。此前两人的接触再次引发外界质…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7813426.shtml"
+    },
+    {
+      "id": "ffa4ed1f47",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 04:56",
+      "title": "无人机袭击摧毁利比亚扎维耶炼油厂一座燃料储罐",
+      "insight": "利比亚国家石油公司董事长Masoud Suleman向彭博表示，一架无人机击中扎维耶炼油厂一座装…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4584108.shtml"
+    },
+    {
+      "id": "ff82f25b37",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 04:56",
+      "title": "8月11日热门中概股多数上涨，阿里巴巴涨3%，慧荣科技跌9.96%",
+      "insight": "8月11日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.65%。 上涨个股（按市值从…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4583946.shtml"
+    },
+    {
+      "id": "ff7726d201",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-11 04:50",
+      "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
+      "insight": "也门政府军一名军官当地时间10日说，也门胡塞武装当天对该国东南部舍卜沃省一处政府军阵地发动无人机…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhx4459579.shtml"
+    },
+    {
+      "id": "ff694b97a6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 04:39",
+      "title": "原油：油价继续走高 霍尔木兹海峡协议仍未达成",
+      "insight": "油价稳步走高，因伊朗与阿曼仍未就重开霍尔木兹海峡达成协议，同时在红海附近一家沙特炼油厂遭袭后，欧…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7806524.shtml"
+    },
+    {
+      "id": "ff993f2658",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 04:38",
+      "title": "美国债市：国债下跌 油价上涨且企业债发行大增",
+      "insight": "美国国债周一下跌，油价连续第三天上涨，同时企业债市场迎来19笔新发行，为1月以来单日最多。不过，…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7806258.shtml"
+    },
+    {
+      "id": "ff1c08f974",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-11 04:36",
+      "title": "英伟达联手六家华尔街巨头 筹划5000亿美元AI基建融资",
+      "insight": "阿波罗全球管理、黑石、贝莱德和博枫公司在内的美国投资巨头正与英伟达合作，向人工智能基础设施投资5…",
+      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7805870.shtml"
     }
   ],
-  "updateTime": "2026-08-11 04:09"
+  "updateTime": "2026-08-11 07:05"
 }
