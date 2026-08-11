@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff1b0669d8",
+      "id": "ff08fab5ac",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 04:05",
+      "title": "美国债市：国债全线上涨 3年期国债标售需求强劲",
+      "insight": "美国国债周二小幅上涨，尽管中东局势动态引发油价在大幅涨跌之间波动后最终收高。美国3年期国债拍卖获…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimyxfy5470611.shtml"
+    },
+    {
+      "id": "ff26e5dcbb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 04:04",
+      "title": "美国中央司令部：向违反对伊朗封锁的船只开火",
+      "insight": "美军称，一架美国海军直升机向一艘试图通过阿曼湾、悬挂巴拿马旗的货船发射了“两枚‘地狱火’导弹”。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimyxfv7080444.shtml"
+    },
+    {
+      "id": "ff526ee69e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 04:04",
+      "title": "美国财长贝森特：欢迎Meta发布Muse Glimmer",
+      "insight": "美国财政部长斯科特·贝森特在X平台发帖称，“我们欢迎Meta发布Muse Glimmer。” “…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimyxfv7080370.shtml"
+    },
+    {
+      "id": "ff7acfcb6e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 04:04",
+      "title": "胡塞武装：向穆哈和马里卜目标发射导弹和无人机",
+      "insight": "也门胡塞武装发言人在声明中称，该组织向穆哈的部队、武器库和指挥中心，以及马里卜的Tadawin军…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimyxfv7080213.shtml"
+    },
+    {
+      "id": "ffdb027742",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 03:26",
+      "title": "纽约汇市：美元在CPI公布前持稳 日元窄幅震荡",
+      "insight": "随着油价在7月通胀数据公布前波动，美元周二基本持稳。日元在小幅涨跌之间波动，纽约午后交易时段基本…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimysxx7201253.shtml"
+    },
+    {
+      "id": "ff49a7ac06",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 03:26",
+      "title": "联合海事信息中心：阿曼湾一艘集装箱船被直升机发射的导弹击中",
+      "insight": "联合海事信息中心（JMIC）表示，一家航运公司报告，集装箱船Vela Nova周二早些时候在距巴…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimysxz3973516.shtml"
+    },
+    {
+      "id": "ffb6da0e26",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-12 03:20",
+      "title": "城堡证券看好股市反弹 建议投资者为杠杆押注卷土重来做好准备",
+      "insight": "城堡证券认为，在经历了一轮大规模股市去杠杆后，系统化买家正摩拳擦掌准备重新入场。 “杠杆重置已经…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimysxx7199546.shtml"
+    },
+    {
+      "id": "ff85100725",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 23:29",
-      "title": "英特尔股票发行交易据悉约三分之一认购者未获配股份",
-      "insight": "知情人士称，在英特尔200亿美元的股票发行中，约三分之一提交认购订单的投资者最终未获配股份。 知…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4151777.shtml"
+      "time": "08-12 02:55",
+      "title": "美国银行：美元对CPI低于预期会更为敏感",
+      "insight": "美国银行分析师认为，如果美国通货膨胀报告意外低于预期，美元可能会出现相对而言更强烈的反应，因为这…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxx7191524.shtml"
     },
     {
-      "id": "ff0c228dfb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 23:20",
-      "title": "预测市场迎来秋季行情爆发预期，Polymarket密集内部整顿、蓄力备战",
-      "insight": "核心要点预测交易平台 Polymarket 近期完成多笔重磅高管招聘，重点补强其 5 月上线的美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkc7376683.shtml"
-    },
-    {
-      "id": "ffd84310b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 23:12",
-      "title": "英伟达推出首款开源AI模型",
-      "insight": "核心要点英伟达发布Nemotron 3.5 Lightning开源模型，官方称这款模型轻量化，可…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0589744.shtml"
-    },
-    {
-      "id": "ff626ce03c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 23:09",
-      "title": "婴童用品品牌Frida进军儿童个护赛道",
-      "insight": "核心要点 Frida透露，这家母婴用品企业即将推出面向儿童的个人护理产品线，包含沐浴露、止汗剂、…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5746853.shtml"
-    },
-    {
-      "id": "ff6b0559e8",
+      "id": "ff6d6fcfec",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 23:07",
-      "title": "英伟达推出Nemotron 3.5 Lightning 瞄准智能体AI提速",
-      "insight": "英伟达将扩展Nemotron 3模型系列，推出Nemotron 3.5 Lightning。与同…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4144368.shtml"
+      "time": "08-12 02:47",
+      "title": "法国央行预计第三季度经济保持增长势头",
+      "insight": "法国央行表示，在重点行业增长和通胀降温支撑下，法国经济本季度有望保持增长势头。 法国央行周二援引…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysya5577475.shtml"
     },
     {
-      "id": "ff05c53e00",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 23:07",
-      "title": "酒店巨头：中产群体持续壮大提振住宿需求，中东市场受挫影响得到对冲",
-      "insight": "核心要点洲际酒店集团（IHG）利润上涨 10%，中产消费群体与世界杯赛事拉动酒店需求。首席执行官…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkf4144111.shtml"
-    },
-    {
-      "id": "ffc02cb480",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "08-11 22:49",
-      "title": "存储巨头拟回购，用于减少注册资本",
-      "insight": "佰维存储（688525）8月11日晚间公告，公司拟以2亿元—2.5亿元回购股份，用于减少注册资本…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkf4137742.shtml"
-    },
-    {
-      "id": "ff5cd57e8d",
+      "id": "ff896ebf4b",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-11 22:41",
-      "title": "美国二手房销售降至三个月低点 房价和抵押贷款利率高企拖累楼市",
-      "insight": "美国7月二手房销售降至三个月低点，高企的房价和抵押贷款利率持续拖累房地产市场。 据美国全国地产经…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimyhkf4132015.shtml"
+      "time": "08-12 02:45",
+      "title": "苹果再迎高层更替 支付和钱包服务负责人Bailey将退休",
+      "insight": "苹果公司负责支付和钱包服务的长期负责人Jennifer Bailey在公司任职逾20年后将退休，…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3961068.shtml"
     },
     {
-      "id": "ffccf1352a",
+      "id": "ff5627fb37",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 22:35",
-      "title": "礼来减重药片打响全球争夺战：Foundayo率先在欧洲获批",
-      "insight": "核心要点礼来的 Foundayo 获得英国监管批准，成为欧洲第二款 GLP-1 类减重口服药，也…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkf4128559.shtml"
-    },
-    {
-      "id": "ff521f24ce",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 22:34",
-      "title": "预测市场平台Polymarket高调招聘 重组其营销策略",
-      "insight": "预测市场平台Polymarket正通过进行高调的招聘和重组其营销策略，为预期中繁忙的事件合约交易…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0568097.shtml"
-    },
-    {
-      "id": "ffc60370d6",
-      "source": "上海证券报",
       "tag": "财经热点",
-      "time": "08-11 22:29",
-      "title": "两大牛股交汇！中际旭创大举买入鹏鼎控股",
-      "insight": "8月11日晚间，PCB龙头鹏鼎控股披露2026年半年度报告。前十大股东名单显示，中际旭创全资子公…",
-      "link": "https://finance.sina.com.cn/wm/2026-08-11/doc-inimyhkc7355128.shtml"
+      "time": "08-12 02:12",
+      "title": "印度航空机长药检结果呈阳性 此前飞行途中客机骤降约300英尺",
+      "insight": "知情人士称，上周飞行途中猛然下降约300英尺的印度航空飞机的机长在第二轮筛查中被检出非法药物呈阳…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysyf4291756.shtml"
     },
     {
-      "id": "ff532ef5d1",
+      "id": "ff14680f73",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:57",
+      "title": "油价震荡走高 美伊协议前景仍存疑虑",
+      "insight": "油价在震荡交投中小幅走高。尽管有官员宣称谈判取得进展，但交易员对于能否很快达成协议、恢复霍尔木兹…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3945914.shtml"
+    },
+    {
+      "id": "ff3c202d29",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:56",
+      "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
+      "insight": "美国目前预计，美伊战争导致的日均约60万桶的石油供应受阻将持续到明年年底，因冲突继续阻碍石油经关…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysyf4285764.shtml"
+    },
+    {
+      "id": "ff24643b3d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:55",
+      "title": "谷歌称Gemini的月用户数已超过10亿",
+      "insight": "Alphabet首席执行官Sundar Pichai在社交媒体平台X上发帖称，目前每月有超过10…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysya5558142.shtml"
+    },
+    {
+      "id": "ffcac8c488",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:55",
+      "title": "经济研究称美国关键弹药储备已低至“危险”程度 补充需要耗时数年",
+      "insight": "彭博经济研究周二发布的一份报告称，美国在对伊朗战争中使用的关键弹药库存已降至“危险低位”。 彭博…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3945284.shtml"
+    },
+    {
+      "id": "fff8bed9d0",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:54",
+      "title": "美国3年期国债拍卖获得强劲需求 中标收益率创2025年以来新高",
+      "insight": "美国财政部发行580亿美元3年期国债中标收益率4.291%，纽约时间下午1点投标截止时的发行前交…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3944896.shtml"
+    },
+    {
+      "id": "ff0c65a1f9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:46",
+      "title": "英伟达信用风险指标回落 CEO澄清5000亿美元融资计划",
+      "insight": "一项与英伟达相关的信用风险指标周二回落，此前该公司表示将限制自身在一项5000亿美元融资计划中的…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimysxz3942626.shtml"
+    },
+    {
+      "id": "ffc788442d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:07",
+      "title": "巴克莱：美债对价格敏感型买家的依赖显著上升 料使收益率维持高位",
+      "insight": "巴克莱表示，美国国债买家结构正在转向更注重价值的共同基金、家庭和其他私人投资者，这一变化帮助推动…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynsi4397838.shtml"
+    },
+    {
+      "id": "ff4aeed51c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-12 01:05",
+      "title": "OpenAI高管Brad Lightcap将离职 开启“新项目”",
+      "insight": "OpenAI管理人士Brad Lightcap将离开这家人工智能公司，开启一个新项目。就在几个月…",
+      "link": "https://finance.sina.com.cn/world/2026-08-12/doc-inimynse5669621.shtml"
+    },
+    {
+      "id": "ff98641212",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-11 22:29",
-      "title": "英国国债上涨 10年期收益率创5月以来最大日内波幅",
-      "insight": "随着布伦特原油在早些时候触及每桶90美元后回吐涨幅，英国国债延续牛市陡峭化走势。 英国10年期国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5723690.shtml"
-    },
-    {
-      "id": "ff15a5cac0",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-11 22:29",
-      "title": "尾盘突然跳水！6倍算力大牛股，紧急澄清：已报警",
-      "insight": "来源：中国基金报 【导读】行云科技澄清“算力卡被扣海关”传闻 中国基金报记者 莫琳 8月11日，…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-11/doc-inimyhkh5726637.shtml"
-    },
-    {
-      "id": "ff6a3d6763",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 22:17",
-      "title": "巴基斯坦内政部长抵达伊朗进行会谈",
-      "insight": "伊朗消息称，巴基斯坦内政部长Mohsin Naqvi已抵达德黑兰，将与伊朗内政部长Eskanda…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0558105.shtml"
-    },
-    {
-      "id": "ff3aa7970f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 22:11",
-      "title": "美国7月二手房销量下降1.7%至折合年率406万套 预估为405万套",
-      "insight": "美国全国地产经纪商协会（NAR）的数据显示，7月二手房销量折合年率为406万套，经济学家预测中值…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5714032.shtml"
-    },
-    {
-      "id": "ff396ce5fc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 22:09",
-      "title": "Manus称将恢复作为一家独立公司的运营",
-      "insight": "人工智能初创公司Manus表示，公司将恢复作为一家独立公司的运营，作为与Meta分拆的一部分。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0553942.shtml"
-    },
-    {
-      "id": "ff0bb0360b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 21:30",
-      "title": "开盘：标普500小幅走高，投资者评估美伊达成协议的可能性",
-      "insight": "周二，美股小幅高开。一方面有迹象显示各方有望达成协议、重新开放霍尔木兹海峡；但投资者仍心存疑虑，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhiz0532305.shtml"
-    },
-    {
-      "id": "ffb648f469",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 21:17",
-      "title": "巴基斯坦内政部长将于数小时内抵达伊朗举行会谈",
-      "insight": "据伊朗方面消息，巴基斯坦内政部长Mohsin Naqvi将在数小时内抵达德黑兰，与伊朗内政部长举…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkh5684215.shtml"
-    },
-    {
-      "id": "ff19df5030",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 21:16",
-      "title": "特鲁伊斯特证券上调百思买评级",
-      "insight": "特鲁伊斯特证券认为，依托多项市场趋势，百思买有望持续保持增长动能，其中包括人工智能技术不断融入消…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyhkc7315937.shtml"
-    },
-    {
-      "id": "fff5383815",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-11 21:12",
-      "title": "英伟达全力研发Nemotron 4开源大模型 拉动芯片需求同时直面客户竞争",
-      "insight": "英伟达正加码布局开源赛道，投入资源自研一款重磅大模型。公司希望借助该模型拉动硬件需求，但此举也意…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimyaai4217582.shtml"
+      "time": "08-12 01:04",
+      "title": "摩根大通重金布局 2028 年洛杉矶奥运会背后的考量",
+      "insight": "核心要点摩根大通投入九位数资金，成为奥运会史上首家全球银行业合作伙伴。此举是对国际奥委会顶级赞助…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-inimynrz7285172.shtml"
     }
   ],
-  "updateTime": "2026-08-11 23:30"
+  "updateTime": "2026-08-12 04:11"
 }
