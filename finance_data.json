@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffed65b0fa",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-11 06:58",
-      "title": "快讯：现货黄金突破4400美元/盎司",
-      "insight": "快讯：2026年8月11日，现货黄金突破4400美元/盎司，为6月5日以来新高，日内涨0.2%。",
-      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-08-11/doc-inimwuhx4492925.shtml"
-    },
-    {
-      "id": "ff9af546a6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 06:55",
-      "title": "8月11日隔夜要闻：美股收跌 油价大涨 铜价和金价走高 特朗普称要向伊朗索赔 美战略石油储备降至3亿桶以下",
-      "insight": "市场 8月11日收盘：三大指数小幅收跌，油价因伊朗不确定性上涨，英特尔拖累芯片板块走低 8月11…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0852146.shtml"
-    },
-    {
-      "id": "ff795b83a7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 06:51",
-      "title": "OpenAI据悉回购70亿美元员工股份 估值维持在8520亿美元",
-      "insight": "据知情人士透露，OpenAI已完成一项员工股份出售交易，规模约70亿美元，此时该公司正考虑在华尔…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0850830.shtml"
-    },
-    {
-      "id": "ff79befc47",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 06:40",
-      "title": "特朗普延长《琼斯法案》豁免90天，确保伊朗战争期间美国石油供应",
-      "insight": "特朗普政府周一在将《琼斯法案》豁免延长90天的同时收窄了豁免范围，在伊朗战争期间保留了较少的美国…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0846535.shtml"
-    },
-    {
-      "id": "ff4068f345",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 06:31",
-      "title": "贝森特信誓旦旦不惜一切救日元 惟市场点出美国财资部囊中羞涩",
-      "insight": "美国财政部长斯科特·贝森特不久前暗示在帮助日本拯救日元的时候可以不设上限，只不过在一些市场参与者…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhx4483198.shtml"
-    },
-    {
-      "id": "ff8779b9c9",
-      "source": "新华社",
-      "tag": "财经",
-      "time": "08-11 06:30",
-      "title": "霍尔木兹海峡通航前景不明 国际油价10日上涨约5%",
-      "insight": "来源：新华社 霍尔木兹海峡航运恢复前景不明引发市场担忧，国际原油期货价格10日盘中持续走高，当日…",
-      "link": "https://finance.sina.com.cn/roll/2026-08-11/doc-inimwuhv7716905.shtml"
-    },
-    {
-      "id": "ff8663e331",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 06:29",
-      "title": "8月11日美股成交额前20：英伟达联手六家金融机构 筹划5000亿美元AI基建融资",
-      "insight": "周一美股成交额第2名英伟达收跌2.86%，成交303.1亿美元。据报道，阿波罗全球管理、黑石、贝…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhv7710247.shtml"
-    },
-    {
-      "id": "ff8bfabfba",
-      "source": "新浪财经",
+      "id": "ffce4fced0",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "08-11 06:12",
-      "title": "取消涨价50%计划！Anthropic永久锁定Sonnet 5低价，AI代理成本趋稳",
-      "insight": "（来源：网易科技）Anthropic取消了Claude Sonnet 5原定于8月底的涨价计划。…",
-      "link": "https://finance.sina.com.cn/stock/t/2026-08-11/doc-inimwuht0836545.shtml"
+      "time": "08-11 12:41",
+      "title": "大和：药明康德维持“买入”评级 目标价上调至230港元",
+      "insight": "大和发布研报称，美国哥伦比亚特区联邦地区法院颁发初步禁制令，禁止美国国防部将药明康德（02359…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxmem0709202.shtml"
     },
     {
-      "id": "ff507f4fd5",
+      "id": "ff1c765aaa",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:48",
-      "title": "8月11日外盘头条：霍尔木兹协议希望渺茫 英伟达携手金融巨头超5000亿美元投资AI建设 特朗普淡化与沃什接触",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0825205.shtml"
+      "tag": "美股",
+      "time": "08-11 12:41",
+      "title": "澳大利亚联储维持政策利率目标在4.35%不变 符合预期",
+      "insight": "澳大利亚联储维持政策利率目标在4.35%不变，符合预期。澳大利亚联储在8月政策会议结束后发表声明…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxmes5867765.shtml"
     },
     {
-      "id": "ffb7dacda8",
+      "id": "fffc1ded36",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:39",
+      "title": "中信里昂：申洲国际维持“跑赢大市”评级 目标价削至51港元",
+      "insight": "中信里昂发表报告，申洲国际（02313）上周五发盈利预警，将申洲国际目标价由52港元，调低1.9…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxmep7540215.shtml"
+    },
+    {
+      "id": "ff22d2fd32",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:39",
+      "title": "大摩：申洲国际维持“增持”评级 目标价50港元",
+      "insight": "摩根士丹利发布研报称，申洲国际（02313）预测今年上半年纯利将同比下跌38%至43%，主要由于…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxmep7539699.shtml"
+    },
+    {
+      "id": "ff06b3e427",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:39",
+      "title": "中金：百济神州维持跑赢行业评级 目标价266港元",
+      "insight": "中金发布研报称，维持百济神州（06160）2026年和2027年盈利预测不变。该行维持跑赢行业评…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxmer4312062.shtml"
+    },
+    {
+      "id": "ff3ad0046f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:38",
+      "title": "花旗：港交所目标价降至495港元 给予“买入”评级",
+      "insight": "花旗发布研报称，将港交所（00388）目标价由530港元，调低6.6%至495港元，投资评级为“…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxmer4312025.shtml"
+    },
+    {
+      "id": "ffdffc14da",
+      "source": "e公司",
+      "tag": "股市",
+      "time": "08-11 12:30",
+      "title": "光伏企业实控人，罕见转让自家股票！",
+      "insight": "8月11日，天合光能（688599）披露了一份股东询价转让计划书，本次拟参与公司首发前股东询价转…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-11/doc-inimxmem0702909.shtml"
+    },
+    {
+      "id": "ffe922fcee",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:31",
-      "title": "大宗商品综述：油价大涨 铜价和金价走高",
-      "insight": "油价大涨，有关重开霍尔木兹海峡的协议仍未达成。铜价上涨，供应趋紧以及市场对美国加息的担忧缓解为价…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuhy5977747.shtml"
+      "tag": "美股",
+      "time": "08-11 12:12",
+      "title": "马来西亚新计划目标到2035年实现210亿美元节能效益",
+      "insight": "马来西亚于周二推出全新的十年国家能效计划，目标到2035年实现850亿林吉特（208亿美元）的节…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxmem0690821.shtml"
     },
     {
-      "id": "ff4e38038a",
+      "id": "ff39bd4acd",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:29",
-      "title": "美国股市：标普500指数高位盘整 市场静待CPI和芯片股财报",
-      "insight": "标普500指数收盘微跌，在经历业绩强劲的一周后，投资者继续权衡利率前景和伊朗战争带来的不确定性。…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0818691.shtml"
+      "tag": "美股",
+      "time": "08-11 12:09",
+      "title": "美国总统特朗普签署行政令推动拆分麻疹、腮腺炎和风疹三联疫苗",
+      "insight": "美国总统唐纳德·特朗普再次推动调整儿童疫苗接种计划，将矛头直接指向麻疹疫苗。在距离中期选举仅剩数…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxmep7522496.shtml"
     },
     {
-      "id": "ffebd9c4a0",
+      "id": "ff6ca0d0bf",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:06",
+      "title": "瑞银：长和维持“买入”评级 目标价101港元",
+      "insight": "瑞银发布研报称，维持长和（00001）目标价101港元以及“买入”评级。该行表示，据媒体报道，长…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxewu5976299.shtml"
+    },
+    {
+      "id": "ffcfb20176",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:25",
-      "title": "OpenAI Daybreak计划升级：Blue+Red双层级，GPT-5.6-Cyber亮相",
-      "insight": "OpenAI周一表示，其正在扩展Daybreak专属网络安全计划，以帮助参与者获取他们所需的“正…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwuht0817511.shtml"
+      "tag": "美股",
+      "time": "08-11 12:05",
+      "title": "消息人士：阿布扎比国家石油公司6月以来第8次招标出售现货原油",
+      "insight": "贸易消息人士称，阿布扎比国家石油公司（ADNOC）正在通过招标出售现货原油，这是自6月初以来该公…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewp0816713.shtml"
     },
     {
-      "id": "ffe10e8853",
+      "id": "ff7c74cff8",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:05",
+      "title": "美银：申洲国际重申“买入”评级 目标价下调6%至50港元",
+      "insight": "美国银行发布研报称，申洲国际（02313）上周五发盈利预警，预计上半年盈利将下降38-43%，主…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxewt4423464.shtml"
+    },
+    {
+      "id": "ffc76a904a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:05",
+      "title": "大和：颐海国际首次覆盖给予“买入”评级 目标价18.70港元",
+      "insight": "大和发布研报称，颐海国际（01579）是中国复合调味料行业的龙头，专注于火锅调味料、中式复合调味…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-11/doc-inimxewp0816279.shtml"
+    },
+    {
+      "id": "fff0b23f47",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-11 12:03",
+      "title": "一封来自投资者的信 2026我们的应答",
+      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+      "link": "https://finance.sina.com.cn/china/2026-08-11/doc-inimxewu5973471.shtml"
+    },
+    {
+      "id": "ff2685a467",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 12:00",
+      "title": "港股午评：恒指跌0.63% 科指跌1.27% 科网股、黄金股普跌 石油股逆势上涨",
+      "insight": "8月11日消息，港股三大指数集体下跌。截至午间收盘，恒生指数跌0.63%，报25773.56，恒…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-11/doc-inimxewr7649282.shtml"
+    },
+    {
+      "id": "ffe0bcf2bd",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 11:55",
+      "title": "迈威生物-B午前涨超13% 两款地舒单抗注射液通过巴西药监机构GMP现场检查",
+      "insight": "迈威生物-B（02493）盘中涨超13%，截至发稿，股价上涨11.38%，现报25.06港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-11/doc-inimxewp0810070.shtml"
+    },
+    {
+      "id": "ffb32e1361",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 11:54",
+      "title": "宜明昂科-B午前涨逾14% 宜明凯尔首次引入外部商业化资本",
+      "insight": "宜明昂科-B（01541）盘中涨超14%，截至发稿，股价上涨13.79%，现报3.59港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-11/doc-inimxewr7644719.shtml"
+    },
+    {
+      "id": "ffb0057b56",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:09",
-      "title": "日元重挫1% 美日历史性干预带来的半数成果已灰飞烟灭",
-      "insight": "日元跌势加重，回吐了半数美国和日本历史性联手干预激发的涨幅。 该货币兑美元周一下挫多达1%，触及…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7815359.shtml"
+      "tag": "美股",
+      "time": "08-11 11:54",
+      "title": "通用汽车据悉计划将印第安纳州电池合资企业的股份出售给三星SDI",
+      "insight": "知情人士称，通用汽车准备将在印第安纳州拟建的一家35亿美元电动汽车电池合资企业中的一半股份出售给…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimxewu5967802.shtml"
     },
     {
-      "id": "ff79bcccb4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 05:02",
-      "title": "特朗普淡化与沃什接触 美联储独立性再成焦点",
-      "insight": "美国总统唐纳德·特朗普淡化了与美联储主席凯文·沃什交谈的频率和时长。此前两人的接触再次引发外界质…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7813426.shtml"
+      "id": "ffa6a5f62a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 11:53",
+      "title": "再鼎医药午前涨逾5% 花旗给予“买入/高风险”评级",
+      "insight": "再鼎医药（09688）盘中涨超7%，截至发稿，股价上涨4.72%，现报18.43港元，成交额2.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-11/doc-inimxewr7644152.shtml"
     },
     {
-      "id": "ffa4ed1f47",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 04:56",
-      "title": "无人机袭击摧毁利比亚扎维耶炼油厂一座燃料储罐",
-      "insight": "利比亚国家石油公司董事长Masoud Suleman向彭博表示，一架无人机击中扎维耶炼油厂一座装…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4584108.shtml"
-    },
-    {
-      "id": "ff82f25b37",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 04:56",
-      "title": "8月11日热门中概股多数上涨，阿里巴巴涨3%，慧荣科技跌9.96%",
-      "insight": "8月11日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.65%。 上涨个股（按市值从…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4583946.shtml"
-    },
-    {
-      "id": "ff7726d201",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-11 04:50",
-      "title": "胡塞武装再袭政府军 联合国特使警告也门冲突升级",
-      "insight": "也门政府军一名军官当地时间10日说，也门胡塞武装当天对该国东南部舍卜沃省一处政府军阵地发动无人机…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-11/doc-inimwuhx4459579.shtml"
-    },
-    {
-      "id": "ff694b97a6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 04:39",
-      "title": "原油：油价继续走高 霍尔木兹海峡协议仍未达成",
-      "insight": "油价稳步走高，因伊朗与阿曼仍未就重开霍尔木兹海峡达成协议，同时在红海附近一家沙特炼油厂遭袭后，欧…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7806524.shtml"
-    },
-    {
-      "id": "ff993f2658",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 04:38",
-      "title": "美国债市：国债下跌 油价上涨且企业债发行大增",
-      "insight": "美国国债周一下跌，油价连续第三天上涨，同时企业债市场迎来19笔新发行，为1月以来单日最多。不过，…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7806258.shtml"
-    },
-    {
-      "id": "ff1c08f974",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-11 04:36",
-      "title": "英伟达联手六家华尔街巨头 筹划5000亿美元AI基建融资",
-      "insight": "阿波罗全球管理、黑石、贝莱德和博枫公司在内的美国投资巨头正与英伟达合作，向人工智能基础设施投资5…",
-      "link": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7805870.shtml"
+      "id": "ff2f1ebb1e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-11 11:52",
+      "title": "健康之路盘中涨超20% 战略重配IPO资金加码AI智能体",
+      "insight": "健康之路（02587）今早显著走高，盘中最高涨超20%，触及2.56港元高点。截至发稿，涨7.0…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-11/doc-inimxewr7643740.shtml"
     }
   ],
-  "updateTime": "2026-08-11 07:05"
+  "updateTime": "2026-08-11 12:51"
 }
