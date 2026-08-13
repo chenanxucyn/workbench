@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "想和你一起去海边看晚霞",
-      "heat": 11995169,
+      "heat": 12094021,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "看看我拍到的英仙座流星雨吧",
-      "heat": 11518140,
+      "heat": 11439777,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "中国制造再添全球之最",
-      "heat": 11005446,
+      "heat": 11100769,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "我选择海岛作为我生活的解药",
-      "heat": 10994929,
+      "heat": 11097428,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -43,7 +43,7 @@
     {
       "rank": 5,
       "topic": "威少宣布退役",
-      "heat": 10375581,
+      "heat": 10350098,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -52,8 +52,38 @@
     },
     {
       "rank": 6,
+      "topic": "TI2026开赛",
+      "heat": 10202464,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/TI2026%E5%BC%80%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/TI2026开赛"
+    },
+    {
+      "rank": 7,
+      "topic": "普京驳斥日本南千岛群岛领土主张",
+      "heat": 8919455,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E9%A9%B3%E6%96%A5%E6%97%A5%E6%9C%AC%E5%8D%97%E5%8D%83%E5%B2%9B%E7%BE%A4%E5%B2%9B%E9%A2%86%E5%9C%9F%E4%B8%BB%E5%BC%A0?type=general",
+      "scheme": "snssdk1128://search/普京驳斥日本南千岛群岛领土主张"
+    },
+    {
+      "rank": 8,
+      "topic": "谢震业全国田径锦标赛百米夺冠",
+      "heat": 8540496,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%B0%A2%E9%9C%87%E4%B8%9A%E5%85%A8%E5%9B%BD%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%E7%99%BE%E7%B1%B3%E5%A4%BA%E5%86%A0?type=general",
+      "scheme": "snssdk1128://search/谢震业全国田径锦标赛百米夺冠"
+    },
+    {
+      "rank": 9,
       "topic": "白海豚残涡回马枪杀到江苏",
-      "heat": 10338899,
+      "heat": 8288079,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,49 +91,19 @@
       "scheme": "snssdk1128://search/白海豚残涡回马枪杀到江苏"
     },
     {
-      "rank": 7,
-      "topic": "全国田径锦标赛来了",
-      "heat": 9189816,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E7%94%B0%E5%BE%84%E9%94%A6%E6%A0%87%E8%B5%9B%E6%9D%A5%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/全国田径锦标赛来了"
-    },
-    {
-      "rank": 8,
-      "topic": "白海豚对河南的影响有多大",
-      "heat": 9080340,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%99%BD%E6%B5%B7%E8%B1%9A%E5%AF%B9%E6%B2%B3%E5%8D%97%E7%9A%84%E5%BD%B1%E5%93%8D%E6%9C%89%E5%A4%9A%E5%A4%A7?type=general",
-      "scheme": "snssdk1128://search/白海豚对河南的影响有多大"
-    },
-    {
-      "rank": 9,
-      "topic": "DeepSeek发布调价公告",
-      "heat": 8999715,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/DeepSeek%E5%8F%91%E5%B8%83%E8%B0%83%E4%BB%B7%E5%85%AC%E5%91%8A?type=general",
-      "scheme": "snssdk1128://search/DeepSeek发布调价公告"
-    },
-    {
       "rank": 10,
-      "topic": "美股三大指数开盘上涨",
-      "heat": 8887181,
+      "topic": "用AI给小时候的自己做头像",
+      "heat": 7982944,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%BC%80%E7%9B%98%E4%B8%8A%E6%B6%A8?type=general",
-      "scheme": "snssdk1128://search/美股三大指数开盘上涨"
+      "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E5%B0%8F%E6%97%B6%E5%80%99%E7%9A%84%E8%87%AA%E5%B7%B1%E5%81%9A%E5%A4%B4%E5%83%8F?type=general",
+      "scheme": "snssdk1128://search/用AI给小时候的自己做头像"
     },
     {
       "rank": 11,
       "topic": "TF四代青岛演唱会",
-      "heat": 8838878,
+      "heat": 7941890,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -112,18 +112,8 @@
     },
     {
       "rank": 12,
-      "topic": "杰伦格林杰苏尔战胜白晶柳杨杰",
-      "heat": 8802415,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9D%B0%E4%BC%A6%E6%A0%BC%E6%9E%97%E6%9D%B0%E8%8B%8F%E5%B0%94%E6%88%98%E8%83%9C%E7%99%BD%E6%99%B6%E6%9F%B3%E6%9D%A8%E6%9D%B0?type=general",
-      "scheme": "snssdk1128://search/杰伦格林杰苏尔战胜白晶柳杨杰"
-    },
-    {
-      "rank": 13,
       "topic": "“两弹一星”元勋王希季逝世",
-      "heat": 8532488,
+      "heat": 7832290,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -131,9 +121,19 @@
       "scheme": "snssdk1128://search/“两弹一星”元勋王希季逝世"
     },
     {
+      "rank": 13,
+      "topic": "女生总感觉没衣服穿的原因",
+      "heat": 7817312,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E7%94%9F%E6%80%BB%E6%84%9F%E8%A7%89%E6%B2%A1%E8%A1%A3%E6%9C%8D%E7%A9%BF%E7%9A%84%E5%8E%9F%E5%9B%A0?type=general",
+      "scheme": "snssdk1128://search/女生总感觉没衣服穿的原因"
+    },
+    {
       "rank": 14,
       "topic": "河南近期这些涉汛传言都是假的",
-      "heat": 8369301,
+      "heat": 7795448,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -142,58 +142,48 @@
     },
     {
       "rank": 15,
-      "topic": "用AI给朋友做个专属小游戏",
-      "heat": 8238835,
+      "topic": "秋雨冲刷走落叶 残留我的思念",
+      "heat": 7781751,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E6%9C%8B%E5%8F%8B%E5%81%9A%E4%B8%AA%E4%B8%93%E5%B1%9E%E5%B0%8F%E6%B8%B8%E6%88%8F?type=general",
-      "scheme": "snssdk1128://search/用AI给朋友做个专属小游戏"
+      "link": "https://www.douyin.com/search/%E7%A7%8B%E9%9B%A8%E5%86%B2%E5%88%B7%E8%B5%B0%E8%90%BD%E5%8F%B6%20%E6%AE%8B%E7%95%99%E6%88%91%E7%9A%84%E6%80%9D%E5%BF%B5?type=general",
+      "scheme": "snssdk1128://search/秋雨冲刷走落叶 残留我的思念"
     },
     {
       "rank": 16,
-      "topic": "欢迎来龙餐馆票房破四亿",
-      "heat": 7970018,
+      "topic": "杰伦格林杰苏尔战胜白晶柳杨杰",
+      "heat": 7766921,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%AC%A2%E8%BF%8E%E6%9D%A5%E9%BE%99%E9%A4%90%E9%A6%86%E7%A5%A8%E6%88%BF%E7%A0%B4%E5%9B%9B%E4%BA%BF?type=general",
-      "scheme": "snssdk1128://search/欢迎来龙餐馆票房破四亿"
+      "link": "https://www.douyin.com/search/%E6%9D%B0%E4%BC%A6%E6%A0%BC%E6%9E%97%E6%9D%B0%E8%8B%8F%E5%B0%94%E6%88%98%E8%83%9C%E7%99%BD%E6%99%B6%E6%9F%B3%E6%9D%A8%E6%9D%B0?type=general",
+      "scheme": "snssdk1128://search/杰伦格林杰苏尔战胜白晶柳杨杰"
     },
     {
       "rank": 17,
-      "topic": "七夕我主打一个有备而来",
-      "heat": 7793168,
+      "topic": "粉丝们给熊出没的回信",
+      "heat": 7756935,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%83%E5%A4%95%E6%88%91%E4%B8%BB%E6%89%93%E4%B8%80%E4%B8%AA%E6%9C%89%E5%A4%87%E8%80%8C%E6%9D%A5?type=general",
-      "scheme": "snssdk1128://search/七夕我主打一个有备而来"
+      "link": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1?type=general",
+      "scheme": "snssdk1128://search/粉丝们给熊出没的回信"
     },
     {
       "rank": 18,
-      "topic": "美新闻机构起诉特朗普",
-      "heat": 7776883,
+      "topic": "AI拍出中国版怪奇物语",
+      "heat": 7749545,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BE%8E%E6%96%B0%E9%97%BB%E6%9C%BA%E6%9E%84%E8%B5%B7%E8%AF%89%E7%89%B9%E6%9C%97%E6%99%AE?type=general",
-      "scheme": "snssdk1128://search/美新闻机构起诉特朗普"
+      "link": "https://www.douyin.com/search/AI%E6%8B%8D%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%89%88%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD?type=general",
+      "scheme": "snssdk1128://search/AI拍出中国版怪奇物语"
     },
     {
       "rank": 19,
-      "topic": "异环残虹",
-      "heat": 7776349,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%82%E7%8E%AF%E6%AE%8B%E8%99%B9?type=general",
-      "scheme": "snssdk1128://search/异环残虹"
-    },
-    {
-      "rank": 20,
       "topic": "东北父亲和孩子相处就像沈腾这样",
-      "heat": 7746657,
+      "heat": 7739104,
       "videos": 0,
       "type": "母婴萌娃",
       "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
@@ -201,9 +191,19 @@
       "scheme": "snssdk1128://search/东北父亲和孩子相处就像沈腾这样"
     },
     {
+      "rank": 20,
+      "topic": "带你玩懂原神至冬版本",
+      "heat": 7735916,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B8%A6%E4%BD%A0%E7%8E%A9%E6%87%82%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E7%89%88%E6%9C%AC?type=general",
+      "scheme": "snssdk1128://search/带你玩懂原神至冬版本"
+    },
+    {
       "rank": 21,
       "topic": "超盈实验中学球员致歉",
-      "heat": 7741812,
+      "heat": 7734184,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -212,48 +212,48 @@
     },
     {
       "rank": 22,
-      "topic": "没有花一开始就是一朵花",
-      "heat": 7739140,
+      "topic": "用AI给朋友做个专属小游戏",
+      "heat": 7730951,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E8%8A%B1%E4%B8%80%E5%BC%80%E5%A7%8B%E5%B0%B1%E6%98%AF%E4%B8%80%E6%9C%B5%E8%8A%B1?type=general",
-      "scheme": "snssdk1128://search/没有花一开始就是一朵花"
+      "link": "https://www.douyin.com/search/%E7%94%A8AI%E7%BB%99%E6%9C%8B%E5%8F%8B%E5%81%9A%E4%B8%AA%E4%B8%93%E5%B1%9E%E5%B0%8F%E6%B8%B8%E6%88%8F?type=general",
+      "scheme": "snssdk1128://search/用AI给朋友做个专属小游戏"
     },
     {
       "rank": 23,
-      "topic": "粉丝们给熊出没的回信",
-      "heat": 7735506,
+      "topic": "真正的蜘蛛侠驾到",
+      "heat": 7729353,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%B2%89%E4%B8%9D%E4%BB%AC%E7%BB%99%E7%86%8A%E5%87%BA%E6%B2%A1%E7%9A%84%E5%9B%9E%E4%BF%A1?type=general",
-      "scheme": "snssdk1128://search/粉丝们给熊出没的回信"
+      "link": "https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%9C%98%E8%9B%9B%E4%BE%A0%E9%A9%BE%E5%88%B0?type=general",
+      "scheme": "snssdk1128://search/真正的蜘蛛侠驾到"
     },
     {
       "rank": 24,
-      "topic": "AI拍出中国版怪奇物语",
-      "heat": 7734184,
+      "topic": "深度解析《影之刃零》",
+      "heat": 7723488,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/AI%E6%8B%8D%E5%87%BA%E4%B8%AD%E5%9B%BD%E7%89%88%E6%80%AA%E5%A5%87%E7%89%A9%E8%AF%AD?type=general",
-      "scheme": "snssdk1128://search/AI拍出中国版怪奇物语"
+      "link": "https://www.douyin.com/search/%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90%E3%80%8A%E5%BD%B1%E4%B9%8B%E5%88%83%E9%9B%B6%E3%80%8B?type=general",
+      "scheme": "snssdk1128://search/深度解析《影之刃零》"
     },
     {
       "rank": 25,
-      "topic": "带你玩懂原神至冬版本",
-      "heat": 7732481,
+      "topic": "异环残虹",
+      "heat": 7720857,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B8%A6%E4%BD%A0%E7%8E%A9%E6%87%82%E5%8E%9F%E7%A5%9E%E8%87%B3%E5%86%AC%E7%89%88%E6%9C%AC?type=general",
-      "scheme": "snssdk1128://search/带你玩懂原神至冬版本"
+      "link": "https://www.douyin.com/search/%E5%BC%82%E7%8E%AF%E6%AE%8B%E8%99%B9?type=general",
+      "scheme": "snssdk1128://search/异环残虹"
     },
     {
       "rank": 26,
       "topic": "总要玩一次桨板吧",
-      "heat": 7731764,
+      "heat": 7720042,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -262,44 +262,44 @@
     },
     {
       "rank": 27,
-      "topic": "秋雨冲刷走落叶 残留我的思念",
-      "heat": 7727654,
+      "topic": "CORTIS抖音粉丝破500万",
+      "heat": 7705676,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A7%8B%E9%9B%A8%E5%86%B2%E5%88%B7%E8%B5%B0%E8%90%BD%E5%8F%B6%20%E6%AE%8B%E7%95%99%E6%88%91%E7%9A%84%E6%80%9D%E5%BF%B5?type=general",
-      "scheme": "snssdk1128://search/秋雨冲刷走落叶 残留我的思念"
+      "link": "https://www.douyin.com/search/CORTIS%E6%8A%96%E9%9F%B3%E7%B2%89%E4%B8%9D%E7%A0%B4500%E4%B8%87?type=general",
+      "scheme": "snssdk1128://search/CORTIS抖音粉丝破500万"
     },
     {
       "rank": 28,
-      "topic": "用豆包给各地特产拍大片",
-      "heat": 7724679,
+      "topic": "祈神怜手势舞",
+      "heat": 7698920,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8%E8%B1%86%E5%8C%85%E7%BB%99%E5%90%84%E5%9C%B0%E7%89%B9%E4%BA%A7%E6%8B%8D%E5%A4%A7%E7%89%87?type=general",
-      "scheme": "snssdk1128://search/用豆包给各地特产拍大片"
+      "link": "https://www.douyin.com/search/%E7%A5%88%E7%A5%9E%E6%80%9C%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "scheme": "snssdk1128://search/祈神怜手势舞"
     },
     {
       "rank": 29,
-      "topic": "真正的蜘蛛侠驾到",
-      "heat": 7723106,
+      "topic": "昊天保水友遭小叮当gank",
+      "heat": 7695589,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E7%9A%84%E8%9C%98%E8%9B%9B%E4%BE%A0%E9%A9%BE%E5%88%B0?type=general",
-      "scheme": "snssdk1128://search/真正的蜘蛛侠驾到"
+      "link": "https://www.douyin.com/search/%E6%98%8A%E5%A4%A9%E4%BF%9D%E6%B0%B4%E5%8F%8B%E9%81%AD%E5%B0%8F%E5%8F%AE%E5%BD%93gank?type=general",
+      "scheme": "snssdk1128://search/昊天保水友遭小叮当gank"
     },
     {
       "rank": 30,
-      "topic": "霍仙姑居然是隔世老祖",
-      "heat": 7718006,
+      "topic": "鲁菜传人用灌汤黄鱼夺冠",
+      "heat": 7687982,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%9C%8D%E4%BB%99%E5%A7%91%E5%B1%85%E7%84%B6%E6%98%AF%E9%9A%94%E4%B8%96%E8%80%81%E7%A5%96?type=general",
-      "scheme": "snssdk1128://search/霍仙姑居然是隔世老祖"
+      "link": "https://www.douyin.com/search/%E9%B2%81%E8%8F%9C%E4%BC%A0%E4%BA%BA%E7%94%A8%E7%81%8C%E6%B1%A4%E9%BB%84%E9%B1%BC%E5%A4%BA%E5%86%A0?type=general",
+      "scheme": "snssdk1128://search/鲁菜传人用灌汤黄鱼夺冠"
     }
   ],
-  "updateTime": "2026-08-13 23:31"
+  "updateTime": "2026-08-14 04:02"
 }
