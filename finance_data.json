@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "id": "ff84dee7f4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 05:36",
+      "title": "Anthropic第二财季营收超过115亿美元 较上年同期飙升至少13倍",
+      "insight": "Anthropic PBC向潜在投资者表示，其第二季度营收较上年同期增长至少13倍。 文件显示，…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2471568.shtml"
+    },
+    {
+      "id": "ffc35d6d77",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 05:22",
+      "title": "美国股市：标普500指数从纪录高位回落 美国消费出现降温迹象",
+      "insight": "标普500指数从纪录高位回落，美国经济的主要引擎显现降温迹象，盖过市场预计美联储9月将按兵不动的…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3740746.shtml"
+    },
+    {
+      "id": "ffc57c7c38",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 05:21",
+      "title": "伯克希尔披露Q2持仓：Alphabet跻身前三，增持达美航空和住宅建筑商",
+      "insight": "伯克希尔哈撒韦在第二季度大幅增持了Alphabet的股份，使这家谷歌母公司跻身其三大股票持仓之列…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2162597.shtml"
+    },
+    {
+      "id": "ff1457ab84",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 05:11",
+      "title": "8月15日热门中概股多数上涨，阿里巴巴涨1.35%，慧荣科技涨7.94%",
+      "insight": "8月15日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.61%。 上涨个股（按市值从…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2465628.shtml"
+    },
+    {
+      "id": "ff6e22dfd0",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:58",
+      "title": "英伟达披露持有210亿美元的SpaceX股份",
+      "insight": "根据申报文件，英伟达披露持有价值209.7亿美元的SpaceX股份。 英伟达还披露持有价值约30…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2461874.shtml"
+    },
+    {
+      "id": "ff89300564",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:57",
+      "title": "哈佛披露持有价值22亿美元的SpaceX股份",
+      "insight": "哈佛在13F申报文件中披露，持有价值22.1亿美元的SpaceX股份。",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3733916.shtml"
+    },
+    {
+      "id": "ffa8759696",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:56",
+      "title": "特朗普：永远不会因为战争导致美国汽油价格上涨而道歉",
+      "insight": "美国总统特朗普表示，他不会因为伊朗战争导致美国人承担更高汽油价格而道歉。 特朗普在长岛的一场活动…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2156431.shtml"
+    },
+    {
+      "id": "ff4ec41bf2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:50",
+      "title": "8月15日收盘：美股三大指数周五收跌，标普500周线三连阳",
+      "insight": "标普500指数在周四创下历史新高后周五回落，但该指数仍录得连续第三周上涨。 道指跌107.57点…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3862105.shtml"
+    },
+    {
+      "id": "ffe43ceb58",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:39",
+      "title": "纽约汇市：美元因美国零售销售疲软而下跌 日元小幅走强",
+      "insight": "彭博美元指数触及5月份以来最低，此前美国零售销售数据出人意料地表现疲软，令市场对美国加息的预期降…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9054812.shtml"
+    },
+    {
+      "id": "ffe1b1bfb4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:38",
+      "title": "大宗商品综述：油价上涨 铜价走高 金价反弹",
+      "insight": "原油价格小幅走高，交易员权衡美国拟加大对伊朗经济压力的威胁。铜价上涨，有迹象显示铜供应进一步趋紧…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqma2282143.shtml"
+    },
+    {
+      "id": "ff9ff0ba4a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:15",
+      "title": "报道：特朗普称将重创伊朗经济",
+      "insight": "福克斯新闻一名记者在节目中援引对美国总统特朗普的采访称，美国将重创伊朗经济。 这名记者称，特朗普…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2578419.shtml"
+    },
+    {
+      "id": "ff32a2eee5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:14",
+      "title": "报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会",
+      "insight": "Semafor记者在X平台发文称，Coinbase、Andreessen Horowitz（a1…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3850860.shtml"
+    },
+    {
+      "id": "ff8b306c0e",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:14",
+      "title": "美国债市：国债收益率曲线熊陡 英债遭抛售波及美债",
+      "insight": "美国国债在周五上午承压，追随欧债在伦敦收盘前的跌势，英国国债卖压尤其明显。纽约午后交易时段美债跌…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9048196.shtml"
+    },
+    {
+      "id": "ff9fa66fbc",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-15 04:13",
+      "title": "特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压",
+      "insight": "据知情人士透露，特朗普政府对古巴的策略正日益侧重于加大制裁和经济压力，而非动用军事力量来瓦解这个…",
+      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2577803.shtml"
+    },
+    {
       "id": "ff4fe00171",
       "source": "环球市场播报",
       "tag": "美股",
@@ -53,133 +179,7 @@
       "title": "四年前，潘兴广场清仓奈飞亏了4亿美元，如今阿克曼再建仓，买了300万股奈飞",
       "insight": "四年之前，潘兴广场清仓奈飞，据报道亏损 4 亿美元；如今阿克曼再度建仓，拿下 300 万股奈飞。…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikcf9119428.shtml"
-    },
-    {
-      "id": "ff7c8ab1f8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:44",
-      "title": "美联储暂停准备金管理国库券购买出人意料 华尔街料至少暂停至10月",
-      "insight": "美联储表示下一操作期内不会出于准备金管理目的买入美国国库券后，华尔街策略师正在调整对其未来月度国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikce2344977.shtml"
-    },
-    {
-      "id": "ff58258103",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:41",
-      "title": "Rokos效仿多策略基金 将客户完全赎回期限延长至三年",
-      "insight": "Chris Rokos正将部分投资者从其宏观对冲基金中赎回全部资金所需的时间延长至原来的三倍，效…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikcf9116161.shtml"
-    },
-    {
-      "id": "ff42487752",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:39",
-      "title": "欧洲股市回落但仍接近纪录高位 欧洲股票基金流入创六个月最多",
-      "insight": "欧洲股市回吐涨幅，但仍维持在接近历史高位的水平，欧洲股票基金录得六个月来最大资金流入。 斯托克欧…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikcf9115413.shtml"
-    },
-    {
-      "id": "ff1b0da6ba",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:25",
-      "title": "投资者再度大举押注黄金，但白银仍是更优配置",
-      "insight": "作者：里奇・杜普雷 要点速览 白银自低点至高点最大涨幅达 405%，黄金为 170%；白银近一月…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikcf9111559.shtml"
-    },
-    {
-      "id": "ff341194f5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:20",
-      "title": "博通持续震荡三个月：华尔街一名专业分析师看好后市涨幅超60%",
-      "insight": "要点速览 法国巴黎银行 Exane 将博通目标价上调至 675 美元，潜在上涨空间 61%；共有…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikay3900751.shtml"
-    },
-    {
-      "id": "ff50f13dc6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:15",
-      "title": "矿业大亨吉娜・莱因哈特披露持有价值14亿美元SpaceX股份",
-      "insight": "澳大利亚首富吉娜・莱因哈特在今年第二季度购入埃隆・马斯克旗下太空探索技术公司（SpaceX）80…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininicvi9239147.shtml"
-    },
-    {
-      "id": "ff4d591b29",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 00:12",
-      "title": "白宫副国家安全顾问Baker据悉将离职 曾参与伊朗谈判",
-      "insight": "据一位知情人士透露，白宫副国家安全顾问Andy Baker计划在未来几周离职，这将使特朗普政府失…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininicvh2465396.shtml"
-    },
-    {
-      "id": "ff1474df1e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-14 23:41",
-      "title": "密歇根大学调查：通胀忧虑持续萦绕，美国消费者对经济看法转悲观",
-      "insight": "美国人愈发谨慎，消费者信心指数跌至 51.0 密歇根大学消费者信心初值数据显示，受冲突局势、美债…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvi9227298.shtml"
-    },
-    {
-      "id": "ff01c47225",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-14 23:40",
-      "title": "特斯拉最快本月展示具“飞行”能力的Roadster跑车",
-      "insight": "据报道，特斯拉计划最快本月发布一款新的Roadster设计，其中将包括“飞行”能力。 报道称，发…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvh2454405.shtml"
-    },
-    {
-      "id": "ff66f79e86",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-14 23:36",
-      "title": "人工智能基建扩张面临一道难题：一万亿美元现金也无力解决",
-      "insight": "为何三分之二人工智能数据中心的电力需求或许永远无法落地 财报季已接近尾声，市场再度出炉规模更大的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvi9225392.shtml"
-    },
-    {
-      "id": "ff903ff249",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "08-14 23:26",
-      "title": "Momenta破发背后：锚定地平线估值 “物理AI”故事未兑现 市场为何不买单？",
-      "insight": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 2026年7月8日，Momenta以295…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-14/doc-ininicvh2449481.shtml"
-    },
-    {
-      "id": "ff86bd1804",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-14 23:11",
-      "title": "法国宪法委员会否决青少年社交媒体禁令 马克龙改革议程受挫",
-      "insight": "法国最高宪法权力机构否决了议会上月通过的禁止15岁以下儿童使用社交媒体的法律，令力推该法案的总统…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvf2731370.shtml"
-    },
-    {
-      "id": "fff81611c9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-14 23:10",
-      "title": "沃伦致函 要求贝森特说明干预日元的依据",
-      "insight": "美国参议员伊丽莎白·沃伦要求财政部长斯科特·贝森特解释特朗普政府干预日元的依据，延续了这位资深民…",
-      "link": "https://finance.sina.com.cn/world/2026-08-14/doc-ininicva4003641.shtml"
-    },
-    {
-      "id": "ff9baecaf8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-14 23:09",
-      "title": "美国8月密歇根大学消费者信心指数初值为51.0，预估为55",
-      "insight": "密歇根大学8月消费者信心指数初值为51.0，前月为55.2。 预估中值为55，41位经济学家的预…",
-      "link": "https://finance.sina.com.cn/world/2026-08-14/doc-ininicva4003260.shtml"
     }
   ],
-  "updateTime": "2026-08-15 04:00"
+  "updateTime": "2026-08-15 05:52"
 }
