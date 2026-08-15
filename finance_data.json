@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff9190c91f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 22:48",
+      "title": "美国欲在经济上孤立伊朗 贝森特手里有哪些牌可打",
+      "insight": "美国财政部长斯科特·贝森特表示，美国正准备以前所未有的经济压力进一步打击伊朗。不过，鉴于伊朗目前…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhum0415299.shtml"
+    },
+    {
+      "id": "ff1f99d79b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 22:19",
+      "title": "英伟达披露第二季度末持有SpaceX股份210亿美元",
+      "insight": "英伟达当地时间周五披露，其在埃隆·马斯克旗下SpaceX的持股在第二季度末价值约210亿美元。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhuf2021551.shtml"
+    },
+    {
+      "id": "ff9d3efc1b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 22:16",
+      "title": "伯克希尔Q2增持谷歌170亿美元",
+      "insight": "伯克希尔在第二季度增持了170亿美元的Alphabet股票。 谷歌母公司Alphabet目前已成…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhua3292827.shtml"
+    },
+    {
+      "id": "ff8f43cf53",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 21:55",
+      "title": "伊朗与阿曼接近达成霍尔木兹海峡协议",
+      "insight": "伊朗和阿曼似乎正逐步接近就霍尔木兹海峡的管理方式达成协议。双方已就通过这一关键水道的航行路线取得…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhuf2010998.shtml"
+    },
+    {
       "id": "ff4512bbe3",
       "source": "环球市场播报",
       "tag": "美股",
@@ -143,43 +179,7 @@
       "title": "资管机构角逐德国规模达5000亿欧元养老金历史性转型",
       "insight": "自19世纪末俾斯麦首相创立以来，德国养老金体系规模最大的改革之一即将落地，将为现代基金管理人带来…",
       "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqt8729053.shtml"
-    },
-    {
-      "id": "ff333f96b5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-15 12:51",
-      "title": "印度下调8月下半年运输燃料出口税",
-      "insight": "印度政府一份公告显示，印度下调8月中旬至月底的柴油、汽油以及航空煤油出口关税。 柴油全部消费税由…",
-      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3552915.shtml"
-    },
-    {
-      "id": "ff24a1e7d6",
-      "source": "滚动播报",
-      "tag": "财经热点",
-      "time": "08-15 12:50",
-      "title": "刚刚！持续拉升，空头遭“重锤”！美国经济，生变！又有油轮，遭伊朗袭击！",
-      "insight": "本文源自：期货日报 一起来看下重要资讯！ 加密货币主要币种持续上涨截至发稿，比特币美元指数上涨0…",
-      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqs1951926.shtml"
-    },
-    {
-      "id": "ffb49a7c51",
-      "source": "新京报",
-      "tag": "财经热点",
-      "time": "08-15 12:40",
-      "title": "于东来凌晨发文回应“胖东来再招20名刑释人员”：第一批刑释人员上岗后没有一个离开",
-      "insight": "8月15日凌晨，胖东来创始人于东来在社交平台发文称：好的环境、好的制度、好的文化。胖东来第一批刑…",
-      "link": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkmqt8720843.shtml"
-    },
-    {
-      "id": "fff4acb1e1",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "08-15 12:39",
-      "title": "「微特稿」疑似受沙门氏菌污染 美国千万枚鸡蛋被召回",
-      "insight": "【新华社微特稿】法新社14日报道说，美国一家企业上月自愿召回疑似受沙门氏菌污染的上千万枚鸡蛋。美…",
-      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3552498.shtml"
     }
   ],
-  "updateTime": "2026-08-15 21:38"
+  "updateTime": "2026-08-15 23:41"
 }
