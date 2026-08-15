@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff7c72fdad",
+      "source": "中国新闻网",
+      "tag": "财经热点",
+      "time": "08-15 15:24",
+      "title": "郭德纲被立案调查，湖北文旅厅回应，此前西安站演出已取消",
+      "insight": "近日，郭德纲被举报于7月24日在武汉演出时，篡改红歌《弹起我心爱的土琵琶》。澎湃新闻从武汉市文旅…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkrwr8660094.shtml"
+    },
+    {
       "id": "ffbca18be3",
       "source": "滚动播报",
       "tag": "财经",
@@ -170,16 +179,7 @@
       "title": "卫龙的新增毛利，全花在广告上了 | 巴伦港股",
       "insight": "来源：Barrons巴伦 上半年卫龙毛利率有所回升，经营利润却同比下降3.3%。蔬菜制品和线上直…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-15/doc-ininkrwp2203062.shtml"
-    },
-    {
-      "id": "ff43d3a7c5",
-      "source": "滚动播报",
-      "tag": "财经热点",
-      "time": "08-15 12:10",
-      "title": "通胀数据降温叠加零售销售骤降，美元承压100关口！日元干预成果腰斩，160关口成生死线",
-      "insight": "来源：汇通 汇通财经APP讯——本周全球汇市在美国经济数据的双重冲击下波动明显。先是通胀指标连续…",
-      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3532044.shtml"
     }
   ],
-  "updateTime": "2026-08-15 15:18"
+  "updateTime": "2026-08-15 17:51"
 }
