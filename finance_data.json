@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff4512bbe3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 21:14",
+      "title": "美国海军据悉考虑应特朗普要求重新设计航空母舰",
+      "insight": "据多位现任和前任美国官员透露，美国海军正在考虑对其新型航空母舰进行重大重新设计，以更好地符合美国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhuh1644889.shtml"
+    },
+    {
+      "id": "ff13306856",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 19:23",
+      "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致，谈判仍在进行中",
+      "insight": "伊朗外交部发言人巴加埃周六表示，伊朗和阿曼已就“航运路线图”达成一致，这是管理霍尔木兹海峡交通的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmank1731018.shtml"
+    },
+    {
+      "id": "ff04577623",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 18:51",
+      "title": "韩国表示与美国就战略投资项目进行的磋商仍在进行中",
+      "insight": "韩国表示与美国就战略投资项目进行的磋商仍在继续，此前有媒体报道称华盛顿正敦促首尔加快推进相关计划…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmani2062137.shtml"
+    },
+    {
+      "id": "ff2d2634bb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-15 18:06",
+      "title": "伊朗正就向塔吉克斯坦供应石油和过剩燃料进行谈判",
+      "insight": "伊朗石油部长帕克内贾德周六在德黑兰会见塔吉克斯坦能源部长后表示，伊朗正就向塔吉克斯坦供应石油和过…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininkwep8600993.shtml"
+    },
+    {
       "id": "ff7c72fdad",
       "source": "中国新闻网",
       "tag": "财经热点",
@@ -143,43 +179,7 @@
       "title": "「微特稿」疑似受沙门氏菌污染 美国千万枚鸡蛋被召回",
       "insight": "【新华社微特稿】法新社14日报道说，美国一家企业上月自愿召回疑似受沙门氏菌污染的上千万枚鸡蛋。美…",
       "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqn3552498.shtml"
-    },
-    {
-      "id": "ff6ff5e350",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "08-15 12:18",
-      "title": "冲上热搜的地铁婚姻登记点：已开设两年，去年结婚登记数占所在县近一半",
-      "insight": "位于合肥轨交3号线幸福坝站的婚姻登记点近日再度受到舆论关注。 有媒体2026年8月14日报道称，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqn3536747.shtml"
-    },
-    {
-      "id": "ff0ba2c014",
-      "source": "新京报",
-      "tag": "财经热点",
-      "time": "08-15 12:18",
-      "title": "美团：已有20多个城市正评估“红灯停表”相关试点条件",
-      "insight": "新京报讯（记者秦胜南）美团“红灯停表”功能日前在北京试点路测。随后美团在北京举行骑手恳谈会听取骑…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-15/doc-ininkmqt8711389.shtml"
-    },
-    {
-      "id": "ff7b238bb7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-15 12:16",
-      "title": "美军航母遭遇的困境 与战争初期巴林基地遇袭息息相关",
-      "insight": "“亚伯拉罕·林肯”号航空母舰物资供给难题，在战争爆发首日之后便接踵而至，当时伊朗导弹与攻击无人机…",
-      "link": "https://finance.sina.com.cn/world/2026-08-15/doc-ininkmqr2261700.shtml"
-    },
-    {
-      "id": "ff8a855eb9",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-15 12:14",
-      "title": "卫龙的新增毛利，全花在广告上了 | 巴伦港股",
-      "insight": "来源：Barrons巴伦 上半年卫龙毛利率有所回升，经营利润却同比下降3.3%。蔬菜制品和线上直…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-08-15/doc-ininkrwp2203062.shtml"
     }
   ],
-  "updateTime": "2026-08-15 17:51"
+  "updateTime": "2026-08-15 21:38"
 }
