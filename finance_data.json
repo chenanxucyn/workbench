@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ffb2f3ad78",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:58",
+      "title": "Waymo获批大幅扩张加州运营范围，机器人出租车服务将覆盖18个县",
+      "insight": "Alphabet旗下自动驾驶公司Waymo已获得加州公共事业委员会（CPUC）批准，可在18个县…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1470667.shtml"
+    },
+    {
+      "id": "ff74d3c672",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:55",
+      "title": "英伟达洽谈向SB Energy投资30亿美元，为OpenAI俄亥俄数据中心提供百亿美元信贷支持",
+      "insight": "英伟达正与软银支持的SB Energy就最高30亿美元投资展开谈判。这笔投资与英伟达向OpenA…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1091191.shtml"
+    },
+    {
+      "id": "ffc779d483",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:46",
+      "title": "PayPal洽谈出售：Stripe与私募巨头Advent联手出价，谈判报价已超530亿美元",
+      "insight": "PayPal Holdings正与包括Stripe和私募股权公司Advent Internati…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1087940.shtml"
+    },
+    {
+      "id": "ffe53fd155",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:44",
+      "title": "女子指控继父用Grok将11岁童年照生成数千张露骨图像，加入起诉xAI诉讼",
+      "insight": "一名化名Jane Doe 4的女子已加入三名田纳西州青少年对埃隆·马斯克旗下xAI公司提起的诉讼…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1086935.shtml"
+    },
+    {
+      "id": "ffadd32b1f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:40",
+      "title": "特朗普家族旗舰加密企业获信托银行初步牌照，可自主发行与托管40亿美元稳定币",
+      "insight": "特朗普家族旗舰加密企业World Liberty Financial周五宣布，其信托公司已获得美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1085110.shtml"
+    },
+    {
+      "id": "ff6264a42b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:38",
+      "title": "史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币",
+      "insight": "美国货币监理署（OCC）近日有条件批准特朗普家族关联的加密企业World Liberty Tru…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1462590.shtml"
+    },
+    {
+      "id": "ffa7b2121f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:35",
+      "title": "美国南部近160万打鸡蛋因沙门氏菌紧急召回，FDA升级最高风险警报",
+      "insight": "国食品药品监督管理局（FDA）将一起涉及近160万打鸡蛋的召回事件上调至最高风险等级（Class…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9842673.shtml"
+    },
+    {
+      "id": "ffe1db8c37",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:32",
+      "title": "伯克希尔二季度持仓曝光：重仓Alphabet近380亿美元，家建股同步加码",
+      "insight": "伯克希尔·哈撒韦（Berkshire Hathaway）最新披露的二季度投资组合显示，该公司显著…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1081660.shtml"
+    },
+    {
+      "id": "ff285b36c3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 14:08",
+      "title": "韩国股市反弹 韩国投资者再度融资买入",
+      "insight": "市场数据周日显示，随着韩国股市自深度低点反弹，本土投资者再度大举融资买入本国股票。 韩国金融投资…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9830932.shtml"
+    },
+    {
+      "id": "ff6fbafdc3",
+      "source": "新浪证券",
+      "tag": "股市",
+      "time": "08-16 13:00",
+      "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
+      "insight": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-08-16/doc-ininnuvq1046937.shtml"
+    },
+    {
+      "id": "ffa696d7c3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 12:14",
+      "title": "民调：超半数美国选民称生活境况恶化，民主党在经济就业议题获得更多选民信任",
+      "insight": "一项民调显示，多数美国选民表示自身生活境况在特朗普执政期间出现恶化，民众对总统处理经济、生活成本…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqps1158228.shtml"
+    },
+    {
+      "id": "ff65361988",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 12:12",
+      "title": "大众等头部车企采用新型机油与润滑油配方以缓解供应短缺",
+      "insight": "大众、斯特兰蒂斯、丰田等车企开始采用新型调配机油与润滑油配方，以此缓解中东冲突引发的严重供应短缺…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7930118.shtml"
+    },
+    {
       "id": "ffe3abc6d3",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "韩国股市回暖卖空规模却不降反升 投资者疑虑芯片行业是否见顶",
       "insight": "周日公布的数据显示，尽管韩国股市从芯片及人工智能相关个股暴跌引发的行情崩盘中大幅反弹，但股票卖空…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1216181.shtml"
-    },
-    {
-      "id": "ff6a7e02cb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 09:15",
-      "title": "英伟达正洽谈向软银支持的SB Energy最高投资30亿美元 服务OpenAI巨型数据中心建设",
-      "insight": "据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1213779.shtml"
-    },
-    {
-      "id": "ff7f0ecbcf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 08:58",
-      "title": "美军司令登林肯号航母 长期部署致船员身心困境引争议",
-      "insight": "据美国中央司令部消息，负责对伊朗战事的美国海军上将于周六登上亚伯拉罕・林肯号航空母舰。该航母经过…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv7978668.shtml"
-    },
-    {
-      "id": "ff28f3b9cf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 08:41",
-      "title": "哈佛持有22亿美元SpaceX股权 多所美国高校基金斩获巨额回报",
-      "insight": "哈佛大学投资管理机构披露持有价值22亿美元SpaceX股份。这家机构早年投资埃隆・马斯克旗下火箭…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv7971618.shtml"
-    },
-    {
-      "id": "ff7a4f21ab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 08:03",
-      "title": "澳大利亚新南威尔士州将于11月启动枪支回购计划",
-      "insight": "继去年悉尼邦迪区枪击命案发生后，澳大利亚新南威尔士州将于11月推行枪支回购项目。 自11月2日起…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininncxx8087545.shtml"
-    },
-    {
-      "id": "fff90ebd7b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-16 05:53",
-      "title": "美国中央司令部指挥官完成为期10天的中东之行",
-      "insight": "美国中央司令部指挥官于8月15日结束为期10天的中东行程，此行到访六个国家，并登上部署于阿拉伯海…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1777011.shtml"
-    },
-    {
-      "id": "ffdef819e7",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-16 05:25",
-      "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
-      "insight": "今天（16日）早晨，厄瓜多尔共和国总统丹尼尔·罗伊-希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrx1770925.shtml"
-    },
-    {
-      "id": "ff51d69bd2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-16 04:54",
-      "title": "特朗普释放可能参与2028年大选的信号",
-      "insight": "美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1763357.shtml"
-    },
-    {
-      "id": "ff22b93004",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-16 04:48",
-      "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
-      "insight": "央视记者当地时间8月15日获悉，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrz8171244.shtml"
-    },
-    {
-      "id": "ff9877be4a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-16 03:16",
-      "title": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分",
-      "insight": "据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtkf0249840.shtml"
-    },
-    {
-      "id": "ff18adfe99",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-16 02:03",
-      "title": "受美国海上封锁影响，伊朗实际上已经停止汽油进口",
-      "insight": "伊朗议会能源委员会发言人礼萨·塞帕万周六表示，受美国海上封锁影响，伊朗实际上已经停止汽油进口。“…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtiz1846000.shtml"
-    },
-    {
-      "id": "ff9190c91f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-15 22:48",
-      "title": "美国欲在经济上孤立伊朗 贝森特手里有哪些牌可打",
-      "insight": "美国财政部长斯科特·贝森特表示，美国正准备以前所未有的经济压力进一步打击伊朗。不过，鉴于伊朗目前…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhum0415299.shtml"
-    },
-    {
-      "id": "ff1b8188af",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-15 22:42",
-      "title": "以色列正试图操控人工智能关于加沙议题的输出内容",
-      "insight": "以色列已发起一场公关宣传活动，目的是引导ChatGPT等人工智能系统在回答有关以色列、加沙以及以…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-15/doc-ininmhum0412804.shtml"
     }
   ],
-  "updateTime": "2026-08-16 11:15"
+  "updateTime": "2026-08-16 15:43"
 }
