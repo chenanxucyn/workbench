@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "北极航线常态化周班运营有何意义",
-      "heat": 11297656,
+      "heat": 11293193,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "中国工程机械5年出口规模3倍增长",
-      "heat": 11285175,
+      "heat": 11103822,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "吴艳妮夺全锦赛100米栏冠军",
-      "heat": 11101653,
+      "heat": 11100678,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "王艺迪4:2战胜张本美和",
-      "heat": 10525709,
+      "heat": 10500105,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -42,18 +42,18 @@
     },
     {
       "rank": 5,
-      "topic": "幸福是和同频的人一起看世界",
-      "heat": 10524178,
+      "topic": "再见太难",
+      "heat": 10457731,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E6%98%AF%E5%92%8C%E5%90%8C%E9%A2%91%E7%9A%84%E4%BA%BA%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%B8%96%E7%95%8C?type=general",
-      "scheme": "snssdk1128://search/幸福是和同频的人一起看世界"
+      "link": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E5%A4%AA%E9%9A%BE?type=general",
+      "scheme": "snssdk1128://search/再见太难"
     },
     {
       "rank": 6,
       "topic": "情绪有出口那一定是登机口",
-      "heat": 9394566,
+      "heat": 9327629,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -62,18 +62,8 @@
     },
     {
       "rank": 7,
-      "topic": "人人都是美食艺术家",
-      "heat": 9289062,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%E5%AE%B6?type=general",
-      "scheme": "snssdk1128://search/人人都是美食艺术家"
-    },
-    {
-      "rank": 8,
       "topic": "给童年动画伙伴的回信",
-      "heat": 9269867,
+      "heat": 9325190,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -81,9 +71,19 @@
       "scheme": "snssdk1128://search/给童年动画伙伴的回信"
     },
     {
+      "rank": 8,
+      "topic": "人人都是美食艺术家",
+      "heat": 9213958,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BA%BA%E4%BA%BA%E9%83%BD%E6%98%AF%E7%BE%8E%E9%A3%9F%E8%89%BA%E6%9C%AF%E5%AE%B6?type=general",
+      "scheme": "snssdk1128://search/人人都是美食艺术家"
+    },
+    {
       "rank": 9,
       "topic": "媒体评给00后的信走红",
-      "heat": 9211506,
+      "heat": 9161583,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -92,38 +92,38 @@
     },
     {
       "rank": 10,
-      "topic": "王曼昱4:0蒯曼晋级决赛",
-      "heat": 9178418,
+      "topic": "幸福是和同频的人一起看世界",
+      "heat": 9151057,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B14%3A0%E8%92%AF%E6%9B%BC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/王曼昱4:0蒯曼晋级决赛"
+      "link": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E6%98%AF%E5%92%8C%E5%90%8C%E9%A2%91%E7%9A%84%E4%BA%BA%E4%B8%80%E8%B5%B7%E7%9C%8B%E4%B8%96%E7%95%8C?type=general",
+      "scheme": "snssdk1128://search/幸福是和同频的人一起看世界"
     },
     {
       "rank": 11,
-      "topic": "再见太难",
-      "heat": 9162629,
+      "topic": "一条AI短片演绎时间焦虑",
+      "heat": 9106302,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%86%8D%E8%A7%81%E5%A4%AA%E9%9A%BE?type=general",
-      "scheme": "snssdk1128://search/再见太难"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1AI%E7%9F%AD%E7%89%87%E6%BC%94%E7%BB%8E%E6%97%B6%E9%97%B4%E7%84%A6%E8%99%91?type=general",
+      "scheme": "snssdk1128://search/一条AI短片演绎时间焦虑"
     },
     {
       "rank": 12,
-      "topic": "侵华日军南京暴行再添新证",
-      "heat": 9161148,
+      "topic": "你嫣然的一笑如含苞待放",
+      "heat": 8832734,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BE%B5%E5%8D%8E%E6%97%A5%E5%86%9B%E5%8D%97%E4%BA%AC%E6%9A%B4%E8%A1%8C%E5%86%8D%E6%B7%BB%E6%96%B0%E8%AF%81?type=general",
-      "scheme": "snssdk1128://search/侵华日军南京暴行再添新证"
+      "link": "https://www.douyin.com/search/%E4%BD%A0%E5%AB%A3%E7%84%B6%E7%9A%84%E4%B8%80%E7%AC%91%E5%A6%82%E5%90%AB%E8%8B%9E%E5%BE%85%E6%94%BE?type=general",
+      "scheme": "snssdk1128://search/你嫣然的一笑如含苞待放"
     },
     {
       "rank": 13,
       "topic": "一条谣言“诞生”的全流程",
-      "heat": 9101257,
+      "heat": 8307924,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,18 +132,18 @@
     },
     {
       "rank": 14,
-      "topic": "一条AI短片演绎时间焦虑",
-      "heat": 9026388,
+      "topic": "想起你轻柔的话语 曾打湿我眼眶",
+      "heat": 8213419,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E6%9D%A1AI%E7%9F%AD%E7%89%87%E6%BC%94%E7%BB%8E%E6%97%B6%E9%97%B4%E7%84%A6%E8%99%91?type=general",
-      "scheme": "snssdk1128://search/一条AI短片演绎时间焦虑"
+      "link": "https://www.douyin.com/search/%E6%83%B3%E8%B5%B7%E4%BD%A0%E8%BD%BB%E6%9F%94%E7%9A%84%E8%AF%9D%E8%AF%AD%20%E6%9B%BE%E6%89%93%E6%B9%BF%E6%88%91%E7%9C%BC%E7%9C%B6?type=general",
+      "scheme": "snssdk1128://search/想起你轻柔的话语 曾打湿我眼眶"
     },
     {
       "rank": 15,
       "topic": "侯明昊深圳演唱会",
-      "heat": 8531798,
+      "heat": 8112326,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -152,18 +152,18 @@
     },
     {
       "rank": 16,
-      "topic": "你嫣然的一笑如含苞待放",
-      "heat": 8012773,
+      "topic": "来自奇妙小镇奇奇的一封信",
+      "heat": 8021786,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BD%A0%E5%AB%A3%E7%84%B6%E7%9A%84%E4%B8%80%E7%AC%91%E5%A6%82%E5%90%AB%E8%8B%9E%E5%BE%85%E6%94%BE?type=general",
-      "scheme": "snssdk1128://search/你嫣然的一笑如含苞待放"
+      "link": "https://www.douyin.com/search/%E6%9D%A5%E8%87%AA%E5%A5%87%E5%A6%99%E5%B0%8F%E9%95%87%E5%A5%87%E5%A5%87%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1?type=general",
+      "scheme": "snssdk1128://search/来自奇妙小镇奇奇的一封信"
     },
     {
       "rank": 17,
       "topic": "铠甲勇士给00后的一封信",
-      "heat": 8008481,
+      "heat": 7963995,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -173,7 +173,7 @@
     {
       "rank": 18,
       "topic": "孟博龙李瑞战胜恶鼠程鑫凯",
-      "heat": 7871587,
+      "heat": 7882856,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -183,7 +183,7 @@
     {
       "rank": 19,
       "topic": "我们的少年时代2少年群像",
-      "heat": 7829116,
+      "heat": 7845497,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -192,28 +192,8 @@
     },
     {
       "rank": 20,
-      "topic": "想起你轻柔的话语 曾打湿我眼眶",
-      "heat": 7826579,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%83%B3%E8%B5%B7%E4%BD%A0%E8%BD%BB%E6%9F%94%E7%9A%84%E8%AF%9D%E8%AF%AD%20%E6%9B%BE%E6%89%93%E6%B9%BF%E6%88%91%E7%9C%BC%E7%9C%B6?type=general",
-      "scheme": "snssdk1128://search/想起你轻柔的话语 曾打湿我眼眶"
-    },
-    {
-      "rank": 21,
-      "topic": "王源下一站南京见",
-      "heat": 7788372,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E6%BA%90%E4%B8%8B%E4%B8%80%E7%AB%99%E5%8D%97%E4%BA%AC%E8%A7%81?type=general",
-      "scheme": "snssdk1128://search/王源下一站南京见"
-    },
-    {
-      "rank": 22,
       "topic": "UFC马哈切夫成功卫冕",
-      "heat": 7774795,
+      "heat": 7841203,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -221,29 +201,19 @@
       "scheme": "snssdk1128://search/UFC马哈切夫成功卫冕"
     },
     {
-      "rank": 23,
-      "topic": "来自奇妙小镇奇奇的一封信",
-      "heat": 7771954,
+      "rank": 21,
+      "topic": "手瓦莲花套上线",
+      "heat": 7821479,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9D%A5%E8%87%AA%E5%A5%87%E5%A6%99%E5%B0%8F%E9%95%87%E5%A5%87%E5%A5%87%E7%9A%84%E4%B8%80%E5%B0%81%E4%BF%A1?type=general",
-      "scheme": "snssdk1128://search/来自奇妙小镇奇奇的一封信"
+      "link": "https://www.douyin.com/search/%E6%89%8B%E7%93%A6%E8%8E%B2%E8%8A%B1%E5%A5%97%E4%B8%8A%E7%BA%BF?type=general",
+      "scheme": "snssdk1128://search/手瓦莲花套上线"
     },
     {
-      "rank": 24,
-      "topic": "锐评说唱巅峰对决第八期",
-      "heat": 7763536,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%94%90%E8%AF%84%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%AF%B9%E5%86%B3%E7%AC%AC%E5%85%AB%E6%9C%9F?type=general",
-      "scheme": "snssdk1128://search/锐评说唱巅峰对决第八期"
-    },
-    {
-      "rank": 25,
+      "rank": 22,
       "topic": "我们的少年时代2开播",
-      "heat": 7753894,
+      "heat": 7766575,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -251,9 +221,19 @@
       "scheme": "snssdk1128://search/我们的少年时代2开播"
     },
     {
-      "rank": 26,
+      "rank": 23,
+      "topic": "王曼昱4:0蒯曼晋级决赛",
+      "heat": 7761640,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%8E%8B%E6%9B%BC%E6%98%B14%3A0%E8%92%AF%E6%9B%BC%E6%99%8B%E7%BA%A7%E5%86%B3%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/王曼昱4:0蒯曼晋级决赛"
+    },
+    {
+      "rank": 24,
       "topic": "街霸吴泽昊降维打击大N",
-      "heat": 7747653,
+      "heat": 7759258,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -261,19 +241,9 @@
       "scheme": "snssdk1128://search/街霸吴泽昊降维打击大N"
     },
     {
-      "rank": 27,
-      "topic": "剪出重器的年代成长热血群像",
-      "heat": 7736393,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%89%AA%E5%87%BA%E9%87%8D%E5%99%A8%E7%9A%84%E5%B9%B4%E4%BB%A3%E6%88%90%E9%95%BF%E7%83%AD%E8%A1%80%E7%BE%A4%E5%83%8F?type=general",
-      "scheme": "snssdk1128://search/剪出重器的年代成长热血群像"
-    },
-    {
-      "rank": 28,
+      "rank": 25,
       "topic": "就让这山风不语抚平我所有的焦虑",
-      "heat": 7726891,
+      "heat": 7751879,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -281,9 +251,29 @@
       "scheme": "snssdk1128://search/就让这山风不语抚平我所有的焦虑"
     },
     {
-      "rank": 29,
+      "rank": 26,
+      "topic": "重器新案件亡妻归来",
+      "heat": 7744533,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%87%8D%E5%99%A8%E6%96%B0%E6%A1%88%E4%BB%B6%E4%BA%A1%E5%A6%BB%E5%BD%92%E6%9D%A5?type=general",
+      "scheme": "snssdk1128://search/重器新案件亡妻归来"
+    },
+    {
+      "rank": 27,
+      "topic": "一起相约浪漫七夕",
+      "heat": 7736870,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E7%9B%B8%E7%BA%A6%E6%B5%AA%E6%BC%AB%E4%B8%83%E5%A4%95?type=general",
+      "scheme": "snssdk1128://search/一起相约浪漫七夕"
+    },
+    {
+      "rank": 28,
       "topic": "沈佳润二专WHY NOT ME",
-      "heat": 7723820,
+      "heat": 7730531,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -291,15 +281,25 @@
       "scheme": "snssdk1128://search/沈佳润二专WHY NOT ME"
     },
     {
-      "rank": 30,
-      "topic": "手瓦莲花套上线",
-      "heat": 7713082,
+      "rank": 29,
+      "topic": "这个秋天我要做个帅女",
+      "heat": 7728505,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%89%8B%E7%93%A6%E8%8E%B2%E8%8A%B1%E5%A5%97%E4%B8%8A%E7%BA%BF?type=general",
-      "scheme": "snssdk1128://search/手瓦莲花套上线"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E4%B8%AA%E7%A7%8B%E5%A4%A9%E6%88%91%E8%A6%81%E5%81%9A%E4%B8%AA%E5%B8%85%E5%A5%B3?type=general",
+      "scheme": "snssdk1128://search/这个秋天我要做个帅女"
+    },
+    {
+      "rank": 30,
+      "topic": "童年动画三巨头集体在抖音写信",
+      "heat": 7716882,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%AB%A5%E5%B9%B4%E5%8A%A8%E7%94%BB%E4%B8%89%E5%B7%A8%E5%A4%B4%E9%9B%86%E4%BD%93%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%86%99%E4%BF%A1?type=general",
+      "scheme": "snssdk1128://search/童年动画三巨头集体在抖音写信"
     }
   ],
-  "updateTime": "2026-08-17 02:59"
+  "updateTime": "2026-08-17 05:39"
 }
