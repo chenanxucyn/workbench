@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "ff9ee2d780",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 15:00",
+      "title": "转型多年业绩未见起色，重资产“包袱”沉重，湖北广电中报续亏超2.52亿",
+      "insight": "来源：证券之星 近日，湖北广电（000665.SZ）发布2026年半年度业绩预告。预计今年上半年…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000543.shtml"
+    },
+    {
+      "id": "ff787dd088",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 15:00",
+      "title": "冠豪高新：5.48亿资产处置“扮靓”利润，现金流仍未回正",
+      "insight": "来源：证券之星 8月8日，冠豪高新（600433.SH）披露2026年半年度报告，账面数据呈现大…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000329.shtml"
+    },
+    {
+      "id": "ffa8f9b8f7",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 15:00",
+      "title": "江波龙：百亿存货压顶、现金流持续“失血”，高价定增套牢投资机构",
+      "insight": "来源：证券之星 近日，江波龙（301308.SZ）披露了2026年半年度报告，公司营收和净利润双…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcp7772625.shtml"
+    },
+    {
       "id": "ffb2f3ad78",
       "source": "环球市场播报",
       "tag": "美股",
@@ -152,34 +179,7 @@
       "title": "韩国每五名成年人中就有一人持有三星电子股票",
       "insight": "今年上半年，三星电子个人小股东数量逼近800万。这一数字大幅攀升，源于股市空前火热，叠加市场对半…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9985828.shtml"
-    },
-    {
-      "id": "ff9f29038c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 09:48",
-      "title": "LG电子巴西新冰箱工厂正式投产",
-      "insight": "韩国大型家电厂商LG电子周日表示，为进一步深耕南美市场，其位于巴西的全新家电工厂已正式投产。 这…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9981787.shtml"
-    },
-    {
-      "id": "ffa72ce345",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 09:43",
-      "title": "韩国家庭信贷料首次突破2000万亿韩元关口",
-      "insight": "行业消息人士周日透露，受住房抵押贷款与股票质押贷款增长推动，韩国二季度家庭信贷规模料将首次突破2…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9979630.shtml"
-    },
-    {
-      "id": "ff56de54e6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 09:22",
-      "title": "韩国股市回暖卖空规模却不降反升 投资者疑虑芯片行业是否见顶",
-      "insight": "周日公布的数据显示，尽管韩国股市从芯片及人工智能相关个股暴跌引发的行情崩盘中大幅反弹，但股票卖空…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1216181.shtml"
     }
   ],
-  "updateTime": "2026-08-16 15:43"
+  "updateTime": "2026-08-16 17:54"
 }
