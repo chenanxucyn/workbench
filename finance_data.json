@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "id": "ff58013169",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-16 22:35",
+      "title": "688702签大额芯片长单，金额超去年营收五成",
+      "insight": "8月16日，盛科通信（688702）发布公告披露，公司近日与关联方中电港签订以太网交换芯片产品销…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininprze0750710.shtml"
+    },
+    {
+      "id": "ff4203df66",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 22:18",
+      "title": "伊朗议会投票通过新法案，将接受“敌对媒体”采访定为刑事犯罪",
+      "insight": "伊朗议会周日通过一项法案，将与被认为对伊朗“敌对”的媒体进行采访及其他通讯往来定为刑事犯罪，这类…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininprze0742954.shtml"
+    },
+    {
       "id": "ffaacb8b38",
       "source": "环球市场播报",
       "tag": "美股",
@@ -161,25 +179,7 @@
       "title": "伯克希尔二季度持仓曝光：重仓Alphabet近380亿美元，家建股同步加码",
       "insight": "伯克希尔·哈撒韦（Berkshire Hathaway）最新披露的二季度投资组合显示，该公司显著…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1081660.shtml"
-    },
-    {
-      "id": "ff285b36c3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:08",
-      "title": "韩国股市反弹 韩国投资者再度融资买入",
-      "insight": "市场数据周日显示，随着韩国股市自深度低点反弹，本土投资者再度大举融资买入本国股票。 韩国金融投资…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9830932.shtml"
-    },
-    {
-      "id": "ff6fbafdc3",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "08-16 13:00",
-      "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
-      "insight": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-16/doc-ininnuvq1046937.shtml"
     }
   ],
-  "updateTime": "2026-08-16 21:43"
+  "updateTime": "2026-08-16 23:44"
 }
