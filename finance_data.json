@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ffaacb8b38",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 20:54",
+      "title": "闪迪股价连涨暴涨！华尔街力挺其AI闪存长期增长雄心",
+      "insight": "股价强势表现周五，闪迪（Sandisk，股票代码：SNDK）股价大涨约6%，延续前一交易日13%…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmth0839179.shtml"
+    },
+    {
+      "id": "ff2651c353",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-16 20:51",
+      "title": "高盛助攻英伟达：5000亿美元计划，破解AI基建最大资金瓶颈",
+      "insight": "英伟达（Nvidia）正着手解决AI热潮中日益凸显的核心制约——融资难题。高盛（Goldman …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmtk9602522.shtml"
+    },
+    {
+      "id": "ff3ca3cffd",
+      "source": "券商中国",
+      "tag": "股市",
+      "time": "08-16 20:35",
+      "title": "四连板熄火！“龙餐馆”概念炒作落幕，北京文化上半年再度亏损",
+      "insight": "这个暑期档，电影业热闹非凡。热门电影《欢迎来龙餐馆》出品方之一北京文化上半年业绩曝光。 近日，北…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9599490.shtml"
+    },
+    {
+      "id": "ffb2d0d328",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 20:34",
+      "title": "000036，突遭利空",
+      "insight": "来源：中国基金报 【导读】华联控股产业转型突然遇阻，拟投资阿根廷锂盐湖项目触发审查 中国基金报记…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmth0832854.shtml"
+    },
+    {
+      "id": "ff41fc4033",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 19:38",
+      "title": "601996，需缴回约2700万元退税款，已连续2年亏损",
+      "insight": "来源：中国基金报 【导读】丰林集团被要求缴回约2700万元退税款 中国基金报记者 夏天 8月16…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmti7587496.shtml"
+    },
+    {
+      "id": "ff092a8447",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 19:30",
+      "title": "股价年内跌超四成，子公司股权流拍欠薪传闻缠身，凯撒旅业账面减亏仍靠非经常性损益“粉饰”",
+      "insight": "来源：华夏时报 华夏时报记者 王敬 北京报道 近日，老牌出境游旅企凯撒旅业（000796.SZ）…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtf1196090.shtml"
+    },
+    {
+      "id": "ffd24cd2a4",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-16 19:30",
+      "title": "“芯片”借壳幻象破灭：宝莱特易主夭折，三年亏超两亿元拿什么熬过寒冬？",
+      "insight": "来源：华夏时报 华夏时报记者 于娜 北京报道 没有基本面支撑的“易主”预期，或许只是一场易碎的泡…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9577146.shtml"
+    },
+    {
       "id": "ff9ee2d780",
       "source": "市场资讯",
       "tag": "股市",
@@ -116,70 +179,7 @@
       "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
       "insight": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）…",
       "link": "https://finance.sina.com.cn/stock/observe/2026-08-16/doc-ininnuvq1046937.shtml"
-    },
-    {
-      "id": "ffa696d7c3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 12:14",
-      "title": "民调：超半数美国选民称生活境况恶化，民主党在经济就业议题获得更多选民信任",
-      "insight": "一项民调显示，多数美国选民表示自身生活境况在特朗普执政期间出现恶化，民众对总统处理经济、生活成本…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqps1158228.shtml"
-    },
-    {
-      "id": "ff65361988",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 12:12",
-      "title": "大众等头部车企采用新型机油与润滑油配方以缓解供应短缺",
-      "insight": "大众、斯特兰蒂斯、丰田等车企开始采用新型调配机油与润滑油配方，以此缓解中东冲突引发的严重供应短缺…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7930118.shtml"
-    },
-    {
-      "id": "ffe3abc6d3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 11:13",
-      "title": "韩国首尔首次购房人数创四年多来新高",
-      "insight": "一份报告显示，韩国首尔首次购房人群数量创下四年八个月新高。 韩国法院不动产登记信息广场16日数据…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7905703.shtml"
-    },
-    {
-      "id": "ffc9dea236",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 10:58",
-      "title": "美国史无前例 特朗普家族加密企业World Liberty获银行牌照",
-      "insight": "由特朗普任命的国家银行监管机构，向特朗普家族加密业务旗下一家子公司授予银行牌照的有条件批准。这将…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpu9880058.shtml"
-    },
-    {
-      "id": "fff5ec55a8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 10:20",
-      "title": "英国7月通胀料回升至2.9% 英国央行警惕AI芯片与能源双重冲击",
-      "insight": "未来一周，英国消费者物价数据将成为市场焦点。受人工智能引发的存储芯片短缺、能源成本走高影响，英国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv8014779.shtml"
-    },
-    {
-      "id": "ff64720bc5",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "08-16 10:08",
-      "title": "苹果想让长鑫当“鲶鱼”",
-      "insight": "来源：三里河 以长鑫存储为代表的中国企业正在用技术和市场说话。 苹果最近正在主动接触长鑫存储。 …",
-      "link": "https://finance.sina.com.cn/world/2026-08-16/doc-ininnkfu1241211.shtml"
-    },
-    {
-      "id": "ff02481b7e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 09:59",
-      "title": "韩国每五名成年人中就有一人持有三星电子股票",
-      "insight": "今年上半年，三星电子个人小股东数量逼近800万。这一数字大幅攀升，源于股市空前火热，叠加市场对半…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9985828.shtml"
     }
   ],
-  "updateTime": "2026-08-16 17:54"
+  "updateTime": "2026-08-16 21:43"
 }
