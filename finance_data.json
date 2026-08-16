@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff895b9148",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-17 00:52",
+      "title": "美方否认在马岛主权争端中改变立场",
+      "insight": "美国驻阿根廷大使彼得·拉梅拉斯15日否认美国政府改变了在马尔维纳斯群岛（简称马岛，英国称福克兰群…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininpwii8182048.shtml"
+    },
+    {
       "id": "ff58013169",
       "source": "上海证券报",
       "tag": "股市",
@@ -170,16 +179,7 @@
       "title": "美国南部近160万打鸡蛋因沙门氏菌紧急召回，FDA升级最高风险警报",
       "insight": "国食品药品监督管理局（FDA）将一起涉及近160万打鸡蛋的召回事件上调至最高风险等级（Class…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9842673.shtml"
-    },
-    {
-      "id": "ffe1db8c37",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:32",
-      "title": "伯克希尔二季度持仓曝光：重仓Alphabet近380亿美元，家建股同步加码",
-      "insight": "伯克希尔·哈撒韦（Berkshire Hathaway）最新披露的二季度投资组合显示，该公司显著…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1081660.shtml"
     }
   ],
-  "updateTime": "2026-08-16 23:44"
+  "updateTime": "2026-08-17 02:59"
 }
