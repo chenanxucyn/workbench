@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff1f8e426b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-17 21:55",
-      "title": "油价上涨：伊朗拒绝延长临时协议，威胁升级冲突",
-      "insight": "核心要点美伊双方 6 月 17 日签署的谅解备忘录于周一到期。伊朗塔斯尼姆通讯社报道，伊朗外交部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyf6808989.shtml"
-    },
-    {
-      "id": "fff2d079db",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-17 21:49",
-      "title": "上纬新材“易主”后首份半年报：“增收不增利”问题显现，机器人业务仍无营收",
-      "insight": "来源：国际金融报 智元机器人入主近一年后，上纬新材交出了跨界具身智能后的首份半年报。 8月17日…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininruym7736277.shtml"
-    },
-    {
-      "id": "ff0017b60d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-17 21:31",
-      "title": "巴克莱改组投行业务高层",
-      "insight": "媒体援引巴克莱首席执行官CS Venkatakrishnan周一发出的内部备忘录报道称，巴克莱正…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh8993448.shtml"
-    },
-    {
-      "id": "ffb3223517",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-17 21:30",
-      "title": "开盘：三大股指涨跌不一 投资者权衡AI乐观情绪与美伊紧张局势",
-      "insight": "三大股指开盘涨跌不一，道指跌0.24%，标普500指数涨0.04%，纳指涨0.19%。投资者一边…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0024347.shtml"
-    },
-    {
-      "id": "fff6e06d54",
+      "id": "ffec8df848",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-17 21:30",
-      "title": "加拿大通胀率升至3% 中东冲突继续推升汽油价格",
-      "insight": "随着中东冲突继续推升汽油价格，加拿大通胀率小幅升至3%，但核心价格指标涨幅仍较温和。 加拿大统计…",
-      "link": "https://finance.sina.com.cn/world/2026-08-17/doc-ininruyf6795386.shtml"
+      "time": "08-17 23:42",
+      "title": "汇丰：美联储缩减持仓将使美国国债更依赖价格敏感型买家",
+      "insight": "汇丰策略师Dhiraj Narula和经济学家Ryan Wang在一份报告中表示，如果美联储缩减…",
+      "link": "https://finance.sina.com.cn/world/2026-08-17/doc-ininrzfz9947773.shtml"
     },
     {
-      "id": "ff24e58df0",
+      "id": "ff01f5c4c3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-17 23:35",
+      "title": "AI融资洪流下华府与硅谷抢资本 “逆向挤出效应”逼高美债收益率",
+      "insight": "经济学中有一个由来已久的理论认为，政府过度举债可能挤占企业通过金融市场融资的空间，并将企业融资利…",
+      "link": "https://finance.sina.com.cn/world/2026-08-17/doc-ininrzhc6718153.shtml"
+    },
+    {
+      "id": "fff744de09",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:25",
-      "title": "Arm CFO最新访谈：内存是首要瓶颈 大型并购具备可行性",
-      "insight": "受旗下CPU设计需求高涨，外加全新AI芯片产品销售向好推动，英国芯片企业Arm股价今年已翻倍以上…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0020763.shtml"
+      "time": "08-17 23:33",
+      "title": "OpenAI敲定俄亥俄州超大型数据中心租约，英伟达提供资金背书",
+      "insight": "与软银旗下 SB Energy 达成协议，历时数周谈判落地迄今为止规模最大的数据中心项目3 月，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzfz9944915.shtml"
     },
     {
-      "id": "ffadbd5553",
+      "id": "ff55a1b573",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:23",
-      "title": "阿里发布可在笔记本运行的全新大模型，正面迎战Meta的AI攻势",
-      "insight": "核心要点阿里巴巴推出通义全新 AI 模型，专门适配笔记本电脑等消费级硬件运行。同时开放旗下最强模…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0019913.shtml"
+      "time": "08-17 23:30",
+      "title": "泛大西洋投资集团再度考虑IPO",
+      "insight": "该机构管理规模约 1300 亿美元，曾于 2023 年递交上市申请泛大西洋投资集团首席执行官比尔…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzfz9944213.shtml"
     },
     {
-      "id": "ffc0dceb3b",
+      "id": "ff163df495",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:20",
-      "title": "Meta加州诉讼进入关键节点，或将面临“天文数字级”法律后果",
-      "insight": "核心要点在新墨西哥州败诉不到两周，Meta 迎来一场由加州总检察长牵头的重大法律考验。加州总检察…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7714260.shtml"
+      "time": "08-17 23:28",
+      "title": "美国奢侈品牌的秘密武器：12美元网球袜",
+      "insight": "蔻驰与拉夫劳伦持续增长，源于读懂中产消费者的购买力蔻驰上季度销售额增长 14%。 市场给欧洲奢侈…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzfz9943573.shtml"
     },
     {
-      "id": "ff7a8f9487",
+      "id": "ffb2084dc9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-17 23:19",
+      "title": "超级富豪家族办公室扎堆SpaceX 持股规模超过38亿美元",
+      "insight": "为美洲、欧洲和中东的超级富豪进行投资的机构已建立了数十亿美元的SpaceX投资敞口，凸显出这些机…",
+      "link": "https://finance.sina.com.cn/tob/2026-08-17/doc-ininrzfz9941323.shtml"
+    },
+    {
+      "id": "ffeb183b33",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-17 23:16",
+      "title": "英伟达将向OpenAI俄亥俄数据中心投资至多1050亿美元",
+      "insight": "根据一份财务文件，英伟达同意投入最高1050亿美元支持俄亥俄州一座大型新数据中心园区。该园区未来…",
+      "link": "https://finance.sina.com.cn/tob/2026-08-17/doc-ininrzhc6712729.shtml"
+    },
+    {
+      "id": "ff2745d471",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:17",
-      "title": "“别过于高枕无忧”：华尔街“恐慌指数”跌至2026年低点，这份平静恐怕难以持久",
-      "insight": "核心要点股市逼近历史新高之际，华尔街所谓的 “恐慌指数” VIX 跌至今年最低水平。分析师表示，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyf6789275.shtml"
+      "time": "08-17 23:03",
+      "title": "看多SpaceX的投资者务必记住一件事",
+      "insight": "作者：布莱恩・索齐 看多 SpaceX（SPCX）的投资者，未来一年左右应当密切关注该公司的现金…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzhe8922082.shtml"
     },
     {
-      "id": "ff119308b6",
+      "id": "ffd488619b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:14",
-      "title": "Vista Energy上涨5%：亿万富翁彼得・蒂尔入股这家阿根廷页岩油生产商",
-      "insight": "核心要点彼得・蒂尔旗下对冲基金上周五披露持仓，Vista Energy 盘前股价走高。这家阿根廷…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7710772.shtml"
+      "time": "08-17 22:57",
+      "title": "法拉利首款纯电动车Luce拍卖成交价创纪录达4000万美元",
+      "insight": "法拉利首款全电动车Luce在加州蒙特雷汽车周（Monterey Car Week）的苏富比拍卖中…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzhe8918535.shtml"
     },
     {
-      "id": "ff4c1b2e49",
+      "id": "ff026c06fe",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:11",
-      "title": "三年后的电视行业会是什么模样？媒体业内人士给出预测",
-      "insight": "核心要点采访多位媒体高管，包括吉米・皮塔罗、克里斯・温弗雷、安贾利・苏德、杰夫・扎克，请他们预判…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7708606.shtml"
+      "time": "08-17 22:55",
+      "title": "为什么大型科技公司的AI支出比表面看起来高出3万亿美元？",
+      "insight": "分析显示，Alphabet、Meta、Microsoft、Amazon等大型科技公司在最新财报中…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzhc6706376.shtml"
     },
     {
-      "id": "ff26877b42",
+      "id": "ff691660e8",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:06",
-      "title": "OpenAI总裁回应高管流失潮：并非十分反常",
-      "insight": "OpenAI总裁格雷格・布罗克曼于周一回应，淡化市场对这家人工智能公司高管流失的担忧，他认为这一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7705518.shtml"
+      "time": "08-17 22:51",
+      "title": "英伟达为OpenAI俄亥俄数据中心提供融资与算力支持，锁定4.25吉瓦初始容量",
+      "insight": "Nvidia周一宣布，将为OpenAI在俄亥俄州的新AI数据中心提供信用支持与算力保障。该项目由…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0062997.shtml"
     },
     {
-      "id": "ff3d4d4d44",
+      "id": "ff5ee30b64",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 21:06",
-      "title": "推动市场创下新高的盈利盛宴，或许并非表面看上去那般美好",
-      "insight": "作者：迈克尔・桑托利 核心要点标普 500 指数 12 个交易日累计上涨超 6%，创下历史新高。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7705060.shtml"
+      "time": "08-17 22:50",
+      "title": "华尔街“恐惧指数”跌至2026年低点：分析师警告“别太自在”",
+      "insight": "华尔街衡量市场恐慌程度的关键指标——芝加哥期权交易所波动率指数（VIX）周五跌至14.2，创下2…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7772983.shtml"
     },
     {
-      "id": "ff59e200fb",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "08-17 21:05",
-      "title": "痛惜！铜箔大牛股，董秘突发病逝，年仅56岁",
-      "insight": "8月17日，铜冠铜箔沉痛公告，公司董事会秘书、财务负责人王俊林于8月15日不幸因病逝世，终年56…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininruyf6785833.shtml"
+      "id": "ffb81e4050",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-17 22:44",
+      "title": "法国30年期国债收益率升至4.86% 重返近二十年最高水平",
+      "insight": "由于市场持续担忧财政风险，超长期债券再次遭遇抛售，法国30年期国债收益率重新升至近20年来最高水…",
+      "link": "https://finance.sina.com.cn/world/2026-08-17/doc-ininruye0059525.shtml"
     },
     {
-      "id": "ff9fad8824",
+      "id": "ff8443e886",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 20:58",
-      "title": "纽约州制造业活动在8月份出现2021年底以来最快扩张",
-      "insight": "由于订单增长和积压订单保持强劲，8月份纽约州制造业活动出现2021年底以来的最快扩张。 周一公布…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0007081.shtml"
+      "time": "08-17 22:41",
+      "title": "AI相关股票集体走强：Anthropic营收14倍增长报告提振市场情绪",
+      "insight": "周一美股开盘后，尽管主要指数表现平淡，但AI产业链个股显著走强。催化剂来自上周五的报道：Anth…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7766440.shtml"
     },
     {
-      "id": "ffa13c6729",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "08-17 20:58",
-      "title": "南极人母公司与“卡帝乐鳄鱼”大客户互撕升级，双方索赔总额超6亿，董事长曾因此被“限高”",
-      "insight": "“卖吊牌” 惹的祸？南极人母公司与“卡帝乐鳄鱼”大客户互撕升级，双方索赔总额超6亿，董事长曾因此…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininruym7706476.shtml"
-    },
-    {
-      "id": "ff91d3b2d0",
+      "id": "ff75bddbaa",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-17 20:58",
-      "title": "低调的黑马：破除市场对不受待见欧股的几大“迷思”",
-      "insight": "核心要点泛欧斯托克 600 指数今年迄今表现韧性十足。法国巴黎银行认为，欧洲更可能是人工智能的受…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh8972201.shtml"
+      "time": "08-17 22:37",
+      "title": "Meta面临联邦审判：多州指控其故意设计社交媒体成瘾功能伤害青少年",
+      "insight": "美国加州奥克兰联邦法院本周正式启动针对Meta的重大审判。加州、科罗拉多州、肯塔基州和新泽西州四…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9036564.shtml"
     },
     {
-      "id": "ff5d964d65",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-17 20:36",
-      "title": "盘前：纳指期货涨0.52% 存储板块走高",
-      "insight": "周一科技股推动全球股市走高。Anthropic PBC公布惊人的营收增长，进一步强化了市场对于人…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyf6767781.shtml"
-    },
-    {
-      "id": "ffc50e1d36",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-17 20:13",
-      "title": "雷神公司获美国海军价值229亿美元的“战斧”导弹生产合同",
-      "insight": "美国海军授予雷神公司价值229亿美元的合同，以生产“战斧”导弹。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrqsi6884401.shtml"
-    },
-    {
-      "id": "ff6a285dc3",
+      "id": "ffe1b1ed9a",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "08-17 20:10",
-      "title": "遭遇重大经营危机，童年记忆“旺”不动了？",
-      "insight": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 旺旺董事长蔡衍明的一封全员信，揭开了…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininrqsh0111893.shtml"
+      "time": "08-17 22:35",
+      "title": "千亿芯片巨头业绩曝光！688521 上半年亏损超去年全年",
+      "insight": "來源：中国基金报 【导读】芯原股份2026年上半年亏损额超去年全年 “中国半导体IP第一股”“A…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininruyf6833051.shtml"
+    },
+    {
+      "id": "ff0b1c0935",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 22:34",
+      "title": "加拿大7月通胀率升至3%：汽油价格加速上涨成主因，核心通胀仍贴近目标",
+      "insight": "拿大统计局8月17日公布的数据显示，7月消费者价格指数（CPI）同比上涨3.0%，高于6月的2.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9034208.shtml"
+    },
+    {
+      "id": "ffab8ae7e9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 22:28",
+      "title": "高盛警示：退税红利消退，美国消费支出或将降温",
+      "insight": "尽管汽油与食品价格居高不下，美国消费者今年展现出极强的韧性。但高盛经济学家警告，这份韧性很快将迎…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7757849.shtml"
+    },
+    {
+      "id": "ff8d05f42b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 22:23",
+      "title": "英伟达与OpenAI俄亥俄大型AI工厂项目细节浮出，Jensen Huang强调“土地、电力与建筑”成下一关键资源",
+      "insight": "8月17日，Nvidia正式宣布与SB Energy（SoftBank旗下）合作，锁定俄亥俄州P…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9026689.shtml"
+    },
+    {
+      "id": "ffd2877765",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 22:22",
+      "title": "“完美行情”的股市或许难以长久维持",
+      "insight": "近乎一片向好的股市，即将步入震荡加剧的阶段。 BTIG 策略师乔纳森・克林斯基在最新研报中写道：…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9025816.shtml"
     }
   ],
-  "updateTime": "2026-08-17 21:55"
+  "updateTime": "2026-08-17 23:52"
 }
