@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff895b9148",
-      "source": "央视",
+      "id": "ff5a86c837",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 11:06",
+      "title": "亚博科技控股盘中涨超23% 本月内股价累计涨幅已超120%",
+      "insight": "亚博科技控股（08279）早盘一度涨超23%，本月内股价累计涨幅已超120%，年内更是累涨超70…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnx7909619.shtml"
+    },
+    {
+      "id": "ffbcb05103",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 11:03",
+      "title": "思摩尔国际早盘涨逾9%恒生科技指数编制方法革新 机构指公司有望进入指数",
+      "insight": "思摩尔国际（06969）早盘涨逾9%，截至发稿，股价上涨8.69%，现报9.32港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtns0339832.shtml"
+    },
+    {
+      "id": "ff77aac184",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 11:02",
+      "title": "金斯瑞生物科技盘中涨超6% 上半年AIDD相关业务同比翻倍增长",
+      "insight": "金斯瑞生物科技（01548）盘中涨超6%，截至发稿，股价上涨4.26%，现报25.94港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnt7111660.shtml"
+    },
+    {
+      "id": "ff38e6f5e2",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 11:02",
+      "title": "瑞银：映恩生物-B首次覆盖给予“买入”评级 目标价320港元",
+      "insight": "瑞银发布研报称，首次覆盖映恩生物-B（09606），给予“买入”评级，基于风险调整后现金流折现（…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-17/doc-ininqtns0338953.shtml"
+    },
+    {
+      "id": "ff86ce35f9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 11:00",
+      "title": "人工智能盛宴正酣 华尔街紧盯利率风险搅局",
+      "insight": "投资者对大型科技公司及其在人工智能领域的巨额投资热情高涨，再次推动股市创下历史新高。在经济韧性十…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtnx7904439.shtml"
+    },
+    {
+      "id": "fffb11e09a",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-17 10:44",
+      "title": "长安期货：市场出现分歧，贵金属多头刹车",
+      "insight": "8月初开始随着接连的利好，以黄金为中心的贵金属上破此前的震荡区间，目前在200日均线下开始重回震…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-17/doc-ininqtnx7892986.shtml"
+    },
+    {
+      "id": "ffee613e3d",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-17 10:40",
+      "title": "全球糖价升至年内高点：强厄尔尼诺概率升至81%，印度禁糖出口至9月底",
+      "insight": "来源：华尔街见闻 厄尔尼诺持续增强，极强事件概率超90%——全球糖市警报拉响。原糖期货触及逾一年…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-17/doc-ininqtns0330734.shtml"
+    },
+    {
+      "id": "ff32ee432a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 10:33",
+      "title": "兴证国际早盘涨超10% 去年除税后净利润同比增长54.56%",
+      "insight": "兴证国际（06058）今早涨超10%，截至发稿，股价上涨10.35%，现报0.64港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnt7094237.shtml"
+    },
+    {
+      "id": "ff9bda0b45",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 10:31",
+      "title": "债券的心头大患不只美联储 全球利率升势蠢蠢欲动 由美联储主导的利率周期出现转变",
+      "insight": "在投资人争论美联储是否升息以及何时升息之际，全球各地对进一步紧缩的市场预期正在升高，这对债市来说…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtnx7882823.shtml"
+    },
+    {
+      "id": "ffc7f1e765",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-17 10:29",
+      "title": "黄金再触4400美元关口，下一阶段靠什么上涨？",
+      "insight": "文章来源：金十数据 周一亚盘，国际现货黄金价格继续上涨，一度站上4400美元/盎司，目前稍微回落…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-17/doc-ininqtnt7092982.shtml"
+    },
+    {
+      "id": "ffd7c79705",
+      "source": "市场资讯",
       "tag": "财经热点",
-      "time": "08-17 00:52",
-      "title": "美方否认在马岛主权争端中改变立场",
-      "insight": "美国驻阿根廷大使彼得·拉梅拉斯15日否认美国政府改变了在马尔维纳斯群岛（简称马岛，英国称福克兰群…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininpwii8182048.shtml"
+      "time": "08-17 10:26",
+      "title": "视频|李光斗对话张跃：知天命后的新挑战",
+      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+      "link": "https://finance.sina.com.cn/china/2026-08-17/doc-ininqtnt7090673.shtml"
     },
     {
-      "id": "ff58013169",
-      "source": "上海证券报",
+      "id": "ff289e5ebe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 10:26",
+      "title": "日本第二季度GDP年化增长1.1%，未达预期",
+      "insight": "日本经济第二季度年化增长率为1.1%，未达到2%的增长预期，因国内需求疲软抵消了强劲的出口表现。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtns0318137.shtml"
+    },
+    {
+      "id": "ff29527470",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "08-16 22:35",
-      "title": "688702签大额芯片长单，金额超去年营收五成",
-      "insight": "8月16日，盛科通信（688702）发布公告披露，公司近日与关联方中电港签订以太网交换芯片产品销…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininprze0750710.shtml"
+      "time": "08-17 10:24",
+      "title": "和黄医药盘中涨近9% 沃瑞沙联合泰瑞沙联合疗法取得积极的顶线结果",
+      "insight": "和黄医药（00013）盘中涨近9%，截至发稿，股价上涨5.78%，现报20.30港元，成交额91…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnx7878919.shtml"
     },
     {
-      "id": "ff4203df66",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 22:18",
-      "title": "伊朗议会投票通过新法案，将接受“敌对媒体”采访定为刑事犯罪",
-      "insight": "伊朗议会周日通过一项法案，将与被认为对伊朗“敌对”的媒体进行采访及其他通讯往来定为刑事犯罪，这类…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininprze0742954.shtml"
-    },
-    {
-      "id": "ffaacb8b38",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 20:54",
-      "title": "闪迪股价连涨暴涨！华尔街力挺其AI闪存长期增长雄心",
-      "insight": "股价强势表现周五，闪迪（Sandisk，股票代码：SNDK）股价大涨约6%，延续前一交易日13%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmth0839179.shtml"
-    },
-    {
-      "id": "ff2651c353",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 20:51",
-      "title": "高盛助攻英伟达：5000亿美元计划，破解AI基建最大资金瓶颈",
-      "insight": "英伟达（Nvidia）正着手解决AI热潮中日益凸显的核心制约——融资难题。高盛（Goldman …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmtk9602522.shtml"
-    },
-    {
-      "id": "ff3ca3cffd",
-      "source": "券商中国",
+      "id": "ff93461dd8",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "08-16 20:35",
-      "title": "四连板熄火！“龙餐馆”概念炒作落幕，北京文化上半年再度亏损",
-      "insight": "这个暑期档，电影业热闹非凡。热门电影《欢迎来龙餐馆》出品方之一北京文化上半年业绩曝光。 近日，北…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9599490.shtml"
+      "time": "08-17 10:23",
+      "title": "春雨医疗盘中涨超8% 春雨医生数字医疗服务能力已开始向线下场景延伸",
+      "insight": "春雨医疗（00108）盘中涨超8%，截至发稿，股价上涨3.44%，现报1.955港元，成交额92…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnt7088779.shtml"
     },
     {
-      "id": "ffb2d0d328",
+      "id": "ff00a9e168",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 10:22",
+      "title": "美银：预计日本央行将于2026年9月和12月以及2027年3月和7月加息",
+      "insight": "根据美银全球研究（BofA Global Research）的最新预测，日本央行将加快加息步伐至…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtnt7088561.shtml"
+    },
+    {
+      "id": "ffd932b686",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-17 10:22",
+      "title": "美债脆弱 因储备资产管理机构偏好黄金",
+      "insight": "随着通胀高企和政策不确定性引发担忧，加之供需格局越发不利，政府债券价格可能进一步下跌。基准美国国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininqtnt7088534.shtml"
+    },
+    {
+      "id": "ff3293ec64",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-17 10:20",
+      "title": "集运股早盘全线走高 东方海外国际及德翔海运均涨近6%",
+      "insight": "集运股早盘全线走高，截至发稿，东方海外国际（00316）上涨5.94%，报156.90港元；德翔…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-17/doc-ininqtnu9149001.shtml"
+    },
+    {
+      "id": "ffe8a6bf14",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "08-17 10:20",
+      "title": "多家影院回应是否下架《牛来》",
+      "insight": "动画电影《牛来》意外出圈，粗糙的3D建模、饱受争议的剧情，吸引大批网友猎奇打卡。网传部分影院陆续…",
+      "link": "https://finance.sina.com.cn/china/2026-08-17/doc-ininqtnt7089624.shtml"
+    },
+    {
+      "id": "ff87b57a64",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 20:34",
-      "title": "000036，突遭利空",
-      "insight": "来源：中国基金报 【导读】华联控股产业转型突然遇阻，拟投资阿根廷锂盐湖项目触发审查 中国基金报记…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmth0832854.shtml"
+      "tag": "理财",
+      "time": "08-17 10:19",
+      "title": "周末仅5艘船通过！霍尔木兹通行量大幅放缓 美伊互放狠话",
+      "insight": "来源：财联社 财联社8月17日讯（编辑 卞纯）周一公布的数据显示，在更多油轮遇袭事件发生后，上周…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-17/doc-ininqtnt7087636.shtml"
     },
     {
-      "id": "ff41fc4033",
+      "id": "ff2be6a067",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 19:38",
-      "title": "601996，需缴回约2700万元退税款，已连续2年亏损",
-      "insight": "来源：中国基金报 【导读】丰林集团被要求缴回约2700万元退税款 中国基金报记者 夏天 8月16…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmti7587496.shtml"
-    },
-    {
-      "id": "ff092a8447",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 19:30",
-      "title": "股价年内跌超四成，子公司股权流拍欠薪传闻缠身，凯撒旅业账面减亏仍靠非经常性损益“粉饰”",
-      "insight": "来源：华夏时报 华夏时报记者 王敬 北京报道 近日，老牌出境游旅企凯撒旅业（000796.SZ）…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtf1196090.shtml"
-    },
-    {
-      "id": "ffd24cd2a4",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 19:30",
-      "title": "“芯片”借壳幻象破灭：宝莱特易主夭折，三年亏超两亿元拿什么熬过寒冬？",
-      "insight": "来源：华夏时报 华夏时报记者 于娜 北京报道 没有基本面支撑的“易主”预期，或许只是一场易碎的泡…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9577146.shtml"
-    },
-    {
-      "id": "ff9ee2d780",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 15:00",
-      "title": "转型多年业绩未见起色，重资产“包袱”沉重，湖北广电中报续亏超2.52亿",
-      "insight": "来源：证券之星 近日，湖北广电（000665.SZ）发布2026年半年度业绩预告。预计今年上半年…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000543.shtml"
-    },
-    {
-      "id": "ff787dd088",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 15:00",
-      "title": "冠豪高新：5.48亿资产处置“扮靓”利润，现金流仍未回正",
-      "insight": "来源：证券之星 8月8日，冠豪高新（600433.SH）披露2026年半年度报告，账面数据呈现大…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000329.shtml"
-    },
-    {
-      "id": "ffa8f9b8f7",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-16 15:00",
-      "title": "江波龙：百亿存货压顶、现金流持续“失血”，高价定增套牢投资机构",
-      "insight": "来源：证券之星 近日，江波龙（301308.SZ）披露了2026年半年度报告，公司营收和净利润双…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcp7772625.shtml"
-    },
-    {
-      "id": "ffb2f3ad78",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:58",
-      "title": "Waymo获批大幅扩张加州运营范围，机器人出租车服务将覆盖18个县",
-      "insight": "Alphabet旗下自动驾驶公司Waymo已获得加州公共事业委员会（CPUC）批准，可在18个县…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1470667.shtml"
-    },
-    {
-      "id": "ff74d3c672",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:55",
-      "title": "英伟达洽谈向SB Energy投资30亿美元，为OpenAI俄亥俄数据中心提供百亿美元信贷支持",
-      "insight": "英伟达正与软银支持的SB Energy就最高30亿美元投资展开谈判。这笔投资与英伟达向OpenA…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1091191.shtml"
-    },
-    {
-      "id": "ffc779d483",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:46",
-      "title": "PayPal洽谈出售：Stripe与私募巨头Advent联手出价，谈判报价已超530亿美元",
-      "insight": "PayPal Holdings正与包括Stripe和私募股权公司Advent Internati…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1087940.shtml"
-    },
-    {
-      "id": "ffe53fd155",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:44",
-      "title": "女子指控继父用Grok将11岁童年照生成数千张露骨图像，加入起诉xAI诉讼",
-      "insight": "一名化名Jane Doe 4的女子已加入三名田纳西州青少年对埃隆·马斯克旗下xAI公司提起的诉讼…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1086935.shtml"
-    },
-    {
-      "id": "ffadd32b1f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:40",
-      "title": "特朗普家族旗舰加密企业获信托银行初步牌照，可自主发行与托管40亿美元稳定币",
-      "insight": "特朗普家族旗舰加密企业World Liberty Financial周五宣布，其信托公司已获得美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1085110.shtml"
-    },
-    {
-      "id": "ff6264a42b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:38",
-      "title": "史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币",
-      "insight": "美国货币监理署（OCC）近日有条件批准特朗普家族关联的加密企业World Liberty Tru…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1462590.shtml"
-    },
-    {
-      "id": "ffa7b2121f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-16 14:35",
-      "title": "美国南部近160万打鸡蛋因沙门氏菌紧急召回，FDA升级最高风险警报",
-      "insight": "国食品药品监督管理局（FDA）将一起涉及近160万打鸡蛋的召回事件上调至最高风险等级（Class…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9842673.shtml"
+      "tag": "理财",
+      "time": "08-17 10:19",
+      "title": "长安期货梁安迪：供需宽松格局或延续，红枣盘面上方空间预计有限",
+      "insight": "当前红枣基本面偏空，市场缺乏利多因素，在弱现实与弱预期的双重压力下，红枣期货价格跌至低位。截至2…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-17/doc-ininqtnt7086584.shtml"
     }
   ],
-  "updateTime": "2026-08-17 05:39"
+  "updateTime": "2026-08-17 11:15"
 }
