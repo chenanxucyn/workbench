@@ -1,6 +1,168 @@
 {
   "news": [
     {
+      "id": "ff66fa6ed0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 02:50",
+      "title": "通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位",
+      "insight": "从通胀到债务驱动的人工智能投资热潮，长期债券正成为投资者各种担忧的震中，各国政府因此付出更高融资…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8454585.shtml"
+    },
+    {
+      "id": "ff82e5445b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 02:42",
+      "title": "俄罗斯黑海港口附近至少五艘粮船遇袭 粮食供应风险升温",
+      "insight": "知情人士透露，在俄罗斯因乌克兰袭击升级而艰难维持粮食出口之际，至少有五艘粮船在俄罗斯黑海港口新罗…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8449000.shtml"
+    },
+    {
+      "id": "ffaf7d7376",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 01:12",
+      "title": "30年期美国国债收益率突破5.33%，创19年新高",
+      "insight": "周二，美国国债收益率变动不大，此前长期国债因美国财政状况恶化和通胀持续高企而触及近二十年最高水平…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8531779.shtml"
+    },
+    {
+      "id": "ff18336677",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 01:07",
+      "title": "公用事业公司UGI大涨：传KKR提出90亿美元收购要约",
+      "insight": "援引知情人士消息，《华尔街曰报》报道私募股权公司 KKR 向这家公用事业企业发出 90 亿美元收…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3072118.shtml"
+    },
+    {
+      "id": "ffff193bea",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 01:05",
+      "title": "Anthropic上市前信贷安排料突破100亿美元 银行借机争夺IPO角色",
+      "insight": "知情人士称，Anthropic PBC的循环信贷安排预计将超过约100亿美元的目标规模。 Ant…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8528415.shtml"
+    },
+    {
+      "id": "ffc6869b79",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 01:05",
+      "title": "Carvana因内部人士减持出现股价下跌",
+      "insight": "二手车线上零售商 Carvana（股票代码 CVNA），受上周两名董事抛售公司股票影响，截至周二…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8528325.shtml"
+    },
+    {
+      "id": "ffaccfa301",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 01:03",
+      "title": "分析：债市压力正在冲击实体经济，华尔街静待沃什表态",
+      "insight": "核心要点尽管美联储维持政策利率不变，但长期美债收益率攀升，收益率曲线陡峭化。收益率上行传导至抵押…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7255201.shtml"
+    },
+    {
+      "id": "ffcc18f6b6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:59",
+      "title": "高盛一周内达成第二笔交易 收购LCN瞄准“省心收租”模式",
+      "insight": "高盛集团一周内达成第二笔交易，继续推进扩大其4万亿美元资产管理业务的计划。 高盛财富与资产管理部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7252480.shtml"
+    },
+    {
+      "id": "ff2756e2b4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:43",
+      "title": "欧洲债市：欧洲债券延续跌势 长端承压",
+      "insight": "欧洲政府债券连续第三个交易日下跌，油价上涨进一步加剧了市场对通胀上升及借贷成本维持高位的担忧。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7242917.shtml"
+    },
+    {
+      "id": "ff23213a0c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:38",
+      "title": "环孢子虫疫情正在改变美国职场午餐",
+      "insight": "这场席卷全美的环孢子虫疫情，正在改变美国企业界一个司空见惯的习惯：午餐吃沙拉。 7 月，美国食品…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8512433.shtml"
+    },
+    {
+      "id": "ffc05beed9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:38",
+      "title": "美银指英伟达遭低估且折价或深达50%",
+      "insight": "美国银行认为，英伟达的股价被严重低估，从而造就了“一个极具吸引力的机会”，因投资者夸大了这家AI…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9833667.shtml"
+    },
+    {
+      "id": "ff499fc6b5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:37",
+      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平",
+      "insight": "随着美国与伊朗之间紧张局势升温，油价和债券收益率上涨，欧洲股市录得今年以来的最长连跌。 欧洲斯托…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3061023.shtml"
+    },
+    {
+      "id": "ff6346c562",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:36",
+      "title": "初选选举季来到阿拉斯加、佛罗里达与怀俄明州",
+      "insight": "核心要点距离 11 月中期选举不足三个月，阿拉斯加、佛罗里达、怀俄明将于周二晚间举行新一轮党内初…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8510684.shtml"
+    },
+    {
+      "id": "ff5bc39403",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:31",
+      "title": "逆向投资者对抗市场共识：一名交易员押下巨额空头赌注，看空芯片股",
+      "insight": "作者：奥利弗・雷尼克 对于举足轻重的半导体板块后市走向，期权市场的交易员正面临经典的投资困境：是…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9831329.shtml"
+    },
+    {
+      "id": "ffb3788423",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:29",
+      "title": "全球债券收益率创下数十年来新高：各国为美伊对峙付出代价",
+      "insight": "核心要点周二，全球多国主权债券收益率跟随美债收益率同步走高。美伊外交谈判未能取得突破，市场担忧油…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9830582.shtml"
+    },
+    {
+      "id": "ff6f22e7aa",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:24",
+      "title": "数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险",
+      "insight": "针对人工智能（AI）以及支撑AI运行所需数据中心的反对声浪，正在成为美国选举中日益敏感的议题，以…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503929.shtml"
+    },
+    {
+      "id": "ffcec6e04c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:23",
+      "title": "美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹",
+      "insight": "美国银行的Michael Hartnett表示，全球投资者进一步提高股票持仓，股票配置升至近五年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503278.shtml"
+    },
+    {
+      "id": "ffbea0b882",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 00:22",
+      "title": "KKR拟以每股42.50美元收购天然气和电力分销商UGI",
+      "insight": "KKR &amp; Co．向天然气和电力分销商UGI Corp．提出约90亿美元的收购要约。 这…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3055871.shtml"
+    },
+    {
       "id": "ff6a32e1f0",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,169 +179,7 @@
       "title": "Kalshi寻求推出股指“永续合约”，进军传统交易所领地",
       "insight": "预测市场平台Kalshi在周二提交的一份监管文件中披露，其正寻求推出与股票指数挂钩的永续期货。 …",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefp9925028.shtml"
-    },
-    {
-      "id": "ff73ba0efa",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-18 22:51",
-      "title": "美国二手房签约量跌至年初以来最低 高抵押贷款利率和房价持续施压",
-      "insight": "美国二手房签约量在7月降至年初以来最低水平，反映出抵押贷款利率和房价高企持续拖累房地产市场。 美…",
-      "link": "https://finance.sina.com.cn/world/2026-08-18/doc-ininuefp9923641.shtml"
-    },
-    {
-      "id": "ffcb616104",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:30",
-      "title": "英伟达的另一大底牌 —— 资本",
-      "insight": "核心要点过去一周，英伟达与多家华尔街机构达成协议，拟为芯片业务落实规模达 5000 亿美元的融资…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefi7290835.shtml"
-    },
-    {
-      "id": "ff12084a9e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:21",
-      "title": "迪士尼旗下 ABC 电视台依据第一修正案起诉联邦通信委员会（FCC）",
-      "insight": "核心要点迪士尼旗下 ABC 电视台依据美国宪法第一修正案，对联邦通信委员会（FCC）提起诉讼。此…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefi7284547.shtml"
-    },
-    {
-      "id": "fff775e98f",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "08-18 22:16",
-      "title": "300684三连“20cm”涨停，谁是幕后推手？",
-      "insight": "8月18日，A股市场主要指数涨跌不一。科技主线整体承压回调，但内部走势明显分化。机器人概念、玻璃…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-ininuefn3139953.shtml"
-    },
-    {
-      "id": "ff31910974",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:14",
-      "title": "美国7月二手房签约量环比下降2.3% 逊于所有经济学家预估",
-      "insight": "美国全国房地产经纪人协会（NAR）公布的二手房签约量指数7月环比下降2.3%，预估中值为持平。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3134845.shtml"
-    },
-    {
-      "id": "ffca775e2d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:10",
-      "title": "“简直疯狂”：韩国股民正在美股市场做些什么",
-      "insight": "核心要点韩国本土股市出现回调，7 月韩国散户投资者净买入 45 亿美元美股。很多投资者只是转换交…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3132748.shtml"
-    },
-    {
-      "id": "ff5cf39ca2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-18 21:59",
-      "title": "30年期美债收益率创2007年来新高 是什么引发全球债券抛售潮？",
-      "insight": "全球国债遭遇抛售，股市集体收跌，投资者对大规模财政支出与通胀风险感到忧虑。 与此同时，资本需求庞…",
-      "link": "https://finance.sina.com.cn/world/2026-08-18/doc-ininuefp9898651.shtml"
-    },
-    {
-      "id": "ff00f075df",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:55",
-      "title": "高盛拟收购一家房地产投资公司，交易金额最高可达 4.1 亿美元",
-      "insight": "高盛表示，已达成协议收购私募房地产投资公司 LCN Capital Partners，交易总对价…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefp9897005.shtml"
-    },
-    {
-      "id": "ff628f0a22",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "08-18 21:50",
-      "title": "全文|百度Q2业绩会实录：文心将重回第一梯队 年底前完成香港主要上市",
-      "insight": "百度发布2026年第二季度财报，季度总营收313亿元；百度一般性业务收入252亿元，其中AI业务…",
-      "link": "https://finance.sina.com.cn/tech/2026-08-18/doc-ininuefi7261347.shtml"
-    },
-    {
-      "id": "ff70a26d93",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:50",
-      "title": "迪士尼旗下美国广播公司就第一修正案相关事宜起诉联邦通信委员会",
-      "insight": "迪士尼旗下的美国广播公司（ABC）依据美国宪法第一修正案，对美国联邦通信委员会（FCC）提起诉讼…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3121947.shtml"
-    },
-    {
-      "id": "ffdcff47e8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:49",
-      "title": "报道：阿联酋总统与特朗普讨论中东局势",
-      "insight": "阿联酋国家通讯社报道，阿联酋总统穆罕默德·本·扎耶德与美国总统唐纳德·特朗普通电话，讨论了中东地…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefe8532252.shtml"
-    },
-    {
-      "id": "ffadd6d52b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:48",
-      "title": "特朗普：目前没有与伊朗举行任何会谈 也没有会谈安排",
-      "insight": "美国总统特朗普在Truth Social发帖称，目前没有与伊朗伊斯兰共和国进行任何会谈或对话，也…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3121078.shtml"
-    },
-    {
-      "id": "ff34f9d300",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "08-18 21:46",
-      "title": "正荣地产股价一日狂飙125%，66亿元境内债重组有重大进展",
-      "insight": "记者丨唐韶葵 编辑丨张敏 骆一帆 8月18日，正荣地产（06158.HK）午后股价直线拉升，盘中…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-ininuefi7269077.shtml"
-    },
-    {
-      "id": "ffde95a55a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:34",
-      "title": "迪士尼旗下ABC援引第一修正案起诉联邦通信委员会",
-      "insight": "迪士尼旗下美国广播公司（ABC）依据美国宪法第一修正案，对美国联邦通信委员会（FCC）提起诉讼，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxh8651656.shtml"
-    },
-    {
-      "id": "fffa7e9f62",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:31",
-      "title": "长债收益率上行 金价跌破每盎司4400美元",
-      "insight": "金价小幅跌破每盎司4400美元。全球长期国债收益率上行，交易员权衡美国通胀与利率前景。 周二现货…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxh8649053.shtml"
-    },
-    {
-      "id": "fff8a97dc8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:30",
-      "title": "开盘：三大股指齐跌，30年期美债收益率创近20年新高",
-      "insight": "周二，市场担忧通胀具备黏性，叠加美债收益率走高、油价居高不下，给美股带来下行压力；半导体板块回调…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxm7378242.shtml"
-    },
-    {
-      "id": "ffbb7a9e46",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:29",
-      "title": "德意志银行：美日联合干预适得其反 当局若未出手日元可能会升更多",
-      "insight": "德意志银行全球外汇研究主管George Saravelos在一份报告中表示，美日上月联合干预以支…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxs0013940.shtml"
-    },
-    {
-      "id": "ffdf23fbc4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 21:26",
-      "title": "“令人担忧”：欧洲央行经济学家警示，人工智能或将引发一场即将到来的市场回调",
-      "insight": "核心要点欧洲央行经济学家警示：即便股市高估值能够合理反映人工智能改造社会的潜力，市场估值依然很可…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-inintxxh8645511.shtml"
     }
   ],
-  "updateTime": "2026-08-19 00:01"
+  "updateTime": "2026-08-19 03:18"
 }
