@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ff116e88c2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 05:23",
+      "title": "OpenAI披露Hugging Face事件后安全新政：暂停前沿模型强化学习训练",
+      "insight": "周二，OpenAI宣布了一系列新的安全政策，重点加强模型测试期间的安全事件管控。新措施包括在开发…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvcf9651675.shtml"
+    },
+    {
+      "id": "ff30178779",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 05:16",
+      "title": "苹果全面调整欧盟App Store收费规则，放宽第三方应用商店准入门槛",
+      "insight": "苹果周二宣布，针对欧盟市场简化应用佣金结构，以解决与欧盟委员会在商业条款上的分歧。根据新方案，苹…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7123725.shtml"
+    },
+    {
+      "id": "ffc4e4be0a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 05:10",
+      "title": "美国股市：科技股领跌拖累大盘 长债收益率高企打压风险情绪",
+      "insight": "美国股市周二下跌，科技股领跌。债券收益率维持高位且油价上涨，促使投资者削减人工智能押注在内的风险…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvce2876482.shtml"
+    },
+    {
+      "id": "fff6911bf4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 05:07",
+      "title": "大宗商品综述：油价触及三周高位 黄金和铜走低",
+      "insight": "由于美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局，原油价格周二小幅上涨并触及三周高点。黄金价格下…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8391737.shtml"
+    },
+    {
+      "id": "ff7d773124",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 05:01",
+      "title": "纽约汇市：美元随油价上涨 日元逼近160关口",
+      "insight": "美国和伊朗在霍尔木兹海峡控制权问题上仍僵持不下，油价处于两周高点附近，彭博美元指数也走高。日元兑…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8388766.shtml"
+    },
+    {
+      "id": "ffdd5c2771",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 04:35",
+      "title": "8月19日收盘：纳指跌超1%，科技板块回落，全球债券收益率飙升",
+      "insight": "周二，美股三大指数集体收跌。因市场担忧通胀持续，主权债券收益率飙升至数十年高位。半导体板块回调拖…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml"
+    },
+    {
+      "id": "ffa98781d1",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 04:24",
+      "title": "8月19日热门中概股多数下跌 百度跌超12%",
+      "insight": "8月19日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.01%。 上涨个股（按市值从…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9768059.shtml"
+    },
+    {
+      "id": "ffebaa1cd8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 03:57",
+      "title": "阿联酋称伊朗向该国发射两枚导弹 为5月以来首次袭击",
+      "insight": "阿联酋表示，两枚弹道导弹从伊朗射向该国。随着中东更广泛的战争持续，这是自5月以来伊朗对该海湾国家…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuquy8486312.shtml"
+    },
+    {
+      "id": "ffe3105f26",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 03:56",
+      "title": "AI交易情绪逆转 苹果“反AI”属性正成股价拖累",
+      "insight": "随着投资者对AI交易的疑虑日益加深，苹果公司的“反AI”交易属性曾在上半年助其股价大涨。但如今市…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2987515.shtml"
+    },
+    {
+      "id": "fff39814de",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 03:49",
+      "title": "美国债市：国债扭转跌势 收益率曲线陡化势头受阻",
+      "insight": "美国债市在周二上午时段逐步收复了早些时候的跌幅，这要得益于超长期国债期货出现的一笔大宗买盘，该交…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9758526.shtml"
+    },
+    {
+      "id": "ff3b2ac8b3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 03:48",
+      "title": "原油：油价升至三周高位 美伊谈判仍陷僵局",
+      "insight": "油价微涨，触及三周高位，因为美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局。 布伦特在涨跌之间波动…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvc7209928.shtml"
+    },
+    {
+      "id": "ff645c9727",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-19 03:47",
+      "title": "美加关税谈判进入最后关头 特朗普政府淡化达成协议预期",
+      "insight": "据知情人士透露，特朗普政府正淡化外界对美加两国在最后一刻达成协议以避免将于周三生效的新关税的预期…",
+      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2985762.shtml"
+    },
+    {
       "id": "ff66fa6ed0",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "高盛一周内达成第二笔交易 收购LCN瞄准“省心收租”模式",
       "insight": "高盛集团一周内达成第二笔交易，继续推进扩大其4万亿美元资产管理业务的计划。 高盛财富与资产管理部…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7252480.shtml"
-    },
-    {
-      "id": "ff2756e2b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:43",
-      "title": "欧洲债市：欧洲债券延续跌势 长端承压",
-      "insight": "欧洲政府债券连续第三个交易日下跌，油价上涨进一步加剧了市场对通胀上升及借贷成本维持高位的担忧。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7242917.shtml"
-    },
-    {
-      "id": "ff23213a0c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:38",
-      "title": "环孢子虫疫情正在改变美国职场午餐",
-      "insight": "这场席卷全美的环孢子虫疫情，正在改变美国企业界一个司空见惯的习惯：午餐吃沙拉。 7 月，美国食品…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8512433.shtml"
-    },
-    {
-      "id": "ffc05beed9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:38",
-      "title": "美银指英伟达遭低估且折价或深达50%",
-      "insight": "美国银行认为，英伟达的股价被严重低估，从而造就了“一个极具吸引力的机会”，因投资者夸大了这家AI…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9833667.shtml"
-    },
-    {
-      "id": "ff499fc6b5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:37",
-      "title": "欧洲股市录得去年年末以来最长连跌 成交量接近年内最低水平",
-      "insight": "随着美国与伊朗之间紧张局势升温，油价和债券收益率上涨，欧洲股市录得今年以来的最长连跌。 欧洲斯托…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3061023.shtml"
-    },
-    {
-      "id": "ff6346c562",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:36",
-      "title": "初选选举季来到阿拉斯加、佛罗里达与怀俄明州",
-      "insight": "核心要点距离 11 月中期选举不足三个月，阿拉斯加、佛罗里达、怀俄明将于周二晚间举行新一轮党内初…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8510684.shtml"
-    },
-    {
-      "id": "ff5bc39403",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:31",
-      "title": "逆向投资者对抗市场共识：一名交易员押下巨额空头赌注，看空芯片股",
-      "insight": "作者：奥利弗・雷尼克 对于举足轻重的半导体板块后市走向，期权市场的交易员正面临经典的投资困境：是…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9831329.shtml"
-    },
-    {
-      "id": "ffb3788423",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:29",
-      "title": "全球债券收益率创下数十年来新高：各国为美伊对峙付出代价",
-      "insight": "核心要点周二，全球多国主权债券收益率跟随美债收益率同步走高。美伊外交谈判未能取得突破，市场担忧油…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9830582.shtml"
-    },
-    {
-      "id": "ff6f22e7aa",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:24",
-      "title": "数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险",
-      "insight": "针对人工智能（AI）以及支撑AI运行所需数据中心的反对声浪，正在成为美国选举中日益敏感的议题，以…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503929.shtml"
-    },
-    {
-      "id": "ffcec6e04c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:23",
-      "title": "美银调查：基金经理股票配置升至近五年最高 空头几乎绝迹",
-      "insight": "美国银行的Michael Hartnett表示，全球投资者进一步提高股票持仓，股票配置升至近五年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503278.shtml"
-    },
-    {
-      "id": "ffbea0b882",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 00:22",
-      "title": "KKR拟以每股42.50美元收购天然气和电力分销商UGI",
-      "insight": "KKR &amp; Co．向天然气和电力分销商UGI Corp．提出约90亿美元的收购要约。 这…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3055871.shtml"
-    },
-    {
-      "id": "ff6a32e1f0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:58",
-      "title": "英伟达的AI护城河：从芯片转向资本",
-      "insight": "英伟达在人工智能领域的巨大先发优势，曾将这家芯片制造商推上全球最具价值公司的宝座。如今，进入生成…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3154126.shtml"
-    },
-    {
-      "id": "ff908fac4c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-18 22:54",
-      "title": "Kalshi寻求推出股指“永续合约”，进军传统交易所领地",
-      "insight": "预测市场平台Kalshi在周二提交的一份监管文件中披露，其正寻求推出与股票指数挂钩的永续期货。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefp9925028.shtml"
     }
   ],
-  "updateTime": "2026-08-19 03:18"
+  "updateTime": "2026-08-19 05:49"
 }
