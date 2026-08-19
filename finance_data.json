@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff116e88c2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 05:23",
-      "title": "OpenAI披露Hugging Face事件后安全新政：暂停前沿模型强化学习训练",
-      "insight": "周二，OpenAI宣布了一系列新的安全政策，重点加强模型测试期间的安全事件管控。新措施包括在开发…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvcf9651675.shtml"
-    },
-    {
-      "id": "ff30178779",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 05:16",
-      "title": "苹果全面调整欧盟App Store收费规则，放宽第三方应用商店准入门槛",
-      "insight": "苹果周二宣布，针对欧盟市场简化应用佣金结构，以解决与欧盟委员会在商业条款上的分歧。根据新方案，苹…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7123725.shtml"
-    },
-    {
-      "id": "ffc4e4be0a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 05:10",
-      "title": "美国股市：科技股领跌拖累大盘 长债收益率高企打压风险情绪",
-      "insight": "美国股市周二下跌，科技股领跌。债券收益率维持高位且油价上涨，促使投资者削减人工智能押注在内的风险…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvce2876482.shtml"
-    },
-    {
-      "id": "fff6911bf4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 05:07",
-      "title": "大宗商品综述：油价触及三周高位 黄金和铜走低",
-      "insight": "由于美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局，原油价格周二小幅上涨并触及三周高点。黄金价格下…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8391737.shtml"
-    },
-    {
-      "id": "ff7d773124",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 05:01",
-      "title": "纽约汇市：美元随油价上涨 日元逼近160关口",
-      "insight": "美国和伊朗在霍尔木兹海峡控制权问题上仍僵持不下，油价处于两周高点附近，彭博美元指数也走高。日元兑…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8388766.shtml"
-    },
-    {
-      "id": "ffdd5c2771",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 04:35",
-      "title": "8月19日收盘：纳指跌超1%，科技板块回落，全球债券收益率飙升",
-      "insight": "周二，美股三大指数集体收跌。因市场担忧通胀持续，主权债券收益率飙升至数十年高位。半导体板块回调拖…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml"
-    },
-    {
-      "id": "ffa98781d1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 04:24",
-      "title": "8月19日热门中概股多数下跌 百度跌超12%",
-      "insight": "8月19日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.01%。 上涨个股（按市值从…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9768059.shtml"
-    },
-    {
-      "id": "ffebaa1cd8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 03:57",
-      "title": "阿联酋称伊朗向该国发射两枚导弹 为5月以来首次袭击",
-      "insight": "阿联酋表示，两枚弹道导弹从伊朗射向该国。随着中东更广泛的战争持续，这是自5月以来伊朗对该海湾国家…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuquy8486312.shtml"
-    },
-    {
-      "id": "ffe3105f26",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 03:56",
-      "title": "AI交易情绪逆转 苹果“反AI”属性正成股价拖累",
-      "insight": "随着投资者对AI交易的疑虑日益加深，苹果公司的“反AI”交易属性曾在上半年助其股价大涨。但如今市…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2987515.shtml"
-    },
-    {
-      "id": "fff39814de",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 03:49",
-      "title": "美国债市：国债扭转跌势 收益率曲线陡化势头受阻",
-      "insight": "美国债市在周二上午时段逐步收复了早些时候的跌幅，这要得益于超长期国债期货出现的一笔大宗买盘，该交…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9758526.shtml"
-    },
-    {
-      "id": "ff3b2ac8b3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 03:48",
-      "title": "原油：油价升至三周高位 美伊谈判仍陷僵局",
-      "insight": "油价微涨，触及三周高位，因为美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局。 布伦特在涨跌之间波动…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvc7209928.shtml"
-    },
-    {
-      "id": "ff645c9727",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 03:47",
-      "title": "美加关税谈判进入最后关头 特朗普政府淡化达成协议预期",
-      "insight": "据知情人士透露，特朗普政府正淡化外界对美加两国在最后一刻达成协议以避免将于周三生效的新关税的预期…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2985762.shtml"
-    },
-    {
-      "id": "ff66fa6ed0",
+      "id": "ff2d99a2cf",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-19 02:50",
-      "title": "通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位",
-      "insight": "从通胀到债务驱动的人工智能投资热潮，长期债券正成为投资者各种担忧的震中，各国政府因此付出更高融资…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8454585.shtml"
+      "time": "08-19 11:09",
+      "title": "韩国智库上调今年经济增长预期至3.2%，因AI需求强劲",
+      "insight": "韩国一个国营智库上调了今年的经济增长预期，超过了政府的预期。预计人工智能推动的全球半导体行业繁荣…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininvfss8421302.shtml"
     },
     {
-      "id": "ff82e5445b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 02:42",
-      "title": "俄罗斯黑海港口附近至少五艘粮船遇袭 粮食供应风险升温",
-      "insight": "知情人士透露，在俄罗斯因乌克兰袭击升级而艰难维持粮食出口之际，至少有五艘粮船在俄罗斯黑海港口新罗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininuquy8449000.shtml"
+      "id": "fff28e4f43",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 11:08",
+      "title": "中国秦发盘中涨近8% 预计上半年录得除税后溢利不多于2.9亿元",
+      "insight": "中国秦发（00866）盘中涨近8%，截至发稿，股价上涨5.60%，现报2.075港元，成交额10…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsz9574844.shtml"
     },
     {
-      "id": "ffaf7d7376",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 01:12",
-      "title": "30年期美国国债收益率突破5.33%，创19年新高",
-      "insight": "周二，美国国债收益率变动不大，此前长期国债因美国财政状况恶化和通胀持续高企而触及近二十年最高水平…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8531779.shtml"
+      "id": "ff6c8edaa8",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 11:05",
+      "title": "小米集团-W早盘涨超6% 二季度经调整净利润62亿元环比增长2.4%",
+      "insight": "小米集团-W（01810）早盘涨超6%，截至发稿，股价上涨6.04%，现报27.76港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsy2800399.shtml"
     },
     {
-      "id": "ff18336677",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 01:07",
-      "title": "公用事业公司UGI大涨：传KKR提出90亿美元收购要约",
-      "insight": "援引知情人士消息，《华尔街曰报》报道私募股权公司 KKR 向这家公用事业企业发出 90 亿美元收…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpk3072118.shtml"
+      "id": "ff5c68f55d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 11:02",
+      "title": "福耀玻璃绩后涨超5% 上半年剔除汇率利润实际增长4.78%",
+      "insight": "福耀玻璃（03606）绩后涨超5%，截至发稿，股价上涨2.12%，现报57.95港元，成交额2.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsv7142839.shtml"
     },
     {
-      "id": "ffff193bea",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 01:05",
-      "title": "Anthropic上市前信贷安排料突破100亿美元 银行借机争夺IPO角色",
-      "insight": "知情人士称，Anthropic PBC的循环信贷安排预计将超过约100亿美元的目标规模。 Ant…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8528415.shtml"
+      "id": "ffc0dd90f1",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-19 10:48",
+      "title": "光大期货0819黄金点评：重回利率定价，短线黄金走弱",
+      "insight": "隔夜伦敦现货贵金属震荡走弱。欧美长债收益率高企，抬升黄金持有成本。美元指数结束三连跌迎来反弹，压…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-19/doc-ininvfsv7130928.shtml"
     },
     {
-      "id": "ffc6869b79",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 01:05",
-      "title": "Carvana因内部人士减持出现股价下跌",
-      "insight": "二手车线上零售商 Carvana（股票代码 CVNA），受上周两名董事抛售公司股票影响，截至周二…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8528325.shtml"
+      "id": "fff59f5c4f",
+      "source": "界面新闻",
+      "tag": "财经热点",
+      "time": "08-19 10:42",
+      "title": "美伊谈判陷入僵局，机构：央行购金与地缘支撑中长期金价",
+      "insight": "2026年8月19日，地缘风险持续，油价走高，金价承压回调，COMEX黄金现报4411美元/盎司…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininvfsz9560189.shtml"
     },
     {
-      "id": "ffaccfa301",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 01:03",
-      "title": "分析：债市压力正在冲击实体经济，华尔街静待沃什表态",
-      "insight": "核心要点尽管美联储维持政策利率不变，但长期美债收益率攀升，收益率曲线陡峭化。收益率上行传导至抵押…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7255201.shtml"
+      "id": "ff65a4997e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:34",
+      "title": "八马茶叶盘中涨超15% 上半年纯利同比增长65.3%至1.98亿元",
+      "insight": "八马茶叶（06980）早盘一度涨超15%，截至发稿，股价上涨10%，现报28.60港元，成交额1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsz9552600.shtml"
     },
     {
-      "id": "ffcc18f6b6",
+      "id": "ff8acae290",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:32",
+      "title": "香港中华煤气早盘涨超8% 上半年纯利同比增长23%至36.4亿港元",
+      "insight": "香港中华煤气（00003）早盘涨超8%，截至发稿，股价上涨8.11%，现报7.335港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfss8386216.shtml"
+    },
+    {
+      "id": "ff281c8ac7",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:30",
+      "title": "通通AI社交盘中涨逾6% 预计中期股东应占溢利至多约5600万元",
+      "insight": "通通AI社交（00628）盘中涨逾6%，截至发稿，股价上涨4.35%，现报0.36港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfss8383901.shtml"
+    },
+    {
+      "id": "ff052d6543",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-19 00:59",
-      "title": "高盛一周内达成第二笔交易 收购LCN瞄准“省心收租”模式",
-      "insight": "高盛集团一周内达成第二笔交易，继续推进扩大其4万亿美元资产管理业务的计划。 高盛财富与资产管理部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpf7252480.shtml"
+      "time": "08-19 10:27",
+      "title": "特朗普宣布暂停对加拿大征收50%关税 为期三天",
+      "insight": "美国总统特朗普在Truth Social 上发文称：“我已经暂停了原定于明天早上生效、对加拿大征…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininvfsz9547745.shtml"
+    },
+    {
+      "id": "ff5062f3ce",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:17",
+      "title": "贝克微早盘涨超14% 预期上半年净利润同比增长约30%至40%",
+      "insight": "贝克微（02149）盘中涨超15%，截至发稿，股价上涨14.29%，现报36港元，成交额285.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsz9540887.shtml"
+    },
+    {
+      "id": "ff7601f637",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-19 10:16",
+      "title": "华泰期货：美伊地缘局势出现恶化 贵金属夜盘承压",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 地缘局势出现变化：美国总统特朗普表示，目前并未与伊朗进行…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-19/doc-ininvfss8370148.shtml"
+    },
+    {
+      "id": "ffed3ba8cd",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-19 10:14",
+      "title": "华泰期货：苹果冲高回落，红枣增仓震荡",
+      "insight": "来源：华泰期货 作者： 白旭宇 苹果观点 市场要闻与重要数据 期货方面，昨日收盘苹果2610合约…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-19/doc-ininvfsv7096001.shtml"
+    },
+    {
+      "id": "ffd6d5985f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:13",
+      "title": "科济药业-B绩后涨近5% 中期收益约为6191.9万元同比增长21.5%",
+      "insight": "科济药业-B（02171）绩后涨近5%，截至发稿，股价上涨4.63%，现报15.38港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsy2765577.shtml"
+    },
+    {
+      "id": "ff8d285063",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:11",
+      "title": "讯飞医疗科技盘中大涨超22% 上半年营收同比增长49.4%",
+      "insight": "讯飞医疗科技（02506）盘中大涨超22%，截至发稿，股价上涨15.47%，现报73.15港元，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-19/doc-ininvfsv7093320.shtml"
+    },
+    {
+      "id": "ffe6c119c5",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-19 10:10",
+      "title": "华泰期货：天气扰动持续，内外糖价走势分化",
+      "insight": "来源：华泰期货 作者： 李馨 棉花观点 市场要闻与重要数据 期货方面，昨日收盘棉花2701合约1…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-19/doc-ininvfss8364082.shtml"
+    },
+    {
+      "id": "ffab7bab1e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-19 10:09",
+      "title": "恒和集团于8月19日上午起停牌 待刊发内幕消息",
+      "insight": "恒和集团（00513）发布公告，公司股份已于2026年8月19日上午9时起在香港联合交易所有限公…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-19/doc-ininvfsz9534613.shtml"
+    },
+    {
+      "id": "fff77e578c",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "08-19 10:08",
+      "title": "“巨鲸”60天扫货27.5亿美元、现货需求接近转正，比特币底部信号终于出现了？",
+      "insight": "比特币已低迷数月，这场颓势不仅将散户投资者清扫出局，也让加密货币基金流失数十亿美元，更令其昔日最…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-19/doc-ininvfss8364745.shtml"
+    },
+    {
+      "id": "ff1a839532",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-19 10:07",
+      "title": "华泰期货：驱动因素延续，燃料油市场结构偏强运行",
+      "insight": "来源：华泰期货 作者： 康远宁 市场分析 上期所燃料油期货主力合约日盘收涨5.08%，报4098…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-19/doc-ininvfsy2760945.shtml"
+    },
+    {
+      "id": "ffb47a1ece",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-19 10:06",
+      "title": "长存控股，IPO提速",
+      "insight": "8月19日，证监会官网IPO辅导公示系统显示，长江存储控股股份有限公司（下称“长存控股”）及辅导…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-19/doc-ininvfsv7091881.shtml"
     }
   ],
-  "updateTime": "2026-08-19 05:49"
+  "updateTime": "2026-08-19 11:13"
 }
