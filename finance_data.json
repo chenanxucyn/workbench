@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "id": "ff6228a76d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 23:43",
+      "title": "AI企业仍存诸多疑问：白宫大模型测试计划细节不明",
+      "insight": "8 月初，白宫召集 OpenAI、Anthropic、谷歌等科技企业，介绍全新 AI 监管框架。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwpna8217734.shtml"
+    },
+    {
+      "id": "fff953a93b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 23:22",
+      "title": "摩根士丹利上调霍尼韦尔航空航天评级",
+      "insight": "摩根士丹利表示，霍尼韦尔航空航天（HONA）当前估值已经极具吸引力，现在是买入该股的好时机。 这…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwpnm9212820.shtml"
+    },
+    {
+      "id": "ff6c367243",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 23:11",
+      "title": "摩根大通将克拉纳评级下调至中性",
+      "insight": "摩根大通将克拉纳（KLAR）的股票评级从增持（Overweight）下调至中性（Neutral）…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwpnm9208271.shtml"
+    },
+    {
+      "id": "fff2fe0f64",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 22:35",
+      "title": "卡瓦纳股价本周承压：针对马克・沃尔特的联邦调查引发投资者恐慌",
+      "insight": "受针对亿万富豪马克・沃尔特的联邦调查影响，市场将目光投向他所持这家线上二手车零售商的少数股权，卡…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei7032547.shtml"
+    },
+    {
+      "id": "ff558ea8be",
+      "source": "《财经》杂志",
+      "tag": "财经热点",
+      "time": "08-19 22:29",
+      "title": "公积金制度大修落定，10万亿沉淀资金如何激活？",
+      "insight": "《住房公积金管理条例》进行近20年来最大幅度修订，9月20日起施行。提取情形从六类扩至九类，10…",
+      "link": "https://finance.sina.com.cn/wm/2026-08-19/doc-ininwpnk2421024.shtml"
+    },
+    {
+      "id": "ff878dffe2",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-19 22:29",
+      "title": "688121，或触及重大违法强制退市",
+      "insight": "8月19日晚，*ST卓然（688121）公告称，公司于2025年12月因涉嫌信息披露违法违规等事…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-19/doc-ininwiei7030939.shtml"
+    },
+    {
+      "id": "ff4d1b2472",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 22:29",
+      "title": "Moderna股价飙升150%，与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功",
+      "insight": "Moderna公司与默沙东公司的免疫治疗药物Keytruda联合使用的mRNA疫苗，在针对皮肤癌…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwien2544301.shtml"
+    },
+    {
+      "id": "ff731811a6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 22:22",
+      "title": "美国财政部将债务回购规模提高一倍，贝森特着手稳定债券市场",
+      "insight": "美国财政部周三表示，将把政府债务回购规模提高一倍以上，在市场面临巨大压力之际，此举推动收益率大幅…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei7023457.shtml"
+    },
+    {
+      "id": "ff7bdf6d49",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 22:09",
+      "title": "对冲基金即将大举入局预测市场",
+      "insight": "核心要点康托・菲茨杰拉德将担任经纪商，为客户在 Kalshi 平台的事件合约上组织大宗交易。苏世…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8285176.shtml"
+    },
+    {
+      "id": "ff0002365c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-19 22:06",
+      "title": "美财政部扩大国债回购规模，贝森特出手稳定债市",
+      "insight": "核心要点美国财政部周三表示，未来数月将把国债回购规模至少扩大一倍，重点瞄准市场脆弱的长久期国债板…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwien2531966.shtml"
+    },
+    {
+      "id": "ff8e973b83",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "08-19 21:47",
+      "title": "方便面又好卖了？三大巨头业绩集体回暖",
+      "insight": "随着统一和康师傅等中期业绩出炉，方便面业务回暖引发关注，“方便面又好卖了”等相关话题登上热搜。 …",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwiep9295283.shtml"
+    },
+    {
       "id": "ff2661d16e",
       "source": "环球市场播报",
       "tag": "美股",
@@ -80,106 +179,7 @@
       "title": "美元在美国财政部宣布扩大较长期国债回购后跌至盘中低点",
       "insight": "美元现货指数一度下跌0.5%，之前美国财政部宣布计划增加长期债券回购。 所有G10货币兑美元均上…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiep9266716.shtml"
-    },
-    {
-      "id": "ff6c39cfda",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:56",
-      "title": "美金融公司坎特允许对冲基金在Kalshi预测市场大举押注",
-      "insight": "坎托·菲茨杰拉德（Cantor Fitzgerald）计划向投资基金开放Kalshi预测市场的交…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei6958117.shtml"
-    },
-    {
-      "id": "ff348ef3c9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:52",
-      "title": "莫德纳与默沙东癌症疫苗后期临床试验结果喜人 莫德纳股价暴涨90%",
-      "insight": "核心要点默沙东与莫德纳合作的一款在研个性化癌症疫苗，在其首次后期临床试验中取得初步积极结果。与单…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8227076.shtml"
-    },
-    {
-      "id": "fff94f53f4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:43",
-      "title": "Target上调全年销售指引，Lowe’s下调展望：美国消费与住房需求继续分化",
-      "insight": "美国两家大型零售商8月19日同期公布第二季度业绩，给出方向相反的全年展望。Target净销售同比…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei6948467.shtml"
-    },
-    {
-      "id": "ff99f9defe",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:41",
-      "title": "ADI创纪录季度：数据中心与工业双轮驱动，第四财季再抬指引",
-      "insight": "Analog Devices（ADI）周三公布截至8月1日的2026财年第三季度业绩：营收40.…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwien2484300.shtml"
-    },
-    {
-      "id": "ff8145302e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-19 20:35",
-      "title": "美国财政部宣布：将长期国债回购操作规模至少扩大一倍",
-      "insight": "美国财政部宣布，将至少翻倍扩大长期名义附息国债（10‑20年期、20‑30年期品种）的流动性支持…",
-      "link": "https://finance.sina.com.cn/world/2026-08-19/doc-ininwien2480738.shtml"
-    },
-    {
-      "id": "ffcc16aa92",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:33",
-      "title": "全球长债抛售暂歇：美30年期收益率创近20年高点后回落",
-      "insight": "国30年期国债收益率周二盘中突破5.33%，创2007年以来新高，随后在周三亚洲和欧洲交易时段回…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei6938987.shtml"
-    },
-    {
-      "id": "ffaf3559fd",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-19 20:31",
-      "title": "芯原股份半年亏6亿，市值一个多月蒸发近千亿",
-      "insight": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 8月17日晚间，国内半导体IP龙头芯…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-19/doc-ininwien2489361.shtml"
-    },
-    {
-      "id": "ffe68786b2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:31",
-      "title": "Nebius发行45亿美元可转换债 以支持人工智能业务发展",
-      "insight": "Nebius Group NV将通过发行可转换债筹集45亿美元，用于建设数据中心以满足人工智能带…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8209589.shtml"
-    },
-    {
-      "id": "ff9b40c622",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:30",
-      "title": "美国制裁国际刑事法院院长 威胁采取更多措施削弱该法院",
-      "insight": "特朗普政府宣布制裁国际刑事法院院长及一名高级审判律师，进一步加大对该机构的施压力度。美国政府认为…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8209123.shtml"
-    },
-    {
-      "id": "ff1be04389",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-19 20:30",
-      "title": "百亿押注兆易创新，葛卫东“猛攻”科技赛道",
-      "insight": "來源：环球老虎财经app 即便科技股大幅回撤，葛卫东仍站在那里。最新数据显示，葛卫东、王萍二人继…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-19/doc-ininwiep9290858.shtml"
-    },
-    {
-      "id": "ff54ba76de",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-19 20:30",
-      "title": "盘前：纳指期货跌0.21% 市场担忧融资成本",
-      "insight": "周三美股走势震荡，全球债券市场仍然承压，市场担忧主权债务持续膨胀。油价持续上涨，使交易员在经历了…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8224353.shtml"
     }
   ],
-  "updateTime": "2026-08-19 22:05"
+  "updateTime": "2026-08-20 00:01"
 }
