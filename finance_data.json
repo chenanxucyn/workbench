@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff2a04d0e8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 03:08",
-      "title": "美国据悉拟在贸易协议中将加拿大钢和铝的关税减半",
-      "insight": "据知情人士透露，美国与加拿大的初步贸易协议将把部分加拿大钢和铝产品的关税降至25%。 知情人士表…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuh2396875.shtml"
-    },
-    {
-      "id": "ff4cfec425",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:57",
-      "title": "美国财政部回购长期国债可能上不封顶 国库券发行规模面临更多变数",
-      "insight": "美国财政部扩大长期国债回购的决定使包括国库券在内的短期证券发行前景变得更加复杂，因为市场预计财政…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtty8201535.shtml"
-    },
-    {
-      "id": "ff24ebb0b1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:56",
-      "title": "Stripe同意收购人工智能公司OpenRouter",
-      "insight": "支付巨头Stripe Inc．已同意收购OpenRouter Inc．，将这个增长最快的人工智能…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuh2392107.shtml"
-    },
-    {
-      "id": "ffee69efe7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:53",
-      "title": "头号贸易伙伴实施禁运 伊朗一条经济命脉恐遭切断",
-      "insight": "在德黑兰与美国紧张局势不断升温的同时，阿拉伯联合酋长国切断与伊朗经济联系的决定可能会让这个伊斯兰…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuc6927372.shtml"
-    },
-    {
-      "id": "ff1080b19e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:51",
-      "title": "美联储会议纪要显示 与会者强调联邦基金利率是关键政策工具",
-      "insight": "上一次联邦公开市场委员会（FOMC）会议的纪要显示，许多美联储决策者重申，调整货币政策立场的主要…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtui9163122.shtml"
-    },
-    {
-      "id": "fff1c37a28",
+      "id": "ff26f88778",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 02:44",
-      "title": "会议纪要显示美联储多位官员倾向加息 称如通胀居高不下需采取行动",
-      "insight": "美联储最新会议纪要显示，多位官员上月倾向加息，许多决策者表示如果通胀不能下降，有必要收紧货币政策…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwtty8194497.shtml"
+      "time": "08-20 05:53",
+      "title": "富国：美国扩大回购是“豪赌”短端利率会走低",
+      "insight": "富国经济学家Tom Porcelli和Michael Pugliese在研报中指出，鉴于财政政策…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeiu8035142.shtml"
     },
     {
-      "id": "ff602e29be",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:22",
-      "title": "花旗建议买入20年期美国国债 称增加回购预示着收益率见顶",
-      "insight": "花旗集团建议客户买入长期美国国债，此前美国财政部宣布计划将较长期债券的回购规模“至少”翻一番。花…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtty8181818.shtml"
-    },
-    {
-      "id": "ff4d112f99",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 02:07",
-      "title": "Marvell因AI芯片交易大涨8%，谷歌可购买至多122亿美元股份",
-      "insight": "Marvell Technology股价上涨8%，此前根据一份证券申报文件，该公司达成了一项允许…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtui9147693.shtml"
-    },
-    {
-      "id": "ff5587bf1e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 01:36",
-      "title": "美国20年期国债中标收益率5.204% 高于发行前交易水平",
-      "insight": "美国财政部发行160亿美元20年期新债中标收益率5.204%，比投标截止时的发行前交易水平高0.…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuc6883967.shtml"
-    },
-    {
-      "id": "ff13beeb7e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 01:34",
-      "title": "纽约汇市：美国财政部宣布增加长债回购后美元跌至三个月低点",
-      "insight": "美元在纽约汇市创出三周最大跌幅，跌至5月中旬以来最低水平，之前在美国财政部宣布增加长期国债回购之…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuh2363913.shtml"
-    },
-    {
-      "id": "ffe8768092",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 01:29",
-      "title": "资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债",
-      "insight": "亿万富豪Ken Fisher旗下同名公司似乎正在押注期限最长的美国国债将会上涨，以逆势操作寻求从…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuc6879937.shtml"
-    },
-    {
-      "id": "fff8dd44aa",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 01:20",
-      "title": "欧洲股市变化不大 矿业股走高",
-      "insight": "欧洲股市周三变化不大，在夏季交投清淡的背景下，大部分时间维持窄幅波动，成交量较平均水平低约20%…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuc6875120.shtml"
-    },
-    {
-      "id": "ff5f17bf71",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 01:18",
-      "title": "阿联酋中断贸易往来，伊朗面临失去关键经济命脉的风险",
-      "insight": "阿联酋决定切断与伊朗的经济联系，很可能给这个伊斯兰共和国带来更多痛苦，在与美国紧张局势升级之际，…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtty8146280.shtml"
-    },
-    {
-      "id": "ffdaa85fdb",
+      "id": "ff3b1fd0f7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 01:03",
-      "title": "克拉默评美财政部购债：市场极度想要保住股市这轮上涨行情",
-      "insight": "名嘴吉姆・克拉默周三表示，财政部扩大国债回购虽能暂时缓解市场压力，但这项非常规干预举措，恰恰凸显…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwtuh2352956.shtml"
+      "time": "08-20 05:53",
+      "title": "美国拟在贸易协议中将加拿大汽车关税降至15%",
+      "insight": "据知情人士透露，特朗普政府势将把对加拿大的汽车关税从25%下调至15%，这是更广泛贸易协议的一部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeix6762654.shtml"
     },
     {
-      "id": "ffe1fe584e",
+      "id": "ff62918ec9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 00:56",
-      "title": "QuickBooks竞品初创企业估值纷纷达到10亿美元",
-      "insight": "AI 初创企业 Mercor、Replit 等高速发展，也带动一批帮这些公司打理账务的 SaaS…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwtui9122504.shtml"
+      "time": "08-20 05:30",
+      "title": "8月20日外盘头条：美联储多位官员倾向加息 Moderna股价飙升 美财政部提高债务回购规模 OpenAI或在27年上市",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、会议纪要显示美联储多位官员倾向加息 称如通胀…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2309954.shtml"
     },
     {
-      "id": "ff5fd18fe6",
+      "id": "ff4d31a217",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 00:39",
-      "title": "OpenAI抬高安全标准对标Anthropic Anthropic进一步拉开营收领先优势",
-      "insight": "在 Anthropic 与 OpenAI 的这场 AI 竞速中，如今体量明显更小的 OpenAI…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwpnf6982223.shtml"
+      "time": "08-20 05:29",
+      "title": "美国公共债务首次突破40万亿美元",
+      "insight": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeiu8019340.shtml"
     },
     {
-      "id": "ffc79274cd",
+      "id": "ff56d5c233",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 00:29",
-      "title": "调查：美国10年期国债收益率今年将突破5%",
-      "insight": "近期美国国债遭到抛售，推动30年期收益率升至数十年来高位，而这一轮跌势可能即将创下另一个里程碑：…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwpna8247449.shtml"
+      "tag": "美股",
+      "time": "08-20 05:13",
+      "title": "观点综述：买入20年期美债 增加回购预示收益率见顶 年轻人敌视AI",
+      "insight": "花旗建议买入20年期美国国债，称美国财政部宣布增加回购预示着收益率见顶。皮尤调查显示，美国年轻人…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6868689.shtml"
     },
     {
-      "id": "ffabfd7a54",
+      "id": "ff5f44b263",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 00:22",
-      "title": "特朗普 ：我们已经与加拿大达成协议 美国农民无需承担关税",
-      "insight": "特朗普表示，加拿大方面“昨天打来电话，并给出了我们必须得到的那些条件”，目前贸易协议只待相关文件…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwpnk2467190.shtml"
+      "tag": "美股",
+      "time": "08-20 05:09",
+      "title": "8月20日热门中概股多数上涨 携程理想涨超4% 拼多多涨超3%",
+      "insight": "8月20日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）涨1.51%。 上涨个股（按市值从高…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6866270.shtml"
     },
     {
-      "id": "ffb7fbabae",
+      "id": "ff0238c008",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 00:05",
-      "title": "欧洲债市：欧洲国债追随美债上涨 德债止住连跌",
-      "insight": "欧洲超长期债券价格周三上涨，受益于长期美国国债大幅走高并终结了德国国债连续三天的下跌趋势。 10…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwpnk2459550.shtml"
+      "tag": "美股",
+      "time": "08-20 04:51",
+      "title": "特朗普称可能将对加拿大的关税降至与其他国家相同的水平",
+      "insight": "美国总统特朗普在白宫的一次活动中表示，他可能会降低对加拿大征收的关税。 特朗普在回答有关钢铝关税…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855691.shtml"
     },
     {
-      "id": "ff9dd2c992",
+      "id": "ff170d82f6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:51",
+      "title": "美国股市：标普500指数结束三连跌 美财政部扩大国债回购提振债市",
+      "insight": "标普500指数周三反弹，因为美国财政部宣布扩大较长期国债回购规模后美债收益率大幅回落，但随后市场…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855540.shtml"
+    },
+    {
+      "id": "ff47f57e8e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:50",
+      "title": "特朗普称下周将与“AI领军人物”会面",
+      "insight": "美国总统特朗普表示，他下周将与人工智能业界领袖开会。 特朗普在白宫说，AI行业的“领军人物”将出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml"
+    },
+    {
+      "id": "ff48f32ce8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:49",
+      "title": "特朗普称美国人不必担心债券市场",
+      "insight": "美国总统特朗普表示，美国人不必担心债券市场的波动。 “不，我认为不必，因为就像我说的，尽管有利率…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9068507.shtml"
+    },
+    {
+      "id": "ff6d8f2077",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:49",
+      "title": "花旗称贝森特出手令美元付出代价 建议客户采用这些策略加以应对",
+      "insight": "花旗集团认为，美国财政部长斯科特·贝森特为压低长期借贷成本而采取的最新举措可能会导致美元在短期内…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8126936.shtml"
+    },
+    {
+      "id": "ff169de423",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:47",
+      "title": "8月20日美股成交额前20：Moderna大涨170% 黑色素瘤mRNA疫苗三期试验效果积极",
+      "insight": "周二美股成交额第2名Moderna大涨176.97%，成交275.08亿美元。 Moderna及…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8125948.shtml"
+    },
+    {
+      "id": "fffe725a4f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:39",
+      "title": "大宗商品综述：油价升至逾三周高点 金价大涨 铜小幅走高",
+      "insight": "原油价格周三上涨，受到美国炼油商加大生产以及中东紧张局势的提振。黄金价格跃升，得益于美国财政部宣…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8121729.shtml"
+    },
+    {
+      "id": "ffe571b115",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:17",
+      "title": "美国债市：收益率曲线扭曲趋平 美财政部宣布扩大回购规模",
+      "insight": "美国国债收益率曲线周三大幅扭曲趋平，长债跑赢，此前美国财政部宣布将把10年至30年期国债的流动性…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2285902.shtml"
+    },
+    {
+      "id": "ff6b75db97",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:14",
+      "title": "8月20日美股收盘：三大股指普涨 美国财政部扩大国债回购",
+      "insight": "周三，在美国财政部宣布扩大国债回购操作之后，美债收益率回落，主要股指收盘普涨。 道指涨0.22%…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6835597.shtml"
+    },
+    {
+      "id": "ffe08fac45",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 04:01",
+      "title": "美国财政部加码长期美债回购 令人联想到美联储“扭转操作”",
+      "insight": "特朗普政府出人意料地扩大长期美国国债回购规模，令人联想到美联储的“扭转操作”（Operation…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8101326.shtml"
+    },
+    {
+      "id": "ffe4c0eb2c",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-20 00:03",
-      "title": "彭博美元指数创三周来最大跌幅 国债回购计划引发债券市场反弹",
-      "insight": "彭博美元指数跌至5月中旬以来最低水平，创三周来最大跌幅，此前债市由于美国财政部意外宣布增加长期国…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwpnf6958005.shtml"
+      "time": "08-20 03:47",
+      "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
+      "insight": "据两位知情人士透露，OpenAI首席财务官弗莱尔在周三的全员会议上向员工表示，公司将在 2027…",
+      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2277597.shtml"
+    },
+    {
+      "id": "ff2156943b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 03:47",
+      "title": "伊朗尚未有任何被冻结资金获得返还",
+      "insight": "伊朗央行行长Abdolnaser Hemmati在电视采访中表示：“到目前为止，没有任何伊朗被冻…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9049969.shtml"
+    },
+    {
+      "id": "ff15289ad4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 03:40",
+      "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
+      "insight": "根据一份证券文件，Marvell Technology股价因一项允许谷歌购买这家芯片公司至多12…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9047724.shtml"
+    },
+    {
+      "id": "ff2841d357",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 03:36",
+      "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
+      "insight": "OpenAI首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，这家人工智能实验室“将在2027…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9046051.shtml"
     }
   ],
-  "updateTime": "2026-08-20 03:11"
+  "updateTime": "2026-08-20 05:54"
 }
