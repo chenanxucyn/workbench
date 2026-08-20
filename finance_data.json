@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff26f88778",
+      "id": "ff19f1a9af",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 05:53",
-      "title": "富国：美国扩大回购是“豪赌”短端利率会走低",
-      "insight": "富国经济学家Tom Porcelli和Michael Pugliese在研报中指出，鉴于财政政策…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeiu8035142.shtml"
+      "time": "08-20 11:08",
+      "title": "摩根大通称SK海力士明年或向股东返还至少1300亿美元",
+      "insight": "据摩根大通称，SK海力士在完成新的巨额股票回购计划后，明年可能会向股东返还至少1300亿美元。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxqxq8025385.shtml"
     },
     {
-      "id": "ff3b1fd0f7",
+      "id": "ff9921afcb",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 11:06",
+      "title": "中金：惠理集团维持“跑赢行业”评级 目标价降至2.60港元",
+      "insight": "中金发布研报称，维持惠理集团（00806）“跑赢行业”评级，考虑AUM增长及表现费提高，上调20…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-20/doc-ininxqxw2106034.shtml"
+    },
+    {
+      "id": "ff87fbd465",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 11:04",
+      "title": "中金：港交所维持“跑赢行业”评级 目标价520港元",
+      "insight": "中金发布研报称，基本维持香港交易所（00388）当前26e/27e盈利预测不变，公司当前交易于2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-20/doc-ininxqxw2103993.shtml"
+    },
+    {
+      "id": "ff8a00c026",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 11:02",
+      "title": "小摩：香港交易所维持“增持”评级 目标价520港元",
+      "insight": "摩根大通发布研报称，香港交易所（00388）次季纯利54亿元，按季升4%，同比增21%，较该行预…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-20/doc-ininxqxt6748056.shtml"
+    },
+    {
+      "id": "ffb4fccb29",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 11:01",
+      "title": "医渡科技盘中涨近8% 公司积极构建医疗AI闭环能力",
+      "insight": "医渡科技（02158）盘中涨近8%，截至发稿，股价上涨6.45%，现报4.455港元，成交额20…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxq8018526.shtml"
+    },
+    {
+      "id": "ff946d8e43",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-20 10:58",
+      "title": "蛋价高位承压，短期回调后或迎开学季二次反弹",
+      "insight": "卓创资讯鸡蛋市场分析师赵星 【导语】8月以来，鸡蛋市场正式步入中秋备货旺季，终端需求集中释放，蛋…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxqxx8873094.shtml"
+    },
+    {
+      "id": "ff482037bf",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-20 10:58",
+      "title": "PTA：社会库存降至44个月内低点 9月即将累库存？",
+      "insight": "卓创资讯分析师 安光 【导语】4月开始PTA装置集中检修，4-8月PTA持续去库存，8月PTA社…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxqxx8872812.shtml"
+    },
+    {
+      "id": "ff0bc2eaa0",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-20 10:57",
+      "title": "“玉”见未来：东北新季玉米如何开局？",
+      "insight": "卓创资讯玉米市场分析师李霞 【导语】三季度东北产区玉米价格持续偏弱，且低于近年同期平均水平。部分…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxqxx8872518.shtml"
+    },
+    {
+      "id": "ffc8f40d17",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-20 10:56",
+      "title": "8月上半月猪价持续走高 下旬或持续偏强走势",
+      "insight": "卓创资讯生猪产业链资深分析师闫法成 【导语】8月至今，全国22个省份瘦肉型生猪的出栏价格在月初小…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-20/doc-ininxqxq8015312.shtml"
+    },
+    {
+      "id": "ffcdb3b22a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 10:56",
+      "title": "复宏汉霖盘中涨近8% 近期联手山德士出海至多10款生物类似药",
+      "insight": "复宏汉霖（02696）盘中涨近8%，截至发稿，股价上涨6.87%，现报70.05港元，成交额16…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxw2099208.shtml"
+    },
+    {
+      "id": "ff9821f054",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 10:54",
+      "title": "招金矿业现涨超8% 机构称黄金具备较强的长期战略配置价值",
+      "insight": "招金矿业（01818）早盘一度涨超12%，截至发稿，股价上涨8.40%，现报25.80港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxt6741018.shtml"
+    },
+    {
+      "id": "ff212a2def",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 10:47",
+      "title": "先声药业早盘涨近5% 华泰证券维持“买入”评级",
+      "insight": "先声药业（02096）早盘涨近5%，截至发稿，股价上涨4.60%，现报12.73港元，成交额45…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxw2093746.shtml"
+    },
+    {
+      "id": "ffad43b230",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-20 10:42",
+      "title": "海丰国际早盘涨超5% 上半年盈利好于市场预期",
+      "insight": "海丰国际（01308）早盘涨超5%，截至发稿，股价上涨5.52%，现报46.62港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-20/doc-ininxqxt6729900.shtml"
+    },
+    {
+      "id": "ffe8a89525",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 05:53",
-      "title": "美国拟在贸易协议中将加拿大汽车关税降至15%",
-      "insight": "据知情人士透露，特朗普政府势将把对加拿大的汽车关税从25%下调至15%，这是更广泛贸易协议的一部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeix6762654.shtml"
+      "time": "08-20 10:34",
+      "title": "新加坡当局开始调查铁矿石贸易商Radiant World",
+      "insight": "新加坡警方一位发言人周四表示，在收到有关铁矿石贸易商Radiant World的报告后，当局已开…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxqxx8857199.shtml"
     },
     {
-      "id": "ff62918ec9",
+      "id": "ff2409bdf5",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 05:30",
-      "title": "8月20日外盘头条：美联储多位官员倾向加息 Moderna股价飙升 美财政部提高债务回购规模 OpenAI或在27年上市",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、会议纪要显示美联储多位官员倾向加息 称如通胀…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2309954.shtml"
+      "time": "08-20 10:33",
+      "title": "印度央行行长称该行的美元净空头头寸“非常可控”",
+      "insight": "印度央行行长Sanjay Malhotra称，该行的美元远期净空头头寸仍处于“非常可控”的水平，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxqxq7992896.shtml"
     },
     {
-      "id": "ff4d31a217",
+      "id": "ffe6a81428",
+      "source": "市场资讯",
+      "tag": "财经",
+      "time": "08-20 10:31",
+      "title": "美国加州柴油价格再次突破7美元/加仑 燃料价格或长期高企",
+      "insight": "来源：财联社 财联社8月20日讯（编辑 马兰）全球柴油短缺的痛苦正在蔓延。据美国汽车协会（AAA…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-20/doc-ininxqxx8857488.shtml"
+    },
+    {
+      "id": "ff49c4117f",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 05:29",
-      "title": "美国公共债务首次突破40万亿美元",
-      "insight": "美国公共债务总额首次突破40万亿美元，在不到五年间激增了三分之一。尽管各界不断呼吁解决居高不下的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxeiu8019340.shtml"
+      "time": "08-20 10:28",
+      "title": "SK海力士股票回购注销计划不会影响ADR转换空间",
+      "insight": "据韩国证券存管机构（KSD）一位官员称，他向SK海力士核实过，该公司回购并注销2400万股股票的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxqxt6716498.shtml"
     },
     {
-      "id": "ff56d5c233",
+      "id": "ffe9b2c915",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-20 10:22",
+      "title": "天玑科技索赔新进展 又一批股民提交起诉",
+      "insight": "近日，投资者诉上海天玑科技股份有限公司（简称：天玑科技、ST天玑，代码：300245）证券虚假陈…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-20/doc-ininxqxx8850131.shtml"
+    },
+    {
+      "id": "ff31462753",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-20 05:13",
-      "title": "观点综述：买入20年期美债 增加回购预示收益率见顶 年轻人敌视AI",
-      "insight": "花旗建议买入20年期美国国债，称美国财政部宣布增加回购预示着收益率见顶。皮尤调查显示，美国年轻人…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6868689.shtml"
+      "time": "08-20 10:19",
+      "title": "摩根士丹利据悉挖角巴克莱大将 出任科技业投资银行部门副董事长",
+      "insight": "据知情人士透露，摩根士丹利正在延揽巴克莱的科技业投资银行家Tim Luke。 知情人士透露，Lu…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininxqxt6708246.shtml"
     },
     {
-      "id": "ff5f44b263",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 05:09",
-      "title": "8月20日热门中概股多数上涨 携程理想涨超4% 拼多多涨超3%",
-      "insight": "8月20日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）涨1.51%。 上涨个股（按市值从高…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6866270.shtml"
-    },
-    {
-      "id": "ff0238c008",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:51",
-      "title": "特朗普称可能将对加拿大的关税降至与其他国家相同的水平",
-      "insight": "美国总统特朗普在白宫的一次活动中表示，他可能会降低对加拿大征收的关税。 特朗普在回答有关钢铝关税…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855691.shtml"
-    },
-    {
-      "id": "ff170d82f6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:51",
-      "title": "美国股市：标普500指数结束三连跌 美财政部扩大国债回购提振债市",
-      "insight": "标普500指数周三反弹，因为美国财政部宣布扩大较长期国债回购规模后美债收益率大幅回落，但随后市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855540.shtml"
-    },
-    {
-      "id": "ff47f57e8e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:50",
-      "title": "特朗普称下周将与“AI领军人物”会面",
-      "insight": "美国总统特朗普表示，他下周将与人工智能业界领袖开会。 特朗普在白宫说，AI行业的“领军人物”将出…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml"
-    },
-    {
-      "id": "ff48f32ce8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:49",
-      "title": "特朗普称美国人不必担心债券市场",
-      "insight": "美国总统特朗普表示，美国人不必担心债券市场的波动。 “不，我认为不必，因为就像我说的，尽管有利率…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9068507.shtml"
-    },
-    {
-      "id": "ff6d8f2077",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:49",
-      "title": "花旗称贝森特出手令美元付出代价 建议客户采用这些策略加以应对",
-      "insight": "花旗集团认为，美国财政部长斯科特·贝森特为压低长期借贷成本而采取的最新举措可能会导致美元在短期内…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8126936.shtml"
-    },
-    {
-      "id": "ff169de423",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:47",
-      "title": "8月20日美股成交额前20：Moderna大涨170% 黑色素瘤mRNA疫苗三期试验效果积极",
-      "insight": "周二美股成交额第2名Moderna大涨176.97%，成交275.08亿美元。 Moderna及…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8125948.shtml"
-    },
-    {
-      "id": "fffe725a4f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:39",
-      "title": "大宗商品综述：油价升至逾三周高点 金价大涨 铜小幅走高",
-      "insight": "原油价格周三上涨，受到美国炼油商加大生产以及中东紧张局势的提振。黄金价格跃升，得益于美国财政部宣…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8121729.shtml"
-    },
-    {
-      "id": "ffe571b115",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:17",
-      "title": "美国债市：收益率曲线扭曲趋平 美财政部宣布扩大回购规模",
-      "insight": "美国国债收益率曲线周三大幅扭曲趋平，长债跑赢，此前美国财政部宣布将把10年至30年期国债的流动性…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2285902.shtml"
-    },
-    {
-      "id": "ff6b75db97",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:14",
-      "title": "8月20日美股收盘：三大股指普涨 美国财政部扩大国债回购",
-      "insight": "周三，在美国财政部宣布扩大国债回购操作之后，美债收益率回落，主要股指收盘普涨。 道指涨0.22%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6835597.shtml"
-    },
-    {
-      "id": "ffe08fac45",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 04:01",
-      "title": "美国财政部加码长期美债回购 令人联想到美联储“扭转操作”",
-      "insight": "特朗普政府出人意料地扩大长期美国国债回购规模，令人联想到美联储的“扭转操作”（Operation…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8101326.shtml"
-    },
-    {
-      "id": "ffe4c0eb2c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 03:47",
-      "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
-      "insight": "据两位知情人士透露，OpenAI首席财务官弗莱尔在周三的全员会议上向员工表示，公司将在 2027…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2277597.shtml"
-    },
-    {
-      "id": "ff2156943b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 03:47",
-      "title": "伊朗尚未有任何被冻结资金获得返还",
-      "insight": "伊朗央行行长Abdolnaser Hemmati在电视采访中表示：“到目前为止，没有任何伊朗被冻…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9049969.shtml"
-    },
-    {
-      "id": "ff15289ad4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 03:40",
-      "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
-      "insight": "根据一份证券文件，Marvell Technology股价因一项允许谷歌购买这家芯片公司至多12…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9047724.shtml"
-    },
-    {
-      "id": "ff2841d357",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 03:36",
-      "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
-      "insight": "OpenAI首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，这家人工智能实验室“将在2027…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9046051.shtml"
+      "id": "ffd01cb4a1",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-20 10:17",
+      "title": "*ST益通索赔新进展  又一批股民提交起诉",
+      "insight": "近日，投资者诉北京诚益通控制技术集团股份有限公司（简称：诚益通、*ST益通，代码：300430）…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-20/doc-ininxqxx8849393.shtml"
     }
   ],
-  "updateTime": "2026-08-20 05:54"
+  "updateTime": "2026-08-20 11:12"
 }
