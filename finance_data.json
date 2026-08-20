@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "id": "ff661b928f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 02:50",
+      "title": "欧洲股市小幅收低 延续2023年以来最长连跌走势",
+      "insight": "欧洲股市小幅下跌，延续2023年9月以来最长连跌走势，有关美国介入债市的言论令债券收益率剧烈波动…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininzazi1713271.shtml"
+    },
+    {
+      "id": "ff159abf41",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 02:43",
+      "title": "Anthropic首次公开募股规模料追平甚至赶超SpaceX创下的纪录",
+      "insight": "知情人士称，Anthropic PBC预计其IPO规模将至少达到SpaceX创下的纪录水平，甚至…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininzazf8475275.shtml"
+    },
+    {
+      "id": "ff6ca7e3b9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 02:35",
+      "title": "美国住房负担能力指数自2023年以来首次恶化",
+      "insight": "美国一项衡量住房负担能力的关键指标接近三年来首次恶化，因为借贷成本上升导致新购房者不得不将更大一…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininzayz6543428.shtml"
+    },
+    {
+      "id": "ff72141012",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 02:10",
+      "title": "特朗普政府推进加密货币新规，关键法案在国会受阻",
+      "insight": "随着全面的监管立法在参议院陷入僵局，特朗普政府正积极通过行政行动推进加密货币行业的发展。 在周三…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininzazi1685352.shtml"
+    },
+    {
+      "id": "ff84dec3b8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 01:29",
+      "title": "欧洲债市：德国国债回吐涨幅 英国国债与美国国债同步下跌",
+      "insight": "欧洲政府债券整体变动不大，回吐此前涨幅；此前美国财政部长斯科特·贝森特提供长债回购计划细节后，债…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywti8577178.shtml"
+    },
+    {
+      "id": "ff2e3eee1a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 01:27",
+      "title": "“别太贪婪”——40年债市老将把风险敞口降至十余年最低",
+      "insight": "做了40年债券投资的Scott Colbert很少觉得有必要坚守防御立场，但现在他认为时候已经到…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtm1791439.shtml"
+    },
+    {
+      "id": "ff300dfd5a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 01:07",
+      "title": "圣路易斯联储行长谈及债市动荡 称市场并未质疑美联储信誉",
+      "insight": "圣路易斯联储行长阿尔伯托·穆萨莱姆表示，债券市场抛售是由政府借贷以及人工智能建设相关的融资需求增…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6622227.shtml"
+    },
+    {
+      "id": "ff23468605",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 01:06",
+      "title": "债券收益率是“房间里的大象” 股票投资者却对其视而不见",
+      "insight": "如果专业投资者担心全球债券收益率上升会破坏股票牛市，那么从他们的资金配置来看，你根本猜不到他们有…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywti8569855.shtml"
+    },
+    {
+      "id": "ff2b3dd792",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 00:56",
+      "title": "贝森特：美国加大对伊朗经济施压，大概率不会重启大规模对伊作战",
+      "insight": "核心要点 美国财政部长斯科特・贝森特表示，特朗普政府打垮伊朗经济的计划，或将让美国无需再对这个伊…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywti8565887.shtml"
+    },
+    {
+      "id": "ff4b726ace",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 00:50",
+      "title": "美国下周将揭晓孤立伊朗经济的计划",
+      "insight": "美国财政部长斯科特·贝森特表示，美国很快将公布经济孤立伊朗及其贸易伙伴的计划。 贝森特在接受采访…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1791352.shtml"
+    },
+    {
+      "id": "ffa7bf7528",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 00:41",
+      "title": "贝森特称可能进一步加大美债回购力度 并将公布新的财政举措",
+      "insight": "美国财政部长斯科特·贝森特表示，他准备进一步扩大对融资成本较高债务的回购力度，同时特朗普政府将推…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788602.shtml"
+    },
+    {
+      "id": "ffc52db530",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 00:40",
+      "title": "申请美国大学的外国学生出现近十年来最大降幅",
+      "insight": "美国使用最广泛的大学申请平台发布的数据显示，今年秋季申请就读该国高校的国际生人数减少了约10%，…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788071.shtml"
+    },
+    {
+      "id": "ff2a658651",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 00:24",
+      "title": "贝森特称财政部债券回购规模或将超过40亿美元",
+      "insight": "核心要点 美国财政部长斯科特・贝森特表示，周三公布的债务回购计划，实际操作规模有可能高于 40 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywtm1756196.shtml"
+    },
+    {
+      "id": "ff1f959173",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 00:21",
+      "title": "阿克托斯资本同意收购亚特兰大猎鹰队10%股份，球队估值106亿美元",
+      "insight": "核心要点 据两位消息人士向 透露，私募股权公司阿克托斯资本（Arctos）已达成协议，将收购亚特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywtc6596051.shtml"
+    },
+    {
+      "id": "ffd29d24fa",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 00:21",
+      "title": "英国银行业巨头联名致信警告，不要进一步提高税收",
+      "insight": "英国金融协会（UK Finance）已告知财政大臣约翰·希利，其秋季预算案中提高行业税的举措可能…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6595969.shtml"
+    },
+    {
+      "id": "ff49e723c5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 00:18",
+      "title": "AI数据中心引发普遍不满：从商业广告到大选，抗议之声四处蔓延",
+      "insight": "核心要点 距离中期选举不足三个月，越来越多的州内，反对 AI 数据中心正成为两党共同的政治口号。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywth1779890.shtml"
+    },
+    {
       "id": "ff2c672fa8",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -35,151 +179,7 @@
       "title": "如何扑灭由二战遗留弹药助长的野火？试试无人驾驶坦克",
       "insight": "德国西部许特根森林的这场大火烧毁了数百英亩林地，但和近期肆虐欧洲、大片焚毁加拿大森林的火灾相比，…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmp1841946.shtml"
-    },
-    {
-      "id": "ff07f0e3ca",
-      "source": "中证网",
-      "tag": "财经热点",
-      "time": "08-20 22:55",
-      "title": "股价跌停，罗普斯金独家回应：公司随行就市购置原材料",
-      "insight": "8月20日，罗普斯金股价跌停。截至收盘，公司股价报5.71元/股，收盘跌幅为9.94%。此前一个…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-20/doc-ininysmf6674797.shtml"
-    },
-    {
-      "id": "ffdb9acc4a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-20 22:51",
-      "title": "一次性补税8381万！“西北王”金徽酒净利大降28%",
-      "insight": "来源：国际金融报 8月19日晚间，有着“西北酒王”之称的金徽酒（603919）披露半年报。 今年…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-20/doc-ininysmm8645604.shtml"
-    },
-    {
-      "id": "ff1b4d7ff0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:48",
-      "title": "美债管理策略失去可预测性 投资者警告政府融资成本恐上升",
-      "insight": "市场人士警告，美国财政部债务管理策略缺乏可预测性最终可能导致政府借贷成本上升。 摩根大通、杰富瑞…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6668798.shtml"
-    },
-    {
-      "id": "ff2109df85",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:40",
-      "title": "旧金山联储行长戴利认为美债市场显示出对美联储政策立场的信任",
-      "insight": "旧金山联邦储备银行行长玛丽·戴利的表态显示，她认为美国国债市场释放的信号表明，目前货币政策处于合…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1866900.shtml"
-    },
-    {
-      "id": "ffbf30efb7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:36",
-      "title": "杰克逊霍尔前瞻：沃什首次主席演讲，市场要的是反应函数，不是支付主题",
-      "insight": "堪萨斯城联储主办的杰克逊霍尔经济政策研讨会将于8月27–29日在怀俄明杰克逊湖 Lodge 举行…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6660572.shtml"
-    },
-    {
-      "id": "ff4ebb740c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:32",
-      "title": "美联储7月纪要：三人已投票加息，多人警告“通胀若不降就要收紧”",
-      "insight": "美联储周三公布7月28–29日议息会议纪要。委员会以9比3维持联邦基金利率3.50%–3.75%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8635259.shtml"
-    },
-    {
-      "id": "ffdbbc5d72",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:31",
-      "title": "沃尔玛早盘大跌8% 创下六年多来最低销售增速",
-      "insight": "电商、会员业务与广告业务成为该零售商增长驱动力沃尔玛称整体市场份额持续提升，尤其在高收入家庭群体…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6657600.shtml"
-    },
-    {
-      "id": "ff473e5948",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:27",
-      "title": "住房市场持续承压，Hovnanian转亏",
-      "insight": "这家住宅建筑商第三季度总营收下滑 12%，降至 7.057 亿美元 作者：康纳・哈特Hovnan…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8632291.shtml"
-    },
-    {
-      "id": "ff338b808e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:23",
-      "title": "诺和新元营收超预期、上调业绩指引，领涨欧洲斯托克600指数",
-      "insight": "该集团同时宣布，计划到 2029 年底回购 10 亿欧元股票 作者：乔・斯托纳诺和新元首席执行官…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1857565.shtml"
-    },
-    {
-      "id": "ff26265c5d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:20",
-      "title": "迪尔公司营收攀升，利润实现增长",
-      "insight": "公司 2026 财年第三季度净销售额及营收增长 6.2%，达到 110 亿美元 作者：康纳・哈特…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1855711.shtml"
-    },
-    {
-      "id": "ffb1165667",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:18",
-      "title": "受汽油和柴油拉动，加拿大7月生产者价格上涨",
-      "insight": "加拿大统计局工业产品价格指数 7 月环比上涨 0.6% 作者：罗布・M・斯图尔特加拿大 7 月制…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysma7919346.shtml"
-    },
-    {
-      "id": "ff705fc209",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:14",
-      "title": "债券市场与六旗乐园的相通之处",
-      "insight": "此外，美联储会议纪要显示更多官员支持加息 作者：克里斯汀・布劳顿 本周债券市场如同坐过山车，对于…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysma7916993.shtml"
-    },
-    {
-      "id": "ff75d5d77c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 22:12",
-      "title": "纳斯达克100指数恐五连跌 油价、收益率攀升令美股承压",
-      "insight": "美国股市早盘小幅下跌，美债涨势消退，投资者押注美国财政部压低借贷成本的计划可能只是短期的补救措施…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1852047.shtml"
-    },
-    {
-      "id": "ffa18a66a9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 21:42",
-      "title": "超微电脑：高级管理层不知晓所指称的转运计划",
-      "insight": "超微电脑完成了针对其出口合规计划的独立调查，公司表示调查团队未发现证据表明公司高级管理层知晓所指…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8608412.shtml"
-    },
-    {
-      "id": "ff3a22c215",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 21:30",
-      "title": "开盘：主要股指低开 美债收益率再度回升",
-      "insight": "债券市场的短暂喘息似乎正在消退，周四长期美债重拾跌势，继续给股市带来压力，投资者开始质疑美国财政…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6615367.shtml"
-    },
-    {
-      "id": "ff40a2782e",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-20 21:20",
-      "title": "比特币暴涨12%：7万关口能否守住？ETF资金揭示真相",
-      "insight": "来源：智通财经网 据 Woofun AI 消息，比特币价格强势反弹并重新确立 70，250 美元…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-20/doc-ininyncn1957191.shtml"
     }
   ],
-  "updateTime": "2026-08-21 00:04"
+  "updateTime": "2026-08-21 03:44"
 }
