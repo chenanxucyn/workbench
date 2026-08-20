@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "id": "ffa9398c6b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 05:43",
+      "title": "美国股市：标普500重拾跌势，国债回购提振效应消退",
+      "insight": "随着油价攀升与基准美债收益率走高，美国股市周四（8月20日）全线收跌。零售巨头沃尔玛令人失望的业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininziif1668329.shtml"
+    },
+    {
+      "id": "ffbdc73368",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 05:36",
+      "title": "8月21日外盘头条：贝森特称美国大概率不会重启大规模对伊作战 沃尔玛股价重挫超9%",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、贝森特：美国加大对伊朗经济施压，大概率不会重…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininzihx6506486.shtml"
+    },
+    {
+      "id": "ffdfba9468",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 05:32",
+      "title": "摩根大通警告：财政部加倍回购长债，可能抬升而非压低收益率",
+      "insight": "美国财政部周三突然宣布，将10年至30年期名义国债的流动性支持回购上限至少翻倍，试图挡住已升至近…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininziif1662423.shtml"
+    },
+    {
+      "id": "ffcbc8cd75",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 05:15",
+      "title": "沃尔玛美区同店销售六年最慢，股价重挫超9%",
+      "insight": "沃尔玛交出一份“数字好看、市场不买账”的二季报：营收1879亿美元、增长5.9%，调整后每股收益…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininzihx6496136.shtml"
+    },
+    {
+      "id": "ff119a3056",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 04:49",
+      "title": "8月21日美股成交额前20：美光收涨3.97%，公司宣布成立Micron Research Labs，计划未来十年投入100亿美元",
+      "insight": "周四美股成交额第2名美光收涨3.97%，成交237.77亿美元。 美光周四宣布成立Micron …",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininziia1608931.shtml"
+    },
+    {
+      "id": "ff05a1634a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 04:44",
+      "title": "花旗将美元短期看法转为看空，此前已就美债回购风险发出警告",
+      "insight": "花旗集团外汇策略师将美元短期看法转为看空。该团队认为，市场正为美联储鹰派立场减弱、美国中期选举，…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininziia1607562.shtml"
+    },
+    {
+      "id": "ffaa6f33aa",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-21 04:40",
+      "title": "美国债市：国债下跌，曲线中段与长端领跌，回吐回购公告部分涨幅",
+      "insight": "美国国债周四下跌，收益率曲线中段和长端领跌。美国财政部前一交易日意外宣布调整10年至30年期国债…",
+      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininziic8379157.shtml"
+    },
+    {
+      "id": "ff6be9f5b1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 04:34",
+      "title": "8月21日美股收盘：长债收益率反弹抹去回购利好，沃尔玛暴跌近9%拖累道指重挫超700点",
+      "insight": "周四（8月20日），美股三大指数全线收跌。尽管美国财政部前一日宣布将至少翻倍回购10年、20年及…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininziia1604771.shtml"
+    },
+    {
+      "id": "ff5165bdb7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 04:28",
+      "title": "8月21日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）跌1.15%。",
+      "insight": "8月21日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）跌1.15%。 上涨个股（按市值从高…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininzihx6470779.shtml"
+    },
+    {
+      "id": "ff7fc15bc3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-21 03:45",
+      "title": "小摩走访弗里蒙特：特斯拉故意不加Model Y，Robotaxi赌注押在Cybercab",
+      "insight": "摩根大通分析师走访特斯拉加州弗里蒙特工厂、并与投资者关系团队会谈后，在纪要中写下关键一句：公司“…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininzaze1721351.shtml"
+    },
+    {
       "id": "ff661b928f",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -89,97 +179,7 @@
       "title": "美国下周将揭晓孤立伊朗经济的计划",
       "insight": "美国财政部长斯科特·贝森特表示，美国很快将公布经济孤立伊朗及其贸易伙伴的计划。 贝森特在接受采访…",
       "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1791352.shtml"
-    },
-    {
-      "id": "ffa7bf7528",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-21 00:41",
-      "title": "贝森特称可能进一步加大美债回购力度 并将公布新的财政举措",
-      "insight": "美国财政部长斯科特·贝森特表示，他准备进一步扩大对融资成本较高债务的回购力度，同时特朗普政府将推…",
-      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788602.shtml"
-    },
-    {
-      "id": "ffc52db530",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-21 00:40",
-      "title": "申请美国大学的外国学生出现近十年来最大降幅",
-      "insight": "美国使用最广泛的大学申请平台发布的数据显示，今年秋季申请就读该国高校的国际生人数减少了约10%，…",
-      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywth1788071.shtml"
-    },
-    {
-      "id": "ff2a658651",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-21 00:24",
-      "title": "贝森特称财政部债券回购规模或将超过40亿美元",
-      "insight": "核心要点 美国财政部长斯科特・贝森特表示，周三公布的债务回购计划，实际操作规模有可能高于 40 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywtm1756196.shtml"
-    },
-    {
-      "id": "ff1f959173",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-21 00:21",
-      "title": "阿克托斯资本同意收购亚特兰大猎鹰队10%股份，球队估值106亿美元",
-      "insight": "核心要点 据两位消息人士向 透露，私募股权公司阿克托斯资本（Arctos）已达成协议，将收购亚特…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywtc6596051.shtml"
-    },
-    {
-      "id": "ffd29d24fa",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-21 00:21",
-      "title": "英国银行业巨头联名致信警告，不要进一步提高税收",
-      "insight": "英国金融协会（UK Finance）已告知财政大臣约翰·希利，其秋季预算案中提高行业税的举措可能…",
-      "link": "https://finance.sina.com.cn/world/2026-08-21/doc-ininywtc6595969.shtml"
-    },
-    {
-      "id": "ff49e723c5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-21 00:18",
-      "title": "AI数据中心引发普遍不满：从商业广告到大选，抗议之声四处蔓延",
-      "insight": "核心要点 距离中期选举不足三个月，越来越多的州内，反对 AI 数据中心正成为两党共同的政治口号。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-ininywth1779890.shtml"
-    },
-    {
-      "id": "ff2c672fa8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-20 23:57",
-      "title": "美国财政部长贝森特称美债回购操作单次规模可能超过40亿美元",
-      "insight": "美国财政部长斯科特·贝森特表示，本周宣布的扩大后的美国国债回购，单次规模可能超过40亿美元。 “…",
-      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininywtm1738133.shtml"
-    },
-    {
-      "id": "ffecc77f91",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 23:27",
-      "title": "美财长贝森特在债券市场宣告妥协",
-      "insight": "作者：贾里德・布利克雷 美国财政部要回购更多本国国债。值得玩味的不是回购规模，而是斯科特・贝森特…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1889853.shtml"
-    },
-    {
-      "id": "ff93162bb7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 23:16",
-      "title": "3.19亿股新股解禁，SpaceX股价回落至发行价附近",
-      "insight": "SpaceX 股票再度遭遇股份解禁冲击，股价走低，回落至其 IPO 发行价附近。 早期员工与投资…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8656809.shtml"
-    },
-    {
-      "id": "ffb9a402e8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 23:11",
-      "title": "如何扑灭由二战遗留弹药助长的野火？试试无人驾驶坦克",
-      "insight": "德国西部许特根森林的这场大火烧毁了数百英亩林地，但和近期肆虐欧洲、大片焚毁加拿大森林的火灾相比，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmp1841946.shtml"
     }
   ],
-  "updateTime": "2026-08-21 03:44"
+  "updateTime": "2026-08-21 05:57"
 }
