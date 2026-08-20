@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "id": "ff2c672fa8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-20 23:57",
+      "title": "美国财政部长贝森特称美债回购操作单次规模可能超过40亿美元",
+      "insight": "美国财政部长斯科特·贝森特表示，本周宣布的扩大后的美国国债回购，单次规模可能超过40亿美元。 “…",
+      "link": "https://finance.sina.com.cn/world/2026-08-20/doc-ininywtm1738133.shtml"
+    },
+    {
+      "id": "ffecc77f91",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 23:27",
+      "title": "美财长贝森特在债券市场宣告妥协",
+      "insight": "作者：贾里德・布利克雷 美国财政部要回购更多本国国债。值得玩味的不是回购规模，而是斯科特・贝森特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1889853.shtml"
+    },
+    {
+      "id": "ff93162bb7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 23:16",
+      "title": "3.19亿股新股解禁，SpaceX股价回落至发行价附近",
+      "insight": "SpaceX 股票再度遭遇股份解禁冲击，股价走低，回落至其 IPO 发行价附近。 早期员工与投资…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8656809.shtml"
+    },
+    {
+      "id": "ffb9a402e8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 23:11",
+      "title": "如何扑灭由二战遗留弹药助长的野火？试试无人驾驶坦克",
+      "insight": "德国西部许特根森林的这场大火烧毁了数百英亩林地，但和近期肆虐欧洲、大片焚毁加拿大森林的火灾相比，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmp1841946.shtml"
+    },
+    {
+      "id": "ff07f0e3ca",
+      "source": "中证网",
+      "tag": "财经热点",
+      "time": "08-20 22:55",
+      "title": "股价跌停，罗普斯金独家回应：公司随行就市购置原材料",
+      "insight": "8月20日，罗普斯金股价跌停。截至收盘，公司股价报5.71元/股，收盘跌幅为9.94%。此前一个…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-20/doc-ininysmf6674797.shtml"
+    },
+    {
+      "id": "ffdb9acc4a",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-20 22:51",
+      "title": "一次性补税8381万！“西北王”金徽酒净利大降28%",
+      "insight": "来源：国际金融报 8月19日晚间，有着“西北酒王”之称的金徽酒（603919）披露半年报。 今年…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-20/doc-ininysmm8645604.shtml"
+    },
+    {
+      "id": "ff1b4d7ff0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:48",
+      "title": "美债管理策略失去可预测性 投资者警告政府融资成本恐上升",
+      "insight": "市场人士警告，美国财政部债务管理策略缺乏可预测性最终可能导致政府借贷成本上升。 摩根大通、杰富瑞…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6668798.shtml"
+    },
+    {
+      "id": "ff2109df85",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:40",
+      "title": "旧金山联储行长戴利认为美债市场显示出对美联储政策立场的信任",
+      "insight": "旧金山联邦储备银行行长玛丽·戴利的表态显示，她认为美国国债市场释放的信号表明，目前货币政策处于合…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1866900.shtml"
+    },
+    {
+      "id": "ffbf30efb7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:36",
+      "title": "杰克逊霍尔前瞻：沃什首次主席演讲，市场要的是反应函数，不是支付主题",
+      "insight": "堪萨斯城联储主办的杰克逊霍尔经济政策研讨会将于8月27–29日在怀俄明杰克逊湖 Lodge 举行…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6660572.shtml"
+    },
+    {
+      "id": "ff4ebb740c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:32",
+      "title": "美联储7月纪要：三人已投票加息，多人警告“通胀若不降就要收紧”",
+      "insight": "美联储周三公布7月28–29日议息会议纪要。委员会以9比3维持联邦基金利率3.50%–3.75%…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8635259.shtml"
+    },
+    {
+      "id": "ffdbbc5d72",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:31",
+      "title": "沃尔玛早盘大跌8% 创下六年多来最低销售增速",
+      "insight": "电商、会员业务与广告业务成为该零售商增长驱动力沃尔玛称整体市场份额持续提升，尤其在高收入家庭群体…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmf6657600.shtml"
+    },
+    {
+      "id": "ff473e5948",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:27",
+      "title": "住房市场持续承压，Hovnanian转亏",
+      "insight": "这家住宅建筑商第三季度总营收下滑 12%，降至 7.057 亿美元 作者：康纳・哈特Hovnan…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmm8632291.shtml"
+    },
+    {
+      "id": "ff338b808e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:23",
+      "title": "诺和新元营收超预期、上调业绩指引，领涨欧洲斯托克600指数",
+      "insight": "该集团同时宣布，计划到 2029 年底回购 10 亿欧元股票 作者：乔・斯托纳诺和新元首席执行官…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1857565.shtml"
+    },
+    {
+      "id": "ff26265c5d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:20",
+      "title": "迪尔公司营收攀升，利润实现增长",
+      "insight": "公司 2026 财年第三季度净销售额及营收增长 6.2%，达到 110 亿美元 作者：康纳・哈特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1855711.shtml"
+    },
+    {
+      "id": "ffb1165667",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:18",
+      "title": "受汽油和柴油拉动，加拿大7月生产者价格上涨",
+      "insight": "加拿大统计局工业产品价格指数 7 月环比上涨 0.6% 作者：罗布・M・斯图尔特加拿大 7 月制…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysma7919346.shtml"
+    },
+    {
+      "id": "ff705fc209",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:14",
+      "title": "债券市场与六旗乐园的相通之处",
+      "insight": "此外，美联储会议纪要显示更多官员支持加息 作者：克里斯汀・布劳顿 本周债券市场如同坐过山车，对于…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysma7916993.shtml"
+    },
+    {
+      "id": "ff75d5d77c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-20 22:12",
+      "title": "纳斯达克100指数恐五连跌 油价、收益率攀升令美股承压",
+      "insight": "美国股市早盘小幅下跌，美债涨势消退，投资者押注美国财政部压低借贷成本的计划可能只是短期的补救措施…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininysmk1852047.shtml"
+    },
+    {
       "id": "ffa18a66a9",
       "source": "环球市场播报",
       "tag": "美股",
@@ -26,160 +179,7 @@
       "title": "比特币暴涨12%：7万关口能否守住？ETF资金揭示真相",
       "insight": "来源：智通财经网 据 Woofun AI 消息，比特币价格强势反弹并重新确立 70，250 美元…",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-20/doc-ininyncn1957191.shtml"
-    },
-    {
-      "id": "ff27bdb85c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 21:16",
-      "title": "比特币两日暴涨11%，特朗普与加密行业高管为推动《清晰法案》展开最后冲刺",
-      "insight": "受白宫与加密行业领袖的最后一轮推动，市场期待《清晰法案》能在未来几周走完立法流程，比特币价格创下…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncn1953565.shtml"
-    },
-    {
-      "id": "ff0303f528",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 21:15",
-      "title": "Anthropic合资公司Ode收购AI咨询商 拓展Claude企业市场",
-      "insight": "Anthropic联合黑石等华尔街机构成立的合资企业完成自7月成立以来的首笔收购，此举意在推动旗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6735134.shtml"
-    },
-    {
-      "id": "ffbebdbc53",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 21:07",
-      "title": "TS Lombard：美国的债券回购计划很像收益率曲线控制 美元面临风险",
-      "insight": "TS Lombard表示，美国财政部回购超长期国债之举“听起来很像”收益率曲线控制（YCC），并…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynce8001951.shtml"
-    },
-    {
-      "id": "ffba3fb2b5",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-20 21:04",
-      "title": "二季度少赚46亿，小米遭遇“业绩坎”？",
-      "insight": "來源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 8月19日，在2026世界机器人大会…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-20/doc-ininynce8004424.shtml"
-    },
-    {
-      "id": "ff5e587149",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:55",
-      "title": "META已悄然成为微软最大的AI客户之一",
-      "insight": "Meta Platforms已成为微软最大的AI客户之一，凸显出这项新兴技术的需求目前仍高度集中…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncp8713829.shtml"
-    },
-    {
-      "id": "ff4df18013",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:54",
-      "title": "美国首次申领失业救济人数小幅下降 就业市场保持稳定",
-      "insight": "美国上周申领失业救济人数小幅下降，保持在历史低位附近，显示劳动力市场裁员人数较少。 美国劳工部周…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncn1941004.shtml"
-    },
-    {
-      "id": "ff68e4efd2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:48",
-      "title": "美国30年期国债回吐回购公告发布以来的全部涨幅",
-      "insight": "美国国债回吐了美国财政部长斯科特·贝森特宣布扩大长期国债回购后取得的全部涨幅，显示投资者认为这一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6713461.shtml"
-    },
-    {
-      "id": "fffd42d656",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:39",
-      "title": "比特币突破72000美元 美联储政策信号与美元走势成关键变量",
-      "insight": "受美联储流动性支持信号及美元走弱双重提振，比特币价格延续涨势，于8月20日欧洲交易时段攀升至72…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncp8704649.shtml"
-    },
-    {
-      "id": "ff36229e9d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:37",
-      "title": "比特币上涨引发市场对《清晰法案》是否已充分定价的讨论",
-      "insight": "受美国数字资产监管立法预期及资金回流等因素推动，比特币价格本周持续走高，欧洲交易时段一度突破72…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6704508.shtml"
-    },
-    {
-      "id": "ffdaed7fa2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:35",
-      "title": "X平台探索使用稳定币向创作者支付版税 拟推新奖励计划",
-      "insight": "社交媒体平台X正就使用稳定币向平台内容创作者支付版税事宜进行探讨。据知情人士透露，X正在研究如何…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynce7975209.shtml"
-    },
-    {
-      "id": "ff0df2aed3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:33",
-      "title": "盘前：纳指期货跌0.23%，贝森特出手救美债，市场却开始不买账了",
-      "insight": "债券市场的短暂喘息似乎正在消退，周四长期美债重拾跌势，继续给股市带来压力，美国股指期货走势震荡，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6700900.shtml"
-    },
-    {
-      "id": "ff9a8a71ec",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 20:17",
-      "title": "沃尔玛上调全年业绩预期，称将利用大额关税退款维持低价",
-      "insight": "核心要点沃尔玛第二财季销售额超出华尔街预期，并上调全年业绩指引。首席财务官约翰・戴维・雷尼表示，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6689787.shtml"
-    },
-    {
-      "id": "ff71cf1958",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-20 20:00",
-      "title": "京东换了一种打法",
-      "insight": "来源：财熵 资料图。 京东换了一种打法 王琳 8月13日，京东集团发布的2026年第二季度业绩报…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-20/doc-ininyncn1911569.shtml"
-    },
-    {
-      "id": "ff28efc77c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 19:53",
-      "title": "美光500亿美元博伊西扩建计划如何重塑其总部小城",
-      "insight": "核心要点 自 2024 年末以来，美光股价涨幅超十倍，这座总部所在地 —— 爱达荷州博伊西，诞生…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncp8678479.shtml"
-    },
-    {
-      "id": "ffb5c95c64",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 19:49",
-      "title": "欧洲天然气价格升至五个月高点 伊朗和平前景依然黯淡",
-      "insight": "欧洲天然气价格升至五个月高位，跟随油价走高，因霍尔木兹海峡能源运输恢复的前景仍然黯淡。 基准天然…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynci6668468.shtml"
-    },
-    {
-      "id": "ff91b59a5b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 19:38",
-      "title": "美债回吐回购计划宣布后的部分涨幅 30年期收益率重回5.2%上方",
-      "insight": "美债涨势消退，油价上涨推动美国国债收益率上升2至3个基点。美国财政部周三提出扩大国债回购后引发的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininyncn1898076.shtml"
-    },
-    {
-      "id": "ffc921d2a1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-20 19:27",
-      "title": "SK海力士发布CPO技术路线图 用光实现内存互联",
-      "insight": "SK海力士于8月20日表示，已在国际学术期刊《自然·电子学》发表论文，阐述共封装光学（CPO）技…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininynce7923733.shtml"
     }
   ],
-  "updateTime": "2026-08-20 22:08"
+  "updateTime": "2026-08-21 00:04"
 }

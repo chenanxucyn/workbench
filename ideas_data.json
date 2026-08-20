@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "XLG 1:2 NOVA",
-      "heat": 12135934,
+      "heat": 12123169,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "台风沙德尔或于26日移入东海",
-      "heat": 12068934,
+      "heat": 11956376,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "我国服务业持续扩能提质",
-      "heat": 11617723,
+      "heat": 11831609,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -32,28 +32,8 @@
     },
     {
       "rank": 4,
-      "topic": "黑神话钟馗实机演示公布",
-      "heat": 11249981,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E5%85%AC%E5%B8%83?type=general",
-      "scheme": "snssdk1128://search/黑神话钟馗实机演示公布"
-    },
-    {
-      "rank": 5,
-      "topic": "追梦这件事只要开始就不晚",
-      "heat": 10670524,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BF%BD%E6%A2%A6%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E4%B8%8D%E6%99%9A?type=general",
-      "scheme": "snssdk1128://search/追梦这件事只要开始就不晚"
-    },
-    {
-      "rank": 6,
       "topic": "深度解析黑神话钟馗实机演示",
-      "heat": 10389057,
+      "heat": 11317716,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,9 +41,9 @@
       "scheme": "snssdk1128://search/深度解析黑神话钟馗实机演示"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "topic": "AI补全了我对长辈的所有未知",
-      "heat": 9254189,
+      "heat": 10537542,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,9 +51,39 @@
       "scheme": "snssdk1128://search/AI补全了我对长辈的所有未知"
     },
     {
+      "rank": 6,
+      "topic": "追梦这件事只要开始就不晚",
+      "heat": 10422169,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%BF%BD%E6%A2%A6%E8%BF%99%E4%BB%B6%E4%BA%8B%E5%8F%AA%E8%A6%81%E5%BC%80%E5%A7%8B%E5%B0%B1%E4%B8%8D%E6%99%9A?type=general",
+      "scheme": "snssdk1128://search/追梦这件事只要开始就不晚"
+    },
+    {
+      "rank": 7,
+      "topic": "2026IVL夏季赛总决赛开幕",
+      "heat": 9317848,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/2026IVL%E5%A4%8F%E5%AD%A3%E8%B5%9B%E6%80%BB%E5%86%B3%E8%B5%9B%E5%BC%80%E5%B9%95?type=general",
+      "scheme": "snssdk1128://search/2026IVL夏季赛总决赛开幕"
+    },
+    {
       "rank": 8,
+      "topic": "索马里驻华大使也爱刷短剧",
+      "heat": 9225734,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%B4%A2%E9%A9%AC%E9%87%8C%E9%A9%BB%E5%8D%8E%E5%A4%A7%E4%BD%BF%E4%B9%9F%E7%88%B1%E5%88%B7%E7%9F%AD%E5%89%A7?type=general",
+      "scheme": "snssdk1128://search/索马里驻华大使也爱刷短剧"
+    },
+    {
+      "rank": 9,
       "topic": "俄军大规模导弹夜袭基辅",
-      "heat": 9243737,
+      "heat": 9182994,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -81,19 +91,9 @@
       "scheme": "snssdk1128://search/俄军大规模导弹夜袭基辅"
     },
     {
-      "rank": 9,
-      "topic": "阿里巴巴2027财年财报公布",
-      "heat": 9189369,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B42027%E8%B4%A2%E5%B9%B4%E8%B4%A2%E6%8A%A5%E5%85%AC%E5%B8%83?type=general",
-      "scheme": "snssdk1128://search/阿里巴巴2027财年财报公布"
-    },
-    {
       "rank": 10,
       "topic": "美联邦政府债务突破40万亿美元",
-      "heat": 9188844,
+      "heat": 9161373,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -102,18 +102,18 @@
     },
     {
       "rank": 11,
-      "topic": "广东男篮新任主教练曝光",
-      "heat": 9115960,
+      "topic": "阿里巴巴2027财年财报公布",
+      "heat": 9150704,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E6%96%B0%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83%E6%9B%9D%E5%85%89?type=general",
-      "scheme": "snssdk1128://search/广东男篮新任主教练曝光"
+      "link": "https://www.douyin.com/search/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B42027%E8%B4%A2%E5%B9%B4%E8%B4%A2%E6%8A%A5%E5%85%AC%E5%B8%83?type=general",
+      "scheme": "snssdk1128://search/阿里巴巴2027财年财报公布"
     },
     {
       "rank": 12,
       "topic": "宇航员上太空后基因突变系误读",
-      "heat": 9008431,
+      "heat": 9079116,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -122,18 +122,18 @@
     },
     {
       "rank": 13,
-      "topic": "一抹好气色的百元腮红",
-      "heat": 8988855,
+      "topic": "黑神话钟馗实机演示公布",
+      "heat": 9040172,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E6%8A%B9%E5%A5%BD%E6%B0%94%E8%89%B2%E7%9A%84%E7%99%BE%E5%85%83%E8%85%AE%E7%BA%A2?type=general",
-      "scheme": "snssdk1128://search/一抹好气色的百元腮红"
+      "link": "https://www.douyin.com/search/%E9%BB%91%E7%A5%9E%E8%AF%9D%E9%92%9F%E9%A6%97%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA%E5%85%AC%E5%B8%83?type=general",
+      "scheme": "snssdk1128://search/黑神话钟馗实机演示公布"
     },
     {
       "rank": 14,
       "topic": "TYL战胜AG",
-      "heat": 8923168,
+      "heat": 8851765,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -143,7 +143,7 @@
     {
       "rank": 15,
       "topic": "华为发布阔直板手机",
-      "heat": 8673062,
+      "heat": 8524213,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -153,7 +153,7 @@
     {
       "rank": 16,
       "topic": "英语四六级成绩8月24日起可查",
-      "heat": 8515066,
+      "heat": 8179578,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -163,7 +163,7 @@
     {
       "rank": 17,
       "topic": "秋天的主场是燕麦格雷",
-      "heat": 8476124,
+      "heat": 7843691,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -172,18 +172,28 @@
     },
     {
       "rank": 18,
-      "topic": "我的喜欢或许遗憾",
-      "heat": 7825095,
+      "topic": "广东男篮新任主教练曝光",
+      "heat": 7807053,
       "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%96%9C%E6%AC%A2%E6%88%96%E8%AE%B8%E9%81%97%E6%86%BE?type=general",
-      "scheme": "snssdk1128://search/我的喜欢或许遗憾"
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B9%BF%E4%B8%9C%E7%94%B7%E7%AF%AE%E6%96%B0%E4%BB%BB%E4%B8%BB%E6%95%99%E7%BB%83%E6%9B%9D%E5%85%89?type=general",
+      "scheme": "snssdk1128://search/广东男篮新任主教练曝光"
     },
     {
       "rank": 19,
+      "topic": "华为阔直板手机首发开箱",
+      "heat": 7786352,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E9%A6%96%E5%8F%91%E5%BC%80%E7%AE%B1?type=general",
+      "scheme": "snssdk1128://search/华为阔直板手机首发开箱"
+    },
+    {
+      "rank": 20,
       "topic": "箭上视角展现朱雀三号回收全流程",
-      "heat": 7796851,
+      "heat": 7776633,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -191,29 +201,19 @@
       "scheme": "snssdk1128://search/箭上视角展现朱雀三号回收全流程"
     },
     {
-      "rank": 20,
-      "topic": "对话吉利汽车创始人李书福",
-      "heat": 7772140,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AF%B9%E8%AF%9D%E5%90%89%E5%88%A9%E6%B1%BD%E8%BD%A6%E5%88%9B%E5%A7%8B%E4%BA%BA%E6%9D%8E%E4%B9%A6%E7%A6%8F?type=general",
-      "scheme": "snssdk1128://search/对话吉利汽车创始人李书福"
-    },
-    {
       "rank": 21,
-      "topic": "生是为了证明爱存在的痕迹",
-      "heat": 7741381,
+      "topic": "机器人跑出凌波微步既视感",
+      "heat": 7764923,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%9F%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AF%81%E6%98%8E%E7%88%B1%E5%AD%98%E5%9C%A8%E7%9A%84%E7%97%95%E8%BF%B9?type=general",
-      "scheme": "snssdk1128://search/生是为了证明爱存在的痕迹"
+      "link": "https://www.douyin.com/search/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E5%87%8C%E6%B3%A2%E5%BE%AE%E6%AD%A5%E6%97%A2%E8%A7%86%E6%84%9F?type=general",
+      "scheme": "snssdk1128://search/机器人跑出凌波微步既视感"
     },
     {
       "rank": 22,
       "topic": "潮汕开海美食申请出战",
-      "heat": 7730438,
+      "heat": 7738290,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -223,7 +223,7 @@
     {
       "rank": 23,
       "topic": "谢霆锋炫上东北烤串了",
-      "heat": 7729079,
+      "heat": 7737460,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -232,8 +232,28 @@
     },
     {
       "rank": 24,
+      "topic": "生是为了证明爱存在的痕迹",
+      "heat": 7736780,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%94%9F%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AF%81%E6%98%8E%E7%88%B1%E5%AD%98%E5%9C%A8%E7%9A%84%E7%97%95%E8%BF%B9?type=general",
+      "scheme": "snssdk1128://search/生是为了证明爱存在的痕迹"
+    },
+    {
+      "rank": 25,
+      "topic": "我的喜欢或许遗憾",
+      "heat": 7733855,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E5%96%9C%E6%AC%A2%E6%88%96%E8%AE%B8%E9%81%97%E6%86%BE?type=general",
+      "scheme": "snssdk1128://search/我的喜欢或许遗憾"
+    },
+    {
+      "rank": 26,
       "topic": "三角洲S11极星守望活动",
-      "heat": 7716874,
+      "heat": 7733305,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -241,19 +261,9 @@
       "scheme": "snssdk1128://search/三角洲S11极星守望活动"
     },
     {
-      "rank": 25,
-      "topic": "空枪檀健次模仿广西普通话",
-      "heat": 7716592,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%AA%80%E5%81%A5%E6%AC%A1%E6%A8%A1%E4%BB%BF%E5%B9%BF%E8%A5%BF%E6%99%AE%E9%80%9A%E8%AF%9D?type=general",
-      "scheme": "snssdk1128://search/空枪檀健次模仿广西普通话"
-    },
-    {
-      "rank": 26,
+      "rank": 27,
       "topic": "是时候跟上蔡徐坤的old school了",
-      "heat": 7716142,
+      "heat": 7729560,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -261,45 +271,35 @@
       "scheme": "snssdk1128://search/是时候跟上蔡徐坤的old school了"
     },
     {
-      "rank": 27,
-      "topic": "机器人跑出凌波微步既视感",
-      "heat": 7712969,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B7%91%E5%87%BA%E5%87%8C%E6%B3%A2%E5%BE%AE%E6%AD%A5%E6%97%A2%E8%A7%86%E6%84%9F?type=general",
-      "scheme": "snssdk1128://search/机器人跑出凌波微步既视感"
-    },
-    {
       "rank": 28,
-      "topic": "仿生机器人亮相世界机器人大会",
-      "heat": 7710362,
+      "topic": "谭松韵顶着鲨鱼特效却在吐泡泡",
+      "heat": 7728038,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%BF%E7%94%9F%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%BA%AE%E7%9B%B8%E4%B8%96%E7%95%8C%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%A4%A7%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/仿生机器人亮相世界机器人大会"
+      "link": "https://www.douyin.com/search/%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%A1%B6%E7%9D%80%E9%B2%A8%E9%B1%BC%E7%89%B9%E6%95%88%E5%8D%B4%E5%9C%A8%E5%90%90%E6%B3%A1%E6%B3%A1?type=general",
+      "scheme": "snssdk1128://search/谭松韵顶着鲨鱼特效却在吐泡泡"
     },
     {
       "rank": 29,
-      "topic": "我们的少年时代2全员齐聚",
-      "heat": 7710123,
+      "topic": "一文前瞻王者S45新赛季",
+      "heat": 7727962,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%9A%84%E5%B0%91%E5%B9%B4%E6%97%B6%E4%BB%A32%E5%85%A8%E5%91%98%E9%BD%90%E8%81%9A?type=general",
-      "scheme": "snssdk1128://search/我们的少年时代2全员齐聚"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E6%96%87%E5%89%8D%E7%9E%BB%E7%8E%8B%E8%80%85S45%E6%96%B0%E8%B5%9B%E5%AD%A3?type=general",
+      "scheme": "snssdk1128://search/一文前瞻王者S45新赛季"
     },
     {
       "rank": 30,
-      "topic": "揭秘朱雀三号的回家路",
-      "heat": 7706270,
+      "topic": "空枪檀健次模仿广西普通话",
+      "heat": 7723893,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8F%AD%E7%A7%98%E6%9C%B1%E9%9B%80%E4%B8%89%E5%8F%B7%E7%9A%84%E5%9B%9E%E5%AE%B6%E8%B7%AF?type=general",
-      "scheme": "snssdk1128://search/揭秘朱雀三号的回家路"
+      "link": "https://www.douyin.com/search/%E7%A9%BA%E6%9E%AA%E6%AA%80%E5%81%A5%E6%AC%A1%E6%A8%A1%E4%BB%BF%E5%B9%BF%E8%A5%BF%E6%99%AE%E9%80%9A%E8%AF%9D?type=general",
+      "scheme": "snssdk1128://search/空枪檀健次模仿广西普通话"
     }
   ],
-  "updateTime": "2026-08-20 22:08"
+  "updateTime": "2026-08-21 00:04"
 }
