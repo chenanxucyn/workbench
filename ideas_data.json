@@ -2,8 +2,18 @@
   "ideas": [
     {
       "rank": 1,
+      "topic": "用一顿好饭开启快乐周五",
+      "heat": 12148530,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%94%A8%E4%B8%80%E9%A1%BF%E5%A5%BD%E9%A5%AD%E5%BC%80%E5%90%AF%E5%BF%AB%E4%B9%90%E5%91%A8%E4%BA%94?type=general",
+      "scheme": "snssdk1128://search/用一顿好饭开启快乐周五"
+    },
+    {
+      "rank": 2,
       "topic": "认识一座城从老字号招牌开始",
-      "heat": 12174761,
+      "heat": 12146517,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -11,39 +21,19 @@
       "scheme": "snssdk1128://search/认识一座城从老字号招牌开始"
     },
     {
-      "rank": 2,
-      "topic": "总有人在付出为什么不能是我呢",
-      "heat": 12079915,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%80%BB%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%BB%98%E5%87%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%98%AF%E6%88%91%E5%91%A2?type=general",
-      "scheme": "snssdk1128://search/总有人在付出为什么不能是我呢"
-    },
-    {
       "rank": 3,
-      "topic": "18条举措激发下沉市场活力",
-      "heat": 11279549,
+      "topic": "一组数据看数智赋能电商经济",
+      "heat": 11925377,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/18%E6%9D%A1%E4%B8%BE%E6%8E%AA%E6%BF%80%E5%8F%91%E4%B8%8B%E6%B2%89%E5%B8%82%E5%9C%BA%E6%B4%BB%E5%8A%9B?type=general",
-      "scheme": "snssdk1128://search/18条举措激发下沉市场活力"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E6%95%B0%E6%8D%AE%E7%9C%8B%E6%95%B0%E6%99%BA%E8%B5%8B%E8%83%BD%E7%94%B5%E5%95%86%E7%BB%8F%E6%B5%8E?type=general",
+      "scheme": "snssdk1128://search/一组数据看数智赋能电商经济"
     },
     {
       "rank": 4,
-      "topic": "2026成都车展正式开幕",
-      "heat": 11250424,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/2026%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95?type=general",
-      "scheme": "snssdk1128://search/2026成都车展正式开幕"
-    },
-    {
-      "rank": 5,
       "topic": "中国U18男篮亚洲杯挺进半决赛",
-      "heat": 10541217,
+      "heat": 11297147,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,9 +41,19 @@
       "scheme": "snssdk1128://search/中国U18男篮亚洲杯挺进半决赛"
     },
     {
+      "rank": 5,
+      "topic": "总有人在付出为什么不能是我呢",
+      "heat": 10496304,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%80%BB%E6%9C%89%E4%BA%BA%E5%9C%A8%E4%BB%98%E5%87%BA%E4%B8%BA%E4%BB%80%E4%B9%88%E4%B8%8D%E8%83%BD%E6%98%AF%E6%88%91%E5%91%A2?type=general",
+      "scheme": "snssdk1128://search/总有人在付出为什么不能是我呢"
+    },
+    {
       "rank": 6,
       "topic": "国际金价重回4600美元",
-      "heat": 10495504,
+      "heat": 10439030,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -62,18 +62,18 @@
     },
     {
       "rank": 7,
-      "topic": "开局起步十五五财政发布会",
-      "heat": 9385109,
+      "topic": "EDG官宣选手stew正式加盟",
+      "heat": 9242401,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%80%E5%B1%80%E8%B5%B7%E6%AD%A5%E5%8D%81%E4%BA%94%E4%BA%94%E8%B4%A2%E6%94%BF%E5%8F%91%E5%B8%83%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/开局起步十五五财政发布会"
+      "link": "https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3%E9%80%89%E6%89%8Bstew%E6%AD%A3%E5%BC%8F%E5%8A%A0%E7%9B%9F?type=general",
+      "scheme": "snssdk1128://search/EDG官宣选手stew正式加盟"
     },
     {
       "rank": 8,
       "topic": "相声名家田立禾去世",
-      "heat": 9342809,
+      "heat": 9216138,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -82,48 +82,58 @@
     },
     {
       "rank": 9,
-      "topic": "这才是曲院风荷正确打开方式",
-      "heat": 9272647,
+      "topic": "手指的方向是自由",
+      "heat": 9193194,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E6%9B%B2%E9%99%A2%E9%A3%8E%E8%8D%B7%E6%AD%A3%E7%A1%AE%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/这才是曲院风荷正确打开方式"
+      "link": "https://www.douyin.com/search/%E6%89%8B%E6%8C%87%E7%9A%84%E6%96%B9%E5%90%91%E6%98%AF%E8%87%AA%E7%94%B1?type=general",
+      "scheme": "snssdk1128://search/手指的方向是自由"
     },
     {
       "rank": 10,
-      "topic": "swagzor中国人能飞",
-      "heat": 9256721,
+      "topic": "英超揭幕战阿森纳vs考文垂前瞻",
+      "heat": 9181400,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/swagzor%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E?type=general",
-      "scheme": "snssdk1128://search/swagzor中国人能飞"
+      "link": "https://www.douyin.com/search/%E8%8B%B1%E8%B6%85%E6%8F%AD%E5%B9%95%E6%88%98%E9%98%BF%E6%A3%AE%E7%BA%B3vs%E8%80%83%E6%96%87%E5%9E%82%E5%89%8D%E7%9E%BB?type=general",
+      "scheme": "snssdk1128://search/英超揭幕战阿森纳vs考文垂前瞻"
     },
     {
       "rank": 11,
-      "topic": "媒体评青岛男子辱骂女游客",
-      "heat": 9185694,
+      "topic": "2026成都车展正式开幕",
+      "heat": 9157393,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E9%9D%92%E5%B2%9B%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E5%A5%B3%E6%B8%B8%E5%AE%A2?type=general",
-      "scheme": "snssdk1128://search/媒体评青岛男子辱骂女游客"
+      "link": "https://www.douyin.com/search/2026%E6%88%90%E9%83%BD%E8%BD%A6%E5%B1%95%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%B9%95?type=general",
+      "scheme": "snssdk1128://search/2026成都车展正式开幕"
     },
     {
       "rank": 12,
-      "topic": "未成年人上网这些“新套路”要知道",
-      "heat": 9172381,
+      "topic": "多家车企启动召回",
+      "heat": 9133652,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9C%AA%E6%88%90%E5%B9%B4%E4%BA%BA%E4%B8%8A%E7%BD%91%E8%BF%99%E4%BA%9B%E2%80%9C%E6%96%B0%E5%A5%97%E8%B7%AF%E2%80%9D%E8%A6%81%E7%9F%A5%E9%81%93?type=general",
-      "scheme": "snssdk1128://search/未成年人上网这些“新套路”要知道"
+      "link": "https://www.douyin.com/search/%E5%A4%9A%E5%AE%B6%E8%BD%A6%E4%BC%81%E5%90%AF%E5%8A%A8%E5%8F%AC%E5%9B%9E?type=general",
+      "scheme": "snssdk1128://search/多家车企启动召回"
     },
     {
       "rank": 13,
+      "topic": "“快递员被罚100元后轻生”不实",
+      "heat": 9088284,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E2%80%9C%E5%BF%AB%E9%80%92%E5%91%98%E8%A2%AB%E7%BD%9A100%E5%85%83%E5%90%8E%E8%BD%BB%E7%94%9F%E2%80%9D%E4%B8%8D%E5%AE%9E?type=general",
+      "scheme": "snssdk1128://search/“快递员被罚100元后轻生”不实"
+    },
+    {
+      "rank": 14,
       "topic": "侯明昊张碧晨甲乙丙丁唱尽遗憾",
-      "heat": 9145998,
+      "heat": 9080140,
       "videos": 0,
       "type": "情感共鸣",
       "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
@@ -131,39 +141,19 @@
       "scheme": "snssdk1128://search/侯明昊张碧晨甲乙丙丁唱尽遗憾"
     },
     {
-      "rank": 14,
-      "topic": "EDG官宣选手stew正式加盟",
-      "heat": 9121509,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/EDG%E5%AE%98%E5%AE%A3%E9%80%89%E6%89%8Bstew%E6%AD%A3%E5%BC%8F%E5%8A%A0%E7%9B%9F?type=general",
-      "scheme": "snssdk1128://search/EDG官宣选手stew正式加盟"
-    },
-    {
       "rank": 15,
-      "topic": "00后在客厅拍出综艺群像天花板",
-      "heat": 9120317,
+      "topic": "媒体评青岛男子辱骂女游客",
+      "heat": 9067250,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/00%E5%90%8E%E5%9C%A8%E5%AE%A2%E5%8E%85%E6%8B%8D%E5%87%BA%E7%BB%BC%E8%89%BA%E7%BE%A4%E5%83%8F%E5%A4%A9%E8%8A%B1%E6%9D%BF?type=general",
-      "scheme": "snssdk1128://search/00后在客厅拍出综艺群像天花板"
+      "link": "https://www.douyin.com/search/%E5%AA%92%E4%BD%93%E8%AF%84%E9%9D%92%E5%B2%9B%E7%94%B7%E5%AD%90%E8%BE%B1%E9%AA%82%E5%A5%B3%E6%B8%B8%E5%AE%A2?type=general",
+      "scheme": "snssdk1128://search/媒体评青岛男子辱骂女游客"
     },
     {
       "rank": 16,
-      "topic": "于是我打开相册回忆暑假",
-      "heat": 9064692,
-      "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E4%BA%8E%E6%98%AF%E6%88%91%E6%89%93%E5%BC%80%E7%9B%B8%E5%86%8C%E5%9B%9E%E5%BF%86%E6%9A%91%E5%81%87?type=general",
-      "scheme": "snssdk1128://search/于是我打开相册回忆暑假"
-    },
-    {
-      "rank": 17,
       "topic": "白泽杯S3开赛",
-      "heat": 7971334,
+      "heat": 9001186,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -171,39 +161,19 @@
       "scheme": "snssdk1128://search/白泽杯S3开赛"
     },
     {
+      "rank": 17,
+      "topic": "于是我打开相册回忆暑假",
+      "heat": 8990662,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E4%BA%8E%E6%98%AF%E6%88%91%E6%89%93%E5%BC%80%E7%9B%B8%E5%86%8C%E5%9B%9E%E5%BF%86%E6%9A%91%E5%81%87?type=general",
+      "scheme": "snssdk1128://search/于是我打开相册回忆暑假"
+    },
+    {
       "rank": 18,
-      "topic": "醒来定档0826",
-      "heat": 7771959,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%86%92%E6%9D%A5%E5%AE%9A%E6%A1%A30826?type=general",
-      "scheme": "snssdk1128://search/醒来定档0826"
-    },
-    {
-      "rank": 19,
-      "topic": "华为阔直板手机首发开箱",
-      "heat": 7771588,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E9%98%94%E7%9B%B4%E6%9D%BF%E6%89%8B%E6%9C%BA%E9%A6%96%E5%8F%91%E5%BC%80%E7%AE%B1?type=general",
-      "scheme": "snssdk1128://search/华为阔直板手机首发开箱"
-    },
-    {
-      "rank": 20,
-      "topic": "张雪机车被查扣事件",
-      "heat": 7746798,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E6%9F%A5%E6%89%A3%E4%BA%8B%E4%BB%B6?type=general",
-      "scheme": "snssdk1128://search/张雪机车被查扣事件"
-    },
-    {
-      "rank": 21,
       "topic": "制服持刀男子的外卖小哥找到了",
-      "heat": 7743789,
+      "heat": 8811300,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -211,29 +181,59 @@
       "scheme": "snssdk1128://search/制服持刀男子的外卖小哥找到了"
     },
     {
-      "rank": 22,
-      "topic": "早春晴朗定档0826",
-      "heat": 7742257,
+      "rank": 19,
+      "topic": "梁伟铿王昶晋级世锦赛男双八强",
+      "heat": 8228620,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%97%A9%E6%98%A5%E6%99%B4%E6%9C%97%E5%AE%9A%E6%A1%A30826?type=general",
-      "scheme": "snssdk1128://search/早春晴朗定档0826"
+      "link": "https://www.douyin.com/search/%E6%A2%81%E4%BC%9F%E9%93%BF%E7%8E%8B%E6%98%B6%E6%99%8B%E7%BA%A7%E4%B8%96%E9%94%A6%E8%B5%9B%E7%94%B7%E5%8F%8C%E5%85%AB%E5%BC%BA?type=general",
+      "scheme": "snssdk1128://search/梁伟铿王昶晋级世锦赛男双八强"
+    },
+    {
+      "rank": 20,
+      "topic": "我要生气啦",
+      "heat": 8147182,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%88%91%E8%A6%81%E7%94%9F%E6%B0%94%E5%95%A6?type=general",
+      "scheme": "snssdk1128://search/我要生气啦"
+    },
+    {
+      "rank": 21,
+      "topic": "小沈阳曾辉姚琛爱的主打歌",
+      "heat": 7875756,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E6%B2%88%E9%98%B3%E6%9B%BE%E8%BE%89%E5%A7%9A%E7%90%9B%E7%88%B1%E7%9A%84%E4%B8%BB%E6%89%93%E6%AD%8C?type=general",
+      "scheme": "snssdk1128://search/小沈阳曾辉姚琛爱的主打歌"
+    },
+    {
+      "rank": 22,
+      "topic": "张雪机车被查扣事件",
+      "heat": 7871705,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E8%A2%AB%E6%9F%A5%E6%89%A3%E4%BA%8B%E4%BB%B6?type=general",
+      "scheme": "snssdk1128://search/张雪机车被查扣事件"
     },
     {
       "rank": 23,
-      "topic": "喜单3我的电子榨菜",
-      "heat": 7731070,
+      "topic": "终末地新版本前瞻",
+      "heat": 7780560,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%96%9C%E5%8D%953%E6%88%91%E7%9A%84%E7%94%B5%E5%AD%90%E6%A6%A8%E8%8F%9C?type=general",
-      "scheme": "snssdk1128://search/喜单3我的电子榨菜"
+      "link": "https://www.douyin.com/search/%E7%BB%88%E6%9C%AB%E5%9C%B0%E6%96%B0%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
+      "scheme": "snssdk1128://search/终末地新版本前瞻"
     },
     {
       "rank": 24,
       "topic": "黑神话钟馗主角到底是谁",
-      "heat": 7730350,
+      "heat": 7779390,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -242,64 +242,64 @@
     },
     {
       "rank": 25,
-      "topic": "就这样细胞分裂",
-      "heat": 7728270,
+      "topic": "说唱巅峰嘉宾帮唱赛抢先看",
+      "heat": 7764728,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%B1%E8%BF%99%E6%A0%B7%E7%BB%86%E8%83%9E%E5%88%86%E8%A3%82?type=general",
-      "scheme": "snssdk1128://search/就这样细胞分裂"
+      "link": "https://www.douyin.com/search/%E8%AF%B4%E5%94%B1%E5%B7%85%E5%B3%B0%E5%98%89%E5%AE%BE%E5%B8%AE%E5%94%B1%E8%B5%9B%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
+      "scheme": "snssdk1128://search/说唱巅峰嘉宾帮唱赛抢先看"
     },
     {
       "rank": 26,
-      "topic": "谁懂电影空枪这段受虐戏",
-      "heat": 7726591,
+      "topic": "谭松韵顶着鲨鱼特效却在吐泡泡",
+      "heat": 7757406,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E7%94%B5%E5%BD%B1%E7%A9%BA%E6%9E%AA%E8%BF%99%E6%AE%B5%E5%8F%97%E8%99%90%E6%88%8F?type=general",
-      "scheme": "snssdk1128://search/谁懂电影空枪这段受虐戏"
+      "link": "https://www.douyin.com/search/%E8%B0%AD%E6%9D%BE%E9%9F%B5%E9%A1%B6%E7%9D%80%E9%B2%A8%E9%B1%BC%E7%89%B9%E6%95%88%E5%8D%B4%E5%9C%A8%E5%90%90%E6%B3%A1%E6%B3%A1?type=general",
+      "scheme": "snssdk1128://search/谭松韵顶着鲨鱼特效却在吐泡泡"
     },
     {
       "rank": 27,
-      "topic": "第五人格加页手记妖精图鉴",
-      "heat": 7717139,
+      "topic": "生是为了证明爱存在的痕迹",
+      "heat": 7750191,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E5%8A%A0%E9%A1%B5%E6%89%8B%E8%AE%B0%E5%A6%96%E7%B2%BE%E5%9B%BE%E9%89%B4?type=general",
-      "scheme": "snssdk1128://search/第五人格加页手记妖精图鉴"
+      "link": "https://www.douyin.com/search/%E7%94%9F%E6%98%AF%E4%B8%BA%E4%BA%86%E8%AF%81%E6%98%8E%E7%88%B1%E5%AD%98%E5%9C%A8%E7%9A%84%E7%97%95%E8%BF%B9?type=general",
+      "scheme": "snssdk1128://search/生是为了证明爱存在的痕迹"
     },
     {
       "rank": 28,
-      "topic": "ENHYPEN回归",
-      "heat": 7714039,
+      "topic": "比特币站上78000美元",
+      "heat": 7742126,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/ENHYPEN%E5%9B%9E%E5%BD%92?type=general",
-      "scheme": "snssdk1128://search/ENHYPEN回归"
+      "link": "https://www.douyin.com/search/%E6%AF%94%E7%89%B9%E5%B8%81%E7%AB%99%E4%B8%8A78000%E7%BE%8E%E5%85%83?type=general",
+      "scheme": "snssdk1128://search/比特币站上78000美元"
     },
     {
       "rank": 29,
-      "topic": "手指的方向是自由",
-      "heat": 7707341,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%89%8B%E6%8C%87%E7%9A%84%E6%96%B9%E5%90%91%E6%98%AF%E8%87%AA%E7%94%B1?type=general",
-      "scheme": "snssdk1128://search/手指的方向是自由"
-    },
-    {
-      "rank": 30,
       "topic": "原来我也适合美式男孩风",
-      "heat": 7705362,
+      "heat": 7713407,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
       "link": "https://www.douyin.com/search/%E5%8E%9F%E6%9D%A5%E6%88%91%E4%B9%9F%E9%80%82%E5%90%88%E7%BE%8E%E5%BC%8F%E7%94%B7%E5%AD%A9%E9%A3%8E?type=general",
       "scheme": "snssdk1128://search/原来我也适合美式男孩风"
+    },
+    {
+      "rank": 30,
+      "topic": "柴六斤是很帅很帅的小狗",
+      "heat": 7709710,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9F%B4%E5%85%AD%E6%96%A4%E6%98%AF%E5%BE%88%E5%B8%85%E5%BE%88%E5%B8%85%E7%9A%84%E5%B0%8F%E7%8B%97?type=general",
+      "scheme": "snssdk1128://search/柴六斤是很帅很帅的小狗"
     }
   ],
-  "updateTime": "2026-08-21 18:05"
+  "updateTime": "2026-08-21 22:05"
 }
