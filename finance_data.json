@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "id": "ff46bd030d",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-22 23:35",
+      "title": "人形机器人AstraTennis 时刻：银河通用的263秒全自主决策",
+      "insight": "8月22日晚，国家速滑馆第二届世界人形机器人运动会开幕。中央广播电视总台的直播镜头对准网球场，银…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-22/doc-inipfkxi0969757.shtml"
+    },
+    {
+      "id": "ff3d6f7a66",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-22 22:06",
+      "title": "世界人形机器人运动会400米田径预赛：天工机器人39.7秒第一",
+      "insight": "新浪科技讯 8月22日晚间消息，第二届世界人形机器人运动会今日开幕，在开幕式400米田径大型组预…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-22/doc-inipferi7228990.shtml"
+    },
+    {
       "id": "ffe00f82a9",
       "source": "市场资讯",
       "tag": "财经热点",
@@ -161,25 +179,7 @@
       "title": "朱炳仁·铜饰品掉色怪“汗液”？创始人致歉",
       "insight": "近日，有多位消费者反映，朱炳仁·铜饰品存在掉色问题。其中，一则视频称：“几百块的铜饰佩戴一个月竟…",
       "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptu3160006.shtml"
-    },
-    {
-      "id": "ffe5f54283",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-22 15:14",
-      "title": "巴西大坝灾难赔偿协议新增签署方，45个城镇向必和必拓、淡水河谷索赔317亿美元！",
-      "insight": "据外媒报道称，巴西各市镇继续加入与必和必拓集团（ASX：BHP）、淡水河谷（NYSE：VALE）…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-22/doc-inipeptu3171231.shtml"
-    },
-    {
-      "id": "ffdf8b6410",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-22 15:01",
-      "title": "欧洲多条河流水位下降 法国航运企业宣布征收“内陆紧急运输费”",
-      "insight": "受持续高温和干旱影响，欧洲多条重要河流水位下降。法国航运企业达飞海运集团宣布，由于莱茵河及欧洲其…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptt1202029.shtml"
     }
   ],
-  "updateTime": "2026-08-22 21:43"
+  "updateTime": "2026-08-22 23:44"
 }
