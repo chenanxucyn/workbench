@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ffd9d61725",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-23 23:35",
+      "title": "泽连斯基：乌克兰未参与北溪管道爆炸事件",
+      "insight": "德国通缉的第二名乌克兰籍嫌疑人在克罗地亚被捕之后，乌克兰总统泽连斯基表示，乌克兰没有参与俄罗斯通…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-23/doc-inipipwi0368043.shtml"
+    },
+    {
       "id": "fffff3ba2e",
       "source": "新浪财经",
       "tag": "股市",
@@ -170,16 +179,7 @@
       "title": "韦东奕39.8元练习册已从B站下架，四天销售额超100万元，客服称迫于压力全网下架消息不实，其它平台仍然在售",
       "insight": "据蓝鲸新闻报道，时隔四天，韦东奕下架了带货链接。蓝鲸新闻记者发现，8月22日晚，北京大学数学科学…",
       "link": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphssu2502496.shtml"
-    },
-    {
-      "id": "ff675c8bbd",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-23 13:10",
-      "title": "竣球控股发布中期业绩 股东应占溢利1401.9万港元同比增长66.4%",
-      "insight": "竣球控股（01481）发布截至2026年6月30日止六个月业绩，收益1.9亿港元，同比增长86.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2499864.shtml"
     }
   ],
-  "updateTime": "2026-08-23 21:44"
+  "updateTime": "2026-08-23 23:48"
 }
