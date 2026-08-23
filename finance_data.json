@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ffa1d2b6b0",
+      "source": "21世纪经济报道",
+      "tag": "股市",
+      "time": "08-23 17:16",
+      "title": "昔日彩电巨头：筹划重大事项，明起停牌",
+      "insight": "8月21日晚间，昔日彩电巨头*ST康佳A（000016）公告，公司正在筹划重大事项，该事项尚存在…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-23/doc-iniphwys2503799.shtml"
+    },
+    {
+      "id": "ff0dd79ad5",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-23 16:09",
+      "title": "拟融资800亿，股价下跌8%：阿里的烧钱困局，藏着最大的战略矛盾",
+      "insight": "来源：大江南证券 阿里又要融资了，这次是800亿港元，周五美股应声大跌超过8%。盘面剧烈下挫的背…",
+      "link": "https://finance.sina.com.cn/world/2026-08-23/doc-iniphwyu6846640.shtml"
+    },
+    {
+      "id": "ff82c00f3c",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-23 15:00",
+      "title": "业绩刚回暖，洁雅股份二股东趁势减持“套现”，股价仍处深度破发",
+      "insight": "来源：证券之星 8月18日，洁雅股份（301108.SZ）再度披露二股东减持计划，明源基金及其一…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-23/doc-iniphwyw3617641.shtml"
+    },
+    {
+      "id": "ff9ee96821",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-23 15:00",
+      "title": "益生股份中报：盈利规模远逊历史高点，毛利率七年间“断崖式”下降",
+      "insight": "来源：证券之星 受益于白羽肉鸡行业景气度上行，白羽鸡行业龙头益生股份（002458.SZ）近日交…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-23/doc-iniphwyu6844534.shtml"
+    },
+    {
       "id": "ff60bbf125",
       "source": "新浪港股",
       "tag": "股市",
@@ -143,43 +179,7 @@
       "title": "美银证券：中生制药目标价上调至7.1港元 重申“买入”评级",
       "insight": "美银证券发布研报称，中生制药（01177）上半年收入年度同比升10.6%至194.4亿元人民币（…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkw2626506.shtml"
-    },
-    {
-      "id": "ffc8629afb",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-23 13:01",
-      "title": "里昂：中国电信目标价降至5.2港元 维持“跑赢大市”评级",
-      "insight": "里昂发布研报称，将中国电信（00728）2026至28年一致预期净利润下调20%至21%，并将H…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3806501.shtml"
-    },
-    {
-      "id": "ffdd0b3b13",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-23 13:00",
-      "title": "美银证券：友邦保险目标价下调至95港元 维持“买入”评级",
-      "insight": "美银证券发布研报称，友邦保险（01299）上半年按固定汇率基准新业务价值年度同比升10%至32亿…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkw2625423.shtml"
-    },
-    {
-      "id": "ff09671af3",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-23 12:59",
-      "title": "瑞银：港交所目标价升至450港元 重申“中性”评级",
-      "insight": "瑞银发布研报称，港交所（00388）强劲的IPO与创纪录的成交量持续相互促进，2025年以来上市…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7033263.shtml"
-    },
-    {
-      "id": "ff33a95e47",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "08-23 12:58",
-      "title": "大摩：华润啤酒目标价下调至30港元 维持“增持”评级",
-      "insight": "摩根士丹利发布研报称，将华润啤酒（00291）目标价由35港元下调至30港元，维持“增持”评级。…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3805528.shtml"
     }
   ],
-  "updateTime": "2026-08-23 15:47"
+  "updateTime": "2026-08-23 17:54"
 }
