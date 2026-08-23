@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ffdf916fb1",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-24 00:22",
+      "title": "阿里新股配售定价完成，获长线投资者超额认购",
+      "insight": "8月24日，阿里巴巴宣布完成800亿港元（约102亿美元）新股配售定价，发行价为每股普通股112…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-24/doc-inipipwq3424696.shtml"
+    },
+    {
       "id": "ffd9d61725",
       "source": "环球市场播报",
       "tag": "美股",
@@ -170,16 +179,7 @@
       "title": "稀镁科技拟折让约19.35%配售最多9600万股配售股份 净筹约450万港元",
       "insight": "稀镁科技（00601）发布公告，于2026年8月21日（交易时段后），本公司与配售代理订立配售协…",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2500389.shtml"
-    },
-    {
-      "id": "ffc6394169",
-      "source": "每日经济新闻",
-      "tag": "财经热点",
-      "time": "08-23 13:11",
-      "title": "韦东奕39.8元练习册已从B站下架，四天销售额超100万元，客服称迫于压力全网下架消息不实，其它平台仍然在售",
-      "insight": "据蓝鲸新闻报道，时隔四天，韦东奕下架了带货链接。蓝鲸新闻记者发现，8月22日晚，北京大学数学科学…",
-      "link": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphssu2502496.shtml"
     }
   ],
-  "updateTime": "2026-08-23 23:48"
+  "updateTime": "2026-08-24 03:01"
 }
