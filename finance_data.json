@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "id": "fff2a94a4e",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 05:47",
+      "title": "8月25日外盘头条：美公布对伊朗经济制裁措施 美加贸易战进一步升级 英伟达宣布Groq 3 LPX全面投产",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、贝森特要求相关国家切断与伊朗商业往来 否则将…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5771023.shtml"
+    },
+    {
+      "id": "ffac05d941",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 05:40",
+      "title": "输官司挡不住特朗普针对H-1B 十万美元签证费拟扩大至境内申请人",
+      "insight": "特朗普政府对部分高技能外国员工签证征收10万美元费用的企图6月被一个联邦法庭驳回。如今，行政当局…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnita1780197.shtml"
+    },
+    {
+      "id": "ffe25d12ab",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 05:23",
+      "title": "财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份",
+      "insight": "根据一份公开的财务披露文件，美国总统特朗普于6月投资了埃隆·马斯克的SpaceX，金额最高达5万…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9820185.shtml"
+    },
+    {
+      "id": "ffcecb6cd2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 05:14",
+      "title": "贝森特要求相关国家切断与伊朗商业往来 否则将面临美国单方面制裁",
+      "insight": "美国财政部长斯科特·贝森特威胁称，任何继续与伊朗开展商业往来的国家都可能面临美国的经济惩罚。他宣…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5761382.shtml"
+    },
+    {
+      "id": "ffa2229f3e",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:55",
+      "title": "美国股市：标普500指数收低 芯片股再遭抛售 英伟达录得七连跌",
+      "insight": "美股标普500指数周一下跌，芯片股遭到抛售，盖过油价回落带来的提振。 英伟达连续第七天下跌，创下…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528445.shtml"
+    },
+    {
+      "id": "ff94a6bec6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:54",
+      "title": "大宗商品综述：油价回落，伦铜创新高，金价触及逾三个月高位",
+      "insight": "原油期货回落，美国财长贝森特宣布启动“前所未有”的行动来孤立伊朗并迫使德黑兰放松对霍尔木兹海峡的…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528215.shtml"
+    },
+    {
+      "id": "ffb385c634",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:51",
+      "title": "美加贸易争端进一步加剧 特朗普誓言将把加拿大汽车关税翻倍至50%",
+      "insight": "美国总统特朗普誓言自明年起把加拿大汽车及零部件关税提高一倍，此举将令两国贸易争端进一步加剧。 特…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2527528.shtml"
+    },
+    {
+      "id": "ffd18b5da6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:41",
+      "title": "美国国债：尾盘逼近日内高位 油价下跌叠加现金储备回购报道发酵",
+      "insight": "周一美国国债小幅收涨，尾盘接近日内高点。市场最初受到油价下跌刺激，随后有关财政部可能动用存放在美…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2525168.shtml"
+    },
+    {
+      "id": "ff78510b8f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:39",
+      "title": "原油：油价回落 交易员权衡美国旨在孤立伊朗的空前制裁行动",
+      "insight": "原油期货回落，美国财长贝森特宣布启动一场“前所未有”的行动，以孤立伊朗并迫使德黑兰放松对霍尔木兹…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5752115.shtml"
+    },
+    {
+      "id": "fff3c17a27",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:33",
+      "title": "8月25日收盘：科技板块承压，纳指收跌0.76% 市场关注英伟达财报",
+      "insight": "美股周一涨跌不一，关键科技股的跌幅盖过了国债收益率下行的影响。 道指涨140.14点，涨幅为0.…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5750416.shtml"
+    },
+    {
+      "id": "ff4737632d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 04:21",
+      "title": "8月25日热门中概股多数下跌，台积电跌超2%",
+      "insight": "8月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）跌1.66%。 上涨个股（按市值从高…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9793449.shtml"
+    },
+    {
+      "id": "ff09ba0041",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 03:36",
+      "title": "贝森特接连出手触动市场神经 华尔街为何重新聚焦“贬值交易”",
+      "insight": "美国政治和财政的不确定性正促使投资者再度对美元感到不安。随着部分投资者抛售美元，比特币和黄金等替…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmk2640727.shtml"
+    },
+    {
+      "id": "ffb2e80fc6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 03:29",
+      "title": "高盛和富国等华尔街机构称 财政部回购难以压低长期美债收益率",
+      "insight": "高盛、富国等华尔街机构的利率策略师表示，美国财政部的国债回购对于扭转长期美债收益率的飙升作用有限…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5866282.shtml"
+    },
+    {
+      "id": "ff956bd2d2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 03:18",
+      "title": "纽约汇市：美元兑主要货币全线上涨 加元跌幅居前",
+      "insight": "美元周一兑所有G-10货币上涨，加元跌幅居前。在美国财政部长贝森特公布孤立伊朗经济的计划前后，美…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5863772.shtml"
+    },
+    {
       "id": "ff0ae2d4a3",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -53,133 +179,7 @@
       "title": "欧洲债市：长期欧洲政府债券小幅上涨 追随美国国债走势",
       "insight": "欧洲长期政府债券小幅上涨，受美国国债走强带动。随着市场越来越多地押注欧洲央行可能在年底前加息两次…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncma9844518.shtml"
-    },
-    {
-      "id": "ff695a6a4a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:31",
-      "title": "欧洲股市本周开局基本走平 交易员的目光转向经济数据",
-      "insight": "欧洲股市本周开局基本持稳，成交量清淡，交易员正等待经济数据，以寻找有关欧洲经济健康状况的线索。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxce9974961.shtml"
-    },
-    {
-      "id": "ff1e27dace",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:25",
-      "title": "贝森特：一家大型金融机构本周将受到美国制裁",
-      "insight": "“你们今天离开会场的同时将看到一系列的制裁措施，而且这种节奏还会持续下去，” 美国财政部长贝森特…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxcn2731715.shtml"
-    },
-    {
-      "id": "ff04c1b341",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:23",
-      "title": "贝森特：美国将继续执行常规债券标售计划",
-      "insight": "美国财政部长贝森特称，美国将继续实施常规国债标售计划。 贝森特在新闻发布会上发表讲话：“我们将继…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxck5958608.shtml"
-    },
-    {
-      "id": "ffdd588c60",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:12",
-      "title": "亿万富翁罗恩・巴伦豪掷249亿美元押注这家充满争议的巨头企业",
-      "insight": "作者：姆万吉・伊诺斯 当罗恩・巴伦看好一家公司时，他不会小打小闹，而是全力重仓。持有特斯拉期间，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxcn2727909.shtml"
-    },
-    {
-      "id": "ff155508a6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:11",
-      "title": "美国财长宣布对伊朗采取空前措施 力争切断其每一条经济命脉",
-      "insight": "美国财政部长贝森特宣布启动一场他所称“前所未有”的行动，意在切断伊朗与全球经济的联系。 特朗普政…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxck5954783.shtml"
-    },
-    {
-      "id": "ff5d88b96b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:08",
-      "title": "美加贸易谈判破裂，分析师研判对峙局势会走向何种烈度",
-      "insight": "上周末美加贸易谈判破裂，两国纷纷放出新的威胁言论，对于这场即将到来的贸易战，市场给到的解读也莫衷…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxck5953947.shtml"
-    },
-    {
-      "id": "ff248437f3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 01:01",
-      "title": "预测市场交易者对贝森特的债市干预能否压低收益率持怀疑态度",
-      "insight": "核心要点财政部长斯科特・贝森特正想方设法平抑不断走高的国债收益率，但预测市场的交易者认为他的举措…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxcn2723386.shtml"
-    },
-    {
-      "id": "ff3449b041",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 00:40",
-      "title": "英伟达：200亿美元收购完成后，Groq机柜将于今年上线",
-      "insight": "核心要点英伟达宣布 Groq 3 LPX 芯片已进入全面量产，标志着这笔公司史上最大收购所获得的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxck5943379.shtml"
-    },
-    {
-      "id": "ffe1362cd3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 00:39",
-      "title": "贝森特今日将公布与伊朗相关的二级制裁细节",
-      "insight": "美国财政部长贝森特预计将在今天的新闻发布会上公布与伊朗有关的新的二级制裁措施，并向各国发出最后警…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxce9946790.shtml"
-    },
-    {
-      "id": "ff73499b60",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 00:34",
-      "title": "Bloom Energy：为何今日受到市场关注？",
-      "insight": "来源：Simply Wall St 发布 借助 Simply Wall St 简洁直观的分析工具…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxce9944052.shtml"
-    },
-    {
-      "id": "ff8ba4c22a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 00:27",
-      "title": "从英伟达财报到贸易战突发利空，一套简单策略或是本周最佳选择",
-      "insight": "华尔街流传一句经典口诀：KISS，全称 “Keep It Simple， Stupid”，即务求…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxck5939332.shtml"
-    },
-    {
-      "id": "ffae20672f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-24 23:50",
-      "title": "高盛合伙人警告：让AI取代银行家推理能力存在“巨大危险”",
-      "insight": "高盛一位负责银行旗舰人工智能项目的合伙人警告称，AI在华尔街的普及可能削弱下一代金融从业者的思考…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmxch1867315.shtml"
-    },
-    {
-      "id": "ff46afaada",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-24 23:42",
-      "title": "穆罕默德・埃里安表示：财政部对债券市场的干预令人担忧",
-      "insight": "安联集团首席经济顾问穆罕默德・A・埃里安认为，美国财政部对债券市场实施干预（包括动用财政部一般账…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmxcn2693298.shtml"
-    },
-    {
-      "id": "ffd3f3dba1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-24 23:39",
-      "title": "城堡证券：财政部回购美债类似金融抑制 压力可能传导至美元和通胀",
-      "insight": "城堡证券表示，美国财政部试图通过债券回购压低长期借贷成本，此类做法相当于“金融抑制”，可能削弱美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmxcn2692061.shtml"
     }
   ],
-  "updateTime": "2026-08-25 03:18"
+  "updateTime": "2026-08-25 05:56"
 }
