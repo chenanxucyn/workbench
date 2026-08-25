@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffcae3adf8",
+      "id": "ff04075304",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:59",
-      "title": "解读英伟达5000亿美元融资计划的细节缺口",
-      "insight": "本月早些时候，英伟达震动市场。黑石、阿波罗、高盛等六大金融巨头入局，将为价值5000 亿美元的人…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipprnn1590217.shtml"
+      "time": "08-25 22:26",
+      "title": "迪克体育二季度业绩低于预期，下调全年指引，盘前大跌",
+      "insight": "迪克体育用品公司（Dick’s Sporting Goods，纽交所代码 DKS）周二公布截至2…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaae9510738.shtml"
     },
     {
-      "id": "ffdf2e03a5",
+      "id": "ffb2ccd13d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:54",
-      "title": "Hugging Face年化营收大涨50%，达到1.5亿美元",
-      "insight": "这家成立已有十年的初创企业即将达成出售交易。 据知情人士透露，以开源模型代码库闻名的 AI 初创…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipprnq5453109.shtml"
+      "time": "08-25 22:25",
+      "title": "美加口水战升级 特朗普考虑将安大略湖更名为“美利坚湖”",
+      "insight": "美国总统特朗普周二威胁将安大略湖改名为“美利坚湖”，在美加贸易争端升温之际，特朗普与加拿大官员之…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaae9510454.shtml"
     },
     {
-      "id": "ff739192b5",
+      "id": "ffe1bd0d36",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:51",
-      "title": "阿拉巴马州就Hugging Face遭黑客入侵事件对OpenAI展开调查",
-      "insight": "本次调查源于 15 个州总检察长就该事件向这家公司发出的联合信函 阿拉巴马州总检察长史蒂夫・马歇…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipprnq5451262.shtml"
+      "time": "08-25 22:19",
+      "title": "美国8月消费者信心下降 对商业和就业前景看法恶化",
+      "insight": "美国消费者信心8月下降，原因是对商业环境和劳动力市场前景的看法恶化。 世界大型企业联合会周二公布…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaah1458210.shtml"
     },
     {
-      "id": "fff51a5904",
+      "id": "fffc753b21",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 22:18",
+      "title": "FDA核准罗氏与礼来pTau217血液检测，同一阈值同时用于纳入和排除淀粉样病理",
+      "insight": "美国食品药品管理局周一（8月24日）核准罗氏与礼来合作开发的Elecsys Phospho-Ta…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaan2250115.shtml"
+    },
+    {
+      "id": "ff765fbda0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 22:15",
+      "title": "马丁马里埃塔完成对Lhoist北美业务交割，成为美国领先石灰石产品生产商",
+      "insight": "马丁马里埃塔材料公司（Martin Marietta Materials，纽交所代码：MLM）周…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaak5474464.shtml"
+    },
+    {
+      "id": "ffba45759a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 22:12",
+      "title": "苹果发布升级版Mac mini和Mac Studio 为新款iPhone预热",
+      "insight": "苹果公司宣布推出升级版Mac mini和Mac Studio台式电脑，为这两款颇受欢迎的产品升级…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipqaak5471222.shtml"
+    },
+    {
+      "id": "ffb1f45912",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 21:53",
+      "title": "美国各期限国债收益率走低 油价下跌缓解通胀忧虑",
+      "insight": "美国国债上涨，原油价格下跌缓解了通胀担忧，也暂且减轻了美国财政部长斯科特·贝森特面临的压力。贝森…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9626179.shtml"
+    },
+    {
+      "id": "ff80941408",
+      "source": "中证网",
+      "tag": "财经热点",
+      "time": "08-25 21:48",
+      "title": "贵州茅台，发布特别提示",
+      "insight": "据“贵州茅台”微信公众号消息，8月25日，中国贵州茅台酒厂（集团）有限责任公司发布特别提示，谨防…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-25/doc-inippvun5578683.shtml"
+    },
+    {
+      "id": "ff8638f96b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 21:43",
+      "title": "加拿大负责对美贸易事务的部长称政府计划今天公布报复性关税",
+      "insight": "加拿大负责对美贸易事务的部长Dominic LeBlanc接受采访时表示，加拿大政府计划今天宣布…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuq2345868.shtml"
+    },
+    {
+      "id": "ff96df7640",
       "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:48",
-      "title": "中天期货:焦煤短线调整 白糖震荡下行",
-      "insight": "热点品种分析 一、商品指数 二、股指 中国上证综指 8 月 25 日（周二）收盘上涨 7.43 …",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-25/doc-inipprnq5448760.shtml"
+      "tag": "股市",
+      "time": "08-25 21:42",
+      "title": "长城汽车上半年营收1021亿元增一成，净利跌61%至24.6亿元",
+      "insight": "来源：财熵 资料图。本文来源：澎湃新闻 记者 吴遇利 长城汽车上半年营收1021亿元增一成，净利…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inipqaah1458403.shtml"
     },
     {
-      "id": "ff10e40836",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:42",
-      "title": "国泰君安期货：乙二醇高位激烈博弈，短期需关注哪些风险点？",
-      "insight": "国泰君安期货市场分析师陈骏昊 投资咨询证号：Z0021546 乙二醇期货主力合约在“13连阳”之…",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipprns2215325.shtml"
+      "id": "ffebe23d11",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 21:35",
+      "title": "苹果新款Mac Mini与Mac Studio现已发布",
+      "insight": "苹果正在推出适配人工智能运算的新款台式主机 ——Mac Mini 和 Mac Studio。上一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuq2337115.shtml"
     },
     {
-      "id": "ffa219a2f8",
+      "id": "ffa93537a1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 21:30",
+      "title": "开盘：三大股指齐涨 美债收益率回落，英伟达财报即将出炉",
+      "insight": "周二，主要股指高开，美债收益率延续前一日跌势。芯片板块同步上行，投资者静待英伟达财报公布。 道指…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9617771.shtml"
+    },
+    {
+      "id": "ff4cac1e35",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "08-25 17:40",
-      "title": "据悉美国将向中东各大使馆重新派驻外交人员",
-      "insight": "美国国务院正准备将外交人员派回中东各大使馆。这些使馆在美伊开战前夕及战争期间完成人员撤离，此举表…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipprns2213252.shtml"
+      "time": "08-25 21:27",
+      "title": "从“北美堡垒”走向全面贸易战：美加谈判是如何破裂的",
+      "insight": "时间逼近周五午夜，美国针对加拿大的新关税即将生效。谈判代表们被困在白宫街对面的谈判地点，仍在艰难…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuk1565690.shtml"
     },
     {
-      "id": "ffa433211d",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-25 17:35",
-      "title": "卓然股份（688121）遭上海证监局责令改正：募资违规使用+关联方非经营性资金占用，受损股民可索赔！",
-      "insight": "公司深耕工业无线遥控行业二十余载，同时积极布局新能源储能业务，形成双主业发展格局。工业无线控制业…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-25/doc-inipprnk9620971.shtml"
-    },
-    {
-      "id": "fff001f572",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-25 17:33",
-      "title": "7.85亿违规担保\"黑洞\"压顶！ST荣科被“戴帽” ！",
-      "insight": "荣科蓄力响应“健康中国”战略，擘画以“智慧大健康”为主线的发展蓝图，形成集智慧医疗服务、智慧健康…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-25/doc-inipprnk9619943.shtml"
-    },
-    {
-      "id": "ff8e8aec70",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-25 17:33",
-      "title": "佳缘科技7月被立案，8月收到行政处罚，符合条件的股民抓紧时间",
-      "insight": "公司专注国防军工与医疗健康领域，以编码技术与AI安全为核心，提供网络信息安全与智能化系统解决方案…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-25/doc-inipprnq5434693.shtml"
-    },
-    {
-      "id": "ff8155e5eb",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:30",
-      "title": "光大期货0825热点追踪：三大油脂弱势调整，短期延续近弱远强格局",
-      "insight": "周二油脂震荡走弱，截止午盘三大油脂均跌超1%。美豆油走弱施压市场，一方面隔夜市场油价重心回落，生…",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipprnk9616123.shtml"
-    },
-    {
-      "id": "ff22c1853e",
+      "id": "ff17db2b76",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:25",
-      "title": "美国扩大对伊朗制裁范围 加密货币行业被列入范围",
-      "insight": "美国财政部近日将伊朗加密货币行业纳入可制裁范畴，赋予资产控制办公室对任何被认定在伊朗加密领域运营…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippmeu2332059.shtml"
+      "time": "08-25 21:27",
+      "title": "贝森特的导师德鲁肯米勒痛斥债券干预是一场“错误”",
+      "insight": "对冲基金界元老斯坦利・德鲁肯米勒，针对其长期门生、美国财政部长斯科特・贝森特计划干预政府债券市场…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuq2329514.shtml"
     },
     {
-      "id": "ffb313cb30",
+      "id": "ffd03d5db1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:23",
-      "title": "Monad提出钱包升级方案 地址与密钥可分离",
-      "insight": "以太坊兼容区块链网络Monad近日提出一项钱包安全机制升级提案，拟允许用户在不更换钱包地址的前提…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippmes5557018.shtml"
+      "time": "08-25 21:24",
+      "title": "可口可乐新任CEO拥有一项马斯克、扎克伯格都做不到的亮眼成绩",
+      "insight": "可口可乐（KO）新任 CEO 恩里克・布劳恩的任期迎来开门红。他是一名在可口可乐一路成长起来的老…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuh9613592.shtml"
     },
     {
-      "id": "fffb21c720",
+      "id": "ffbecddc9a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-25 21:20",
+      "title": "摩根资管：美联储9月不应加息",
+      "insight": "摩根资产管理的Karen Ward表示，美国劳动力市场释放出的信号表明，美联储9月“不应该加息”…",
+      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inippvuq2321474.shtml"
+    },
+    {
+      "id": "ffe48122ce",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 17:20",
-      "title": "美国证交会就Situational Awareness事件向华尔街大行发出传票",
-      "insight": "美国证券交易委员会（SEC）已向多家头部华尔街银行发出传票。在对冲基金Situational A…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippmeu2327915.shtml"
+      "time": "08-25 21:18",
+      "title": "比特币一周之内抹平三个月累计跌幅",
+      "insight": "比特币迎来一个令人难忘的夏末行情。 周二早些时候，比特币价格时隔 15 周首次突破 80000 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvun5547279.shtml"
     },
     {
-      "id": "ffcff91f10",
+      "id": "ff113f4ebe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 21:15",
+      "title": "美加贸易争端中，华盛顿放过了一张关键筹码：加拿大石油",
+      "insight": "上周末美加贸易谈判破裂，美国对加拿大大批商品加征关祱，征税范围涵盖家具、乳制品、电气产品以及胶合…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippvuq2317089.shtml"
+    },
+    {
+      "id": "ff3a48afa0",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "08-25 17:20",
-      "title": "4天蒸发2000亿，宇树跌到哪里才算到位？",
-      "insight": "出品 | 妙投APP 作者 | 董必政 8月19日，“人形机器人第一股”宇树科技登陆科创板，发行…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inipprnk9615569.shtml"
+      "time": "08-25 21:15",
+      "title": "英维克一季度暴雷，二季度暴增1934%！葛卫东5亿杀进，英伟达供应商还是谜",
+      "insight": "来源：财通社 8月25日，才发布“增收不增利”半年报的英维克（002837.SZ）斩获久违的涨停…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inippvuq2328430.shtml"
     },
     {
-      "id": "ffdf877ffb",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:20",
-      "title": "光大期货0825热点追踪：豆粕跌了！这波回调是机会还是风险？",
-      "insight": "光大期货0825点追踪：豆粕跌了！这波回调是机会还是风险？",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-25/doc-inippmen9738537.shtml"
-    },
-    {
-      "id": "ffe5408a25",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 17:17",
-      "title": "Anthropic通知旧金山员工居家办公 因安保人员或发起罢工",
-      "insight": "AI创企Anthropic通知其旧金山办公室的员工，本周起居家办公，原因是驻场安保人员存在罢工可…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inippmeu2325278.shtml"
-    },
-    {
-      "id": "ffc7d214dd",
-      "source": "市场资讯",
+      "id": "ff778ba16f",
+      "source": "证券时报",
       "tag": "股市",
-      "time": "08-25 17:16",
-      "title": "上半年卖了16万辆问界，仍然亏掉17亿，赛力斯的账应该怎么算？",
-      "insight": "来源：翠鸟资本 文|翠鸟资本 8月19日晚，赛力斯（601127.SH）2026年半年报正式落地…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inipprnk9634143.shtml"
-    },
-    {
-      "id": "ff4b335c52",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:16",
-      "title": "油脂：2024年行情的升级？",
-      "insight": "紫金天风期货 观点小结 核心观点：中性本周美元走弱，ProFarmer给出的单产超过8月USDA…",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inippmen9741399.shtml"
-    },
-    {
-      "id": "ffc006fb2c",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:16",
-      "title": "花生：为何没走出豆一的行情？",
-      "insight": "紫金天风期货 观点小结 核心观点：中性价格：进口苏丹米价格稳定，东北陈米价格上涨，但是河南等地区…",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inippmeu2329274.shtml"
-    },
-    {
-      "id": "ff7397c501",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "08-25 17:16",
-      "title": "鸡蛋：为何期现分歧如此之大？",
-      "insight": "紫金天风期货 观点小结 8月以来现货价格继续延续上周的强势趋势，今日河北石家庄以及邯郸的粉蛋逼近…",
-      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inippmeq1691307.shtml"
+      "time": "08-25 21:15",
+      "title": "利好！688308，净利大增超47700%，更有多家A股龙头，业绩翻倍！",
+      "insight": "8月25日晚间，多家A股公司交出业绩翻倍，甚至数十倍高增长的中报成绩单。 欧科亿（688308）…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-25/doc-inippvun5546744.shtml"
     }
   ],
-  "updateTime": "2026-08-25 18:06"
+  "updateTime": "2026-08-25 22:27"
 }
