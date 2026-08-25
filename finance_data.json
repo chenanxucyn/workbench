@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fff2a94a4e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 05:47",
-      "title": "8月25日外盘头条：美公布对伊朗经济制裁措施 美加贸易战进一步升级 英伟达宣布Groq 3 LPX全面投产",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、贝森特要求相关国家切断与伊朗商业往来 否则将…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5771023.shtml"
+      "id": "ffa7ddd46c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 11:13",
+      "title": "花旗把黄金短期目标价上调至4800，摩根大通押注大波动！",
+      "insight": "文章来源：金十数据 周一，花旗集团上调未来0至3个月黄金目标价至4800美元/盎司，同时维持未来…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-25/doc-inipnyqs9664340.shtml"
     },
     {
-      "id": "ffac05d941",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 05:40",
-      "title": "输官司挡不住特朗普针对H-1B 十万美元签证费拟扩大至境内申请人",
-      "insight": "特朗普政府对部分高技能外国员工签证征收10万美元费用的企图6月被一个联邦法庭驳回。如今，行政当局…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnita1780197.shtml"
-    },
-    {
-      "id": "ffe25d12ab",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 05:23",
-      "title": "财务披露：特朗普6月购买了埃隆·马斯克旗下SpaceX的股份",
-      "insight": "根据一份公开的财务披露文件，美国总统特朗普于6月投资了埃隆·马斯克的SpaceX，金额最高达5万…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9820185.shtml"
-    },
-    {
-      "id": "ffcecb6cd2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 05:14",
-      "title": "贝森特要求相关国家切断与伊朗商业往来 否则将面临美国单方面制裁",
-      "insight": "美国财政部长斯科特·贝森特威胁称，任何继续与伊朗开展商业往来的国家都可能面临美国的经济惩罚。他宣…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5761382.shtml"
-    },
-    {
-      "id": "ffa2229f3e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:55",
-      "title": "美国股市：标普500指数收低 芯片股再遭抛售 英伟达录得七连跌",
-      "insight": "美股标普500指数周一下跌，芯片股遭到抛售，盖过油价回落带来的提振。 英伟达连续第七天下跌，创下…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528445.shtml"
-    },
-    {
-      "id": "ff94a6bec6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:54",
-      "title": "大宗商品综述：油价回落，伦铜创新高，金价触及逾三个月高位",
-      "insight": "原油期货回落，美国财长贝森特宣布启动“前所未有”的行动来孤立伊朗并迫使德黑兰放松对霍尔木兹海峡的…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528215.shtml"
-    },
-    {
-      "id": "ffb385c634",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:51",
-      "title": "美加贸易争端进一步加剧 特朗普誓言将把加拿大汽车关税翻倍至50%",
-      "insight": "美国总统特朗普誓言自明年起把加拿大汽车及零部件关税提高一倍，此举将令两国贸易争端进一步加剧。 特…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2527528.shtml"
-    },
-    {
-      "id": "ffd18b5da6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:41",
-      "title": "美国国债：尾盘逼近日内高位 油价下跌叠加现金储备回购报道发酵",
-      "insight": "周一美国国债小幅收涨，尾盘接近日内高点。市场最初受到油价下跌刺激，随后有关财政部可能动用存放在美…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2525168.shtml"
-    },
-    {
-      "id": "ff78510b8f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:39",
-      "title": "原油：油价回落 交易员权衡美国旨在孤立伊朗的空前制裁行动",
-      "insight": "原油期货回落，美国财长贝森特宣布启动一场“前所未有”的行动，以孤立伊朗并迫使德黑兰放松对霍尔木兹…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5752115.shtml"
-    },
-    {
-      "id": "fff3c17a27",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:33",
-      "title": "8月25日收盘：科技板块承压，纳指收跌0.76% 市场关注英伟达财报",
-      "insight": "美股周一涨跌不一，关键科技股的跌幅盖过了国债收益率下行的影响。 道指涨140.14点，涨幅为0.…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5750416.shtml"
-    },
-    {
-      "id": "ff4737632d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 04:21",
-      "title": "8月25日热门中概股多数下跌，台积电跌超2%",
-      "insight": "8月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）跌1.66%。 上涨个股（按市值从高…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9793449.shtml"
-    },
-    {
-      "id": "ff09ba0041",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 03:36",
-      "title": "贝森特接连出手触动市场神经 华尔街为何重新聚焦“贬值交易”",
-      "insight": "美国政治和财政的不确定性正促使投资者再度对美元感到不安。随着部分投资者抛售美元，比特币和黄金等替…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmk2640727.shtml"
-    },
-    {
-      "id": "ffb2e80fc6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 03:29",
-      "title": "高盛和富国等华尔街机构称 财政部回购难以压低长期美债收益率",
-      "insight": "高盛、富国等华尔街机构的利率策略师表示，美国财政部的国债回购对于扭转长期美债收益率的飙升作用有限…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5866282.shtml"
-    },
-    {
-      "id": "ff956bd2d2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 03:18",
-      "title": "纽约汇市：美元兑主要货币全线上涨 加元跌幅居前",
-      "insight": "美元周一兑所有G-10货币上涨，加元跌幅居前。在美国财政部长贝森特公布孤立伊朗经济的计划前后，美…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5863772.shtml"
-    },
-    {
-      "id": "ff0ae2d4a3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-25 03:13",
-      "title": "伊朗：已做好应对美国新一轮经济攻势的“充分准备”",
-      "insight": "伊朗经济部长Seyed Ali Madanizadeh在接受国家电视台采访时表示：“我们很早就预…",
-      "link": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncma9897555.shtml"
-    },
-    {
-      "id": "ff09083f43",
+      "id": "ff4d5b412e",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 02:56",
-      "title": "美国财政部或动用现金储备购债 但贝森特未暗示调整债务管理方式",
-      "insight": "美国财政部长贝森特周一没有进一步释放调整美国债务管理方式的信号。此前有报道称，美国财政部可能动用…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncmk2630568.shtml"
+      "time": "08-25 11:12",
+      "title": "澳央行上次会议认为还有时间观望 随时准备必要时采取行动",
+      "insight": "澳大利亚央行本月早些时候选择维持关键利率不变，因为有迹象表明高企的通胀正在逐步缓解，劳动力市场也…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipnyqu1612292.shtml"
     },
     {
-      "id": "ffed27bd77",
+      "id": "ffa4e6f3d9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 02:12",
-      "title": "美国财政部发放一般许可证 允许逐步终止部分涉伊朗交易",
-      "insight": "美国财政部发布一般许可证，授权逐步终止部分涉及伊朗的交易。 贝森特宣布对伊朗采取全球性经济攻势，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncme1819051.shtml"
+      "time": "08-25 11:07",
+      "title": "特朗普于SpaceX重磅IPO两周后买入",
+      "insight": "一份财务申报文件显示，美国总统特朗普在6月23日购入了价值最高达5万美元的SpaceX股票，此时…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipnyqy2314510.shtml"
     },
     {
-      "id": "ff7b9571fc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-25 02:00",
-      "title": "贝森特宣布对伊朗采取全球性经济攻势 称无人能逃出美国制裁范围",
-      "insight": "美国财政部长斯科特·贝森特宣布启动一场他所称“前所未有”的美国行动，意在切断伊朗与全球经济的联系…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncmh5839759.shtml"
+      "id": "ff7d2f0440",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 11:03",
+      "title": "快讯：现货白银日内跌幅扩大至2%，现报67.57美元/盎司",
+      "insight": "北京时间8月25日上午，现货白银日内跌幅扩大至2%，现报67.57美元/盎司。",
+      "link": "https://finance.sina.com.cn/money/nmetal/roll/2026-08-25/doc-inipnyqy2311018.shtml"
     },
     {
-      "id": "ff0431c17d",
+      "id": "ff447c0199",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 01:48",
-      "title": "伊朗首席谈判代表与巴基斯坦陆军参谋长讨论美国谅解备忘录",
-      "insight": "伊朗议会议长兼首席谈判代表卡利巴夫在德黑兰对巴基斯坦陆军参谋长穆尼尔表示，“伊朗正在寻求落实与美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncme1804248.shtml"
+      "time": "08-25 11:01",
+      "title": "台积电供应商日亚化学据悉拟在中国台湾地区建厂",
+      "insight": "据知情人士称，台积电供应商日亚化学（NICHIAS）计划在中国台湾建地区设一家芯片零部件工厂。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipnyqs9650629.shtml"
     },
     {
-      "id": "ff095de686",
+      "id": "ff47f38bdf",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 11:00",
+      "title": "纯苯价格强势走高，库存拐点何时现",
+      "insight": "卓创资讯分析师 李薇 【导语】2026年1-8月纯苯价格先冲高，后进入了长期的盘整阶段，进入8月…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipnyqu1600904.shtml"
+    },
+    {
+      "id": "fff062a5b8",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:59",
+      "title": "春花生上市进程慢 后续提速后价格或承压",
+      "insight": "卓创资讯花生市场分析师严琳 【导语】2026产季新花生陆续上市中，中下旬开始河南产区及江西、湖北…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipnyqs9648748.shtml"
+    },
+    {
+      "id": "ffe3dc1a1e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:58",
+      "title": "中秋备货带动蛋价走强，供需格局转变指引后市走向",
+      "insight": "卓创资讯禽蛋高级分析师王金玉 【导语】8月中上旬主产区鸡蛋市场迎来一轮上涨行情。蛋价走高一方面是…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipnyqu1598807.shtml"
+    },
+    {
+      "id": "ffc03ee927",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-25 10:39",
+      "title": "中国海外宏洋集团早盘涨逾10% 上半年纯利同比增长15.40%",
+      "insight": "中国海外宏洋集团（00081）早盘涨逾10%，截至发稿，股价上涨9.96%，现报2.82港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-25/doc-inipnyqw5520641.shtml"
+    },
+    {
+      "id": "ffd8a09b56",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-25 10:36",
+      "title": "长风药业现涨超7% ICF001实现IPF/PPF等四大适应症全覆盖",
+      "insight": "长风药业（02652）早盘一度涨超24%，截至发稿，股价上涨7.23%，现报16.31港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-25/doc-inipnuhy5649152.shtml"
+    },
+    {
+      "id": "ffa885cf07",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:35",
+      "title": "华泰期货：美财政部扩大国债回购计划 贵金属延续强势",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 近日消息称，美国财政部正考虑动用规模接近万亿美元的财政部…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-25/doc-inipnuhy5648328.shtml"
+    },
+    {
+      "id": "ffe2819ead",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-25 10:34",
+      "title": "锦欣生殖盘中涨超4% 上半年股东应占利润1.07亿元同比扭亏为盈",
+      "insight": "锦欣生殖（01951）盘中涨超4%，截至发稿，股价上涨2.24%，现报2.29港元，成交额244…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-25/doc-inipnuia2420071.shtml"
+    },
+    {
+      "id": "ffda52c809",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-25 10:34",
+      "title": "比特币突破8.1万美元，延续近期上涨态势",
+      "insight": "文章来源：澎湃新闻 8月25日，比特币价格继续走高，盘中一度突破8.1万美元关口，重返今年5月以…",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-25/doc-inipnyqu1590435.shtml"
+    },
+    {
+      "id": "ffc0de461b",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:33",
+      "title": "华泰期货：下游刚需采购 铜价高位震荡",
+      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-08-24，沪铜主力合约…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-25/doc-inipnuia2418794.shtml"
+    },
+    {
+      "id": "ff763a5ff4",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-25 01:31",
-      "title": "欧洲债市：长期欧洲政府债券小幅上涨 追随美国国债走势",
-      "insight": "欧洲长期政府债券小幅上涨，受美国国债走强带动。随着市场越来越多地押注欧洲央行可能在年底前加息两次…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipncma9844518.shtml"
+      "time": "08-25 10:32",
+      "title": "比特币升破80000美元，为5月中旬以来首次",
+      "insight": "比特币价格自5月中旬以来首次攀升至8万美元，此前长期低迷的加密货币市场在多股利好信号的共同作用下…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipnuia2418057.shtml"
+    },
+    {
+      "id": "ff42664537",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:31",
+      "title": "华泰期货：美国加大对伊朗制裁，霍尔木兹海峡石油流量成谜",
+      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 截至8月25日收盘，纽约商品交易所10…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-25/doc-inipnuia2417170.shtml"
+    },
+    {
+      "id": "ff6b9e8265",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:30",
+      "title": "华泰期货：三大油脂分化，盘面震荡运行",
+      "insight": "来源：华泰期货 作者： 白旭宇 油脂观点 市场分析 期货方面，昨日收盘棕榈油2701合约1014…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-25/doc-inipnuhy5643320.shtml"
+    },
+    {
+      "id": "ff5c909f98",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-25 10:27",
+      "title": "伯克希尔参股的东京海上保险拟发起史上最大收购",
+      "insight": "经过数月对澳洲、加拿大标的开展尽职调查，获得伯克希尔·哈撒韦投资的日本保险公司东京海上保险即将推…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipnuhy5641887.shtml"
+    },
+    {
+      "id": "ff6de157f3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:25",
+      "title": "华泰期货：黄金连破重要关口，关注美对伊“最严制裁”方案",
+      "insight": "来源：华泰期货 作者： 汪雅航 市场分析 伊朗局势仍存不确定性。6月18日签署的美伊谅解备忘录已…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-25/doc-inipnuia2412535.shtml"
+    },
+    {
+      "id": "ff47ca245c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-25 10:21",
+      "title": "光大期货：8月25日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周一，CB…",
+      "link": "https://finance.sina.com.cn/money/future/2026-08-25/doc-inipnuhw1699126.shtml"
     }
   ],
-  "updateTime": "2026-08-25 05:56"
+  "updateTime": "2026-08-25 11:15"
 }
