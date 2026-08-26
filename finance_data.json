@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fff1a4c129",
+      "id": "ffebb338bd",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 11:32",
+      "title": "剑桥科技午前涨近11% 中期归母净利润同比增长171.08%",
+      "insight": "剑桥科技（06166）午前拉升近11%，截至发稿，股价上涨10.99%，报101港元，成交额11…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpz6292823.shtml"
+    },
+    {
+      "id": "ffd899b943",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 11:24",
+      "title": "昆仑能源早盘涨超7% 中期股东应占溢利33.06亿元同比增长4.59%",
+      "insight": "昆仑能源（00135）早盘涨超7%，截至发稿，股价上涨7.57%，现报7.535港元，成交额67…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpw5531601.shtml"
+    },
+    {
+      "id": "ff6845125c",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 11:21",
+      "title": "中资券商股早盘飙升 中金公司涨逾7%中信证券涨逾6%",
+      "insight": "中资券商股早盘飙升，截至发稿，中金公司（03908）上涨7.57%，报22.16港元；中信证券（…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpu1128190.shtml"
+    },
+    {
+      "id": "ff6b5fee36",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 11:21",
+      "title": "中广核电力早盘涨超6% 第二季度归母净利润同比上升15.06%",
+      "insight": "中广核电力（01816）早盘涨超6%，截至发稿，股价上涨6.17%，现报3.01港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpu1128175.shtml"
+    },
+    {
+      "id": "ff5a21941e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 11:16",
+      "title": "融创中国早盘涨超5% 公司拟以1.23亿元收购而今管理100%股权",
+      "insight": "融创中国（01918）盘中涨超6%，截至发稿，股价上涨5.26%，现报0.60港元，成交额1.4…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpy2295085.shtml"
+    },
+    {
+      "id": "ff195a857a",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 05:49",
-      "title": "原油：油价延续跌势 外交努力缓解伊朗局势担忧",
-      "insight": "油价延续跌势，新的外交努力重燃市场对伊朗战争不会升级的乐观预期，而美国加大对伊朗经济施压的计划暂…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsya5427350.shtml"
+      "time": "08-26 11:06",
+      "title": "中东局势促使巴拿马运河通行需求激增 亚洲货主“天价”竞拍通航名额",
+      "insight": "据知情人士称，一家需要通过巴拿马运河运输货物的公司为确保获得通航名额，出价创纪录的530万美元。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprcpw5510033.shtml"
     },
     {
-      "id": "ff1e1ef90e",
+      "id": "ff1142083d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 05:30",
-      "title": "8月26日外盘头条：加拿大对美国征收报复性关税 美中情局长突访莫斯科 OpenAI称自研AI芯片超英伟达GB300",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称霍尔木兹海峡国际水域内水雷均已被清除…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsya5407560.shtml"
+      "time": "08-26 11:03",
+      "title": "印度高频交易公司的实习生月薪飙升至3.1万美元",
+      "insight": "印度的高频交易公司正以创纪录的薪酬吸引实习生，力图在这个对衍生品交易规定更为严格、且缺乏与人工智…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprcpy2278510.shtml"
     },
     {
-      "id": "ff1c5f9277",
+      "id": "ff5ad42cf1",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-26 11:01",
+      "title": "光大期货0826黄金点评：宏观情绪转暖，隔夜黄金窄幅震荡",
+      "insight": "隔夜伦敦现货贵金属窄幅震荡，盘中触及4696.83美元，创5月中旬以来新高，收涨0.21%。 美…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-08-26/doc-iniprcpz6276539.shtml"
+    },
+    {
+      "id": "ff8db6d711",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:50",
+      "title": "江西铜业股份早盘涨超12% 上半年纯利同比增长99.91%",
+      "insight": "江西铜业股份（00358）早盘涨超12%，截至发稿，股价上涨12.40%，现报40.80港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpy2263235.shtml"
+    },
+    {
+      "id": "ff009d05ae",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:48",
+      "title": "众安在线绩后涨超10% 上半年股东应占溢利同比增长132.18%",
+      "insight": "众安在线（06060）绩后涨超10%，截至发稿，股价上涨9.43%，现报11.95港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpz6269682.shtml"
+    },
+    {
+      "id": "ff8ceee19f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:46",
+      "title": "轩竹生物-B盘中涨超8% 公司今日将发中期业绩",
+      "insight": "轩竹生物-B（02575）早盘一度涨超8%，截至发稿，股价上涨5.14%，现报11.05港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpy2257981.shtml"
+    },
+    {
+      "id": "ff43e4597b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:44",
+      "title": "海底捞绩后涨逾5% 中期核心经营利润25.13亿元同比增加4.38%",
+      "insight": "海底捞（06862）绩后涨逾5%，截至发稿，股价上涨4.65%，现报11.94港元，成交额1.7…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpz6267420.shtml"
+    },
+    {
+      "id": "ffbdd7f076",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-26 10:32",
+      "title": "纽约铜价再创历史新高 美国市场持续虹吸全球库存",
+      "insight": "来源：财联社 财联社8月26日讯（编辑 马兰）周二，纽约铜价创下历史新高，伦敦铜价也逼近历史最高…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-26/doc-iniprcpu1102910.shtml"
+    },
+    {
+      "id": "ff27bc8282",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 05:11",
-      "title": "美国股市：科技股走强提振大盘 市场静待英伟达财报",
-      "insight": "美国股市周二上涨，科技股走强，投资者静待英伟达周三公布业绩。 纳斯达克100指数在纽约收涨0.6…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsyf6377414.shtml"
+      "time": "08-26 10:31",
+      "title": "城堡证券策略师改口 转为看多长期美债",
+      "insight": "就在上个月，城堡证券宏观策略主管Frank Flight还警告美债投资者将迎来“残酷的夏天”，如…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprcpy2237846.shtml"
     },
     {
-      "id": "ff0ce41ad0",
+      "id": "ffb270351d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:28",
+      "title": "敏实集团早盘涨逾7% 中期拥有人应占溢利同比增长约12.30%",
+      "insight": "敏实集团（00425）早盘涨逾7%，截至发稿，股价上涨6.63%，现报29.90港元，成交额97…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpy2233352.shtml"
+    },
+    {
+      "id": "ff358f405d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:25",
+      "title": "康方生物盘中涨超9% 依沃西胆道癌III期研究成功",
+      "insight": "康方生物（09926）盘中涨超9%，截至发稿，股价上涨6.81%，现报94.85港元，成交额8.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpu1098416.shtml"
+    },
+    {
+      "id": "ffd8ec3cab",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:23",
+      "title": "赤子城科技早盘涨近10% 上半年权益股东应占利润同比增长约45.8%",
+      "insight": "赤子城科技（09911）早盘涨近10%，截至发稿，股价上涨9.61%，现报8.615港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpw5454108.shtml"
+    },
+    {
+      "id": "ff93233261",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "08-26 10:20",
+      "title": "剂泰科技-P盘中涨超9% 半年营业收入超去年全年47%",
+      "insight": "剂泰科技-P（07666）绩后一度涨超9%，截至发稿，股价上涨4.06%，现报14.36港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-08-26/doc-iniprcpy2223338.shtml"
+    },
+    {
+      "id": "ff9a9a48af",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "08-26 10:19",
+      "title": "华泰期货：苹果弱势延续，红枣减仓走高",
+      "insight": "来源：华泰期货 作者： 白旭宇 苹果观点 市场要闻与重要数据 期货方面，昨日收盘苹果2610合约…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-26/doc-iniprcpz6252779.shtml"
+    },
+    {
+      "id": "ffa72de228",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 05:05",
-      "title": "伊朗和阿曼讨论霍尔木兹海峡航运 拟设“临时联合海上走廊”",
-      "insight": "伊朗与阿曼发布联合声明，伊朗外长阿拉格齐与阿曼外交大臣Badr Albusaidi讨论了一项旨在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsyf6376195.shtml"
-    },
-    {
-      "id": "ffe9ec02d6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 05:03",
-      "title": "8月26日美股成交额前20：Moderna大涨14% 获多家大行上调目标价",
-      "insight": "周三美股成交额第1名英伟达收涨2.19%，成交253.24亿美元。 8月24日，Hot Chip…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqsyf6375485.shtml"
-    },
-    {
-      "id": "ff2b3138c0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 04:38",
-      "title": "8月26日热门中概股多数上涨 网易涨超4% 富途涨超8%",
-      "insight": "8月26日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.11%。 上涨个股（按市值从…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqnsi6498737.shtml"
-    },
-    {
-      "id": "ffb9c943b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 04:21",
-      "title": "8月26日美股收盘：三大股指普涨 英伟达涨超2%",
-      "insight": "周二，美股三大股指收盘普涨，美债收益率延续前一日跌势。芯片板块同步上行。一批民主党议员致信美联储…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqnsh2274083.shtml"
-    },
-    {
-      "id": "ff06e022a0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 04:15",
-      "title": "美国民主党议员对沃什推动减少议息会议次数表示关切",
-      "insight": "一批民主党议员致信美联储主席凯文·沃什，对央行年度政策会议日程的拟议变更表示关切。 美联储7月政…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipqnsh2270356.shtml"
-    },
-    {
-      "id": "fffd7aa7ae",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "08-26 03:33",
-      "title": "英法加码对乌军援 难解今冬燃眉之急",
-      "insight": "新华社北京8月25日电 英国和法国主导的“志愿联盟”24日在乌克兰首都基辅举行会议，讨论乌克兰防…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqnsh2249350.shtml"
-    },
-    {
-      "id": "ff31bb168a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 03:14",
-      "title": "IMF总裁呼吁各国应对财政风险 央行继续专注抗通胀",
-      "insight": "国际货币基金组织（IMF）总裁克里斯塔利娜·格奥尔基耶娃表示，在全球经济面临日益增大的压力之际，…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnsh2232524.shtml"
-    },
-    {
-      "id": "ff22ca8c66",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 03:00",
-      "title": "伊朗与卡塔尔外长通话 商讨防止地区局势升级",
-      "insight": "据伊朗外长阿拉格齐的官方频道发帖，阿拉格齐周二与卡塔尔首相兼外交大臣Sheikh Mohamme…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnse5452247.shtml"
-    },
-    {
-      "id": "ff2d9b2e8d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 03:00",
-      "title": "质疑之声不消反涨 贝森特加码长债回购招致市场五大批评",
-      "insight": "美国财政部上周意外宣布将把长期国债回购操作规模扩大至少一倍时，部长斯科特·贝森特宣称此举是为了提…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnsh2256809.shtml"
-    },
-    {
-      "id": "ffc64ac71c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 02:59",
-      "title": "英伟达周三将发布业绩 分析师料营收增速继续领先大多数同行",
-      "insight": "英伟达将于周三盘后公布季度业绩，将向投资者披露AI行业大规模扩建数据中心的最新状况，以及公司为维…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqnse5451960.shtml"
-    },
-    {
-      "id": "ffad6ded5a",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-26 02:16",
-      "title": "“叙利亚民主力量”宣布解散 全面整合进国家机构",
-      "insight": "当地时间25日，叙利亚库尔德武装主导的“叙利亚民主力量”领导人马兹卢姆·阿卜迪在叙总统府举行的新…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqnsa1309460.shtml"
-    },
-    {
-      "id": "ff503e8576",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 02:07",
-      "title": "美国2年期国债拍卖结果连续第四个月表现出色 中标收益率4.204%",
-      "insight": "美国财政部690亿美元2年期国债拍卖中标收益率为4.204%，低于纽约时间下午1点投标截止时约4…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqhke1417754.shtml"
-    },
-    {
-      "id": "ff2070c0fa",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-26 01:28",
-      "title": "阿曼外交大臣称有望很快宣布霍尔木兹海峡临时航道安排",
-      "insight": "当地时间25日，阿曼外交大臣巴德尔在访问伊朗时表示，阿曼和伊朗有望很快宣布关于霍尔木兹海峡临时航…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqhkk2336211.shtml"
-    },
-    {
-      "id": "ff93851bf8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 01:23",
-      "title": "伊朗和阿曼外长讨论霍尔木兹航运问题 拟议框架包括建立海上走廊",
-      "insight": "据伊朗外交部官方发布的联合声明，伊朗外交部长阿巴斯·阿拉格齐与阿曼外交大臣Badr Albusa…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqhkk2282603.shtml"
-    },
-    {
-      "id": "ffe32b725b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 01:22",
-      "title": "欧洲股市震荡上行 油价回落提振市场人气",
-      "insight": "欧洲股市震荡上行，油价回落缓解了近期令股市承压的通胀和债券市场压力。 伦敦收盘时斯托克欧洲600…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqhke1400413.shtml"
-    },
-    {
-      "id": "ffba6afa16",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-26 01:22",
-      "title": "比特币一度突破81000美元，ETF资金流入助推加密货币反弹加速",
-      "insight": "比特币周二延续涨势，现货比特币ETF资金重新流入和风险偏好改善推动加密货币近期的反弹持续。 这一…",
-      "link": "https://finance.sina.com.cn/world/2026-08-26/doc-inipqhkh5509158.shtml"
-    },
-    {
-      "id": "ffd3f89e05",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-26 01:19",
-      "title": "美政府称若肯尼迪中心无法获准翻修 或考虑拆除",
-      "insight": "央视记者获悉，当地时间8月24日，特朗普政府在一份法院文件中首次提出，如果肯尼迪中心无法获准关闭…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipqnse5449034.shtml"
+      "time": "08-26 10:18",
+      "title": "颠覆初级银行家工作的AI新创公司进军亚洲 剑指银行业“操作系统”",
+      "insight": "一家客户包括全球大型银行的AI新创公司，正在亚洲主要城市招兵买马，押注区域内更多金融机构已准备把…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprcpz6252012.shtml"
     }
   ],
-  "updateTime": "2026-08-26 05:56"
+  "updateTime": "2026-08-26 11:34"
 }
