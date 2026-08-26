@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffbd91be35",
-      "source": "新浪证券",
+      "id": "ffc0fcca6e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 22:11",
+      "title": "美国关键通胀指标温和上涨 实际消费支出停滞",
+      "insight": "美国7月消费者支出陷入停滞，一项备受关注的通胀指标则符合预期，为美联储维持利率不变提供了更多空间…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5954281.shtml"
+    },
+    {
+      "id": "ffea06f128",
+      "source": "一财网",
+      "tag": "财经",
+      "time": "08-26 22:03",
+      "title": "财政贴息大升级！六大行集体公告明确政策细节",
+      "insight": "下半年有望继续加码。 自今年8月1日起，流动资金贷款也能享受财政贴息了。近两日，国有六大行陆续针…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipsezr5949357.shtml"
+    },
+    {
+      "id": "ffebe76240",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 21:57",
+      "title": "英伟达 2000 亿美元规模的 “资产负债表即服务”",
+      "insight": "摩根士丹利企业信用团队一份关于英伟达的研报指出：对于一家5万亿美元级别的“现金机器”而言，千亿美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5954511.shtml"
+    },
+    {
+      "id": "ffbad99249",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 21:56",
+      "title": "小麦价格创三年新高 俄乌在黑海相互袭击导致出口受阻",
+      "insight": "由于黑海地区针对船只和基础设施的袭击持续不断，来自全球最大粮仓之一的出口运输受到限制，小麦期货升…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5939049.shtml"
+    },
+    {
+      "id": "ff2fee4e7e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 21:44",
+      "title": "英伟达财报四大核心看点：营收指引、Rubin迭代、客户结构与AI融资周期",
+      "insight": "行业普遍预期英伟达本次财报业绩将再度超出预期；当下数据中心算力需求，持续大于算力建设与供电落地的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5949051.shtml"
+    },
+    {
+      "id": "ff5703f86e",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "08-26 18:46",
-      "title": "梅卡曼德机器人港股IPO：“眼-脑”支撑高增长高毛利 “手-脑”承载远期期待能否支持估值溢价？",
-      "insight": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 2026年8月，国内AI+3D视觉赛道龙头…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-26/doc-iniprytn5546221.shtml"
+      "time": "08-26 21:38",
+      "title": "三七互娱半年报的AB面：游戏卖不动，投资来“续命”",
+      "insight": "来源：国际金融报 8月25日晚间，三七互娱披露了一份“增利不增收”的2026年半年度“成绩单”：…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-26/doc-inipsezr5939823.shtml"
     },
     {
-      "id": "ff60f54d67",
+      "id": "ff6fddbf7e",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-26 21:38",
+      "title": "海底捞打了场翻身仗",
+      "insight": "来源：国际金融报 “火锅一哥”上半年打了场翻身仗。 8月25日晚间，海底捞（06862.HK）发…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-26/doc-inipsezp9166490.shtml"
+    },
+    {
+      "id": "ff85c41e7d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 18:40",
-      "title": "科技巨头为何突然豪掷巨资收购初创企业",
-      "insight": "作者：杰西卡・E・莱辛 上个月有消息传出，AI 模型聚合平台 OpenRouter 正在洽谈出售…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytn5538601.shtml"
+      "time": "08-26 21:33",
+      "title": "Meta将最高支付167亿美元，了结社交媒体对未成年人造成伤害的诉讼案件",
+      "insight": "就在加州法庭即将开庭审理之际，Meta同意最高支付166.8亿美元，了结与美国二十多个州的重大诉…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0786128.shtml"
     },
     {
-      "id": "ffcb662151",
+      "id": "ff73d3d9cb",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 18:36",
-      "title": "英伟达财报前瞻：AI霸主的业绩或将成为下一阶段整个板块的市场指引",
-      "insight": "【核心看点速览】 叙事与枢纽地位：今晚，万众瞩目的英伟达27财年Q2财报即将揭晓。作为横跨硬件制…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytn5532582.shtml"
+      "time": "08-26 21:30",
+      "title": "开盘：通胀数据显示通胀具备黏性 三大股指齐跌",
+      "insight": "最新通胀数据显示通胀仍处于高位，受此影响，三大股指齐跌。 道指跌0.01%，标普500指数跌0.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp9142296.shtml"
     },
     {
-      "id": "ffdb3ab8aa",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 18:35",
-      "title": "为何OpenAI的“墨西哥辣椒”芯片会重创英伟达",
-      "insight": "到底是 OpenAI 内部哪位人士，决定把公司首款自研芯片命名为Jalapeño（墨西哥辣椒）？…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2303172.shtml"
+      "id": "ff0e7e2212",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "08-26 21:21",
+      "title": "业绩下滑、出海受挫，拼多多打响即时零售抢位战",
+      "insight": "来源：雷达财经 雷达财经出品 文|周慧 编|孟帅 经历一季度的“增收不增利”后，电商龙头拼多多近…",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-26/doc-inipsezp9143995.shtml"
     },
     {
-      "id": "ff79a05c41",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 18:30",
-      "title": "受霍尔木兹海峡达成协议的乐观预期影响油价下挫，美原油在80美元附近震荡",
-      "insight": "核心要点AJ Bell 市场主管丹・科茨沃思表示：“美国对伊朗实施的制裁力度不及市场预期。”伊朗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2295769.shtml"
+      "id": "ff6269342f",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "08-26 21:16",
+      "title": "上半年巨亏30亿，小鹏为机器人业务找到新“金主”",
+      "insight": "来源：雷达财经 雷达财经出品 文|丁禹 编|孟帅 8月24日晚，小鹏集团交出一份难言出色的半年报…",
+      "link": "https://finance.sina.com.cn/stock/t/2026-08-26/doc-inipsezp9128683.shtml"
     },
     {
-      "id": "ff59855f05",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-26 18:09",
-      "title": "关键通胀数据公布前夕，美债收益率基本持平",
-      "insight": "美国国债收益率整体波动不大，投资者静待美联储偏好的通胀指标公布。 美国东部时间凌晨 4 点，作为…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprums2402665.shtml"
-    },
-    {
-      "id": "ffb86d8176",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "08-26 18:05",
-      "title": "小米汽车海外官网正式上线，全球化进一步提速",
-      "insight": "新浪科技讯 8月26日下午消息，小米汽车海外官网和社媒账号正式上线，全英文站点系统展示了小米汽车…",
-      "link": "https://finance.sina.com.cn/tech/it/2026-08-26/doc-iniprums2397141.shtml"
-    },
-    {
-      "id": "ff457e6ba1",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "08-26 18:00",
-      "title": "万物云宋澜涛谈城市更新：既要做好硬件改造 也要建立运营和维护机制",
-      "insight": "8月26日下午消息，第四届“10+N”城市管理局长联席会议城市治理现代化与全域智能运营创新实践研…",
-      "link": "https://finance.sina.com.cn/tech/it/2026-08-26/doc-iniprumt6100029.shtml"
-    },
-    {
-      "id": "ff59549572",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "08-26 17:59",
-      "title": "知乎：上半年经调整净利润690.6万元",
-      "insight": "新浪科技讯 8月26日下午消息，知乎发布2026年第二季度业绩报告。报告显示，第二季度，知乎实现…",
-      "link": "https://finance.sina.com.cn/tech/it/2026-08-26/doc-iniprums2390218.shtml"
-    },
-    {
-      "id": "ff9e7a131a",
-      "source": "中证网",
-      "tag": "财经热点",
-      "time": "08-26 17:46",
-      "title": "郑州公积金新政：存量房首付比例下调至20%",
-      "insight": "郑州住房公积金管理中心网站消息，8月26日，《郑州住房公积金管理中心关于进一步优化住房公积金贷款…",
-      "link": "https://finance.sina.com.cn/china/2026-08-26/doc-iniprums2375551.shtml"
-    },
-    {
-      "id": "ff593b4024",
+      "id": "ff90efb36e",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "08-26 17:36",
-      "title": "光大期货 0826点追踪：乙二醇封跌停！美伊谈判迎转机，低库存故事要反转？",
-      "insight": "光大期货 0826点追踪：乙二醇封跌停！美伊谈判迎转机，低库存故事要反转？",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-26/doc-iniprumt6087671.shtml"
+      "time": "08-26 21:15",
+      "title": "中天期货:玻璃弱势难改 豆粕创新高",
+      "insight": "热点品种分析 一、商品指数 二、股指 中国上证综指 8 月 26 日（周三）收盘上涨 23.08…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-08-26/doc-inipsezp9125054.shtml"
     },
     {
-      "id": "ff9b5f0cc5",
-      "source": "市场资讯",
-      "tag": "财经",
-      "time": "08-26 17:31",
-      "title": "一图读懂焦炭期权",
-      "insight": "来源：大连商品交易所",
-      "link": "https://finance.sina.com.cn/roll/2026-08-26/doc-iniprumt6091501.shtml"
-    },
-    {
-      "id": "ff67954020",
+      "id": "ffe02671cd",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 17:23",
-      "title": "谷歌推出面向法律行业的人工智能解决方案",
-      "insight": "美国谷歌云（Google Cloud）8月25日正式发布名为“Gemini法律企业版”（Gemi…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprumn0922179.shtml"
+      "time": "08-26 21:10",
+      "title": "分析师：英伟达千亿营收预期只是表象 毛利率或将揭示AI基建周期拐点",
+      "insight": "StoneX表示，英伟达的业绩相当于超大规模云厂商资本开支的实时观测指标，所以市场反应绝不局限于…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0776469.shtml"
     },
     {
-      "id": "ff04b9a366",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-26 17:23",
-      "title": "海南华铁索赔持续推进 又有股民提交起诉",
-      "insight": "近日，投资者诉浙江海控南科华铁数智科技股份有限公司（证券简称：海南华铁，证券代码：603300 …",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-26/doc-iniprums2347108.shtml"
-    },
-    {
-      "id": "ff82c9f023",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-26 17:22",
-      "title": "利尔达发布2026年半年报 股民索赔持续推进",
-      "insight": "近日，利尔达科技集团股份有限公司（证券代码：920249证券简称：利尔达）发布《2026年半年度…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-26/doc-iniprums2346571.shtml"
-    },
-    {
-      "id": "ff128ce2a0",
+      "id": "ffc50642d1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 17:22",
-      "title": "现代汽车押注美国混动车型热潮，向丰田发起挑战",
-      "insight": "随着美国电动车销量下滑，混动车型需求激增，全球第三大车企现代汽车将大举进军美国混动市场，以此向丰…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprumn0921777.shtml"
+      "time": "08-26 21:10",
+      "title": "美联储最偏爱通胀指标：7 月核心PCE物价指数同比上涨3.3%",
+      "insight": "美国商务部周三公布数据显示，作为美联储首选通胀观测工具的个人消费支出（PCE）物价指数，7 月经…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5934160.shtml"
     },
     {
-      "id": "ffcab1e5ce",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-26 17:22",
-      "title": "恒润股份索赔时效只剩三个月 受损股民仍可索赔",
-      "insight": "近日，曾代理股民告赢130余家上市公司并获赔的浙江裕丰律师事务所厉健律师表示，我们已代理多批恒润…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-08-26/doc-iniprumn0922295.shtml"
-    },
-    {
-      "id": "ff0d66be59",
+      "id": "ff95bc2917",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 17:13",
-      "title": "伊朗与阿曼筹备霍尔木兹海峡协议，美国暂缓实施次级制裁",
-      "insight": "核心要点伊朗、阿曼表示，双方即将达成协议，保障霍尔木兹海峡安全通航。尽管海峡航运量较 10 日均…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprums2334100.shtml"
+      "time": "08-26 21:08",
+      "title": "TWG全球集团抨击外界“多方攻击”，联邦调查风波下坚称“不存在欺诈行为”",
+      "insight": "核心要点马克・沃尔特的 TWG 全球集团猛烈抨击针对这家控股公司及其子公司的所谓 “多方攻击”，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0775277.shtml"
     },
     {
-      "id": "ffb6a8b313",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "08-26 17:05",
-      "title": "逆势领跑！安踏集团上半年增收又增利 多品牌矩阵韧性十足 ，带动股价大涨",
-      "insight": "行业承压，安踏破局。 8月26日，安踏体育用品有限公司（下称“安踏集团”）在全国上半年社零总额增…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-08-26/doc-iniprums2325247.shtml"
+      "id": "ffccfa45a3",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "08-26 20:59",
+      "title": "上海体育局回应刘翔“买断”争议：将保持良好沟通妥善安置",
+      "insight": "新华社上海8月26日电（记者胡洁菲）针对2004年雅典奥运会男子110米栏冠军刘翔26日在个人微…",
+      "link": "https://finance.sina.com.cn/china/2026-08-26/doc-inipsezp5940510.shtml"
     },
     {
-      "id": "ff9058a370",
+      "id": "ffc7d915c2",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "08-26 17:03",
-      "title": "英伟达财报发布前夕，芯片板块带动韩国股市收盘上涨近1%",
-      "insight": "受本国芯片巨头股票回购以及外部环境缓和的提振，韩国首尔股市周三收盘上涨近1%，与此同时投资者静待…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprumn0912210.shtml"
+      "time": "08-26 20:51",
+      "title": "美国消费者信心连降两个月，8月读数89.4，为今年1月以来最低",
+      "insight": "美国会议委员会周二公布：8月消费者信心指数报89.4，比7月下修后的90.2再低0.8点。7月原…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5924682.shtml"
+    },
+    {
+      "id": "ff473fe9ad",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 20:47",
+      "title": "美国第二季度GDP增速未修正 环比折年率增长1.5% 符合预期",
+      "insight": "美国经济分析局的数据显示，美国第二季度GDP的第二次估算值相比初步数据未作修正，环比折年率增速仍…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezn2312539.shtml"
+    },
+    {
+      "id": "ff3b1c5652",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 20:45",
+      "title": "英伟达Vera Rubin NVL72每瓦算力最高提升30倍",
+      "insight": "英伟达发文称，随着智能体AI在各行各业落地投产，承载这类业务的基础设施必须高效承接海量Token…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytk0894971.shtml"
+    },
+    {
+      "id": "ffd7010b10",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-26 20:30",
+      "title": "加州检察长再批派拉蒙：舆论大于法庭",
+      "insight": "加州检察长罗布·邦塔周二（8月25日）在记者会上说，派拉蒙现在更在意“舆论法庭”，而不是真正的法…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-iniprytq2425296.shtml"
     }
   ],
-  "updateTime": "2026-08-26 18:54"
+  "updateTime": "2026-08-26 22:25"
 }
