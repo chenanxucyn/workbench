@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff48dbc0a9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 10:42",
+      "title": "曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票",
+      "insight": "据报道，部分与特朗普联系紧密的美国企业正采取行动博取民主党好感，它们担心一旦共和党丢掉众议院控制…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxyyv8751429.shtml"
+    },
+    {
+      "id": "ff28b71e2b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-29 09:54",
+      "title": "特朗普提词器操作员支付17万美元了结内幕交易调查",
+      "insight": "一名白宫提词器操作员将支付逾17.2万美元，了结联邦监管机构针对他的调查，其涉嫌精准择时，在预测…",
+      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5611130.shtml"
+    },
+    {
+      "id": "ff86bb88bd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 09:52",
+      "title": "OpenAI：因Cursor被SpaceX收购，将终止与其合作",
+      "insight": "Open宣布，因Cursor被SpaceX收购，将终止与其的合作关系。根据我们的提议，Curso…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusz5609695.shtml"
+    },
+    {
+      "id": "ff160452e9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-29 09:22",
+      "title": "美官员：美国将掌控美委合资石油企业55%的实际产量",
+      "insight": "美国将取得委内瑞拉巨量石油财富的多数控制权。官员称，这项史无前例的操作将诞生按储量计全球第二大私…",
+      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5581639.shtml"
+    },
+    {
+      "id": "ff3bab838c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 08:13",
+      "title": "“先买后付”巨头Affirm CEO：高油价正冲击美国消费者",
+      "insight": "先买后付服务商Affirm公布第四财季财报后，该股周五收盘几乎持平。公司首席执行官马克斯·列夫钦…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusx3916202.shtml"
+    },
+    {
+      "id": "ff5e3121c6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "08-29 08:03",
+      "title": "印度银行股出现数十年来最大跨交易所价差",
+      "insight": "部分印度银行股周四在国内两大交易所收盘价格大幅分化，这是新收盘集合竞价制度引发市场错乱的又一信号…",
+      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5508482.shtml"
+    },
+    {
       "id": "ffad402669",
       "source": "环球市场播报",
       "tag": "美股",
@@ -125,61 +179,7 @@
       "title": "纽约汇市：美元在沃什讲话后触及一周多高点 日元走弱",
       "insight": "彭博美元指数周五升至一周多以来的最高水平，之前美联储主席凯文·沃什誓言要将通胀率降至2%的目标。…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqmf9518841.shtml"
-    },
-    {
-      "id": "ff762a4da6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:30",
-      "title": "五角大楼与委内瑞拉大亨洽谈巨额石油交易 或引发法律争议",
-      "insight": "知情人士称，美国政府寻求通过国防部与能源投资人Alejandro Betancourt潜在合作，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcc4135529.shtml"
-    },
-    {
-      "id": "ffd5c8046d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:28",
-      "title": "8月29日外盘头条：特朗普签署行政令设立“太空学院” 美联储沃什讲话后加息概率上升 贝森特为日元干预辩护",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普签署行政令设立“太空学院” 旨在培养航…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcf5687976.shtml"
-    },
-    {
-      "id": "ffeb204b25",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:24",
-      "title": "智利、阿根廷、玻利维亚、秘鲁签署关键矿产合作协议",
-      "insight": "智利、阿根廷、玻利维亚与秘鲁签署联合宣言，深化战略矿产领域合作。这几个资源富集国家希望将本地区打…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcf5686458.shtml"
-    },
-    {
-      "id": "fff3ffcf96",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:23",
-      "title": "中期选举前夕 美议长计划于得州会见共和党大金主马斯克",
-      "insight": "据四名知情人士透露，众议院议长迈克・约翰逊计划周五在得克萨斯州会见共和党大额捐赠人埃隆・马斯克。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcf5686093.shtml"
-    },
-    {
-      "id": "ff3c6bbcfb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:22",
-      "title": "微软高管安抚内部员工：数据中心具备正向社会价值",
-      "insight": "微软正试图安抚内部员工，向其说明公司数据中心对社会具备积极作用。 一份微软开发部门主管诺埃尔・沃…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcf5685682.shtml"
-    },
-    {
-      "id": "ff76f13450",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 05:21",
-      "title": "大宗商品综述：油价录得周跌幅 铜价九周连涨 金价重挫",
-      "insight": "油价录得周跌幅，尽管伊朗战争走向仍不明朗，但数百万桶原油持续通过霍尔木兹海峡运输抑制了价格涨势。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkci9639126.shtml"
     }
   ],
-  "updateTime": "2026-08-29 08:03"
+  "updateTime": "2026-08-29 11:03"
 }
