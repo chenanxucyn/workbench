@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ffa91bcb7a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 19:09",
+      "title": "沃什对通胀展现强硬立场 美联储9月会议或迎关键一役",
+      "insight": "美联储主席凯文·沃什就通胀问题发出强硬信号，使得9月政策会议成为该行控制价格压力使命面临的一个关…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipyrwr5515369.shtml"
+    },
+    {
       "id": "ff35088551",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "8月29日隔夜要闻：英伟达跌超4% 油价收跌 伊朗称内部已就霍尔木兹海峡航线达成一致 日元兑美元再度跌破160",
       "insight": "市场 8月29日美股收盘：三大股指齐跌但本周录得上涨 市场预期美联储9月加息概率上升 8月29日…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcc4137025.shtml"
-    },
-    {
-      "id": "ff4da7d809",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 06:17",
-      "title": "美国防长考虑参加2028年总统竞选可能性",
-      "insight": "据报道援引两名了解相关谈话的人士，美国国防部长皮特·赫格塞斯正在考虑2028年竞选总统的可能性。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqkz4016469.shtml"
     }
   ],
-  "updateTime": "2026-08-29 17:03"
+  "updateTime": "2026-08-29 20:03"
 }
