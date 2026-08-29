@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff1ba6c6d7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 21:40",
+      "title": "乌克兰加大袭击炼油厂 俄罗斯延长柴油出口禁令",
+      "insight": "俄罗斯进一步延长对生产商的柴油出口禁令，以保障国内市场供应，眼下乌克兰持续加大对俄罗斯炼油厂的袭…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipzani8572594.shtml"
+    },
+    {
+      "id": "ffb0f0261b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 21:30",
+      "title": "大众汽车据悉将削减五年支出计划",
+      "insight": "据报道，大众汽车公司计划在未来五年内将投资额限制在1350亿欧元（1560亿美元）左右。由于面临…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywer9051355.shtml"
+    },
+    {
+      "id": "ff41ada1cf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 21:21",
+      "title": "意大利埃尼集团：将与委内瑞拉当局合作以重振其能源行业",
+      "insight": "意大利埃尼集团表示，正与委内瑞拉当局合作，帮助该国重振能源部门。与此同时，美国正努力加强对委内瑞…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywep5463688.shtml"
+    },
+    {
+      "id": "ff71b72ba9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-29 20:39",
+      "title": "硅谷银行破产后续：SVB FINANCIAL在与FDIC就17亿美元索赔案的纠纷中败诉",
+      "insight": "美国一位联邦法官裁定，硅谷银行的前母公司无权就其在联邦存款保险公司接管这家破产银行并保障其他储户…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywer9034658.shtml"
+    },
+    {
       "id": "ffa91bcb7a",
       "source": "环球市场播报",
       "tag": "美股",
@@ -143,43 +179,7 @@
       "title": "8月29日热门中概股涨跌不一，阿里巴巴涨2.23%，台积电跌2.29%",
       "insight": "8月29日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收涨0.44%。 上涨个股（按市值从…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqkz8829950.shtml"
-    },
-    {
-      "id": "ff0339eede",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 06:56",
-      "title": "特朗普：美国与委内瑞拉达成史上规模最大的石油协议",
-      "insight": "特朗普发文称：“美利坚合众国刚刚与委内瑞拉达成协议，这是世界历史上规模最大的石油交易！ 在我的指…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqmf9530640.shtml"
-    },
-    {
-      "id": "ff84b0ed00",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 06:41",
-      "title": "8月29日美股成交前20：英伟达跌超4%拖累股指 亚马逊涨3.97%领跑七巨头",
-      "insight": "周五美股成交额第1名英伟达收跌4.57%，成交430.54亿美元。 美联储主席沃什发表鹰派讲话后…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqkz8820932.shtml"
-    },
-    {
-      "id": "ff75f39c89",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 06:34",
-      "title": "美国股市：科技股抛售拖累标普500指数走低 沃什鹰派讲话推升加息预期",
-      "insight": "美国股市周五收低，美联储主席沃什发表鹰派讲话后，交易员和策略师纷纷提高对美联储年内加息的押注。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxqmc5589630.shtml"
-    },
-    {
-      "id": "ff8e08e908",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 06:30",
-      "title": "8月29日隔夜要闻：英伟达跌超4% 油价收跌 伊朗称内部已就霍尔木兹海峡航线达成一致 日元兑美元再度跌破160",
-      "insight": "市场 8月29日美股收盘：三大股指齐跌但本周录得上涨 市场预期美联储9月加息概率上升 8月29日…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxkcc4137025.shtml"
     }
   ],
-  "updateTime": "2026-08-29 20:03"
+  "updateTime": "2026-08-29 23:03"
 }
