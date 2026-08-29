@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff64d4723b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 02:41",
+      "title": "美联储杰克逊霍尔年度会议核心要点",
+      "insight": "堪萨斯城联储于怀俄明州杰克逊霍尔举办的年度经济研讨会于周六落幕，本次是凯文·沃什以美联储主席身份…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzpai8746852.shtml"
+    },
+    {
       "id": "ff47b6371c",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "谷歌隐私诉讼案产生高达1.47亿美元律师费",
       "insight": "加州联邦法院周五裁定，去年在一桩重大隐私集体诉讼庭审中胜诉谷歌有限责任公司的三家律所，将获得1.…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusz5504705.shtml"
-    },
-    {
-      "id": "ffa29d362f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-29 07:27",
-      "title": "特朗普：美国掌握了委内瑞拉650亿桶石油储量中的多数控制权",
-      "insight": "美国总统唐纳德·特朗普周五表示，已和委内瑞拉达成协议，该国同意将石油储量中的多数控制权交给华盛顿…",
-      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxqmf9539711.shtml"
     }
   ],
-  "updateTime": "2026-08-30 02:03"
+  "updateTime": "2026-08-30 05:03"
 }
