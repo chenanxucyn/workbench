@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ffeefd70f1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 07:31",
+      "title": "据消息人士透露，美国中央情报局局长在访问莫斯科期间，试探性提议举行特朗普‑普京‑泽连斯基三方峰会",
+      "insight": "据两名了解内情的消息人士透露，美国中央情报局局长约翰・拉特克利夫本周早些时候秘密出访莫斯科，为推…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzxrx3054427.shtml"
+    },
+    {
+      "id": "ffd7ba1910",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "08-30 07:29",
+      "title": "集齐CPO、人形机器人、汽车电子等热门题材，002475，这只龙头股火了（附名单）",
+      "insight": "近一周机构调研个股有540多只，立讯精密调研机构数最多。 立讯精密（002475）有268家机构…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-inipzxrx8348347.shtml"
+    },
+    {
+      "id": "ff07722eed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 07:25",
+      "title": "特朗普的委内瑞拉石油交易依赖一位实力雄厚但颇具争议的合作方",
+      "insight": "特朗普政府这项用于开发委内瑞拉庞大石油资源的协议十分特殊，美国政府将与一位影响力巨大、同时极具争…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzxrx8344358.shtml"
+    },
+    {
+      "id": "ff5e1a3566",
+      "source": "长安街知事",
+      "tag": "财经热点",
+      "time": "08-30 06:57",
+      "title": "交通运输部回应“建议取消ETC”",
+      "insight": "转自：长安街知事‍ 据交通运输部网站8月24日消息，近日，有网友就高速公路电子收费系统（简称“E…",
+      "link": "https://finance.sina.com.cn/wm/2026-08-30/doc-inipzxsc8551834.shtml"
+    },
+    {
+      "id": "ff5cc6929a",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-30 05:28",
+      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
+      "insight": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipztiz8426675.shtml"
+    },
+    {
+      "id": "ffe24f0b41",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-30 03:16",
+      "title": "伊朗副外长称不急于重新开放霍尔木兹海峡",
+      "insight": "当地时间8月29日，伊朗副外长加里巴巴迪表示，伊朗已与阿曼就霍尔木兹海峡通行安排达成谅解，但该谅…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzpai8763233.shtml"
+    },
+    {
       "id": "ff64d4723b",
       "source": "环球市场播报",
       "tag": "美股",
@@ -125,61 +179,7 @@
       "title": "曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票",
       "insight": "据报道，部分与特朗普联系紧密的美国企业正采取行动博取民主党好感，它们担心一旦共和党丢掉众议院控制…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxyyv8751429.shtml"
-    },
-    {
-      "id": "ff28b71e2b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-29 09:54",
-      "title": "特朗普提词器操作员支付17万美元了结内幕交易调查",
-      "insight": "一名白宫提词器操作员将支付逾17.2万美元，了结联邦监管机构针对他的调查，其涉嫌精准择时，在预测…",
-      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5611130.shtml"
-    },
-    {
-      "id": "ff86bb88bd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 09:52",
-      "title": "OpenAI：因Cursor被SpaceX收购，将终止与其合作",
-      "insight": "Open宣布，因Cursor被SpaceX收购，将终止与其的合作关系。根据我们的提议，Curso…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusz5609695.shtml"
-    },
-    {
-      "id": "ff160452e9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-29 09:22",
-      "title": "美官员：美国将掌控美委合资石油企业55%的实际产量",
-      "insight": "美国将取得委内瑞拉巨量石油财富的多数控制权。官员称，这项史无前例的操作将诞生按储量计全球第二大私…",
-      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5581639.shtml"
-    },
-    {
-      "id": "ff3bab838c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 08:13",
-      "title": "“先买后付”巨头Affirm CEO：高油价正冲击美国消费者",
-      "insight": "先买后付服务商Affirm公布第四财季财报后，该股周五收盘几乎持平。公司首席执行官马克斯·列夫钦…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusx3916202.shtml"
-    },
-    {
-      "id": "ff5e3121c6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-29 08:03",
-      "title": "印度银行股出现数十年来最大跨交易所价差",
-      "insight": "部分印度银行股周四在国内两大交易所收盘价格大幅分化，这是新收盘集合竞价制度引发市场错乱的又一信号…",
-      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipxusz5508482.shtml"
-    },
-    {
-      "id": "ffad402669",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 07:59",
-      "title": "谷歌隐私诉讼案产生高达1.47亿美元律师费",
-      "insight": "加州联邦法院周五裁定，去年在一桩重大隐私集体诉讼庭审中胜诉谷歌有限责任公司的三家律所，将获得1.…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxusz5504705.shtml"
     }
   ],
-  "updateTime": "2026-08-30 05:03"
+  "updateTime": "2026-08-30 08:04"
 }
