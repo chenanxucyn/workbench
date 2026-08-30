@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "fff20a671e",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "08-30 09:27",
+      "title": "中选之后，“特朗普交易”要反噬了？",
+      "insight": "来源：华尔街见闻 过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、…",
+      "link": "https://finance.sina.com.cn/world/2026-08-30/doc-iniqacxv8309576.shtml"
+    },
+    {
+      "id": "fffd71b312",
+      "source": "券商中国",
+      "tag": "财经",
+      "time": "08-30 09:00",
+      "title": "重大资产重组！半导体龙头，突发公告！下周一停牌",
+      "insight": "来源：券商中国 A股并购重组市场再添新案例。 昨日晚间（8月28日），A股半导体硅材料龙头有研硅…",
+      "link": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqacxv2956905.shtml"
+    },
+    {
+      "id": "ffd2408cb9",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "08-30 08:06",
+      "title": "阳光电源回应美国业务！",
+      "insight": "阳光电源8月28日在机构电话交流时表示，FCC（美国联邦通信委员会）禁令目前来看是针对未来新产品…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-inipzxrx3064337.shtml"
+    },
+    {
+      "id": "ff956dd5c4",
+      "source": "e公司",
+      "tag": "股市",
+      "time": "08-30 08:06",
+      "title": "这5家A股公司，上周获超200家机构调研！",
+      "insight": "随着2026年半年报集中披露，机构扎堆调研现象明显。 上周（8月24日—28日）共有536家A股…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-inipzxsc8568722.shtml"
+    },
+    {
+      "id": "ffd3669be6",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "08-30 07:58",
+      "title": "霍尔木兹海峡，有新消息",
+      "insight": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过…",
+      "link": "https://finance.sina.com.cn/world/2026-08-30/doc-inipzxrx8371543.shtml"
+    },
+    {
+      "id": "ffc2a2ee24",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 07:41",
+      "title": "上半年扎堆这些赛道！券商抱团背后的“阳谋”与“陷阱”？",
+      "insight": "华夏时报记者 王兆寰 北京报道 二季度末券商自营重仓股数据 2026年上市公司半年报披露接近尾声…",
+      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-inipzxrx3067780.shtml"
+    },
+    {
       "id": "ffeefd70f1",
       "source": "环球市场播报",
       "tag": "美股",
@@ -125,61 +179,7 @@
       "title": "硅谷银行破产后续：SVB FINANCIAL在与FDIC就17亿美元索赔案的纠纷中败诉",
       "insight": "美国一位联邦法官裁定，硅谷银行的前母公司无权就其在联邦存款保险公司接管这家破产银行并保障其他储户…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywer9034658.shtml"
-    },
-    {
-      "id": "ffa91bcb7a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 19:09",
-      "title": "沃什对通胀展现强硬立场 美联储9月会议或迎关键一役",
-      "insight": "美联储主席凯文·沃什就通胀问题发出强硬信号，使得9月政策会议成为该行控制价格压力使命面临的一个关…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipyrwr5515369.shtml"
-    },
-    {
-      "id": "ff35088551",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-29 13:44",
-      "title": "土耳其市场监管机构出台对冲基金新规",
-      "insight": "土耳其资本市场委员会发布投资基金更新指引，其中包含针对对冲基金的一套全新监管规则。 对冲基金对单…",
-      "link": "https://finance.sina.com.cn/world/2026-08-29/doc-inipyfht3781275.shtml"
-    },
-    {
-      "id": "ffad095b41",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 12:18",
-      "title": "Radiant World指控嘉能可造成其14亿美元损失",
-      "insight": "深陷困境的铁矿石贸易商Radiant World正威胁对嘉能可（Glencore）采取法律行动。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxyyv8829410.shtml"
-    },
-    {
-      "id": "ff5aa4c81f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 12:09",
-      "title": "空客拟出售美国航天业务 转向欧洲制造卫星",
-      "insight": "空客正探索出售旗下美国航天业务，同时计划通过三方合并，打造一家泛欧洲卫星龙头企业。 知情人士透露…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxyyv8821208.shtml"
-    },
-    {
-      "id": "ff6b19c783",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "08-29 12:04",
-      "title": "上半年全国新设外商投资企业3.5万户，同比增长7.0%",
-      "insight": "市场监管总局今天（29日）公布数据显示，上半年，全国新设外商投资企业3.5万户，同比增长7.0%…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-29/doc-inipxyyv8817221.shtml"
-    },
-    {
-      "id": "ff48dbc0a9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 10:42",
-      "title": "曾向特朗普豪掷政治献金的美企高管，如今担忧即将收到国会传票",
-      "insight": "据报道，部分与特朗普联系紧密的美国企业正采取行动博取民主党好感，它们担心一旦共和党丢掉众议院控制…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipxyyv8751429.shtml"
     }
   ],
-  "updateTime": "2026-08-30 08:04"
+  "updateTime": "2026-08-30 11:03"
 }
