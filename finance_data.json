@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "id": "ffde294d1b",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-30 23:43",
+      "title": "追觅起诉小红书?知情人士:已经撤诉",
+      "insight": "新浪科技讯 8月30日晚间消息，据报道，追觅科技（苏州）有限公司诉行吟信息科技（上海）有限公司名…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-30/doc-iniqcmtm7966034.shtml"
+    },
+    {
+      "id": "ff54c1193c",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-30 23:16",
+      "title": "追觅起诉小红书？知情人士：源自追觅要求平台配合披露一“自媒体”用户真实身份信息",
+      "insight": "新浪科技讯 8月30日晚间消息，今日，有媒体查询法院开庭信息得知，追觅科技（苏州）有限公司因名誉…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-30/doc-iniqcmtf8077985.shtml"
+    },
+    {
+      "id": "ff2c504b0b",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-30 23:15",
+      "title": "曝追觅起诉小红书名誉权纠纷，9月8日开庭",
+      "insight": "新浪科技讯 8月30日晚间消息，据报道，追觅科技（苏州）有限公司诉行吟信息科技（上海）有限公司名…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-30/doc-iniqcmtm7958043.shtml"
+    },
+    {
+      "id": "ff3854a27c",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "08-30 23:06",
+      "title": "上海电信突发大范围断网，官方致歉：经紧急处置陆续恢复，对造成的不便致以诚挚歉意",
+      "insight": "新浪科技讯 8月30日晚间消息，多位网友今日在微博上反映上海电信突发大范围断网，有用户反馈宽带、…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-30/doc-iniqcmtp9559375.shtml"
+    },
+    {
+      "id": "ff56dd66ae",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "08-30 21:54",
+      "title": "9月1日起停牌！002731，半年报“难产”！深陷三重退市风险",
+      "insight": "8月30日晚，*ST萃华（002731）公告，因2025年年度报告涉及的收入、存货等重要事项需要…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-iniqcfmi2559799.shtml"
+    },
+    {
+      "id": "ffb450ea26",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 21:16",
+      "title": "美军高层警告伊朗战事不可持续，五角大楼面临资源枯竭与财政压力",
+      "insight": "随着与伊朗的军事冲突进入第六个月，美国军方高层近日向国防部长皮特·赫格塞斯（Pete Hegse…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqcfmp8050759.shtml"
+    },
+    {
+      "id": "fffc9b287c",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-30 21:11",
+      "title": "301139欺诈发行，被罚2.39亿元！或强制退市",
+      "insight": "*ST元道（301139）8月28日晚发布公告，公司收到深交所下发的《事先告知书》，拟决定终止公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqcfmi2545635.shtml"
+    },
+    {
+      "id": "ffbf904420",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 21:08",
+      "title": "维眸生物冲刺港股：上半年亏损1.3亿 龙磐健康与红杉是股东",
+      "insight": "来源：雷递 雷递网 雷建平 8月30日 维眸生物科技（浙江）股份有限公司（简称：“维眸生物”）日…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqcfmp8049295.shtml"
+    },
+    {
+      "id": "ff981d90e3",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 20:50",
+      "title": "筹划一年后，688478宣布：重大资产重组终止",
+      "insight": "来源：中国基金报 【导读】筹划一年后 晶升股份终止重大资产重组 中国基金报记者 刘墨 8月30日…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqcfmp8046029.shtml"
+    },
+    {
+      "id": "ffe6ad6691",
+      "source": "21世纪经济报道",
+      "tag": "财经热点",
+      "time": "08-30 20:23",
+      "title": "8天7跌停，A股一公司9月1日起停牌",
+      "insight": "8月30日，*ST萃华（002731.SZ）公告称，公司原定于2026年8月22日披露2026年…",
+      "link": "https://finance.sina.com.cn/wm/2026-08-30/doc-iniqcfmm4871622.shtml"
+    },
+    {
       "id": "ff9e2832c0",
       "source": "新浪基金",
       "tag": "基金",
@@ -89,97 +179,7 @@
       "title": "芝加哥联储主席古尔斯比：通胀是当前首要问题",
       "insight": "芝加哥联邦储备银行行长奥斯坦·古尔斯比周五（8月28日）在怀俄明州杰克逊霍尔年会现场接受采访时表…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8314043.shtml"
-    },
-    {
-      "id": "ff5fd4b666",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:33",
-      "title": "沃什讲话施压金价回落，九月加息概率显著上修",
-      "insight": "美联储主席凯文·沃什8月28日在杰克逊霍尔发表演讲后，黄金价格自讲话前高位明显回落。尽管不同报价…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8253072.shtml"
-    },
-    {
-      "id": "ff254dfd3b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:27",
-      "title": "沃什杰克逊霍尔演讲：将人工智能列为货币政策新变量",
-      "insight": "美联储主席凯文·沃什8月28日在杰克逊霍尔全球央行年会上发表任内首场主旨演讲，题为《In Our…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8308156.shtml"
-    },
-    {
-      "id": "ff8a83d970",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-30 14:24",
-      "title": "齐心集团中报“增收不增利”：毛利率较高点大幅回落",
-      "insight": "来源：证券之星 作为国内最早布局B2B政企大客户数字化集采领域的企业之一，齐心集团（002301…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvr4992749.shtml"
-    },
-    {
-      "id": "ffde5dd581",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-30 14:24",
-      "title": "煌上煌“双增”成绩单藏隐忧：现金净增加额暴跌逾七成",
-      "insight": "来源：证券之星 时隔五年，煌上煌（002695.SZ）再次交出了一份业绩双增的中报“成绩单”。公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvr4991245.shtml"
-    },
-    {
-      "id": "ff3937172d",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-30 14:24",
-      "title": "蓝思科技：H1净利近乎“腰斩”，实控人增持零进展却豪取数亿分红",
-      "insight": "来源：证券之星 2026年上半年，蓝思科技（300433.SZ）营收和净利润双双下滑，其归母净利…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvt8225216.shtml"
-    },
-    {
-      "id": "ff98d3438e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:22",
-      "title": "OpenAI终止向SpaceX旗下Cursor供应模型",
-      "insight": "OpenAI于8月28日在官网发布公告，称已通知SpaceX，计划终止向编程工具Cursor提供…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2800501.shtml"
-    },
-    {
-      "id": "ffb7b809e0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:19",
-      "title": "沃尔玛就联邦阿片类诉讼支付5000万美元和解",
-      "insight": "美国司法部与缉毒局8月28日宣布，沃尔玛同意支付5000万美元，了结关于其药房违反《受控物质法》…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5015968.shtml"
-    },
-    {
-      "id": "ff72120876",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:16",
-      "title": "国际清算银行总经理杰克逊霍尔讲话：稳定币尚难胜任大规模支付手段",
-      "insight": "国际清算银行总经理巴勃罗·埃尔南德斯·德科斯8月28日在杰克逊霍尔经济研讨会上发表题为《推进货币…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2797975.shtml"
-    },
-    {
-      "id": "ffec9534b0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:13",
-      "title": "苹果完成CEO交接：库克卸任转任执行董事长，特纳斯9月1日起接棒",
-      "insight": "苹果公司按4月20日董事会一致通过的继任安排，于本周完成首席执行官交接。蒂姆·库克在担任该职务近…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5011795.shtml"
-    },
-    {
-      "id": "ffb012f218",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:09",
-      "title": "谷歌8月30日起在欧洲经济区停用“站点声誉滥用”手动降权",
-      "insight": "Alphabet旗下谷歌于周五在搜索质量团队博客中宣布，自8月30日起，针对“站点声誉滥用”政策…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8237660.shtml"
     }
   ],
-  "updateTime": "2026-08-30 20:03"
+  "updateTime": "2026-08-31 02:20"
 }
