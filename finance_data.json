@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ffce73da1c",
+      "source": "券商中国",
+      "tag": "股市",
+      "time": "08-30 13:15",
+      "title": "突然，猛烈抛售！“大风暴”来袭！欧洲大国，发生了什么？",
+      "insight": "法国国债市场掀起“大风暴”。 近期，法国国债市场持续遭遇抛售潮，法国30年期国债收益率一度创出2…",
+      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqakft2910526.shtml"
+    },
+    {
+      "id": "ff89505219",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-30 12:18",
+      "title": "光伏逆变器龙头，业绩承压",
+      "insight": "8月28日，光伏逆变器龙头阳光电源披露2026年半年度报告。报告期内，公司实现营收309.12亿…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqakft8295852.shtml"
+    },
+    {
+      "id": "ff3deed3a8",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "08-30 12:14",
+      "title": "*ST广糖，打响“保壳”第一枪",
+      "insight": "在被实施退市风险警示四个月后，*ST广糖打响“保壳”的第一枪。 8月29日，*ST广糖发布公告称…",
+      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2893131.shtml"
+    },
+    {
+      "id": "ff8db27dcf",
+      "source": "e公司",
+      "tag": "股市",
+      "time": "08-30 12:11",
+      "title": "投资12亿元！又一家A股公司，加码智能机器人！",
+      "insight": "中坚科技拟投资12亿元建设智能机器人产业化项目。 中坚科技（002779）日前公告，公司及控股子…",
+      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakfv5056766.shtml"
+    },
+    {
+      "id": "ff8b321bcf",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "08-30 11:51",
+      "title": "两大超级赛道，爆单！",
+      "insight": "AI算力需求自上而下传导至芯片产业链及上游铜材环节。 据央视财经报道，前7个月我国集成电路出口额…",
+      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2880120.shtml"
+    },
+    {
+      "id": "ffd46f8fd5",
+      "source": "21世纪经济报道",
+      "tag": "财经热点",
+      "time": "08-30 10:57",
+      "title": "2000亿巨头，半年暴赚超52亿",
+      "insight": "（来源：21记者 21世纪经济报道） 记者丨张赛男 编辑丨郑世凤，江佩霞，张明艳 8月28日晚间…",
+      "link": "https://finance.sina.com.cn/wm/2026-08-30/doc-iniqacxz8498367.shtml"
+    },
+    {
       "id": "fff20a671e",
       "source": "市场资讯",
       "tag": "财经热点",
@@ -125,61 +179,7 @@
       "title": "Anthropic考虑允许股东在IPO中出售股份，摒弃SpaceX模式",
       "insight": "Anthropic正拟定方案，计划在其重磅IPO中允许现有股东出售部分股票，同时考虑上市后执行比…",
       "link": "https://finance.sina.com.cn/7x24/2026-08-30/doc-inipzhuf8535131.shtml"
-    },
-    {
-      "id": "ffa16e887a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 00:31",
-      "title": "Radiant World风险发酵 嘉能可计提4.8亿美元拨备",
-      "insight": "据知情人士透露，嘉能可就其对铁矿石贸易商Radiant World的敞口计提约4.8亿美元拨备。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzhui5306627.shtml"
-    },
-    {
-      "id": "ff78d8574d",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-29 22:36",
-      "title": "佩斯科夫：当前看不到俄欧关系改善的基础",
-      "insight": "总台记者当地时间8月29日获悉，俄罗斯总统新闻秘书佩斯科夫当天对媒体表示，当前看不到俄欧关系改善…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-29/doc-inipzani8619229.shtml"
-    },
-    {
-      "id": "ff1ba6c6d7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 21:40",
-      "title": "乌克兰加大袭击炼油厂 俄罗斯延长柴油出口禁令",
-      "insight": "俄罗斯进一步延长对生产商的柴油出口禁令，以保障国内市场供应，眼下乌克兰持续加大对俄罗斯炼油厂的袭…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipzani8572594.shtml"
-    },
-    {
-      "id": "ffb0f0261b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 21:30",
-      "title": "大众汽车据悉将削减五年支出计划",
-      "insight": "据报道，大众汽车公司计划在未来五年内将投资额限制在1350亿欧元（1560亿美元）左右。由于面临…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywer9051355.shtml"
-    },
-    {
-      "id": "ff41ada1cf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 21:21",
-      "title": "意大利埃尼集团：将与委内瑞拉当局合作以重振其能源行业",
-      "insight": "意大利埃尼集团表示，正与委内瑞拉当局合作，帮助该国重振能源部门。与此同时，美国正努力加强对委内瑞…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywep5463688.shtml"
-    },
-    {
-      "id": "ff71b72ba9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-29 20:39",
-      "title": "硅谷银行破产后续：SVB FINANCIAL在与FDIC就17亿美元索赔案的纠纷中败诉",
-      "insight": "美国一位联邦法官裁定，硅谷银行的前母公司无权就其在联邦存款保险公司接管这家破产银行并保障其他储户…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-29/doc-inipywer9034658.shtml"
     }
   ],
-  "updateTime": "2026-08-30 11:03"
+  "updateTime": "2026-08-30 14:03"
 }
