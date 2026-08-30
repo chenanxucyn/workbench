@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "ff9e2832c0",
+      "source": "新浪基金",
+      "tag": "基金",
+      "time": "08-30 19:33",
+      "title": "化工蓄势待发！厄尔尼诺扰动粮食供给，农化需求有望爆发！AI投资进入半场休整，关注这两大主线！",
+      "insight": "周五（8月28日）市场盘整，A股主要指数悉数收绿，沪指震荡整理，创业板指走势较弱。沪深京三市成交…",
+      "link": "https://finance.sina.com.cn/money/fund/etf/2026-08-30/doc-iniqazcm2641404.shtml"
+    },
+    {
+      "id": "ffe6704688",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 18:37",
+      "title": "晶升股份公告！终止重大资产重组",
+      "insight": "来源：资本秘闻 A股又一例重大资产重组宣告终止。 8月30日晚间，晶升股份披露公告称，公司终止发…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqazcm2634015.shtml"
+    },
+    {
+      "id": "ffa1ff902b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 17:50",
+      "title": "SpaceX筹建涡轮叶片工厂，意在破解数据中心“电荒”难题",
+      "insight": "SpaceX首席执行官埃隆·马斯克（Elon Musk）正计划以一种外界曾认为“不可能”的方式，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqauvp2741032.shtml"
+    },
+    {
       "id": "ff224e7dfa",
       "source": "BUG",
       "tag": "财经热点",
@@ -152,34 +179,7 @@
       "title": "谷歌8月30日起在欧洲经济区停用“站点声誉滥用”手动降权",
       "insight": "Alphabet旗下谷歌于周五在搜索质量团队博客中宣布，自8月30日起，针对“站点声誉滥用”政策…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8237660.shtml"
-    },
-    {
-      "id": "ff8ebfee2a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:06",
-      "title": "冰岛或在一场势均力敌的公投中拒绝与欧盟重启入盟谈判",
-      "insight": "冰岛人有望在周六的公投中拒绝与欧盟重启入盟谈判。 据冰岛国家广播公司（RUV）公布的数据，在绝大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8236122.shtml"
-    },
-    {
-      "id": "ff3f4ae806",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 14:06",
-      "title": "伊朗总统：外贸萎缩25%至35%，霍尔木兹重开与美方履约挂钩",
-      "insight": "伊朗总统马苏德·佩泽希齐扬在周五晚间的国营电视台访谈中透露，受美国制裁与港口封锁影响，该国进出口…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8235768.shtml"
-    },
-    {
-      "id": "ffce73da1c",
-      "source": "券商中国",
-      "tag": "股市",
-      "time": "08-30 13:15",
-      "title": "突然，猛烈抛售！“大风暴”来袭！欧洲大国，发生了什么？",
-      "insight": "法国国债市场掀起“大风暴”。 近期，法国国债市场持续遭遇抛售潮，法国30年期国债收益率一度创出2…",
-      "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqakft2910526.shtml"
     }
   ],
-  "updateTime": "2026-08-30 17:03"
+  "updateTime": "2026-08-30 20:03"
 }
