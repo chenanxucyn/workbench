@@ -1,6 +1,177 @@
 {
   "news": [
     {
+      "id": "ff224e7dfa",
+      "source": "BUG",
+      "tag": "财经热点",
+      "time": "08-30 16:34",
+      "title": "“终于有希望提速了！” 电动自行车限速拟提至20km/h，九号、雅迪、小牛等回应",
+      "insight": "文|《BUG》栏目陈思竹 “终于有希望提速了。” 近日，道路交通安全法修订草案提请十四届全国人大…",
+      "link": "https://finance.sina.com.cn/tob/2026-08-30/doc-iniqauvr4982907.shtml"
+    },
+    {
+      "id": "ffa830368c",
+      "source": "BUG",
+      "tag": "财经热点",
+      "time": "08-30 16:29",
+      "title": "月薪1万到手仅5千？ 浪潮云强制推行“五五开”绩效，“利润差”凭什么让打工人买单？",
+      "insight": "文 丨 《BUG》栏目 周文猛 一部分浪潮云员工的薪资收入，正因公司最新推出的“月度考核新政”面…",
+      "link": "https://finance.sina.com.cn/tob/2026-08-30/doc-iniqauvp8206951.shtml"
+    },
+    {
+      "id": "ff36cdf58e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:57",
+      "title": "沃什强硬表态抗通胀后，陷入利率决策“两难困局”",
+      "insight": "美联储主席凯文·沃什在怀俄明州杰克逊霍尔年度政策研讨会上完成了他的首次亮相，并借此机会清晰阐述了…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5041901.shtml"
+    },
+    {
+      "id": "ff26ae5352",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:54",
+      "title": "华尔街将英伟达AI芯片租赁价格打造成新型期货市场",
+      "insight": "AI支出持续膨胀，但如何为其定价仍是棘手难题。英伟达本周用一份强劲财报给热潮添上注脚——尽管供应…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2811976.shtml"
+    },
+    {
+      "id": "ff96e069ce",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:49",
+      "title": "Iren获24亿美元债务融资采购英伟达芯片，用于加拿大数据中心园区扩建",
+      "insight": "蓝猫头鹰资本管理旗下的基金于周五（8月28日）宣布，牵头为澳大利亚上市公司Iren安排24亿美元…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8315649.shtml"
+    },
+    {
+      "id": "ffced2ddde",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:47",
+      "title": "Lambda获约10亿美元短期私募债购买英伟达芯片租给微软",
+      "insight": "人工智能云基础设施提供商Lambda于周五（8月28日）前后获得约10亿美元短期私募债务，资金将…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5036043.shtml"
+    },
+    {
+      "id": "ff24230b9c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:43",
+      "title": "芝加哥联储主席古尔斯比：通胀是当前首要问题",
+      "insight": "芝加哥联邦储备银行行长奥斯坦·古尔斯比周五（8月28日）在怀俄明州杰克逊霍尔年会现场接受采访时表…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8314043.shtml"
+    },
+    {
+      "id": "ff5fd4b666",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:33",
+      "title": "沃什讲话施压金价回落，九月加息概率显著上修",
+      "insight": "美联储主席凯文·沃什8月28日在杰克逊霍尔发表演讲后，黄金价格自讲话前高位明显回落。尽管不同报价…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8253072.shtml"
+    },
+    {
+      "id": "ff254dfd3b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:27",
+      "title": "沃什杰克逊霍尔演讲：将人工智能列为货币政策新变量",
+      "insight": "美联储主席凯文·沃什8月28日在杰克逊霍尔全球央行年会上发表任内首场主旨演讲，题为《In Our…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8308156.shtml"
+    },
+    {
+      "id": "ff8a83d970",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 14:24",
+      "title": "齐心集团中报“增收不增利”：毛利率较高点大幅回落",
+      "insight": "来源：证券之星 作为国内最早布局B2B政企大客户数字化集采领域的企业之一，齐心集团（002301…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvr4992749.shtml"
+    },
+    {
+      "id": "ffde5dd581",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 14:24",
+      "title": "煌上煌“双增”成绩单藏隐忧：现金净增加额暴跌逾七成",
+      "insight": "来源：证券之星 时隔五年，煌上煌（002695.SZ）再次交出了一份业绩双增的中报“成绩单”。公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvr4991245.shtml"
+    },
+    {
+      "id": "ff3937172d",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "08-30 14:24",
+      "title": "蓝思科技：H1净利近乎“腰斩”，实控人增持零进展却豪取数亿分红",
+      "insight": "来源：证券之星 2026年上半年，蓝思科技（300433.SZ）营收和净利润双双下滑，其归母净利…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqauvt8225216.shtml"
+    },
+    {
+      "id": "ff98d3438e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:22",
+      "title": "OpenAI终止向SpaceX旗下Cursor供应模型",
+      "insight": "OpenAI于8月28日在官网发布公告，称已通知SpaceX，计划终止向编程工具Cursor提供…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2800501.shtml"
+    },
+    {
+      "id": "ffb7b809e0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:19",
+      "title": "沃尔玛就联邦阿片类诉讼支付5000万美元和解",
+      "insight": "美国司法部与缉毒局8月28日宣布，沃尔玛同意支付5000万美元，了结关于其药房违反《受控物质法》…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5015968.shtml"
+    },
+    {
+      "id": "ff72120876",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:16",
+      "title": "国际清算银行总经理杰克逊霍尔讲话：稳定币尚难胜任大规模支付手段",
+      "insight": "国际清算银行总经理巴勃罗·埃尔南德斯·德科斯8月28日在杰克逊霍尔经济研讨会上发表题为《推进货币…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2797975.shtml"
+    },
+    {
+      "id": "ffec9534b0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:13",
+      "title": "苹果完成CEO交接：库克卸任转任执行董事长，特纳斯9月1日起接棒",
+      "insight": "苹果公司按4月20日董事会一致通过的继任安排，于本周完成首席执行官交接。蒂姆·库克在担任该职务近…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5011795.shtml"
+    },
+    {
+      "id": "ffb012f218",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:09",
+      "title": "谷歌8月30日起在欧洲经济区停用“站点声誉滥用”手动降权",
+      "insight": "Alphabet旗下谷歌于周五在搜索质量团队博客中宣布，自8月30日起，针对“站点声誉滥用”政策…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8237660.shtml"
+    },
+    {
+      "id": "ff8ebfee2a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:06",
+      "title": "冰岛或在一场势均力敌的公投中拒绝与欧盟重启入盟谈判",
+      "insight": "冰岛人有望在周六的公投中拒绝与欧盟重启入盟谈判。 据冰岛国家广播公司（RUV）公布的数据，在绝大…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8236122.shtml"
+    },
+    {
+      "id": "ff3f4ae806",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "08-30 14:06",
+      "title": "伊朗总统：外贸萎缩25%至35%，霍尔木兹重开与美方履约挂钩",
+      "insight": "伊朗总统马苏德·佩泽希齐扬在周五晚间的国营电视台访谈中透露，受美国制裁与港口封锁影响，该国进出口…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8235768.shtml"
+    },
+    {
       "id": "ffce73da1c",
       "source": "券商中国",
       "tag": "股市",
@@ -8,178 +179,7 @@
       "title": "突然，猛烈抛售！“大风暴”来袭！欧洲大国，发生了什么？",
       "insight": "法国国债市场掀起“大风暴”。 近期，法国国债市场持续遭遇抛售潮，法国30年期国债收益率一度创出2…",
       "link": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqakft2910526.shtml"
-    },
-    {
-      "id": "ff89505219",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "08-30 12:18",
-      "title": "光伏逆变器龙头，业绩承压",
-      "insight": "8月28日，光伏逆变器龙头阳光电源披露2026年半年度报告。报告期内，公司实现营收309.12亿…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqakft8295852.shtml"
-    },
-    {
-      "id": "ff3deed3a8",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "08-30 12:14",
-      "title": "*ST广糖，打响“保壳”第一枪",
-      "insight": "在被实施退市风险警示四个月后，*ST广糖打响“保壳”的第一枪。 8月29日，*ST广糖发布公告称…",
-      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2893131.shtml"
-    },
-    {
-      "id": "ff8db27dcf",
-      "source": "e公司",
-      "tag": "股市",
-      "time": "08-30 12:11",
-      "title": "投资12亿元！又一家A股公司，加码智能机器人！",
-      "insight": "中坚科技拟投资12亿元建设智能机器人产业化项目。 中坚科技（002779）日前公告，公司及控股子…",
-      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakfv5056766.shtml"
-    },
-    {
-      "id": "ff8b321bcf",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "08-30 11:51",
-      "title": "两大超级赛道，爆单！",
-      "insight": "AI算力需求自上而下传导至芯片产业链及上游铜材环节。 据央视财经报道，前7个月我国集成电路出口额…",
-      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2880120.shtml"
-    },
-    {
-      "id": "ffd46f8fd5",
-      "source": "21世纪经济报道",
-      "tag": "财经热点",
-      "time": "08-30 10:57",
-      "title": "2000亿巨头，半年暴赚超52亿",
-      "insight": "（来源：21记者 21世纪经济报道） 记者丨张赛男 编辑丨郑世凤，江佩霞，张明艳 8月28日晚间…",
-      "link": "https://finance.sina.com.cn/wm/2026-08-30/doc-iniqacxz8498367.shtml"
-    },
-    {
-      "id": "fff20a671e",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "08-30 09:27",
-      "title": "中选之后，“特朗普交易”要反噬了？",
-      "insight": "来源：华尔街见闻 过去一年，跟随特朗普政府入股上市公司的投资者赚得盆满钵满。但随着中期选举临近、…",
-      "link": "https://finance.sina.com.cn/world/2026-08-30/doc-iniqacxv8309576.shtml"
-    },
-    {
-      "id": "fffd71b312",
-      "source": "券商中国",
-      "tag": "财经",
-      "time": "08-30 09:00",
-      "title": "重大资产重组！半导体龙头，突发公告！下周一停牌",
-      "insight": "来源：券商中国 A股并购重组市场再添新案例。 昨日晚间（8月28日），A股半导体硅材料龙头有研硅…",
-      "link": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqacxv2956905.shtml"
-    },
-    {
-      "id": "ffd2408cb9",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "08-30 08:06",
-      "title": "阳光电源回应美国业务！",
-      "insight": "阳光电源8月28日在机构电话交流时表示，FCC（美国联邦通信委员会）禁令目前来看是针对未来新产品…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-inipzxrx3064337.shtml"
-    },
-    {
-      "id": "ff956dd5c4",
-      "source": "e公司",
-      "tag": "股市",
-      "time": "08-30 08:06",
-      "title": "这5家A股公司，上周获超200家机构调研！",
-      "insight": "随着2026年半年报集中披露，机构扎堆调研现象明显。 上周（8月24日—28日）共有536家A股…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-inipzxsc8568722.shtml"
-    },
-    {
-      "id": "ffd3669be6",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-30 07:58",
-      "title": "霍尔木兹海峡，有新消息",
-      "insight": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过…",
-      "link": "https://finance.sina.com.cn/world/2026-08-30/doc-inipzxrx8371543.shtml"
-    },
-    {
-      "id": "ffc2a2ee24",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "08-30 07:41",
-      "title": "上半年扎堆这些赛道！券商抱团背后的“阳谋”与“陷阱”？",
-      "insight": "华夏时报记者 王兆寰 北京报道 二季度末券商自营重仓股数据 2026年上市公司半年报披露接近尾声…",
-      "link": "https://finance.sina.com.cn/stock/2026-08-30/doc-inipzxrx3067780.shtml"
-    },
-    {
-      "id": "ffeefd70f1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 07:31",
-      "title": "据消息人士透露，美国中央情报局局长在访问莫斯科期间，试探性提议举行特朗普‑普京‑泽连斯基三方峰会",
-      "insight": "据两名了解内情的消息人士透露，美国中央情报局局长约翰・拉特克利夫本周早些时候秘密出访莫斯科，为推…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzxrx3054427.shtml"
-    },
-    {
-      "id": "ffd7ba1910",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "08-30 07:29",
-      "title": "集齐CPO、人形机器人、汽车电子等热门题材，002475，这只龙头股火了（附名单）",
-      "insight": "近一周机构调研个股有540多只，立讯精密调研机构数最多。 立讯精密（002475）有268家机构…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-inipzxrx8348347.shtml"
-    },
-    {
-      "id": "ff07722eed",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 07:25",
-      "title": "特朗普的委内瑞拉石油交易依赖一位实力雄厚但颇具争议的合作方",
-      "insight": "特朗普政府这项用于开发委内瑞拉庞大石油资源的协议十分特殊，美国政府将与一位影响力巨大、同时极具争…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzxrx8344358.shtml"
-    },
-    {
-      "id": "ff5e1a3566",
-      "source": "长安街知事",
-      "tag": "财经热点",
-      "time": "08-30 06:57",
-      "title": "交通运输部回应“建议取消ETC”",
-      "insight": "转自：长安街知事‍ 据交通运输部网站8月24日消息，近日，有网友就高速公路电子收费系统（简称“E…",
-      "link": "https://finance.sina.com.cn/wm/2026-08-30/doc-inipzxsc8551834.shtml"
-    },
-    {
-      "id": "ff5cc6929a",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-30 05:28",
-      "title": "伊朗副外长：未经协调任何船只无法通过霍尔木兹海峡",
-      "insight": "伊朗外交部副部长加里巴巴迪29日表示，霍尔木兹海峡目前完全关闭。任何船只如通过该海峡，均需要经过…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipztiz8426675.shtml"
-    },
-    {
-      "id": "ffe24f0b41",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "08-30 03:16",
-      "title": "伊朗副外长称不急于重新开放霍尔木兹海峡",
-      "insight": "当地时间8月29日，伊朗副外长加里巴巴迪表示，伊朗已与阿曼就霍尔木兹海峡通行安排达成谅解，但该谅…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-inipzpai8763233.shtml"
-    },
-    {
-      "id": "ff64d4723b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "08-30 02:41",
-      "title": "美联储杰克逊霍尔年度会议核心要点",
-      "insight": "堪萨斯城联储于怀俄明州杰克逊霍尔举办的年度经济研讨会于周六落幕，本次是凯文·沃什以美联储主席身份…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-inipzpai8746852.shtml"
-    },
-    {
-      "id": "ff47b6371c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "08-30 00:33",
-      "title": "Anthropic考虑允许股东在IPO中出售股份，摒弃SpaceX模式",
-      "insight": "Anthropic正拟定方案，计划在其重磅IPO中允许现有股东出售部分股票，同时考虑上市后执行比…",
-      "link": "https://finance.sina.com.cn/7x24/2026-08-30/doc-inipzhuf8535131.shtml"
     }
   ],
-  "updateTime": "2026-08-30 14:03"
+  "updateTime": "2026-08-30 17:03"
 }
