@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fffd7e5d99",
+      "id": "ff040b637c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-01 21:50",
-      "title": "奥特曼在儿童聊天机器人法案过关前致电加州州长，议会已通过、待签署",
-      "insight": "OpenAI首席执行官山姆·奥特曼在加州参议院第1119号法案（SB 1119）最后一轮谈判期间…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru8339828.shtml"
+      "time": "09-02 01:51",
+      "title": "伊朗将对美国空袭做出“更强烈”的回应",
+      "insight": "消息人士称，伊朗将对美国周二的打击进行报复，而且反击力度将“高出数倍”。美国在本地区的基地和利益…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4693853.shtml"
     },
     {
-      "id": "ff99c8c8ce",
+      "id": "ff642bf202",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-01 21:38",
-      "title": "中间派美联储理事巴尔：如果通胀没有任何缓和的迹象，那就加息",
-      "insight": "美联储理事迈克尔·巴尔周二（9月1日）在华盛顿出席由Prosperity Now与Collate…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru8333927.shtml"
+      "time": "09-02 01:44",
+      "title": "特朗普：袭击伊朗是对该国试图布雷的报复",
+      "insight": "美国总统特朗普表示，美军目前正对霍尔木兹海峡附近的伊朗目标实施打击，以“报复伊朗向海峡布设水雷的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefn1461678.shtml"
     },
     {
-      "id": "ffabf43a8d",
-      "source": "界面",
+      "id": "ffc778c5f6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 01:07",
+      "title": "欧洲央行管委：核心通胀放缓是好消息",
+      "insight": "欧洲央行管委、德国央行行长Joachim Nagel表示，欧元区8月核心通胀放缓是一个积极进展。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4667611.shtml"
+    },
+    {
+      "id": "ffa251d7f0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 01:06",
+      "title": "英债收益率升至数十年高位 致使政府财政缓冲空间减半",
+      "insight": "英国首相安迪·伯纳姆周二重返议会时，立即面对英国公共财政疲弱的严峻现实。全球政府债券遭遇抛售，使…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3319955.shtml"
+    },
+    {
+      "id": "ffde44e94e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 01:05",
+      "title": "美国对伊朗发动新一轮空袭　霍尔木兹海峡战云密布",
+      "insight": "美国对霍尔木兹海峡周边的伊朗目标发动新一轮打击，在双方都拒绝就这一关键水道让步之际，美伊双方战事…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq8146433.shtml"
+    },
+    {
+      "id": "ff16976268",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:59",
+      "title": "美军对伊朗境内革命卫队目标发动打击",
+      "insight": "美国中央司令部在社交媒体平台发文称，美军于美东时间周二中午12时开始打击伊朗境内的革命卫队目标。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3317555.shtml"
+    },
+    {
+      "id": "ff133e7ab7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:58",
+      "title": "欧洲债市：英国国债领跌 欧洲政府债券收窄跌幅",
+      "insight": "欧洲债券跟随美国国债延续跌势，其中英国国债表现落后。 欧洲政府债券一度短暂收复失地，但随后再度转…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4662572.shtml"
+    },
+    {
+      "id": "ffa21ec72d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:58",
+      "title": "欧洲股市月线五连涨后于9月首日收低 投资者等待新的催化剂",
+      "insight": "欧洲股市周二下跌，此前已连续五个月上涨。油价走高加剧通胀担忧，并推动全球债券收益率升至近20年来…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefn1434756.shtml"
+    },
+    {
+      "id": "ff78ede41b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:56",
+      "title": "美敦力上调业绩展望，逾7亿美元布局心脏技术与外科机器人",
+      "insight": "公司上调全年调整后每股收益指引至 5.94‑6.00 美元，将指引下限上调 4 美分 受各业务板…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq8143640.shtml"
+    },
+    {
+      "id": "ffbab5e3ce",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:53",
+      "title": "为何要关注债券收益率上行",
+      "insight": "作者：布莱恩・索齐 切莫忽视债券收益率的持续上行，否则将自担风险！ 从历史统计来看，9 月历来是…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3315411.shtml"
+    },
+    {
+      "id": "ffcbc587e3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:49",
+      "title": "美国7月劳动力市场几无变化，招聘与裁员规模均小幅回落",
+      "insight": "美国劳工部发布月度职位空缺与劳动力流动调查报告（JOLTS）显示，7 月职位空缺与招聘人数基本持…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3313922.shtml"
+    },
+    {
+      "id": "ff985c0de3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:22",
+      "title": "贝森特称强烈支持日本就严重低估的日元采取果断行动",
+      "insight": "美国财政部发布新闻稿称，部长贝森特周日会晤日本央行行长植田和男时，“对日本为应对日元严重低估采取…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxs3436149.shtml"
+    },
+    {
+      "id": "ff79d37f16",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:21",
+      "title": "马斯克近期调整了SpaceX数据中心领导团队",
+      "insight": "马斯克近几周对SpaceX负责建设数据中心的团队进行了重组，以SpaceX火箭和卫星互联网业务的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml"
+    },
+    {
+      "id": "ff2eaafce9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:19",
+      "title": "派珀‑桑德勒上调阿卡迈评级，算力业务增长有望提速",
+      "insight": "派珀‑桑德勒投行表示，阿卡迈（AKAM）将不得不加大资本开支，以满足算力业务的市场需求，但这些投…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxs8262158.shtml"
+    },
+    {
+      "id": "ff96c49fe2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:06",
+      "title": "美国银行副总裁在纽约时报广场刀袭案中遇难",
+      "insight": "美国银行一位副总裁周一在纽约时报广场遭持刀杀害，此次袭击还造成另一名受害者负伤及嫌凶本人丧生。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4764748.shtml"
+    },
+    {
+      "id": "ffa963c431",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 00:03",
+      "title": "资本市场预期美国第四季度经济表现向好",
+      "insight": "资本市场认为，在美国经济经历第三季度震荡之后，第四季度有望迎来强劲表现。 分析师写道：“就下半年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxq1534696.shtml"
+    },
+    {
+      "id": "ffadc504ef",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-01 23:56",
+      "title": "美国制造业增长速度放缓 但仍接近四年高位",
+      "insight": "美国8月制造业活动连续第八个月扩张，不过新订单和就业增长放缓，显示工厂需求有所降温。 美国供应管…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8255037.shtml"
+    },
+    {
+      "id": "ff73086e5f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-01 23:39",
+      "title": "加拿大总理卡尼：美国官员侮辱加拿大让谈判无法恢复",
+      "insight": "加拿大总理马克·卡尼在渥太华对记者表示，他仍认为加拿大和美国有可能达成一项“互利”的贸易协议，但…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxq1520918.shtml"
+    },
+    {
+      "id": "ff21a6dd02",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-01 23:35",
+      "title": "美股能源ETF刷新阶段新高",
+      "insight": "周二，多只能源行业交易所交易基金（ETF）创下新高。 道富能源板块精选 SPDR ETF（XLE…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxn4746343.shtml"
+    },
+    {
+      "id": "ffe5641d75",
+      "source": "滚动播报",
       "tag": "财经热点",
-      "time": "09-01 21:33",
-      "title": "国家电网向西藏吉隆县泥石流灾区捐赠3000万元",
-      "insight": "9月1日，国家电网公司向西藏吉隆县泥石流灾区捐赠3000万元，支持西藏吉隆抗灾救灾和灾后重建工作…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-01/doc-iniqitrq4797607.shtml"
-    },
-    {
-      "id": "ffb44b305c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 21:30",
-      "title": "开盘：纳指跌1.32% 全球债券收益率上行",
-      "insight": "9 月首个交易日，美股主要股指走低，科技股普跌。通胀忧虑与高企油价推高美国及海外债券收益率，市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrq4793647.shtml"
-    },
-    {
-      "id": "ff8f97651e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 21:28",
-      "title": "郭明錤：英伟达已重启Rubin CPX项目 将于2027年第一季度开始生产",
-      "insight": "知名分析师郭明錤发文表示，就在市场已经开始相信Rubin CPX已被英伟达从产品路线图中剔除之际…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrq4790510.shtml"
-    },
-    {
-      "id": "ff46d9ceef",
-      "source": "中国证券网",
-      "tag": "股市",
-      "time": "09-01 21:24",
-      "title": "高盛、大摩，减持中际旭创H股",
-      "insight": "9月1日，港交所披露，高盛对中际旭创H股的多头持仓比例于2026年8月27日从10.1%降至9.…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-01/doc-iniqitrs1562261.shtml"
-    },
-    {
-      "id": "ffdd3383bb",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "09-01 21:10",
-      "title": "北交所设立五周年：专精特新“小巨人”加速成长",
-      "insight": "最新披露的中报数据显示，今年上半年，北交所公司整体盈利面超八成。 9月2日，北交所迎来宣布设立五…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-01/doc-iniqitrs1552749.shtml"
-    },
-    {
-      "id": "fffe2824f4",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "09-01 21:06",
-      "title": "四连板、七连板，两大牛股提示风险",
-      "insight": "四连板牛股新赛股份（600540）今日晚间发布股票交易异常波动公告。公告显示，公司股票自2026…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-01/doc-iniqitrq4779101.shtml"
-    },
-    {
-      "id": "ff374e9ec4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 21:05",
-      "title": "欧央行管委雷恩：须为中东「消耗战」把通胀顶在高位做准备",
-      "insight": "芬兰央行行长、欧央行管理委员会委员奥利·雷恩9月1日表示，欧央行必须为中东可能演变为旷日持久的“…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrq4774000.shtml"
-    },
-    {
-      "id": "ff61bb8797",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 21:04",
-      "title": "不再置身事外 劳氏CEO牵头组建技术工人联盟",
-      "insight": "作者：艾伦・默里 当全社会都在焦虑人工智能会夺走大量工作岗位时，劳氏（Lowe’s）首席执行官马…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrs1545560.shtml"
-    },
-    {
-      "id": "ffbedda5b1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 21:00",
-      "title": "Jersey Mike’s赢得三明治大战，但仍需争取Z世代消费者",
-      "insight": "该连锁品牌的核心客群是高收入年长群体，这构成它的竞争优势。但想要继续增长，还必须俘获年轻消费者J…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrq4769658.shtml"
-    },
-    {
-      "id": "ffc7a3ca79",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:56",
-      "title": "欧洲央行管委雷恩：我们承受不起欧洲出现购买力危机",
-      "insight": "欧洲央行一位高层政策官员警告，欧洲央行必须为中东地区一场旷日持久的消耗战做好准备，该局势或将推高…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru8317248.shtml"
-    },
-    {
-      "id": "ff487df1d9",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "09-01 20:54",
-      "title": "9月资金面展望：有望维持宽松，央行或仍精准投放呵护流动性",
-      "insight": "9月资金面将迎来政府债净供给放量、季末考核、信贷冲量等搅动因素，多家机构预计，央行将继续精准投放…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqitru8316742.shtml"
-    },
-    {
-      "id": "ff300c07a1",
-      "source": "券商中国",
-      "tag": "股市",
-      "time": "09-01 20:43",
-      "title": "今夜！多只大牛股，突发公告！“存在快速下跌风险”",
-      "insight": "多只牛股提示风险！ 今日晚间（9月1日），6连板大牛股万向德农在上交所公告，公司股价短期连续上涨…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-01/doc-iniqitru3485141.shtml"
-    },
-    {
-      "id": "fff34f227b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:43",
-      "title": "美国股指期货温和走低 标普500指数面临季节性压力",
-      "insight": "美国股指期货9月开局走弱，油价上涨推动全球债券收益率走高，并进一步强化了市场对多国央行本月加息的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrs1526777.shtml"
-    },
-    {
-      "id": "ffd32b8d66",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-01 20:35",
-      "title": "8月翻倍大牛股，提示风险！",
-      "insight": "来源：中国基金报 中国基金报记者 刘墨 在8月仅有的6只翻倍牛股里，海鸥股份是其中一只。 从7月…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-01/doc-iniqitrp7975447.shtml"
-    },
-    {
-      "id": "ff4df889a8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:31",
-      "title": "Kalshi对前众议员桑托斯开出平台首份终身禁令：罚款7.1万美元",
-      "insight": "预测市场平台Kalshi于8月31日公布纪律处分：前纽约州共和党众议员乔治·桑托斯被永久禁止直接…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrq4743127.shtml"
-    },
-    {
-      "id": "ff8817285d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:30",
-      "title": "盘前：全球债市突然“失控” 纳指期货跌0.93%",
-      "insight": "9月伊始，全球股市表现疲弱。油价上涨推动全球债券收益率进一步走高，同时强化了市场对主要央行本月加…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrs1518860.shtml"
-    },
-    {
-      "id": "ff968c1769",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:26",
-      "title": "伊朗称当前形势不允许讨论重返与美国的谅解备忘录",
-      "insight": "伊朗外交部发言人Esmail Baghaei在德黑兰举行的记者会上表示，当前形势不允许讨论重返此…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitru3475349.shtml"
-    },
-    {
-      "id": "ff18d75ffe",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-01 20:25",
-      "title": "油轮在霍尔木兹出峡航道遭三枚不明弹体击中，事发阿曼哈萨布以东17海里",
-      "insight": "英国海事贸易行动中心（UKMTO）于8月31日发布第124-26号警报称，一艘正在完成霍尔木兹海…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqitrs1511701.shtml"
+      "time": "09-01 23:35",
+      "title": "超强厄尔尼诺预期，“点燃”种业板块",
+      "insight": "来源：财联社 超强厄尔尼诺预期持续升温，A股农业板块今日再次全线爆发，其中种业概念最为突出。 截…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqixxn4748299.shtml"
     }
   ],
-  "updateTime": "2026-09-01 21:50"
+  "updateTime": "2026-09-02 02:05"
 }
