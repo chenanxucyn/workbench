@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff59daf3f0",
+      "id": "ffdf3ae77c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 10:19",
+      "title": "华泰期货：印尼维持RKAB逐年审核，镍不锈钢小幅分化",
+      "insight": "来源：华泰期货 作者： 师橙 镍品种 市场分析 2026-09-01日沪镍主力合约开于12700…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzma1317273.shtml"
+    },
+    {
+      "id": "ff8cd0a4c3",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 06:46",
-      "title": "美国军方完成对伊朗的一系列打击",
-      "insight": "美军中央司令部在X上发帖称，所属部队“9月1日成功完成了一波针对伊朗军事目标的打击”。",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqvk3163472.shtml"
+      "tag": "美股",
+      "time": "09-02 10:19",
+      "title": "OpenAI称Astra AI模型是其首个跨越“关键”网络安全能力的模型",
+      "insight": "OpenAI于周二表示，其即将推出的人工智能模型Astra是首个达到其“关键”网络安全能力阈值的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1317218.shtml"
     },
     {
-      "id": "ffa971617f",
+      "id": "ffdd7a50b6",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 10:16",
+      "title": "华泰期货：消息驱动情绪回暖，多晶硅反弹上涨",
+      "insight": "来源：华泰期货 作者： 师橙 工业硅： 市场分析 2026-09-01，工业硅期货价格震荡下跌，…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzma1314964.shtml"
+    },
+    {
+      "id": "ffc5d5eb20",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-02 10:16",
+      "title": "再鼎医药早盘涨逾6% DLL3 ADC启动一线SCLC全球三期临床",
+      "insight": "再鼎医药（09688）早盘涨逾6%。截至发稿，股价上涨5.97%，现报20.60港元，成交额59…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkzme7832199.shtml"
+    },
+    {
+      "id": "ffd393a32b",
+      "source": "市场资讯",
+      "tag": "外汇",
+      "time": "09-02 10:15",
+      "title": "华泰期货：债市利率再度走高 风险资产有所承压",
+      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-01，沪铜主力合约…",
+      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-09-02/doc-iniqkzme7831743.shtml"
+    },
+    {
+      "id": "ff0d2d0b96",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-02 10:13",
+      "title": "歌礼制药-B早盘涨超8% ASC30用于长期体重管理的全球III期临床项目完成首例受试者给药",
+      "insight": "歌礼制药-B（01672）早盘涨超8%，截至发稿，股价上涨8.07%，现报10.31港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkzma1311603.shtml"
+    },
+    {
+      "id": "ffd48f3d9a",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 10:13",
+      "title": "华泰期货：液化天然气补库压力催涨，市场进入高位波动区间",
+      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1.TTF10月合约报得73.640欧元/兆…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzme7830843.shtml"
+    },
+    {
+      "id": "ff0b9ab1be",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 10:11",
+      "title": "华泰期货：美伊发起新一轮打击，油价大幅飙升",
+      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 WTI 10月原油期货收涨4.46美元…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzky4536771.shtml"
+    },
+    {
+      "id": "ff4bcc5ce2",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-02 10:08",
+      "title": "科创板ST清越收行政处罚事先告知书：发行文件与定期报告双造假，投资者索赔通道开启",
+      "insight": "公司是一家致力于物联网终端显示整体解决方案的供应商。秉承产业报国的梦想，清越科技专注创新十余载，…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-02/doc-iniqkzma1305105.shtml"
+    },
+    {
+      "id": "ff63a82df6",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 06:45",
-      "title": "9月2日美股成交前20：苹果换帅逆势收涨 戴尔财报超预期盘后大涨",
-      "insight": "周二美股成交额第2名美光收跌2.64%，成交260.59亿美元。 第4名英伟达收跌1.51%，成…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqvk7989981.shtml"
+      "tag": "美股",
+      "time": "09-02 09:55",
+      "title": "日本央行鹰派官员高田创呼吁灵活地加息 应对通胀上行风险",
+      "insight": "日本央行最鹰派的审议委员之一高田创重申，应灵活地进行加息操作，应对通胀上行风险。 高田创周三在北…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1284893.shtml"
     },
     {
-      "id": "ff26bb49e9",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 06:37",
-      "title": "美军称完成一波针对伊朗军事目标的打击行动",
-      "insight": "当地时间9月1日，美军中央司令部称，中央司令部部队于9月1日成功完成了一波针对伊朗军事目标的打击…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqvk7989594.shtml"
-    },
-    {
-      "id": "fff17608ea",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 06:10",
-      "title": "科威特多个美军基地发生爆炸",
-      "insight": "当地时间9月2日凌晨，科威特军方称遭伊朗袭击，防空系统正在拦截敌对空中目标。稍晚总台记者获悉，科…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqvk7985030.shtml"
-    },
-    {
-      "id": "ff9161362f",
+      "id": "ffe1e97e06",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 06:03",
-      "title": "大宗商品综述：油价攀升 锌价上涨 金价下挫",
-      "insight": "受美伊敌对态势升级影响，美国原油价格自7月下旬以来首次突破每桶90美元。锌价升至逾四年来最高水平…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqvh1333296.shtml"
+      "tag": "美股",
+      "time": "09-02 09:48",
+      "title": "澳大利亚第二季度经济意外加速增长 提振澳央行加息预期",
+      "insight": "澳大利亚第二季度经济意外加速增长，在通胀居高不下之际，进一步强化了澳大利亚央行再次加息的理由。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1275149.shtml"
     },
     {
-      "id": "ff02bdf072",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 06:02",
-      "title": "三天内第二轮袭击 特朗普威胁伊朗终极打击蓄势待发 伊方誓言报复",
-      "insight": "美东时间1日，美军对伊朗境内的伊朗伊斯兰革命卫队目标发动新一轮打击，伊朗南部沿海多地遭袭。 袭击…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqve4562975.shtml"
+      "id": "ff68180a15",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:40",
+      "title": "光大期货：9月2日软商品日报",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 现货报价方面…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch7940028.shtml"
     },
     {
-      "id": "ff4a71b507",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:59",
-      "title": "9月2日外盘头条：美军空袭伊朗 伊朗誓言导弹无人机报复 戴尔Q2营收470亿美元超预期 美国制造业增长速度放缓",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美伊冲突再升级：美军空袭伊朗，伊朗誓言导弹无…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4558918.shtml"
+      "id": "ffac636228",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:40",
+      "title": "光大期货：9月2日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周二，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch7939670.shtml"
     },
     {
-      "id": "ff6b4ffede",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 05:52",
-      "title": "视频丨美军或为防伊朗转移“黑鹰”直升机",
-      "insight": "近日有消息称，在约旦某处美军基地附近拍到美军用拖车装载两架“黑鹰”直升机驶离的画面。有分析指出，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqvk3147668.shtml"
+      "id": "ff76bf5f78",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:39",
+      "title": "光大期货：9月2日能源化工日报",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周二油价重心…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1391150.shtml"
     },
     {
-      "id": "ff193a3d37",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:45",
-      "title": "美伊冲突再升级：美军空袭伊朗，伊朗誓言导弹无人机报复",
-      "insight": "周二，美伊双方展开新一轮攻击，美军打击了霍尔木兹海峡周围的伊朗目标，德黑兰则表示已发起报复行动，…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqvk3142418.shtml"
+      "id": "ff0072460b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-02 09:39",
+      "title": "新意网集团绩后高开逾16% 全年股东应占溢利同比增加16.96%",
+      "insight": "新意网集团（01686）绩后高开逾16%，截至发稿，股价上涨16.16%，现报5.68港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvch7939272.shtml"
     },
     {
-      "id": "ff7b87d23d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:38",
-      "title": "美国债市：油价飙升后美债扩大跌幅 短债领跌",
-      "insight": "美国国债在尾盘扩大跌幅，短期国债领跌，收益率曲线趋平，此前油价攀升，自7月下旬以来首次突破每桶9…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4547121.shtml"
+      "id": "ffa060ef41",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-02 09:36",
+      "title": "山东墨龙早盘高开逾13% 国际油价飙升逾5%",
+      "insight": "山东墨龙（00568）早盘高开逾13%。截至发稿，股价上涨9.08%，现报5.11港元，成交额1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvca4614853.shtml"
     },
     {
-      "id": "ff606e6574",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:36",
-      "title": "OpenAI称Astra AI模型首度超越其“关键”网络安全能力阈值",
-      "insight": "OpenAI周二表示，其即将推出的人工智能模型Astra是首个超越其“关键”网络安全能力阈值的产…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkqve4546371.shtml"
+      "id": "ff739f975e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:31",
+      "title": "新湖化工专题：美伊冲突常态化，化工品库存矛盾持续发酵",
+      "insight": "来源：湖畔新言 目前判断化工品价格方向最重要的前提是美伊冲突的进程。我们认为，美伊冲突将长期化，…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch3109859.shtml"
     },
     {
-      "id": "ff904eb7ec",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 05:21",
-      "title": "约旦称遭伊朗方向导弹袭击 暂无人员伤亡报告",
-      "insight": "约旦武装部队当地时间9月2日凌晨发表声明说，过去数小时内，约旦遭到来自伊朗方向的导弹袭击。约旦武…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqvk3140503.shtml"
+      "id": "ff9a451694",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:31",
+      "title": "光大期货：9月2日矿钢煤焦日报",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1378494.shtml"
     },
     {
-      "id": "ffe2ea4810",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:13",
-      "title": "美国股市：纳斯达克100指数创两周来最大跌幅 美伊冲突打击市场情绪",
-      "insight": "纳斯达克100指数创下两周来最大单日跌幅，投资者评估债券收益率上升和油价上涨对美联储政策前景的影…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn3264850.shtml"
+      "id": "ff0a8bea0e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-02 09:30",
+      "title": "光大期货：9月2日金融日报",
+      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1377597.shtml"
     },
     {
-      "id": "ff79974196",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:12",
-      "title": "IRIB：伊朗称袭击了位于约旦的美军基地并造成人员伤亡",
-      "insight": "伊朗伊斯兰共和国广播电视台（IRIB）援引伊斯兰革命卫队声明报道称，革命卫队对位于约旦的美军军事…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1438243.shtml"
-    },
-    {
-      "id": "ff0ed1b40c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 05:11",
-      "title": "9月2日热门中概股多数下跌，阿里巴巴跌1%，贝壳涨超3%",
-      "insight": "9月2日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.34%。 上涨个股（按市值从高…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8091172.shtml"
-    },
-    {
-      "id": "ffa58e0536",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 04:57",
-      "title": "伊朗多地再次传出爆炸声 机场和能源枢纽遭袭",
-      "insight": "转自：央视新闻△伊朗格什姆岛（资料图） 据总台记者消息，当地时间9月1日21时28分左右，伊朗南…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkkph4660649.shtml"
-    },
-    {
-      "id": "ffca773100",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-02 04:53",
-      "title": "伊朗：已用重型弹道导弹袭击约旦美军营地",
-      "insight": "△伊朗伊斯兰革命卫队发布的行动画面当地时间9月2日凌晨，伊朗伊斯兰革命卫队发布声明称，已用导弹袭…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkqvk3135952.shtml"
-    },
-    {
-      "id": "ffad33ac39",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 04:45",
-      "title": "Anthropic将推出人工智能模型Fable新版本 收费更便宜而编程能力更强",
-      "insight": "Anthropic PBC将发布其强大人工智能模型Fable的新版本。公司称，Fable 5.1…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1423231.shtml"
-    },
-    {
-      "id": "ff2d71518d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 04:44",
-      "title": "美国国会表决通过临时拨款法案 联邦政府得以避免停摆",
-      "insight": "美国国会通过一项临时拨款法案，特朗普政府得以避免在10月1日陷入停摆，暂时绕开了过去一年多次导致…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4650187.shtml"
-    },
-    {
-      "id": "ff8e69c468",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-02 04:34",
-      "title": "原油：WTI自7月下旬以来首次突破90美元 美伊敌对态势升级",
-      "insight": "美国原油价格自7月下旬以来首次突破每桶90美元，美国对伊朗发动的新一轮打击令市场担忧霍尔木兹海峡…",
-      "link": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4645627.shtml"
+      "id": "ff7db3f215",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-02 09:30",
+      "title": "先声药业早盘高开近5% 与罗氏就三特异抗体SIM0660达成15.3亿美元授权合作",
+      "insight": "先声药业（02096）早盘高开近5%，截至发稿，股价上涨4.82%，现报11.52港元，成交额1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvce1377186.shtml"
     }
   ],
-  "updateTime": "2026-09-02 06:55"
+  "updateTime": "2026-09-02 10:19"
 }
