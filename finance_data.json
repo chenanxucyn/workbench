@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffdf3ae77c",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 10:19",
-      "title": "华泰期货：印尼维持RKAB逐年审核，镍不锈钢小幅分化",
-      "insight": "来源：华泰期货 作者： 师橙 镍品种 市场分析 2026-09-01日沪镍主力合约开于12700…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzma1317273.shtml"
-    },
-    {
-      "id": "ff8cd0a4c3",
+      "id": "ff1a33b3a2",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-02 10:19",
-      "title": "OpenAI称Astra AI模型是其首个跨越“关键”网络安全能力的模型",
-      "insight": "OpenAI于周二表示，其即将推出的人工智能模型Astra是首个达到其“关键”网络安全能力阈值的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1317218.shtml"
+      "time": "09-02 15:29",
+      "title": "博通将于9月2日盘后发布2026财年第三季度业绩，市场聚焦AI收入能否再超预期及2027财年千亿美元目标是否上修",
+      "insight": "博通定于美东时间9月2日美股收盘后公布截至7月底的2026财年第三财季业绩，随后于东部时间下午5…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyw1348610.shtml"
     },
     {
-      "id": "ffdd7a50b6",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 10:16",
-      "title": "华泰期货：消息驱动情绪回暖，多晶硅反弹上涨",
-      "insight": "来源：华泰期货 作者： 师橙 工业硅： 市场分析 2026-09-01，工业硅期货价格震荡下跌，…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzma1314964.shtml"
-    },
-    {
-      "id": "ffc5d5eb20",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-02 10:16",
-      "title": "再鼎医药早盘涨逾6% DLL3 ADC启动一线SCLC全球三期临床",
-      "insight": "再鼎医药（09688）早盘涨逾6%。截至发稿，股价上涨5.97%，现报20.60港元，成交额59…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkzme7832199.shtml"
-    },
-    {
-      "id": "ffd393a32b",
-      "source": "市场资讯",
-      "tag": "外汇",
-      "time": "09-02 10:15",
-      "title": "华泰期货：债市利率再度走高 风险资产有所承压",
-      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-01，沪铜主力合约…",
-      "link": "https://finance.sina.com.cn/money/forex/whqqscgd/2026-09-02/doc-iniqkzme7831743.shtml"
-    },
-    {
-      "id": "ff0d2d0b96",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-02 10:13",
-      "title": "歌礼制药-B早盘涨超8% ASC30用于长期体重管理的全球III期临床项目完成首例受试者给药",
-      "insight": "歌礼制药-B（01672）早盘涨超8%，截至发稿，股价上涨8.07%，现报10.31港元，成交额…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkzma1311603.shtml"
-    },
-    {
-      "id": "ffd48f3d9a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 10:13",
-      "title": "华泰期货：液化天然气补库压力催涨，市场进入高位波动区间",
-      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1.TTF10月合约报得73.640欧元/兆…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzme7830843.shtml"
-    },
-    {
-      "id": "ff0b9ab1be",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 10:11",
-      "title": "华泰期货：美伊发起新一轮打击，油价大幅飙升",
-      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 WTI 10月原油期货收涨4.46美元…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkzky4536771.shtml"
-    },
-    {
-      "id": "ff4bcc5ce2",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-02 10:08",
-      "title": "科创板ST清越收行政处罚事先告知书：发行文件与定期报告双造假，投资者索赔通道开启",
-      "insight": "公司是一家致力于物联网终端显示整体解决方案的供应商。秉承产业报国的梦想，清越科技专注创新十余载，…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-02/doc-iniqkzma1305105.shtml"
-    },
-    {
-      "id": "ff63a82df6",
+      "id": "ff26cccfe7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-02 09:55",
-      "title": "日本央行鹰派官员高田创呼吁灵活地加息 应对通胀上行风险",
-      "insight": "日本央行最鹰派的审议委员之一高田创重申，应灵活地进行加息操作，应对通胀上行风险。 高田创周三在北…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1284893.shtml"
+      "time": "09-02 15:26",
+      "title": "欧洲天然气价格创年内新高 美伊冲突再度升级推涨油价",
+      "insight": "9月2日，欧洲天然气价格突破年内新高，国际油价触及每桶97美元的五周高点。美国对伊朗发动新一轮军…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyw1346165.shtml"
     },
     {
-      "id": "ffe1e97e06",
+      "id": "ff5402874c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-02 09:48",
-      "title": "澳大利亚第二季度经济意外加速增长 提振澳央行加息预期",
-      "insight": "澳大利亚第二季度经济意外加速增长，在通胀居高不下之际，进一步强化了澳大利亚央行再次加息的理由。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkzma1275149.shtml"
+      "time": "09-02 15:22",
+      "title": "重组咨询公司Interpath拟收购美国企业 拓展全球业务版图",
+      "insight": "私募股权支持的重组咨询公司Interpath正寻求收购一家美国专业服务公司，以此作为拓展全球业务…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyu4568990.shtml"
     },
     {
-      "id": "ff68180a15",
+      "id": "ffee3fac32",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 15:20",
+      "title": "主要经济体国债收益率升至数十年高位，油价与加息预期同步抬升",
+      "insight": "9月1日至2日亚洲早盘，全球主要经济体国债遭遇同步抛售。日本十年期国债收益率一度站上3%，为19…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyu4566220.shtml"
+    },
+    {
+      "id": "ff6af4448d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 15:15",
+      "title": "OpenAI将Astra模型列为“关键”网络安全风险，收紧使用限制",
+      "insight": "OpenAI于当地时间9月1日在官方博客《通往Astra》中宣布，即将推出的模型Astra已正式…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyu4560437.shtml"
+    },
+    {
+      "id": "ff4aee00aa",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 15:14",
+      "title": "澳大利亚二季度GDP环比增0.4%、同比增2.1%，双双高于预期",
+      "insight": "澳大利亚统计局于9月2日发布2026年6月季度国民账户数据。经季节调整后，链式数量口径下，当季国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyw1331697.shtml"
+    },
+    {
+      "id": "ff02b469bd",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-02 09:40",
-      "title": "光大期货：9月2日软商品日报",
-      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 现货报价方面…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch7940028.shtml"
+      "time": "09-02 15:05",
+      "title": "收评|国内期货主力合约跌多涨少 SC原油涨近9%",
+      "insight": "2026年9月2日，国内期货主力合约跌多涨少，钯跌超4%，沪银跌近4%，碳酸锂、铂跌超3%，沪锡…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqmmyy2887389.shtml"
     },
     {
-      "id": "ffac636228",
+      "id": "ff7014bc77",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 15:04",
+      "title": "特朗普在白宫会见炼油商高管，要求扩大汽柴油产能以压低泵价",
+      "insight": "美国总统特朗普当地时间9月1日在白宫内阁厅召开闭门会议，约见马拉松石油、瓦莱罗能源、PBF能源、…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy2886821.shtml"
+    },
+    {
+      "id": "ff435cce72",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 15:00",
+      "title": "日经225指数收盘下跌2.9% 市场遭遇全面抛售",
+      "insight": "日经225指数收盘下跌2.9%，报64325.64点，市场遭遇全面抛售。 东京短资（TOKYO …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy7711800.shtml"
+    },
+    {
+      "id": "ffc6a36040",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:58",
+      "title": "韩国综合股价指数收盘下跌4.0% 终结两连涨",
+      "insight": "韩国综合股价指数终结两连涨，半导体、汽车股下挫。韩国综合股价指数收盘下跌4.0%，报6562.7…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy7710640.shtml"
+    },
+    {
+      "id": "ff5f585a40",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:53",
+      "title": "戴尔第二财季营收470亿美元创纪录，全年指引上调250亿美元至1920亿美元",
+      "insight": "戴尔科技于当地时间9月1日美股收盘后公布了截至7月31日的2027财年第二财季业绩。当季营收达4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy7707719.shtml"
+    },
+    {
+      "id": "ff42eee1e6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:44",
+      "title": "马斯克预计未来十年将有10亿台人形机器人投入使用",
+      "insight": "当地时间周二，特斯拉与SpaceX首席执行官埃隆·马斯克在一场G20创新活动线上发言时感叹，全球…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy2876326.shtml"
+    },
+    {
+      "id": "ff6fe35dc9",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-02 09:40",
-      "title": "光大期货：9月2日农产品日报",
-      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周二，CB…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch7939670.shtml"
+      "time": "09-02 14:38",
+      "title": "炒期货选什么APP？2026期货APP大排名！",
+      "insight": "做基本面期货交易，最看重资讯时效性、内外盘行情联动，今天从基本面交易者的角度，逐个测评四款主流期…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqmmyy2874023.shtml"
     },
     {
-      "id": "ff76bf5f78",
+      "id": "ff88b4e854",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-02 09:39",
-      "title": "光大期货：9月2日能源化工日报",
-      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周二油价重心…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1391150.shtml"
+      "time": "09-02 14:36",
+      "title": "2026 期货 APP 实测测评，综合全能首选已出炉",
+      "insight": "对于做期货的投资者来说，一款靠谱的软件，直接决定了你获取消息、盯盘看行情的效率。今天就逐个测评几…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqmmyy7699765.shtml"
     },
     {
-      "id": "ff0072460b",
+      "id": "ff2263ba42",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:35",
+      "title": "内格尔暗示欧洲央行下周将加息 但未给出更远期的指引",
+      "insight": "欧洲央行管委内格尔暗示该行下周将加息，但对于之后的政策路径保持谨慎。 “市场判断我们将在9月会议…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyw1290504.shtml"
+    },
+    {
+      "id": "ff0218f93b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:34",
+      "title": "新西兰联储上调利率至2.75%，称渐进收紧可降低日后更大幅度加息的风险",
+      "insight": "新西兰储备银行货币政策委员会于9月2日在惠灵顿一致决定，将官方现金利率上调25个基点至2.75%…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyy7698449.shtml"
+    },
+    {
+      "id": "ff67bf21e0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:31",
+      "title": "Hut 8得州电力设施纳入Anthropic 350亿美元AI算力交易",
+      "insight": "比特币矿企Hut 8位于得克萨斯州纽埃西斯县的Beacon Point园区，已间接参与AI巨头A…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyw1286902.shtml"
+    },
+    {
+      "id": "ff74ee8fdd",
+      "source": "每日经济新闻",
+      "tag": "财经热点",
+      "time": "09-02 14:29",
+      "title": "莫迪再次呼吁：印度人非必要不要买黄金，不要出国旅游、海外结婚",
+      "insight": "据财联社报道，印度总理莫迪再次呼吁印度民众，除非确有必要，否则不要购买黄金，并推迟非必要的海外旅…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqmmyw1289650.shtml"
+    },
+    {
+      "id": "ff39cc8198",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-02 14:26",
+      "title": "特朗普前通讯主管斯卡拉穆奇：贝森特和卢特尼克都染上了“波多马克热”",
+      "insight": "曾在特朗普第一任总统任期内短暂担任其通讯主管的高盛老兵、SkyBridge Capital创始人…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqmmyu4510839.shtml"
+    },
+    {
+      "id": "ff288293a7",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-02 09:39",
-      "title": "新意网集团绩后高开逾16% 全年股东应占溢利同比增加16.96%",
-      "insight": "新意网集团（01686）绩后高开逾16%，截至发稿，股价上涨16.16%，现报5.68港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvch7939272.shtml"
-    },
-    {
-      "id": "ffa060ef41",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-02 09:36",
-      "title": "山东墨龙早盘高开逾13% 国际油价飙升逾5%",
-      "insight": "山东墨龙（00568）早盘高开逾13%。截至发稿，股价上涨9.08%，现报5.11港元，成交额1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvca4614853.shtml"
-    },
-    {
-      "id": "ff739f975e",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 09:31",
-      "title": "新湖化工专题：美伊冲突常态化，化工品库存矛盾持续发酵",
-      "insight": "来源：湖畔新言 目前判断化工品价格方向最重要的前提是美伊冲突的进程。我们认为，美伊冲突将长期化，…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch3109859.shtml"
-    },
-    {
-      "id": "ff9a451694",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 09:31",
-      "title": "光大期货：9月2日矿钢煤焦日报",
-      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1378494.shtml"
-    },
-    {
-      "id": "ff0a8bea0e",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-02 09:30",
-      "title": "光大期货：9月2日金融日报",
-      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvce1377597.shtml"
-    },
-    {
-      "id": "ff7db3f215",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-02 09:30",
-      "title": "先声药业早盘高开近5% 与罗氏就三特异抗体SIM0660达成15.3亿美元授权合作",
-      "insight": "先声药业（02096）早盘高开近5%，截至发稿，股价上涨4.82%，现报11.52港元，成交额1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqkvce1377186.shtml"
+      "time": "09-02 14:26",
+      "title": "凯莱英午后涨逾5% 上半年新兴业务毛利率显著提升",
+      "insight": "凯莱英（06821）午后涨逾5%，截至发稿，股价上涨4.88%，现报129港元，成交额1.50亿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-02/doc-iniqmmyu4510573.shtml"
     }
   ],
-  "updateTime": "2026-09-02 10:19"
+  "updateTime": "2026-09-02 15:29"
 }
