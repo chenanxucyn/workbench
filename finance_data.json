@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff33f486ae",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 06:54",
-      "title": "摩根大通向Jane Street减少发放用于债券交易的贷款",
-      "insight": "随着Jane Street进军债券市场与摩根大通形成直接竞争，摩根大通去年大幅削减了向前者发放的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnyah7153633.shtml"
+      "id": "ffdd9b0d61",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 10:12",
+      "title": "美债收益率回落叠加美元走弱，黄金重返4400美元附近，等待非农数据落地",
+      "insight": "文章来源：汇通财经 国际金价周四亚洲早盘从接近一个月低位反弹，现货黄金重新回到4400美元附近。…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-03/doc-iniqpeke7117645.shtml"
     },
     {
-      "id": "ffcb9170bf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 06:54",
-      "title": "博通预计AI芯片营收未来两年飙升 股价盘后止跌企稳",
-      "insight": "博通预计未来两年人工智能（AI）芯片营收将大幅增长，重新提振了投资者对于这家半导体巨头挑战英伟达…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnyah2326615.shtml"
+      "id": "ff18b28e40",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 10:06",
+      "title": "华泰期货：美经济温和增长 地缘不确定性仍在",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 美联储褐皮书显示，自7月初以来，美国经济活动温和增长。1…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke2287303.shtml"
     },
     {
-      "id": "ffd2f1b5a9",
+      "id": "ff1183e22c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 06:31",
-      "title": "大宗商品综述：油价高位企稳 铜价下跌 金价上涨",
-      "insight": "油价企稳，接近五周来最高收盘水平，此前美国与伊朗爆发冲突，再次对中东能源出口构成威胁。铜价跌至逾…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnyaa4273044.shtml"
+      "time": "09-03 10:06",
+      "title": "日本30年期国债拍卖面临严峻考验 若需求遇冷恐加剧债市抛售",
+      "insight": "日本周四将进行30年期国债拍卖。当前正值全球债券遭遇抛售，长期收益率升至近20年来最高水平，此次…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeke2287299.shtml"
     },
     {
-      "id": "ff7bdcc590",
+      "id": "ff33734c69",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-03 10:05",
+      "title": "三环集团早盘涨超5% 上半年归母净利润19.32亿元同比增长56.18%",
+      "insight": "三环集团（06951）盘中涨超7%，截至发稿，股价上涨5.30%，现报111.20港元，成交额4…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpeke7113377.shtml"
+    },
+    {
+      "id": "ffe5fe622a",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 10:05",
+      "title": "华泰期货：冲突发酵，天然气市场走强积蓄压力",
+      "insight": "来源：华泰期货 作者： 李祖智 市场要闻与重要数据 1.TTF10月合约报得73.435欧元/兆…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeiy4343331.shtml"
+    },
+    {
+      "id": "ffd68c3365",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-03 10:02",
+      "title": "中国有色矿业早盘涨逾4% 完成发行3亿美元零息可转换债券",
+      "insight": "中国有色矿业（01258）盘中涨超4%，截至发稿，股价上涨3.72%，现报16.63港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpeke7111000.shtml"
+    },
+    {
+      "id": "ff8da47a86",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 10:01",
+      "title": "华泰期货：中东航线油轮运费飙升，到货成本显著增加",
+      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 截至9月3日收盘，纽约商品交易所10月…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke2284068.shtml"
+    },
+    {
+      "id": "ff65aab418",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:59",
+      "title": "华泰期货：宏观因素多变 铜价高位震荡",
+      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-02，沪铜主力合约…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke7109831.shtml"
+    },
+    {
+      "id": "ff5d2e98c7",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:59",
+      "title": "中信建投期货：9月3日黑色系早报",
+      "insight": "钢材早报：原料端高位回落，期钢同步回调 市场信息： 1、 8月份，我国制造业采购经理指数（PMI…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke7109525.shtml"
+    },
+    {
+      "id": "ffb272e29d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-03 09:58",
+      "title": "英矽智能盘中涨超5% 获纳入香港交易所科技100指数",
+      "insight": "英矽智能（03696）盘中涨超5%，截至发稿，股价上涨3.29%，现报46.44港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpeke7109470.shtml"
+    },
+    {
+      "id": "ff3b287e28",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:58",
+      "title": "中信建投期货：9月3日能化早报",
+      "insight": "橡胶：短期反弹 周三，国产全乳胶18000元/吨，环比上日下跌250元/吨；泰国20号混合胶17…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeka1108487.shtml"
+    },
+    {
+      "id": "ffe5f79f6d",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:56",
+      "title": "光大期货：9月3日软商品日报",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，国…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeiy4334514.shtml"
+    },
+    {
+      "id": "ff0b659ba9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 06:30",
-      "title": "9月3日隔夜要闻：美股收高 戴尔大涨 油价高位企稳 金价上涨 特朗普提议将霍尔木兹海峡更名为“特朗普海峡”",
-      "insight": "市场 9月3日美股收盘：三大股指普涨 英伟达涨超3% 9月3日美股成交额前20：戴尔大涨15% …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqnyah7147081.shtml"
+      "time": "09-03 09:56",
+      "title": "法盛投资增加日本股票配置 削减美股敞口",
+      "insight": "法盛投资管理公司策略师近日接受采访称，在通胀压力推高国债收益率之际，该机构已提高日本股票配置比例…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpeka1106653.shtml"
     },
     {
-      "id": "ffc8e6103b",
-      "source": "央视",
+      "id": "ff64d6d9c1",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:55",
+      "title": "光大期货：9月3日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周三，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeiy4333127.shtml"
+    },
+    {
+      "id": "ff2263752d",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:54",
+      "title": "光大期货：9月3日能源化工日报",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周三油价重心…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke7107593.shtml"
+    },
+    {
+      "id": "ff1d6eed1a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-03 09:53",
+      "title": "中远海能早盘涨超5% 上半年营收151.46亿元同比增长30.03%",
+      "insight": "中远海能（01138）早盘涨超5%。截至发稿，股价上涨5.64%，现报17.41港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-03/doc-iniqpeiy4331500.shtml"
+    },
+    {
+      "id": "ff6481dfb7",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:53",
+      "title": "光大期货：9月3日矿钢煤焦日报",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke2280124.shtml"
+    },
+    {
+      "id": "ff351d237c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:52",
+      "title": "光大期货：9月3日金融日报",
+      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeka1102260.shtml"
+    },
+    {
+      "id": "ffb6d409f2",
+      "source": "界面新闻",
       "tag": "财经热点",
-      "time": "09-03 05:52",
-      "title": "美法官叫停特朗普政府关于“出生公民权”的最新行政令",
-      "insight": "当地时间9月2日，美国马里兰州联邦地区法院法官德博拉·博德曼发布初步禁令，阻止特朗普政府执行一项…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqnyae1042019.shtml"
+      "time": "09-03 09:48",
+      "title": "美国8月“小非农”不及预期，金价震荡回升",
+      "insight": "国际金价周三涨约1.4%，美股盘初逼近4400美元。周三（9月2日）纽约尾盘，现货黄金涨1.39…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpeke2279311.shtml"
     },
     {
-      "id": "ff5b474b43",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:38",
-      "title": "博通本财季营收指引令投资者失望 股价盘后重挫",
-      "insight": "博通本财季营收展望低于分析师预估，显示人工智能（AI）投资热潮给这家芯片巨头带来的业绩提振力度不…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2434153.shtml"
-    },
-    {
-      "id": "ff55d2b8db",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:36",
-      "title": "原油：油价在高位企稳 美伊冲突持续",
-      "insight": "油价企稳，接近五周来最高收盘水平，此前美国与伊朗爆发冲突，再次对中东能源出口构成威胁。 WTI小…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuh1143275.shtml"
-    },
-    {
-      "id": "ffb65c6802",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:30",
-      "title": "9月3日外盘头条：特朗普称对伊朗打击不会持续太久 Meta发布更强大AI模型 微软将开始按季度披露Azure营收",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称对伊朗打击不会持续太久 重申控制霍尔…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2429246.shtml"
-    },
-    {
-      "id": "ff53533942",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:25",
-      "title": "贝森特不加掩饰施压日本央行加息 东京若不从恐招致三面夹击",
-      "insight": "美国财政部长贝森特公开施压后，本月要做出政策抉择的日本银行行长植田和男遭遇了金融市场可能陷入剧烈…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntue4365175.shtml"
-    },
-    {
-      "id": "ffa383c9b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:16",
-      "title": "博通股价盘后下跌5%，疲软指引盖过盈利超预期",
-      "insight": "博通股价在周三盘后交易中下跌5%，此前这家芯片制造商发布了令人失望的本季度业绩指引。 以下是该公…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2427984.shtml"
-    },
-    {
-      "id": "ffdc42839b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:16",
-      "title": "美国贸易代表格里尔与众议院共和党人会晤，正值特朗普贸易争端之际",
-      "insight": "美国贸易代表贾米森·格里尔周三与众议院共和党人举行闭门会议，此时议员们正因总统唐纳德·特朗普与加…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2427925.shtml"
-    },
-    {
-      "id": "ff56697b84",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:12",
-      "title": "Snowflake业绩稳健及AI编码动能强劲，股价盘后飙升22%",
-      "insight": "Snowflake 股价在周三盘后交易中上涨22%，此前这家数据分析软件公司公布的业绩和指引均超…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2426655.shtml"
-    },
-    {
-      "id": "ff4f5aa010",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:10",
-      "title": "微软将开始按季度披露Azure营收，作为公司整合业务部门的一部分",
-      "insight": "微软 将开始首次按季度披露其Azure云业务的营收，为投资者提供其与亚马逊 网络服务和谷歌 云平…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7253022.shtml"
-    },
-    {
-      "id": "ffe9767ee0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 05:08",
-      "title": "美国股市：标普500指数结束三连跌 油价企稳缓解通胀担忧",
-      "insight": "标普500指数结束连续三个交易日的跌势。随着油价暂停大幅上涨，市场对通胀的担忧有所缓解，交易员继…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuh1130260.shtml"
-    },
-    {
-      "id": "ff61d73c88",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:57",
-      "title": "9月3日美股成交额前20：戴尔大涨15% 大幅上调全年营收预期",
-      "insight": "周三美股成交额第1名英伟达收涨3.21%，成交343.91亿美元。 在美国北卡罗来纳州科技活动上…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7250725.shtml"
-    },
-    {
-      "id": "ffd7c70943",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:42",
-      "title": "美国债市：美债在平静的交易中基本持稳 油价居高不下",
-      "insight": "美国国债周三走势主要受油价波动影响。WTI原油期货早盘下跌推动美债上涨，但随着午后油价反弹，美债…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7246641.shtml"
-    },
-    {
-      "id": "ff6d21b188",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:29",
-      "title": "9月3日热门中概股涨跌不一 网易有道跌超9% 蔚来跌超4%",
-      "insight": "9月3日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）跌0.05%。 上涨个股（按市值从高到…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk2416475.shtml"
-    },
-    {
-      "id": "ffcede709e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:14",
-      "title": "9月3日美股收盘：三大股指普涨 英伟达涨超3%",
-      "insight": "美股三大股指收盘普涨，债券收益率持续走高，交易员担忧油价上涨会推升通胀水平。 道指涨0.56%，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7238092.shtml"
-    },
-    {
-      "id": "fffa2d32f5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:07",
-      "title": "纽约汇市：美元指数下跌 日元快速走强引发干预猜测",
-      "insight": "美元指数周三下跌。与此同时，日元快速走强，而加元在加拿大央行维持利率不变后上涨。 美元即期指数下…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7236053.shtml"
-    },
-    {
-      "id": "ff889977a8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 04:06",
-      "title": "Meta发布更强大AI模型 声称进一步缩小了与竞争对手差距",
-      "insight": "Meta Platforms Inc．发布其迄今最强大的人工智能模型，该公司首席AI官称，这个新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqntuk7235690.shtml"
+      "id": "ffbf5d7a64",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-03 09:48",
+      "title": "光大期货：9月3日有色金属日报",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpeke7104166.shtml"
     }
   ],
-  "updateTime": "2026-09-03 06:55"
+  "updateTime": "2026-09-03 10:26"
 }
