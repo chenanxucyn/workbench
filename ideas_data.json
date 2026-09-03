@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "外交部正告日本右翼势力",
-      "heat": 11746443,
+      "heat": 11576742,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "等到了秋天我们再去散步好不好",
-      "heat": 11125852,
+      "heat": 11425098,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "促进中小企业发展十五五规划来了",
-      "heat": 11057505,
+      "heat": 11182424,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "看看你的暑期社会实践",
-      "heat": 10809499,
+      "heat": 10841257,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -42,8 +42,18 @@
     },
     {
       "rank": 5,
+      "topic": "AI圈来了位天才",
+      "heat": 10289394,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/AI%E5%9C%88%E6%9D%A5%E4%BA%86%E4%BD%8D%E5%A4%A9%E6%89%8D?type=general",
+      "scheme": "snssdk1128://search/AI圈来了位天才"
+    },
+    {
+      "rank": 6,
       "topic": "在宿舍的第一个晚上",
-      "heat": 10251615,
+      "heat": 10223437,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,9 +61,9 @@
       "scheme": "snssdk1128://search/在宿舍的第一个晚上"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "topic": "厄尔尼诺将发展为超强级别",
-      "heat": 10240452,
+      "heat": 9125755,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,19 +71,9 @@
       "scheme": "snssdk1128://search/厄尔尼诺将发展为超强级别"
     },
     {
-      "rank": 7,
-      "topic": "BLG 3:1 WE",
-      "heat": 9125478,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/BLG%203%3A1%20WE?type=general",
-      "scheme": "snssdk1128://search/BLG 3:1 WE"
-    },
-    {
       "rank": 8,
       "topic": "中国全额缴纳2026年联合国会费",
-      "heat": 8943530,
+      "heat": 9111253,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -83,7 +83,7 @@
     {
       "rank": 9,
       "topic": "外交部驳斥越南西沙群岛主权主张",
-      "heat": 8903257,
+      "heat": 9056157,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -92,8 +92,18 @@
     },
     {
       "rank": 10,
+      "topic": "全员进入Luke穿搭时代",
+      "heat": 8757428,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%85%A8%E5%91%98%E8%BF%9B%E5%85%A5Luke%E7%A9%BF%E6%90%AD%E6%97%B6%E4%BB%A3?type=general",
+      "scheme": "snssdk1128://search/全员进入Luke穿搭时代"
+    },
+    {
+      "rank": 11,
       "topic": "微信回应何时推出单删提示",
-      "heat": 8888690,
+      "heat": 8742380,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -101,29 +111,19 @@
       "scheme": "snssdk1128://search/微信回应何时推出单删提示"
     },
     {
-      "rank": 11,
-      "topic": "福州的雨势为何如此凶猛",
-      "heat": 8824530,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A6%8F%E5%B7%9E%E7%9A%84%E9%9B%A8%E5%8A%BF%E4%B8%BA%E4%BD%95%E5%A6%82%E6%AD%A4%E5%87%B6%E7%8C%9B?type=general",
-      "scheme": "snssdk1128://search/福州的雨势为何如此凶猛"
-    },
-    {
       "rank": 12,
-      "topic": "中国驻俄使馆发布赴俄留学提醒",
-      "heat": 8486819,
+      "topic": "omg叠中叠穿搭潮到犯规",
+      "heat": 8671558,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BF%84%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E8%B5%B4%E4%BF%84%E7%95%99%E5%AD%A6%E6%8F%90%E9%86%92?type=general",
-      "scheme": "snssdk1128://search/中国驻俄使馆发布赴俄留学提醒"
+      "link": "https://www.douyin.com/search/omg%E5%8F%A0%E4%B8%AD%E5%8F%A0%E7%A9%BF%E6%90%AD%E6%BD%AE%E5%88%B0%E7%8A%AF%E8%A7%84?type=general",
+      "scheme": "snssdk1128://search/omg叠中叠穿搭潮到犯规"
     },
     {
       "rank": 13,
       "topic": "网传北川泥石流塌方系谣言",
-      "heat": 8396840,
+      "heat": 8639852,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -133,7 +133,7 @@
     {
       "rank": 14,
       "topic": "开学版井柏然进行曲",
-      "heat": 8356121,
+      "heat": 8401297,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -142,18 +142,18 @@
     },
     {
       "rank": 15,
-      "topic": "全员进入Luke穿搭时代",
-      "heat": 8202559,
+      "topic": "今天有朵云是爱我的",
+      "heat": 8084716,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%A8%E5%91%98%E8%BF%9B%E5%85%A5Luke%E7%A9%BF%E6%90%AD%E6%97%B6%E4%BB%A3?type=general",
-      "scheme": "snssdk1128://search/全员进入Luke穿搭时代"
+      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%9C%89%E6%9C%B5%E4%BA%91%E6%98%AF%E7%88%B1%E6%88%91%E7%9A%84?type=general",
+      "scheme": "snssdk1128://search/今天有朵云是爱我的"
     },
     {
       "rank": 16,
       "topic": "四川北川县发生4.8级地震",
-      "heat": 7785403,
+      "heat": 7809408,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -162,28 +162,8 @@
     },
     {
       "rank": 17,
-      "topic": "生逢其时开播",
-      "heat": 7778781,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6%E5%BC%80%E6%92%AD?type=general",
-      "scheme": "snssdk1128://search/生逢其时开播"
-    },
-    {
-      "rank": 18,
-      "topic": "今天有朵云是爱我的",
-      "heat": 7759112,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%9C%89%E6%9C%B5%E4%BA%91%E6%98%AF%E7%88%B1%E6%88%91%E7%9A%84?type=general",
-      "scheme": "snssdk1128://search/今天有朵云是爱我的"
-    },
-    {
-      "rank": 19,
       "topic": "跟着花少考古伦敦",
-      "heat": 7758511,
+      "heat": 7805352,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -191,9 +171,9 @@
       "scheme": "snssdk1128://search/跟着花少考古伦敦"
     },
     {
-      "rank": 20,
+      "rank": 18,
       "topic": "沉浸式体验尚之桃同款通勤路",
-      "heat": 7745967,
+      "heat": 7796584,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -201,39 +181,9 @@
       "scheme": "snssdk1128://search/沉浸式体验尚之桃同款通勤路"
     },
     {
-      "rank": 21,
-      "topic": "特斯拉无人出租车开启内部测试",
-      "heat": 7744165,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%BC%80%E5%90%AF%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95?type=general",
-      "scheme": "snssdk1128://search/特斯拉无人出租车开启内部测试"
-    },
-    {
-      "rank": 22,
-      "topic": "九月不要和爱的人分离",
-      "heat": 7740111,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B9%9D%E6%9C%88%E4%B8%8D%E8%A6%81%E5%92%8C%E7%88%B1%E7%9A%84%E4%BA%BA%E5%88%86%E7%A6%BB?type=general",
-      "scheme": "snssdk1128://search/九月不要和爱的人分离"
-    },
-    {
-      "rank": 23,
-      "topic": "找Luke找到井柏然了",
-      "heat": 7738830,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%89%BELuke%E6%89%BE%E5%88%B0%E4%BA%95%E6%9F%8F%E7%84%B6%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/找Luke找到井柏然了"
-    },
-    {
-      "rank": 24,
+      "rank": 19,
       "topic": "一篇长文记录“我的早春晴朗”",
-      "heat": 7734973,
+      "heat": 7773772,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -241,9 +191,59 @@
       "scheme": "snssdk1128://search/一篇长文记录“我的早春晴朗”"
     },
     {
+      "rank": 20,
+      "topic": "特斯拉无人出租车开启内部测试",
+      "heat": 7749385,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%89%B9%E6%96%AF%E6%8B%89%E6%97%A0%E4%BA%BA%E5%87%BA%E7%A7%9F%E8%BD%A6%E5%BC%80%E5%90%AF%E5%86%85%E9%83%A8%E6%B5%8B%E8%AF%95?type=general",
+      "scheme": "snssdk1128://search/特斯拉无人出租车开启内部测试"
+    },
+    {
+      "rank": 21,
+      "topic": "九月不要和爱的人分离",
+      "heat": 7749172,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B9%9D%E6%9C%88%E4%B8%8D%E8%A6%81%E5%92%8C%E7%88%B1%E7%9A%84%E4%BA%BA%E5%88%86%E7%A6%BB?type=general",
+      "scheme": "snssdk1128://search/九月不要和爱的人分离"
+    },
+    {
+      "rank": 22,
+      "topic": "中国驻俄使馆发布赴俄留学提醒",
+      "heat": 7723606,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%A9%BB%E4%BF%84%E4%BD%BF%E9%A6%86%E5%8F%91%E5%B8%83%E8%B5%B4%E4%BF%84%E7%95%99%E5%AD%A6%E6%8F%90%E9%86%92?type=general",
+      "scheme": "snssdk1128://search/中国驻俄使馆发布赴俄留学提醒"
+    },
+    {
+      "rank": 23,
+      "topic": "生逢其时开播",
+      "heat": 7717493,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%94%9F%E9%80%A2%E5%85%B6%E6%97%B6%E5%BC%80%E6%92%AD?type=general",
+      "scheme": "snssdk1128://search/生逢其时开播"
+    },
+    {
+      "rank": 24,
+      "topic": "九月这波一定要接住了",
+      "heat": 7710711,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B9%9D%E6%9C%88%E8%BF%99%E6%B3%A2%E4%B8%80%E5%AE%9A%E8%A6%81%E6%8E%A5%E4%BD%8F%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/九月这波一定要接住了"
+    },
+    {
       "rank": 25,
       "topic": "黄渤骑车摔伤致锁骨骨折",
-      "heat": 7733423,
+      "heat": 7706239,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -253,7 +253,7 @@
     {
       "rank": 26,
       "topic": "我的妹妹不可爱太上头了",
-      "heat": 7731747,
+      "heat": 7700493,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -263,7 +263,7 @@
     {
       "rank": 27,
       "topic": "芮豆变装摇也太带感了",
-      "heat": 7723712,
+      "heat": 7691679,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -272,28 +272,28 @@
     },
     {
       "rank": 28,
-      "topic": "万物皆可贴秋膘",
-      "heat": 7720810,
+      "topic": "小苹果舞蹈挑战又杀回来了",
+      "heat": 7687235,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E8%B4%B4%E7%A7%8B%E8%86%98?type=general",
-      "scheme": "snssdk1128://search/万物皆可贴秋膘"
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E8%8B%B9%E6%9E%9C%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98%E5%8F%88%E6%9D%80%E5%9B%9E%E6%9D%A5%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/小苹果舞蹈挑战又杀回来了"
     },
     {
       "rank": 29,
-      "topic": "星星家长的辛苦被邓超看见了",
-      "heat": 7718141,
+      "topic": "谁懂啊开学新同桌竟是小黄人",
+      "heat": 7679112,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%98%9F%E6%98%9F%E5%AE%B6%E9%95%BF%E7%9A%84%E8%BE%9B%E8%8B%A6%E8%A2%AB%E9%82%93%E8%B6%85%E7%9C%8B%E8%A7%81%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/星星家长的辛苦被邓超看见了"
+      "link": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%95%8A%E5%BC%80%E5%AD%A6%E6%96%B0%E5%90%8C%E6%A1%8C%E7%AB%9F%E6%98%AF%E5%B0%8F%E9%BB%84%E4%BA%BA?type=general",
+      "scheme": "snssdk1128://search/谁懂啊开学新同桌竟是小黄人"
     },
     {
       "rank": 30,
       "topic": "男子充1000元误到账26419933亿元",
-      "heat": 7703038,
+      "heat": 7673533,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -301,5 +301,5 @@
       "scheme": "snssdk1128://search/男子充1000元误到账26419933亿元"
     }
   ],
-  "updateTime": "2026-09-04 02:16"
+  "updateTime": "2026-09-04 06:55"
 }
