@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff68cb636b",
-      "source": "央视",
+      "id": "ff05521607",
+      "source": "新浪财经",
       "tag": "财经热点",
-      "time": "09-03 15:31",
-      "title": "商务部：中欧各层级磋商不能单方面提要价 谈条件",
-      "insight": "商务部3日举行例行新闻发布会，新闻发言人黄玲在回应欧盟委员会贸易与经济安全委员谢夫乔维奇涉中欧贸…",
-      "link": "https://finance.sina.com.cn/china/2026-09-03/doc-iniqpvfs4253277.shtml"
+      "time": "09-03 21:05",
+      "title": "亿纬锂能刘金成谈竞争：每个企业家都有自己的运气，不要总想把谁干掉",
+      "insight": "9月3日消息，在今天开幕的2026世界动力电池大会上，亿纬锂能董事长刘金成表示，近期见到同行的董…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-03/doc-iniqqfvs6775932.shtml"
     },
     {
-      "id": "ff0da566ac",
+      "id": "ff918e9f27",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 15:30",
-      "title": "美国司法部在版权诉讼中声援OpenAI，主张训练大模型属合理使用",
-      "insight": "美国司法部周二向纽约南区联邦法院提交一份《美国利益声明》，正式在OpenAI与《纽约时报》等出版…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfs4252108.shtml"
-    },
-    {
-      "id": "ff9a81bc7d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 15:29",
-      "title": "英国金融行为监管局警告：AI发现漏洞速度超出金融企业修复能力",
-      "insight": "英国金融行为监管局9月2日发布警告称，前沿人工智能模型发现网络安全漏洞的速度已超过金融服务公司的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw2054070.shtml"
-    },
-    {
-      "id": "ffbd1d0cc6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 15:26",
-      "title": "福特在拉斯维加斯测试Fathom电动卡车原型车",
-      "insight": "福特首席执行官吉姆·法利9月1日在社交媒体发布一组照片和视频，显示两辆覆盖伪装的Fathom原型…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6879913.shtml"
-    },
-    {
-      "id": "ff37f7b1a9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-03 15:25",
-      "title": "英国建筑商Crest Nicholson下调盈利预期 股价跌12%",
-      "insight": "英国住宅建筑商Crest Nicholson于9月3日发布财务预警，预计截至10月的财年将录得约…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6879399.shtml"
-    },
-    {
-      "id": "ff7e7a0d45",
-      "source": "新华视点",
       "tag": "财经热点",
-      "time": "09-03 15:24",
-      "title": "商务部回应美利用G20炒作所谓“经济失衡”论调",
-      "insight": "新华社北京9月3日电（记者谢希瑶、王聿昊）在商务部3日举行的例行新闻发布会上，商务部新闻发言人黄…",
-      "link": "https://finance.sina.com.cn/china/2026-09-03/doc-iniqpvfs4244306.shtml"
+      "time": "09-03 20:55",
+      "title": "美国7月份贸易逆差扩大至886亿美元 预估为逆差902亿美元",
+      "insight": "美国商务部公布，7月份贸易逆差扩大至886亿美元，前月为逆差711.8亿美元。 47名经济学家对…",
+      "link": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqqfvn4286042.shtml"
     },
     {
-      "id": "ff76bcfb3e",
+      "id": "ffab148fb4",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 15:22",
-      "title": "西班牙光交换公司iPronics完成1.25亿美元B轮融资，英伟达参投",
-      "insight": "西班牙瓦伦西亚的硅光公司iPronics周三宣布完成1.25亿美元B轮融资，由Maverick …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpvfw6878021.shtml"
+      "time": "09-03 20:53",
+      "title": "美国贸易逆差扩大至2025年初以来最大 资本品进口激增",
+      "insight": "美国7月贸易逆差大幅扩大至2025年初以来最高，主要反映电脑及其他科技设备进口激增。 美国商务部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvn4284076.shtml"
     },
     {
-      "id": "ffd844d4ef",
+      "id": "ffd3dbbcff",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 15:19",
-      "title": "微软调整报告架构：自2027财年起设两大分部，Azure营收首次按美元单列",
-      "insight": "微软周三向投资者关系网站上传了题为《FY27 Segments and Investor Met…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxw1140652.shtml"
+      "time": "09-03 20:52",
+      "title": "日元大涨 干预风险与日本央行加息预期令交易员高度戒备",
+      "insight": "日元连续第二天大幅上涨，扭转过去一个月的缓慢跌势。交易员加大了对日本加息的押注，同时高度警惕日本…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvq1055769.shtml"
     },
     {
-      "id": "ff8cb7eaad",
-      "source": "央视",
+      "id": "ff560c9b7a",
+      "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-03 15:13",
-      "title": "商务部：敦促法方立即停止反超快时尚法实施",
-      "insight": "商务部新闻发言人黄玲在3日举行的例行新闻发布会上回应关于法国反超快时尚法生效实施的提问时说，此前…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-03/doc-iniqpqxy7006543.shtml"
+      "time": "09-03 20:44",
+      "title": "美联储理事沃勒放鸽：通胀出现持续放缓迹象，若趋势延续支持9月按兵不动",
+      "insight": "美联储理事克里斯托弗·沃勒周四释放出偏鸽派的政策信号。他表示，尽管美国通胀仍明显高于美联储2%的…",
+      "link": "https://finance.sina.com.cn/world/2026-09-03/doc-iniqqfvs1936613.shtml"
     },
     {
-      "id": "ff25766be3",
+      "id": "ffb3a77f97",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 15:06",
-      "title": "科技巨头G20聚焦AI发展：AI带动就业 数据中心是核心",
-      "insight": "当地时间周三，全球政策制定者、科技企业高管及商界领袖齐聚教堂山，参加G20创新部长级会议第二天议…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy7001608.shtml"
+      "time": "09-03 20:41",
+      "title": "Uber联合传统出租车行业，共同对抗Waymo",
+      "insight": "面对Alphabet旗下Waymo等竞争对手在自动驾驶领域的猛烈冲击，Uber正与司机工会结成同…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvs6761940.shtml"
     },
     {
-      "id": "ff99126550",
+      "id": "ff7d3aa877",
+      "source": "一财网",
+      "tag": "财经",
+      "time": "09-03 20:39",
+      "title": "地方政府加快发债，前8个月7.8万亿元地方债投向哪",
+      "insight": "8月份，全国发行地方政府债券约1.19万亿元。 中央要求加快债券资金使用进度后，8月份地方政府债…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-03/doc-iniqqfvs6761509.shtml"
+    },
+    {
+      "id": "ff79c32611",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:30",
+      "title": "盘前：纳指期货跌0.15% 全球债市喘口气",
+      "insight": "股市周四震荡交投，债券收益率则在多年高位附近趋于稳定。日元兑美元大涨，交易员一方面关注可能支撑日…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvn4277304.shtml"
+    },
+    {
+      "id": "ff10e55b55",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:26",
+      "title": "黄仁勋官宣：英伟达拟以129.3亿美元收购AI创企Hugging Face",
+      "insight": "英伟达CEO黄仁勋在X发文，官宣拟以129.3亿美元收购AI创企“抱抱脸”（Hugging Fa…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvs6751451.shtml"
+    },
+    {
+      "id": "ff28d9a4a2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:22",
+      "title": "《富爸爸穷爸爸》作者爆出12亿美元债务，令粉丝大跌眼镜",
+      "insight": "多年以来，《富爸爸穷爸爸》的作者罗伯特・清崎一直呼吁投资者不要持有过多现金，应当去配置比特币、黄…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvq1024247.shtml"
+    },
+    {
+      "id": "ff7d0f05e8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:21",
+      "title": "纽约证券交易所与韩国交易所签署合作谅解备忘录",
+      "insight": "纽约证券交易所与韩国交易所签署了一份谅解备忘录，双方将携手扩大投资者进入全球资本市场的渠道。 合…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvs6748249.shtml"
+    },
+    {
+      "id": "fff46e1fd4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:18",
+      "title": "黑石私募信贷基金将赎回上限设定为5%",
+      "insight": "根据提交给美国证券交易委员会的一份文件所附投资者信函，黑石私募信贷基金收到约占基金规模10%的赎…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvn4247453.shtml"
+    },
+    {
+      "id": "ffb81eb89a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 20:14",
+      "title": "英伟达将以129.3亿美元收购Hugging Face",
+      "insight": "据英伟达官网声明，英伟达已同意以129.3亿美元收购Hugging Face。 Hugging …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvq1016281.shtml"
+    },
+    {
+      "id": "ff38e40810",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-03 15:02",
-      "title": "收评|国内期货主力合约跌多涨少，集运欧线跌超6%",
-      "insight": "2026年9月3日，国内期货主力合约跌多涨少，集运欧线跌超6%，燃料油跌超4%，胶合板、焦炭、焦…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqpqxw1118791.shtml"
+      "time": "09-03 20:13",
+      "title": "中天期货:碳酸锂继续回调 螺纹震荡回调",
+      "insight": "热点品种分析 一、商品指数 二、股指 中国上证综指 9 月 3 日（周四）收盘上涨 0.70 点…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-03/doc-iniqqfvn4243668.shtml"
     },
     {
-      "id": "ffb9fa0dbc",
+      "id": "ff7e4bf2de",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-03 20:10",
+      "title": "劲爆！星宇股份“查无此岗”的HR总监，疑似被挖出来了",
+      "insight": "来源：财通社 时至今日，星宇股份（601799.SH）“羞辱逼退”应届生事件仍在继续发酵。 9月…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-03/doc-iniqqfvs6756845.shtml"
+    },
+    {
+      "id": "ffb26e3d37",
+      "source": "中国新闻网",
+      "tag": "财经热点",
+      "time": "09-03 20:04",
+      "title": "中方回应“尼泊尔有声音要求美国、印度、中国等提供气候赔偿”，尼泊尔外长发声",
+      "insight": "9月3日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者：此次泥石流灾害后，尼泊尔有声音要求美国…",
+      "link": "https://finance.sina.com.cn/china/2026-09-03/doc-iniqqfvn4237166.shtml"
+    },
+    {
+      "id": "ff3b67b7fd",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-03 14:58",
-      "title": "Snowflake上调全年产品收入指引，AI产品驱动增长进一步提速",
-      "insight": "Snowflake周三美股收盘后公布截至7月31日的2027财年第二季度业绩，并同步上调全年产品…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpqxy2170649.shtml"
+      "time": "09-03 19:59",
+      "title": "中东紧张局势再度升温，油价创下六周新高",
+      "insight": "美国再度对伊朗发动打击，以色列也重新放出针对德黑兰的威胁，市场担忧中东石油供应遭到扰动，周四国际…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvq1001604.shtml"
     },
     {
-      "id": "ffe9130c53",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "赛隆药业退市不免责，业绩“变脸”引发索赔",
-      "insight": "2026年6月17日，赛隆药业收到深交所终止上市决定。公司2025年度财务会计报告和财务报告内部…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1120932.shtml"
+      "id": "ff1db2cfb1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 19:55",
+      "title": "英帕拉铂金：贵金属价格走高带动利润大幅飙升",
+      "insight": "截至 6 月 30 日本财年，公司净利润激增至 19.3 亿美元该公司上月曾表示，贵金属价格上涨…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqqfvq0998878.shtml"
     },
     {
-      "id": "ffa4df39f6",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "汇洲智能信披违规被处罚，投资者索赔条件初步明确",
-      "insight": "2025年4月29日，汇洲智能发布公告称，公司因涉嫌信息披露违法违规，收到中国证监会《立案告知书…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxu4347950.shtml"
+      "id": "ff5e4a9107",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-03 19:53",
+      "title": "维多利亚的秘密转型成效显现，再度上调全年财年业绩指引",
+      "insight": "这家内衣零售商目前预计全年销售额达到 71‑71.8 亿美元公司销售额达到 16.1 亿美元，分…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-03/doc-iniqpzpu2039042.shtml"
     },
     {
-      "id": "ff2c17573d",
+      "id": "ff00139226",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "立方数科退市后仍可维权，投资者索赔持续征集",
-      "insight": "立方数科相关投资者索赔工作仍在进行。近日，上海沪紫律师事务所刘鹏律师团队已向合肥中院提交一批相关…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1120108.shtml"
-    },
-    {
-      "id": "ff38658700",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "云创数据财务造假遭重罚，投资者索赔启动",
-      "insight": "近日，上海沪紫律师事务所刘鹏律师团队已向法院提交部分云创数据投资者索赔案件，目前相关维权登记仍在…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy6999274.shtml"
-    },
-    {
-      "id": "ff75710097",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "ST派瑞上半年净利润增长近五成，曾因财务造假被罚",
-      "insight": "8月28日，ST派瑞（300831）公布2026年半年报，公司营业收入为8195万元，同比上升3…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxu4345635.shtml"
-    },
-    {
-      "id": "ff0eaf2cd0",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "海南华铁上半年营收31亿，投资者索赔持续征集",
-      "insight": "日前，海南华铁披露2026年半年度报告。2026年上半年，公司实现营业总收入31.79亿元，同比…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy2171854.shtml"
-    },
-    {
-      "id": "ff8b3056e0",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "ST瑞贝卡中报承压，涉资金占用已被罚",
-      "insight": "8月27日ST瑞贝卡发布2026年中报显示，公司上半年实现营业收入6.44亿元，同比增长7.73…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxy2171674.shtml"
-    },
-    {
-      "id": "ff3a40de6f",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-03 14:56",
-      "title": "大烨智能上半年扭亏为盈，仍处监管立案调查中",
-      "insight": "大烨智能发布2026年半年度报告，报告期内，公司实现营业收入1.26亿元，同比下降11.14%。…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-03/doc-iniqpqxw1116256.shtml"
+      "time": "09-03 19:51",
+      "title": "募资48亿押注高端交换芯片，盛科通信能否靠AI打个盈利翻身仗？",
+      "insight": "来源：环球老虎财经app 9月1日，盛科通信披露定增预案，拟募资不超过48.05亿元，投向下一代…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-03/doc-iniqqfvs1913313.shtml"
     }
   ],
-  "updateTime": "2026-09-03 15:35"
+  "updateTime": "2026-09-03 21:09"
 }
