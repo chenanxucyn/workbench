@@ -1,6 +1,123 @@
 {
   "news": [
     {
+      "id": "ffa1110e9c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 04:15",
+      "title": "9月5日热门中概股涨跌不一，慧荣科技涨超8%，网易有道跌超5%",
+      "insight": "9月5日热门中概股涨跌不一，纳斯达克中国金龙指数收涨0.84%。 上涨个股（按市值从高到低）：台…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3844770.shtml"
+    },
+    {
+      "id": "ff1e25d917",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 04:03",
+      "title": "特朗普淡化伊朗战争影响 称此类冲突对美国是“小事”",
+      "insight": "特朗普称，伊朗战争对美国而言只是“小事”。 一天前，美国副总统万斯表示，鉴于大规模作战行动数月前…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3839862.shtml"
+    },
+    {
+      "id": "ff61fbbaa0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 03:51",
+      "title": "美国债市：中短期国债在强劲的就业报告后下跌 市场焦点转向CPI",
+      "insight": "美国债市周五，收益率曲线短端和中部的债券下跌，因为在美国早盘公布了强劲的8月非农就业数据后，国债…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0798118.shtml"
+    },
+    {
+      "id": "ff2dfcdec4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 03:50",
+      "title": "美国财长预计战争结束后油价最低跌至40美元 并带动国债收益率回落",
+      "insight": "美国财政部长斯科特·贝森特表示，一旦伊朗冲突结束，油价可能暴跌至每桶40美元，并带动近期升至多年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh5624788.shtml"
+    },
+    {
+      "id": "ff88829a8d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 03:24",
+      "title": "花旗推后预期的美联储降息时间 目前认为2027年降息三次",
+      "insight": "花旗集团的经济学家周五在强于预期的8月份就业数据公布后调整了对美联储政策的预测。他们目前预计，美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqszse3953310.shtml"
+    },
+    {
+      "id": "ffa2602732",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 03:13",
+      "title": "特朗普：加息安抚不了债券市场 美国利率应在1%甚至0.5%",
+      "insight": "美国总统特朗普表示提高利率并不会让债券市场归于平静。 他重申希望利率下降。 特朗普在白宫接受记者…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqszsh0720698.shtml"
+    },
+    {
+      "id": "ff83f52a5d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 03:00",
+      "title": "特朗普：美国可能很快打击伊朗位于镐山的核设施",
+      "insight": "特朗普表示，美国可能“很快”打击伊朗位于镐山的核设施。 当时记者问他将如何定义当前的伊朗冲突时，…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszse3942438.shtml"
+    },
+    {
+      "id": "ff9a955eae",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-05 02:54",
+      "title": "特朗普：美特使将向俄罗斯提交结束俄乌冲突的方案",
+      "insight": "△美国总统特朗普（资料图）当地时间9月4日，美国总统特朗普表示，美国特使威特科夫与库什纳将向俄罗…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqszsk5746295.shtml"
+    },
+    {
+      "id": "ff16cbbdcd",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 02:46",
+      "title": "特朗普拟允许牧场主绕开大型肉类加工商 直接向消费者销售牛肉",
+      "insight": "美国总统特朗普表示，他将推出一项计划，帮助农民和牧场主“加工自己的食品”，通过减少对大型肉类加工…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszse3936106.shtml"
+    },
+    {
+      "id": "ffbab00d0d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 02:26",
+      "title": "美联储官员哈马克：现在是时候采取行动降低通胀了",
+      "insight": "克利夫兰联邦储备银行行长贝丝·哈马克表示，，现在是美联储采取行动抑制通胀的时候了。 “我现在听到…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszsh0698077.shtml"
+    },
+    {
+      "id": "ff094f178c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 02:22",
+      "title": "美国制造业和建筑业就业增长跑赢服务业 或许反映出AI投资热潮的影响",
+      "insight": "美国制造业、建筑业及其他商品生产行业的就业增长速度正超过规模更大的服务业，这可能反映出投资源源不…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszsh0696045.shtml"
+    },
+    {
+      "id": "ff1b367564",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 02:12",
+      "title": "AI云计算公司Nscale据悉寻求35亿美元IPO前融资",
+      "insight": "据知情人士透露，专注于人工智能的云计算公司Nscale正与潜在投资者洽谈，计划在首次公开募股之前…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszsh0690902.shtml"
+    },
+    {
+      "id": "ffda79bd32",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 02:11",
+      "title": "特朗普：市场本该像火箭一样上涨 美国的利率应该全球最低",
+      "insight": "美国总统唐纳德·特朗普周五在Truth Social上发帖说： 这有多疯狂？我们刚刚公布了非常棒…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszse3917858.shtml"
+    },
+    {
       "id": "ffefffeb4b",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -62,124 +179,7 @@
       "title": "大众汽车力图重振美国业务",
       "insight": "此外，福特汽车为其全新电动皮卡定下雄心勃勃的销售目标 作者：保罗・伯杰Scout Motors …",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkn1015235.shtml"
-    },
-    {
-      "id": "fff49c0071",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 00:18",
-      "title": "大型科技企业可建设民众不反感的数据中心",
-      "insight": "争相兴建 AI 算力工厂的科技巨头正在重新规划方案，以此重获美国民众信任 作者：克里斯托弗・明斯…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkk0765199.shtml"
-    },
-    {
-      "id": "fffd2d2ff6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 00:09",
-      "title": "特朗普突然向沃什发难 威胁美联储不降息就切断和对美顺差国的贸易",
-      "insight": "美国总统唐纳德·特朗普加大了对美联储降息的施压，他甚至威胁说若央行按兵不动自己就要切断和逆差对象…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh3988311.shtml"
-    },
-    {
-      "id": "ff50807e43",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 00:09",
-      "title": "美国商务部长卢特尼克去年收入超2.5亿美元",
-      "insight": "这位亿万富豪出售了康托尔公司股权及其他股票，大举购入指数基金美国商务部长霍华德・卢特尼克  内容…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh3988194.shtml"
-    },
-    {
-      "id": "ff7d0beaa4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 23:30",
-      "title": "Blue Owl据悉计划创设数据中心REIT并将其上市",
-      "insight": "知情人士称，Blue Owl Capital寻求设立一家数据中心房地产投资信托基金（REIT），…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn0998166.shtml"
-    },
-    {
-      "id": "ff5865a165",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 23:26",
-      "title": "苹果开启John Ternus时代 史上最庞大产品阵容蓄势待发",
-      "insight": "过去15年的大部分时间里，苹果公司一直致力于完善现有产品线，并推出各种服务，以创造更多经常性收入…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkh3965444.shtml"
-    },
-    {
-      "id": "ffb8f35b48",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 23:26",
-      "title": "CEO 表示：受就业数据影响，“市场并非处在正常运行环境”",
-      "insight": "马奥尼资产管理公司的肯・马奥尼称，投资者无法为这份就业报告感到欢欣鼓舞，因为强劲的数据或将为美联…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5824144.shtml"
-    },
-    {
-      "id": "ff037e2a7b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 23:24",
-      "title": "贝莱德：非农大超预期后 下周的通胀数据更显关键",
-      "insight": "贝莱德的投资组合经理Jeff Rosenberg表示，美国8月就业增长大幅超出预期，在美联储决策…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn5823718.shtml"
-    },
-    {
-      "id": "ff88261ee7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 23:23",
-      "title": "劳动节开启“秋日度假潮”，富豪游客避开夏日人潮",
-      "insight": "核心要点全球豪华旅游机构 Virtuoso 数据显示，秋季已经成为豪华旅行的新旺季，该趋势已持续…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5823366.shtml"
-    },
-    {
-      "id": "ffab1ae273",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 22:56",
-      "title": "加拿大就业人数减少41700人 惟制造业岗位大幅增加",
-      "insight": "加拿大8月就业人数减少4.17万，逆转了近几个月劳动力市场的部分回升势头，制造业是唯一录得显著就…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852795.shtml"
-    },
-    {
-      "id": "fff4d04064",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 22:55",
-      "title": "强劲就业数据推高美联储加息押注 比特币跌破8万美元",
-      "insight": "美国就业数据强于预期，重新点燃市场对美联储9月加息的押注，比特币下跌近3%，最新一轮突破8万美元…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852018.shtml"
-    },
-    {
-      "id": "ffc9205748",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 22:54",
-      "title": "美国股市早盘小幅走低 非农报告推高加息预期",
-      "insight": "美国就业增长强于预期，推动美国股市下跌，交易员加大了对美联储本月加息的押注。 纽约时间10：13…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0851011.shtml"
-    },
-    {
-      "id": "ff51f65bee",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 22:53",
-      "title": "贝森特表示“我们希望”不再有其他银行需要受到制裁",
-      "insight": "美国财政部长斯科特·贝森特在宣布制裁土耳其一家小型投资银行后表示，“我们希望不再有其他银行需要受…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1118843.shtml"
-    },
-    {
-      "id": "ff76c0c180",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-04 22:52",
-      "title": "美债收益率下行或许需要经济走弱，而特朗普无法靠行政手段解决该问题",
-      "insight": "核心要点尽管白宫努力压低收益率，长期美债收益率依旧处在特朗普第二任期的高位附近。受财政赤字、美联…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0849357.shtml"
     }
   ],
-  "updateTime": "2026-09-05 01:57"
+  "updateTime": "2026-09-05 04:20"
 }
