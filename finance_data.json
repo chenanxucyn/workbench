@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fff9ecf6e9",
+      "id": "ff9e976bbb",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 10:16",
+      "title": "华泰期货：美联储理事释放边际鸽派信号，贵金属震荡偏强",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 美联储方面，理事沃勒表示，如果即将公布的数据确认通胀压力…",
+      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-04/doc-iniqrpqw4046233.shtml"
+    },
+    {
+      "id": "ff9a34b636",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 10:14",
+      "title": "华泰期货：液化天然气上行趋势仍存，关注高价后供需端边际调节",
+      "insight": "来源：华泰期货 作者： 李祖智 市场要闻与重要数据 1.TTF10月合约报得71.435欧元/兆…",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqrpqy0817018.shtml"
+    },
+    {
+      "id": "ffbe2dd227",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 10:12",
+      "title": "华泰期货：铝现货市场挺升水或接近尾声",
+      "insight": "来源：华泰期货 作者： 封帆 重要数据 铝现货方面：SMM数据，华东A00铝价24350元/吨，…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-04/doc-iniqrpqw4041381.shtml"
+    },
+    {
+      "id": "ff84618199",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 06:42",
-      "title": "9月4日隔夜要闻：美股三大指数均涨超1% WTI微升 铜价走高 金价攀升 沃勒“鸽派”表态提振市场",
-      "insight": "市场 9月4日美股收盘：三大指数全线上涨，沃勒“鸽派”表态提振市场 9月4日美股成交额前20：S…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqrazh1629623.shtml"
+      "tag": "美股",
+      "time": "09-04 10:11",
+      "title": "新西兰央行助理行长：预计12月加息可能性更大",
+      "insight": "新西兰央行助理行长Karen Silk表示，该行更可能等到12月再度加息。 新西兰央行本周连续第…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrpqw4039825.shtml"
     },
     {
-      "id": "ff73b2fc93",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-04 06:11",
-      "title": "视频丨互放狠话 美称“随时准备再袭伊朗” 伊方誓言“惩罚侵略者”",
-      "insight": "近日中东局势持续升级，美国对伊朗实施新一轮打击。据伊朗官方3日的最新数据，美军近期对伊朗的袭击已…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqraza4081652.shtml"
+      "id": "ff507e75e2",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 10:07",
+      "title": "华泰期货：成交略显清淡，豆粕维持震荡",
+      "insight": "时间： 2026-09-04 07：58：07 来源：华泰期货 作者： 薛钧元 粕类观点 市场要…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-04/doc-iniqrpra6288131.shtml"
     },
     {
-      "id": "ff309ce07d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 06:08",
-      "title": "报道：片山将在日本内阁改组中留任财相",
-      "insight": "未援引消息源报道称，日本内阁预计在9月中下旬进行改组，而片山皋月料继续担任财务大臣。 报道称，首…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqraze0849007.shtml"
-    },
-    {
-      "id": "ffdc5cf07f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 06:07",
-      "title": "美国股市：标普500指数创一个月来最大涨幅 沃勒讲话缓解加息担忧",
-      "insight": "标普500指数创下一个月来最大单日涨幅，此前投资者权衡了美联储理事沃勒的讲话，他乐观地表示通胀正…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqraza4076264.shtml"
-    },
-    {
-      "id": "ff90a87707",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 06:05",
-      "title": "大宗商品综述：WTI微升 铜价走高 金价攀升",
-      "insight": "在伊朗宣称对美军基地发起最新打击后，WTI小幅上涨。铜价上涨，美国总统特朗普关于伊朗冲突的表态缓…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqraza4075572.shtml"
-    },
-    {
-      "id": "ffceaabef1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 06:01",
-      "title": "9月4日外盘头条：美副总统万斯淡化伊朗冲突规模 OpenAI推出GPT-6 Astra 英伟达130亿美元收购Hugging Face",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国副总统万斯淡化伊朗冲突规模 称不会称其为…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqraza4073230.shtml"
-    },
-    {
-      "id": "ff7b8f092f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 05:55",
-      "title": "卡尼对美加协议持开放态度 前提是汽车与钢铁条款具备竞争力",
-      "insight": "加拿大总理马克·卡尼表示，仍有可能与美国达成贸易协议，但前提是协议条款必须保持加拿大汽车和钢铁产…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqraze0842267.shtml"
-    },
-    {
-      "id": "ffb12c633c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 05:44",
-      "title": "Lululemon Q2营收不及预期，全年指引大幅下调，盘后暴跌17%",
-      "insight": "周四Lululemon美股盘后暴跌17%，此前这家零售商公布了又一个季度令人失望的业绩，并下调了…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqrazh6439365.shtml"
-    },
-    {
-      "id": "ff00749b6c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 05:40",
-      "title": "9月4日美股成交额前20：Snowflake领涨AI应用软件 特斯拉、SpaceX均大涨超5%",
-      "insight": "周四美股成交额第2名英伟达收涨1.80%，成交305亿美元。 英伟达同意以约130亿美元收购人工…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqrazh1611105.shtml"
-    },
-    {
-      "id": "ff5ebc9a78",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 05:00",
-      "title": "9月4日热门中概股涨跌不一，禾赛科技涨超11%，携程跌超5%",
-      "insight": "9月4日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.81%。 上涨个股（按市值从高…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwte4178324.shtml"
-    },
-    {
-      "id": "ffc546e7e6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 04:34",
-      "title": "美国副总统万斯淡化伊朗冲突规模 称不会称其为战争",
-      "insight": "美国副总统JD·万斯淡化了伊朗冲突规模，称他不会将其描述为“一场战争”。眼下美伊冲突已进入第七个…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwte4165732.shtml"
-    },
-    {
-      "id": "ff90d129ca",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 04:31",
-      "title": "9月4日美股收盘：三大指数全线上涨，沃勒“鸽派”表态提振市场",
-      "insight": "美股三大指数集体收涨超1%，国债收益率回落，投资者对美联储本月可能维持利率不变持乐观态度。 道指…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwtk1725959.shtml"
-    },
-    {
-      "id": "ff8d823659",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 04:18",
-      "title": "原油：WTI小幅上涨 伊朗声称打击地区美军基地",
-      "insight": "在伊朗宣称对美军基地发起最新打击后，WTI小幅上涨。 WTI在涨跌之间反复波动，最终收于每桶91…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwte4159563.shtml"
-    },
-    {
-      "id": "ffc9c9af51",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 04:17",
-      "title": "美国债市：国债上涨 美联储理事沃勒的讲话打压了加息预期",
-      "insight": "美国国债收益率曲线在周四美国上午交易时段呈现大幅牛市陡化走势，此前美联储理事沃勒表示，如果通胀持…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwth0931767.shtml"
-    },
-    {
-      "id": "ffc84fc84a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 03:51",
-      "title": "美联储理事沃勒称如果通胀形势改善 倾向于维持利率不变",
-      "insight": "美联储理事克里斯托弗·沃勒表示，他的下一次利率决定将受到下周公布的8月通胀数据的“重大影响”。 …",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwth0919739.shtml"
-    },
-    {
-      "id": "ffb40930ed",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-04 03:35",
-      "title": "美军称对伊海上封锁已使87艘商船改变航向",
-      "insight": "△美军中央司令部（资料图）当地时间9月3日，美军中央司令部表示，美军继续在区域水域执行对伊朗的海…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqqwth0929169.shtml"
-    },
-    {
-      "id": "ff95484cfa",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 03:34",
-      "title": "Crusoe据悉与Jane Street签署价值约130亿美元的AI云协议",
-      "insight": "据知情人士透露，数据中心初创公司Crusoe与量化交易公司Jane Street Group签署…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwtk6537034.shtml"
-    },
-    {
-      "id": "ff843c4381",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 03:29",
-      "title": "OpenAI推出GPT-6 Astra 称其为迈向通用人工智能的重要里程碑",
-      "insight": "OpenAI正在发布新一代技术GPT-6，并将其定位为公司十年来推动通用人工智能（AGI）发展取…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwtk6535966.shtml"
-    },
-    {
-      "id": "fff2315df6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-04 03:28",
-      "title": "大众汽车拟再裁员5万人 大幅精简产品线",
-      "insight": "大众汽车计划进一步裁减5万个工作岗位并精简产品线，以推进这家陷入困境的汽车制造商的全面改革。 大…",
-      "link": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqqwtk6535839.shtml"
-    },
-    {
-      "id": "ff8c9d9e4a",
-      "source": "新浪财经",
+      "id": "ffae806653",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "09-04 03:28",
-      "title": "英伟达发力“本地AI”！N1X设备10月上架 家庭算力路由器亮相",
-      "insight": "（来源：财联社）财联社9月4日讯（编辑 史正丞）随着轻量化AI模型的快速迭代，算力巨头英伟达正在…",
-      "link": "https://finance.sina.com.cn/stock/t/2026-09-04/doc-iniqqwtk1709987.shtml"
+      "time": "09-04 10:06",
+      "title": "兑吧早盘一度涨超12% 近10个交易日股价累计涨幅已超3倍",
+      "insight": "兑吧（01753）早盘一度涨超12%，近10个交易日股价累计涨幅已超3倍。截至发稿，涨5.77%…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpra6287777.shtml"
+    },
+    {
+      "id": "ff7d748270",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 10:04",
+      "title": "华泰期货：棉价高位回落，郑糖跟随外盘偏强震荡",
+      "insight": "来源：华泰期货 作者： 李馨 棉花观点 市场要闻与重要数据 期货方面，昨日收盘棉花2701合约1…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-04/doc-iniqrpqw4031488.shtml"
+    },
+    {
+      "id": "ffab92d421",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-04 10:02",
+      "title": "康方生物盘中涨超10% 康方生物依沃西与K药头对头研究获显著阳性结果",
+      "insight": "康方生物（09926）盘中涨超10%。截至发稿，股价上涨7.05%，现报97.20港元，成交额1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpqw4027860.shtml"
+    },
+    {
+      "id": "ff53a700eb",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-04 09:56",
+      "title": "黑芝麻智能早盘涨逾5% 与遨博智能在具身智能机器人领域合作落地取得关键进展",
+      "insight": "黑芝麻智能（02533）盘中涨超5%，截至发稿，股价上涨4.59%，现报10.71港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpqy0793859.shtml"
+    },
+    {
+      "id": "fff183c79c",
+      "source": "市场资讯",
+      "tag": "财经",
+      "time": "09-04 09:53",
+      "title": "黄金再次闪耀！法兴加入国际大行看涨大军：重返金市良机已至",
+      "insight": "转自：财联社 财联社9月4日讯（编辑 卞纯）随着黄金市场再次测试每盎司4500美元的初步阻力位。…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-04/doc-iniqrpqw4020477.shtml"
+    },
+    {
+      "id": "ff34988579",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-04 09:53",
+      "title": "和黄医药盘中涨超6% 与葛兰素史克达成独家开发及许可协议",
+      "insight": "和黄医药（00013）盘中涨超6%，截至发稿，涨幅收窄，股价上涨2.47%，现报22.42港元，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpra6279982.shtml"
+    },
+    {
+      "id": "ffdc781a10",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-04 09:48",
+      "title": "普洛斯拟在佛山投资40亿元建设数据中心园区",
+      "insight": "新加坡政府投资公司旗下的地产公司普洛斯表示，已开始在中国南方城市佛山开发一个新的超大规模数据中心…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrpra1449882.shtml"
+    },
+    {
+      "id": "ffbf138bbc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-04 09:48",
+      "title": "医渡科技早盘涨超5% 公司持续推进医疗智能体能力的模块化和标准化",
+      "insight": "医渡科技（02158）早盘涨超5%，截至发稿，股价上涨5.51%，现报3.93港元，成交额615…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrpqy0780979.shtml"
+    },
+    {
+      "id": "ff25cb054a",
+      "source": "界面新闻",
+      "tag": "财经热点",
+      "time": "09-04 09:46",
+      "title": "美联储9月加息预期降温，现货黄金一度站上4500美元",
+      "insight": "现货黄金周四收报4491.85美元一盎司，上涨2.37%，一度站上4500美元关口，最高触及45…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqrpqy0782547.shtml"
+    },
+    {
+      "id": "ff627d1316",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "09-04 09:46",
+      "title": "日元创联合干预后最大涨幅后，小摩警示：155失守或引发连锁卖盘，美元兑日元恐直坠142-146区间",
+      "insight": "在经历约一个月的缓慢走弱后，日元周四突然大幅走强，单日涨幅接近2%，创下自7月底日美联合干预汇市…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-09-04/doc-iniqrpra1451833.shtml"
+    },
+    {
+      "id": "ff732baaa3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 09:40",
+      "title": "中信建投期货：9月4日能化早报",
+      "insight": "橡胶：偏强震荡 周四，国产全乳胶18150元/吨，环比上日持平；泰国20号混合胶17680元/吨…",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-04/doc-iniqrpra1444582.shtml"
+    },
+    {
+      "id": "fff12cc84a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-04 09:37",
+      "title": "空客放缓A330飞机交付进度，因一架生产中飞机尾翼发现遗留工具",
+      "insight": "一位知情人士表示，由于在一架生产中的A330neo飞机尾部结构内发现一件遗留工具，空客集团被迫放…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrpqw3991985.shtml"
+    },
+    {
+      "id": "ff16842661",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-04 09:32",
+      "title": "光大期货：9月4日有色金属日报",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-04/doc-iniqriie6398381.shtml"
+    },
+    {
+      "id": "ff87fa94ab",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-04 09:32",
+      "title": "美国汽车安全监管机构表示正在评估特斯拉“Cybercab”的推出情况",
+      "insight": "美国国家公路交通安全管理局（NHTSA）的一位发言人周四表示，该机构正在评估特斯拉推出“Cybe…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqrihy4115189.shtml"
+    },
+    {
+      "id": "ffb71ff74f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-04 09:30",
+      "title": "黄金股早盘集体高开 紫金黄金国际及紫金矿业均涨逾4%",
+      "insight": "黄金股早盘集体高开，截至发稿，紫金黄金国际（02259）上涨4.12%，报166.8港元；紫金矿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-04/doc-iniqrihy4110663.shtml"
     }
   ],
-  "updateTime": "2026-09-04 06:55"
+  "updateTime": "2026-09-04 10:21"
 }
