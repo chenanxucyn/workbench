@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ff05d7b73c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-06 00:12",
+      "title": "伊朗媒体：遭美军袭击的油轮中一艘载有石油 还有一艘空载",
+      "insight": "伊朗媒体称，两艘伊朗油轮在贾斯克附近遭到美军袭击，还有一艘油轮在哈尔克岛附近遇袭。 在贾斯克附近…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-06/doc-iniquyir0573038.shtml"
+    },
+    {
+      "id": "ff9f343cd9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-06 00:06",
+      "title": "美国防长赫格塞思：如果美国船只遭袭击 将击沉伊朗油轮",
+      "insight": "“如果伊朗向美国船只开火，我们将摧毁（并击沉）他们的油轮，”美国防长赫格塞思在社交媒体上发帖称。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniquyin0092484.shtml"
+    },
+    {
+      "id": "ff55570696",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 23:36",
+      "title": "英国海上贸易行动办公室：海湾多艘船只遭致失能火力打击",
+      "insight": "英国海上贸易行动办公室收到报告，称阿拉伯湾北部与阿曼湾有多艘商船遭遇可致船只丧失行动能力的火力打…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniquyis7327769.shtml"
+    },
+    {
+      "id": "ff0996365a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 23:03",
+      "title": "OpenAI“Astra”模型所用技术引发安全隐患",
+      "insight": "OpenAI表示，其即将推出的Astra模型在代码编写、电脑端应用操作等能力方面实现升级。但一名…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniquyir0544041.shtml"
+    },
+    {
+      "id": "ff5635b74f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 22:45",
+      "title": "美军打击三艘伊朗油轮 报复伊朗革命卫队的袭击",
+      "insight": "美国军方表示，在伊朗革命卫队用弹道导弹袭击两艘美国海军军舰后，美军打击了三艘伊朗原油油轮，以此作…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquyin0071799.shtml"
+    },
+    {
+      "id": "ff9453ff11",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 22:12",
+      "title": "特朗普的国家资本主义延伸至石油行业：与委内瑞拉达成史无前例的交易",
+      "insight": "如果特朗普的委内瑞拉交易成功，五角大楼将获得一家不起眼的私营石油公司的大量所有权，而这家公司将控…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquyin4896382.shtml"
+    },
+    {
+      "id": "ff66d65055",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 22:08",
+      "title": "纽约市学校AI新政：低年级禁用，高中试点，全美学区静观其效",
+      "insight": "美国最大的学区现在对低年级学生在校内使用人工智能工具制定了最严格的规定——至少是暂时的。一些教育…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquyir0516955.shtml"
+    },
+    {
       "id": "ff20ac22a9",
       "source": "环球市场播报",
       "tag": "美股",
@@ -116,70 +179,7 @@
       "title": "五角大楼将根据新协议按成本价获得委内瑞拉20%原油",
       "insight": "据报道，美国五角大楼已确保获得优先购买委内瑞拉17个油田产出原油的权利，并且根据新协议可以开采成…",
       "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtspy0562105.shtml"
-    },
-    {
-      "id": "ff6fd0312c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 09:38",
-      "title": "现代钢铁于路易斯安那州58亿美元钢厂项目破土动工",
-      "insight": "韩国现代钢铁公司在美国路易斯安那州举行总投资58亿美元的电弧炉钢厂奠基仪式，该厂将生产热轧与冷轧…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtsqa5452816.shtml"
-    },
-    {
-      "id": "ffe3aa0dc8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 09:08",
-      "title": "折叠屏苹果手机曝出新名字：iPhone Duo",
-      "insight": "外界传闻中，备受期待的折叠版iPhone常被称作iPhone Ultra或是iPhone Fol…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtspw3738995.shtml"
-    },
-    {
-      "id": "ff12916505",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-05 08:58",
-      "title": "囤积 8300 枚 BTC，美企剑指全球霸权",
-      "insight": "据 Woofun AI 消息，American Bitcoin (ABTC.US) 作为纳斯达克…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-05/doc-iniqtsqa5440703.shtml"
-    },
-    {
-      "id": "ffd279f817",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-05 08:49",
-      "title": "就业超预期引爆加息恐慌，比特币失守 8 万",
-      "insight": "据 Woofun AI 消息，周五美国公布的就业数据大幅超越市场预期，直接触发市场对美联储维持紧…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-05/doc-iniqtspw3735712.shtml"
-    },
-    {
-      "id": "ff2edf60f0",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 08:34",
-      "title": "五角大楼扩大泄密调查范围 约50名联合参谋部人员接受测谎",
-      "insight": "据了解此项行动的官员透露，美国政府调查人员采取了非同寻常的举措，对美军联合参谋部约50名人员开展…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtspw3716054.shtml"
-    },
-    {
-      "id": "ff2f1b137e",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-05 07:57",
-      "title": "油价或迎“大跳水”？贝森特：伊朗冲突结束后原油或跌至40-50美元",
-      "insight": "美国财政部长贝森特表示，一旦伊朗冲突结束，国际油价可能出现大幅下跌，甚至降至每桶40至50美元。…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-05/doc-iniqtnha0594939.shtml"
-    },
-    {
-      "id": "ff7cdd86df",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 07:16",
-      "title": "伊拉克即将接收汽油船运货物以缓解供应短缺",
-      "insight": "伊拉克石油部援引巴西姆・穆罕默德・胡代尔部长的声明称，石油输出国组织第二大产油国伊拉克，很快将接…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtnfy3794354.shtml"
     }
   ],
-  "updateTime": "2026-09-05 20:15"
+  "updateTime": "2026-09-06 01:02"
 }
