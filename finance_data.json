@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "fffd4b1143",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 05:57",
+      "title": "伊朗否认伊斯法罕核设施遭到袭击",
+      "insight": "据伊朗方面消息，伊朗伊斯兰革命卫队公共关系部门5日发表声明，否认伊斯法罕核技术中心及核设施遭到袭…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvrfi0329396.shtml"
+    },
+    {
+      "id": "ff2b9e25fd",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "09-06 05:49",
+      "title": "俄总统助理：普京与美总统特使会见超3小时",
+      "insight": "新华社莫斯科9月6日消息，俄罗斯总统助理乌沙科夫6日凌晨说，俄总统普京5日晚在克里姆林宫与美国总…",
+      "link": "https://finance.sina.com.cn/world/2026-09-06/doc-iniqvrfe4605669.shtml"
+    },
+    {
+      "id": "ffb48c8663",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 03:42",
+      "title": "伊朗革命卫队：已打击3艘与美国有关联船只及3艘油轮",
+      "insight": "当地时间5日晚，伊朗伊斯兰革命卫队海军在一份声明中称，“美国军队出于霍尔木兹海峡被封锁的绝望，袭…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvkxh4715481.shtml"
+    },
+    {
+      "id": "ffca5b5c7e",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 02:46",
+      "title": "普京：俄方将努力确保美乌谈判进程和调解人员安全",
+      "insight": "当地时间5日晚间，俄罗斯总统普京在克里姆林宫与美国总统特朗普的特使威特科夫和女婿库什纳举行会谈，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvkxh4714637.shtml"
+    },
+    {
+      "id": "ff701b5bfe",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 02:37",
+      "title": "塞尔维亚进步党推举武契奇为总理候选人",
+      "insight": "塞尔维亚进步党总委员会5日一致决定，推举现任总统武契奇为该党议会选举名单领衔人和总理候选人，并通…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvkxn7167197.shtml"
+    },
+    {
       "id": "ff35d521db",
       "source": "环球市场播报",
       "tag": "美股",
@@ -10,6 +55,24 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverp0501692.shtml"
     },
     {
+      "id": "ff4df78c37",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 02:06",
+      "title": "伊朗谴责美国非法袭击该国船只",
+      "insight": "当地时间5日，伊朗外交部发表声明，强烈谴责美国当天在波斯湾和阿曼湾袭击伊朗商船的侵略行径。 声明…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqvkxh4710027.shtml"
+    },
+    {
+      "id": "ffd2e9846b",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 01:38",
+      "title": "伊朗军方称如美继续其破坏行为 将对美军进行更大规模打击",
+      "insight": "当地时间5日，伊朗武装部队哈塔姆·安比亚中央司令部发出警告称，如美国继续进行其不安全行为，骚扰伊…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqverp0497250.shtml"
+    },
+    {
       "id": "ffc1d32ec4",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +80,15 @@
       "title": "特朗普力挺AI数据中心 加剧共和党中期选举落败风险",
       "insight": "美国总统特朗普对人工智能数据中心的大力支持，使他与越来越多反对建设数据中心的选民站到了对立面，而…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml"
+    },
+    {
+      "id": "fffb203ae3",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 00:56",
+      "title": "普京开始与美国总统特使会谈",
+      "insight": "当地时间9月5日晚，俄罗斯总统普京与美国总统特使威特科夫和库什纳在克里姆林宫开始会谈。（总台记者…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqverp0466786.shtml"
     },
     {
       "id": "ff05d7b73c",
@@ -37,6 +109,24 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniquyin0092484.shtml"
     },
     {
+      "id": "ff48ff9fbf",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 00:02",
+      "title": "德国萨克森州发现多个针对电力设施的爆炸装置",
+      "insight": "德国萨克森州警方9月5日表示，在该州两处高压输电线路附近共发现12个爆炸装置。目前这些装置均已被…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqverp0497940.shtml"
+    },
+    {
+      "id": "ffc976ca43",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-05 23:40",
+      "title": "俄称击中一艘载有西方国家向乌提供军事物资的干货船",
+      "insight": "9月5日，俄罗斯国防部通报称，俄军在敖德萨州切尔诺莫尔斯克港击中一艘干货船，船上载有西方国家向乌…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqverp0445605.shtml"
+    },
+    {
       "id": "ff55570696",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -44,6 +134,15 @@
       "title": "英国海上贸易行动办公室：海湾多艘船只遭致失能火力打击",
       "insight": "英国海上贸易行动办公室收到报告，称阿拉伯湾北部与阿曼湾有多艘商船遭遇可致船只丧失行动能力的火力打…",
       "link": "https://finance.sina.com.cn/7x24/2026-09-05/doc-iniquyis7327769.shtml"
+    },
+    {
+      "id": "ffe938c7d7",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "09-05 23:24",
+      "title": "普京下令暂停空袭基辅3天　将会见美国特使",
+      "insight": "新华社莫斯科9月5日电（记者黄河 刘恺）俄罗斯总统新闻秘书佩斯科夫5日表示，俄总统普京已经下令3…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniquyin4914006.shtml"
     },
     {
       "id": "ff0996365a",
@@ -80,106 +179,7 @@
       "title": "纽约市学校AI新政：低年级禁用，高中试点，全美学区静观其效",
       "insight": "美国最大的学区现在对低年级学生在校内使用人工智能工具制定了最严格的规定——至少是暂时的。一些教育…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquyir0516955.shtml"
-    },
-    {
-      "id": "ff20ac22a9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 20:11",
-      "title": "OpenAI在立法阻力下扩充政策团队，聘用三人负责州级政策事务",
-      "insight": "OpenAI一位发言人表示，该实验室的全球事务团队正在扩充，新增了三位专注于州级政策的关键人才。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqutzq4993319.shtml"
-    },
-    {
-      "id": "ff6c21d449",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 18:11",
-      "title": "塔塔将在印度海得拉巴建设大型AI数据中心，预计投资7000亿卢比",
-      "insight": "据交易所文件显示，塔塔咨询服务公司（TCS）旗下的HyperVault已获得264英亩土地，将在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqupts5088932.shtml"
-    },
-    {
-      "id": "ff79893f70",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 17:58",
-      "title": "捷豹路虎据悉拟未来两年裁员4000人",
-      "insight": "据报道，由于成本飙升、销量暴跌以及美国关税的影响，英国最大汽车制造商捷豹路虎计划在未来两年内裁员…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqupts0253328.shtml"
-    },
-    {
-      "id": "fff0f7bf58",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 17:10",
-      "title": "鸿海8月销售额增长近52% 受AI服务器需求强劲推动",
-      "insight": "鸿海精密公布月销售额增长近52%，受全球数据中心和AI算力建设竞赛中的服务器需求推动。 据周六发…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimq3637697.shtml"
-    },
-    {
-      "id": "ff46ca6745",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 16:06",
-      "title": "韩国今年迄今出口额7094亿美元打破年度纪录，预计12月初将达1万亿美元",
-      "insight": "韩国总统李在明周六在社交媒体上分享了一份韩国海关负责人的报告，显示韩国今年迄今累计出口额已超过去…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimu0349943.shtml"
-    },
-    {
-      "id": "ff450a0b3c",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "09-05 15:44",
-      "title": "10天过去了 悬在吉隆口岸上方的堰塞湖怎么样了",
-      "insight": "9月4日，距西藏吉隆“8·26”泥石流灾害发生已经过去10天，抢险救灾各项工作仍在进行中。那么，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniquimu0344977.shtml"
-    },
-    {
-      "id": "ffd86339ca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 15:38",
-      "title": "OpenAI回应“维基事件”，称需要扩大对齐失范事件的披露范围",
-      "insight": "OpenAI周末在X平台发帖，回应“维基事件”，并表示需要扩大AI模型对齐失范事件的披露范围。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimu5173316.shtml"
-    },
-    {
-      "id": "ff01799a7d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 14:48",
-      "title": "伊朗媒体：一艘伊朗油轮在哈尔克岛附近遭到美国导弹袭击",
-      "insight": "据伊朗媒体，伊朗哈尔克岛附近的波斯湾海域传来爆炸声。报道表示，目前尚未发布有关爆炸起因与来源的官…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniquccw5290061.shtml"
-    },
-    {
-      "id": "ff17e9da97",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 13:57",
-      "title": "Jump Trading据悉在香港扩大办公空间 并拟增聘量化及AI方面人才",
-      "insight": "据知情人士称，Jump Trading在中国香港增加办公空间，这是全球交易公司扩大在港布局的最新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquccu0433457.shtml"
-    },
-    {
-      "id": "ff421f5eb6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 12:14",
-      "title": "杰富瑞管理的基金对Radiant World及另一实体敞口接近5亿美元",
-      "insight": "由杰富瑞管理的基金曾向破产汽车零部件集团First Brands Group提供贷款，目前该基金…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy0546705.shtml"
-    },
-    {
-      "id": "ff3350270a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 11:48",
-      "title": "美国特使表示制裁对象为土耳其单家银行 而非整个国家",
-      "insight": "美国驻土耳其大使汤姆·巴拉克称，华盛顿方面对土耳其一家金融机构及其两家子公司实施制裁，举措仅针对…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtwvy5365994.shtml"
     }
   ],
-  "updateTime": "2026-09-06 03:46"
+  "updateTime": "2026-09-06 06:33"
 }
