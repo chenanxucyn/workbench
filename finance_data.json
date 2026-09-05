@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ff20ac22a9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 20:11",
+      "title": "OpenAI在立法阻力下扩充政策团队，聘用三人负责州级政策事务",
+      "insight": "OpenAI一位发言人表示，该实验室的全球事务团队正在扩充，新增了三位专注于州级政策的关键人才。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqutzq4993319.shtml"
+    },
+    {
+      "id": "ff6c21d449",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 18:11",
+      "title": "塔塔将在印度海得拉巴建设大型AI数据中心，预计投资7000亿卢比",
+      "insight": "据交易所文件显示，塔塔咨询服务公司（TCS）旗下的HyperVault已获得264英亩土地，将在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqupts5088932.shtml"
+    },
+    {
+      "id": "ff79893f70",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 17:58",
+      "title": "捷豹路虎据悉拟未来两年裁员4000人",
+      "insight": "据报道，由于成本飙升、销量暴跌以及美国关税的影响，英国最大汽车制造商捷豹路虎计划在未来两年内裁员…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqupts0253328.shtml"
+    },
+    {
+      "id": "fff0f7bf58",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 17:10",
+      "title": "鸿海8月销售额增长近52% 受AI服务器需求强劲推动",
+      "insight": "鸿海精密公布月销售额增长近52%，受全球数据中心和AI算力建设竞赛中的服务器需求推动。 据周六发…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimq3637697.shtml"
+    },
+    {
+      "id": "ff46ca6745",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 16:06",
+      "title": "韩国今年迄今出口额7094亿美元打破年度纪录，预计12月初将达1万亿美元",
+      "insight": "韩国总统李在明周六在社交媒体上分享了一份韩国海关负责人的报告，显示韩国今年迄今累计出口额已超过去…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimu0349943.shtml"
+    },
+    {
+      "id": "ff450a0b3c",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "09-05 15:44",
+      "title": "10天过去了 悬在吉隆口岸上方的堰塞湖怎么样了",
+      "insight": "9月4日，距西藏吉隆“8·26”泥石流灾害发生已经过去10天，抢险救灾各项工作仍在进行中。那么，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniquimu0344977.shtml"
+    },
+    {
+      "id": "ffd86339ca",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 15:38",
+      "title": "OpenAI回应“维基事件”，称需要扩大对齐失范事件的披露范围",
+      "insight": "OpenAI周末在X平台发帖，回应“维基事件”，并表示需要扩大AI模型对齐失范事件的披露范围。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquimu5173316.shtml"
+    },
+    {
       "id": "ff01799a7d",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -116,70 +179,7 @@
       "title": "伊拉克即将接收汽油船运货物以缓解供应短缺",
       "insight": "伊拉克石油部援引巴西姆・穆罕默德・胡代尔部长的声明称，石油输出国组织第二大产油国伊拉克，很快将接…",
       "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtnfy3794354.shtml"
-    },
-    {
-      "id": "ff58928f2f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 07:02",
-      "title": "Anthropic预计9月底才公布招股说明书",
-      "insight": "媒体引知情人士报道，Anthropic预计将在美国11月中期选举开始前的几天完成上市。 报道称，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtnfy3787267.shtml"
-    },
-    {
-      "id": "ff20c3ba5a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 06:24",
-      "title": "9月5日隔夜要闻：三大指数全线收跌 就业数据公布后美债收益率上行 油价企稳 市场在美国长周末前交投清淡",
-      "insight": "市场 9月5日美股收盘：三大指数全线收跌，就业数据公布后美债收益率上行 9月5日美股成交前20：…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtnfy3767405.shtml"
-    },
-    {
-      "id": "ff93669c60",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 06:05",
-      "title": "美元在强劲非农报告刺激下反弹 惟多空博弈下未改单周颓势",
-      "insight": "美元9月开局不利，美联储下一步行动受到相互矛盾信号的夹击，而即将发布的关键通胀报告也让交易员坐立…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtnfy3760230.shtml"
-    },
-    {
-      "id": "ffe475224e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 05:34",
-      "title": "Bloom Energy、因美纳和爱惠浦将被纳入标普500指数",
-      "insight": "标普道琼斯指数公司发布声明称，Bloom Energy、因美纳（Illumina）和爱惠浦（Ev…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh5646095.shtml"
-    },
-    {
-      "id": "ff3dc7f16f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 05:12",
-      "title": "惠誉将葡萄牙信用评级上调至A+ 展望调整为稳定",
-      "insight": "惠誉将葡萄牙的长期发行人违约评级从A上调至A+。 评级展望由正面转为稳定。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3871659.shtml"
-    },
-    {
-      "id": "ff1210a6d1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:53",
-      "title": "美国股市：非农就业数据拖累大盘下挫 加息担忧再次点燃",
-      "insight": "美国高于预期的非农就业数据推动股市下跌，交易员加大对美联储本月加息的押注。 标普500指数下跌0…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3862035.shtml"
-    },
-    {
-      "id": "ff7b571364",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:51",
-      "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
-      "insight": "周五美股成交额第1名美光收涨6.10%，成交347.7亿美元。 美光计划年内大幅扩产HBM，产能…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml"
     }
   ],
-  "updateTime": "2026-09-05 15:16"
+  "updateTime": "2026-09-05 20:15"
 }
