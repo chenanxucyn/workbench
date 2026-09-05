@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ff01799a7d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 14:48",
+      "title": "伊朗媒体：一艘伊朗油轮在哈尔克岛附近遭到美国导弹袭击",
+      "insight": "据伊朗媒体，伊朗哈尔克岛附近的波斯湾海域传来爆炸声。报道表示，目前尚未发布有关爆炸起因与来源的官…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniquccw5290061.shtml"
+    },
+    {
+      "id": "ff17e9da97",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 13:57",
+      "title": "Jump Trading据悉在香港扩大办公空间 并拟增聘量化及AI方面人才",
+      "insight": "据知情人士称，Jump Trading在中国香港增加办公空间，这是全球交易公司扩大在港布局的最新…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniquccu0433457.shtml"
+    },
+    {
+      "id": "ff421f5eb6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 12:14",
+      "title": "杰富瑞管理的基金对Radiant World及另一实体敞口接近5亿美元",
+      "insight": "由杰富瑞管理的基金曾向破产汽车零部件集团First Brands Group提供贷款，目前该基金…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy0546705.shtml"
+    },
+    {
+      "id": "ff3350270a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-05 11:48",
+      "title": "美国特使表示制裁对象为土耳其单家银行 而非整个国家",
+      "insight": "美国驻土耳其大使汤姆·巴拉克称，华盛顿方面对土耳其一家金融机构及其两家子公司实施制裁，举措仅针对…",
+      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtwvy5365994.shtml"
+    },
+    {
+      "id": "ff44c9751f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-05 11:46",
+      "title": "阿布扎比G42考虑引入美国资本控股 保障AI芯片获取",
+      "insight": "知情人士透露，总部位于阿布扎比的人工智能企业G42高管已开展初步磋商，探讨向美国企业出售多数股权…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy5364999.shtml"
+    },
+    {
       "id": "ff46da3159",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -134,52 +179,7 @@
       "title": "9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资",
       "insight": "周五美股成交额第1名美光收涨6.10%，成交347.7亿美元。 美光计划年内大幅扩产HBM，产能…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0811441.shtml"
-    },
-    {
-      "id": "ffbe27fea3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:32",
-      "title": "原油：油价企稳 市场在美国长周末前交投清淡",
-      "insight": "原油价格周五在美国长周末前的清淡交投中走势震荡，一方面美国与伊朗近期恢复交火加剧了供应担忧，而与…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3852296.shtml"
-    },
-    {
-      "id": "ffc721efef",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:25",
-      "title": "9月5日美股收盘：三大指数全线收跌，就业数据公布后美债收益率上行",
-      "insight": "美股三大股指周五全线收跌，就业数据公布后美债收益率上行，2年期美债收益率触及2025年1月以来新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh5631672.shtml"
-    },
-    {
-      "id": "ffa1110e9c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:15",
-      "title": "9月5日热门中概股涨跌不一，慧荣科技涨超8%，网易有道跌超5%",
-      "insight": "9月5日热门中概股涨跌不一，纳斯达克中国金龙指数收涨0.84%。 上涨个股（按市值从高到低）：台…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3844770.shtml"
-    },
-    {
-      "id": "ff1e25d917",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 04:03",
-      "title": "特朗普淡化伊朗战争影响 称此类冲突对美国是“小事”",
-      "insight": "特朗普称，伊朗战争对美国而言只是“小事”。 一天前，美国副总统万斯表示，鉴于大规模作战行动数月前…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfya3839862.shtml"
-    },
-    {
-      "id": "ff61fbbaa0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 03:51",
-      "title": "美国债市：中短期国债在强劲的就业报告后下跌 市场焦点转向CPI",
-      "insight": "美国债市周五，收益率曲线短端和中部的债券下跌，因为在美国早盘公布了强劲的8月非农就业数据后，国债…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtfyh0798118.shtml"
     }
   ],
-  "updateTime": "2026-09-05 10:22"
+  "updateTime": "2026-09-05 15:16"
 }
