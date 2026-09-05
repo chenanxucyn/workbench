@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "id": "ff35d521db",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-06 02:25",
+      "title": "希腊总理公布2027年规模22亿欧元经济扶持计划",
+      "insight": "希腊总理米佐塔基斯公布总规模22亿欧元的一揽子经济措施，旨在缓解生活成本危机，该国也正为明年的全…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverp0501692.shtml"
+    },
+    {
+      "id": "ffc1d32ec4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-06 01:24",
+      "title": "特朗普力挺AI数据中心 加剧共和党中期选举落败风险",
+      "insight": "美国总统特朗普对人工智能数据中心的大力支持，使他与越来越多反对建设数据中心的选民站到了对立面，而…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqverk4811611.shtml"
+    },
+    {
       "id": "ff05d7b73c",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -161,25 +179,7 @@
       "title": "美国特使表示制裁对象为土耳其单家银行 而非整个国家",
       "insight": "美国驻土耳其大使汤姆·巴拉克称，华盛顿方面对土耳其一家金融机构及其两家子公司实施制裁，举措仅针对…",
       "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtwvy5365994.shtml"
-    },
-    {
-      "id": "ff44c9751f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-05 11:46",
-      "title": "阿布扎比G42考虑引入美国资本控股 保障AI芯片获取",
-      "insight": "知情人士透露，总部位于阿布扎比的人工智能企业G42高管已开展初步磋商，探讨向美国企业出售多数股权…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtwvy5364999.shtml"
-    },
-    {
-      "id": "ff46da3159",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-05 10:17",
-      "title": "五角大楼将根据新协议按成本价获得委内瑞拉20%原油",
-      "insight": "据报道，美国五角大楼已确保获得优先购买委内瑞拉17个油田产出原油的权利，并且根据新协议可以开采成…",
-      "link": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtspy0562105.shtml"
     }
   ],
-  "updateTime": "2026-09-06 01:02"
+  "updateTime": "2026-09-06 03:46"
 }
