@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ff0d730f5e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-06 20:03",
+      "title": "以色列国防军称对真主党武装分子发动袭击 以回应无人机袭击",
+      "insight": "以色列国防军称，周日对黎巴嫩南部的真主党武装分子和基础设施发动袭击，以回应前一天真主党向安全区士…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyt0006993.shtml"
+    },
+    {
+      "id": "ff608c308a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-06 19:49",
+      "title": "OPEC+维持石油产量配额不变的计划",
+      "insight": "OPEC+主要成员国坚持维持石油产量配额不变的计划，而伊朗战争继续导致中东大片地区的石油生产停滞…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyu6772443.shtml"
+    },
+    {
+      "id": "ffef06143f",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 19:43",
+      "title": "继续停牌！002731，触及规范类退市情形",
+      "insight": "来源：中国基金报 【导读】*ST萃华未在9月6日前披露2025年年报，触及规范类退市情形 中国基…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyw6333314.shtml"
+    },
+    {
+      "id": "ffd3bb4dab",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 19:43",
+      "title": "连续涨停！002403，提示风险",
+      "insight": "来源：中国基金报 【导读】爱仕达连续涨停后提示风险称，具身智能机器人项目处于起步阶段 中国基金报…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwys9999696.shtml"
+    },
+    {
+      "id": "ffccfb25d9",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 19:30",
+      "title": "航司接连“资不抵债”，民航怎么了？",
+      "insight": "来源：民航之翼 上半年，上市公司财报已公布。 在高油价冲击，民航业业绩无一例外的下滑。 大家发现…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwys9999081.shtml"
+    },
+    {
+      "id": "ffc39e3fc3",
+      "source": "21世纪经济报道",
+      "tag": "股市",
+      "time": "09-06 18:47",
+      "title": "350亿火电巨头，豪掷10亿成立投资公司",
+      "insight": "一则工商登记信息，把陕西能源推到了资本运作的叙事里。 近日，陕西陕能汇森资本投资有限公司成立（下…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyq4043127.shtml"
+    },
+    {
+      "id": "ff7442fe2c",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "09-06 18:33",
+      "title": "002731，将被退市！年报、半年报全部逾期未披露",
+      "insight": "多重风险压顶的*ST萃华（002731），将面临规范类退市！ 9月6日晚间，*ST萃华发布公告，…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyu6736766.shtml"
+    },
+    {
+      "id": "ff934dcaee",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 17:59",
+      "title": "斩获两连板！爱仕达提示风险",
+      "insight": "來源：资本秘闻 9月6日，爱仕达披露公告称，具身智能机器人的合作项目为公司新开拓业务，尚处于起步…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssy6436299.shtml"
+    },
+    {
+      "id": "ffe2412cbf",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 17:59",
+      "title": "触及规范类退市！一A股公司将终止上市",
+      "insight": "来源：资本秘闻 触及规范类退市情形，*ST萃华将 被终止上市。 9月6日，*ST萃华披露公告称，…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwsss4159324.shtml"
+    },
+    {
+      "id": "ffe07283fa",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 17:38",
+      "title": "女装大佬被调查，2.19亿奶粉买卖只是“开胃菜”？",
+      "insight": "来源 | 野马财经 跨界非坏事，为何低调？ 作者 | 方璐 安正时尚（603839.SH）聚焦女…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssv0074316.shtml"
+    },
+    {
+      "id": "ff4cd70b8a",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "09-06 17:20",
+      "title": "301266，控制权拟变更！收购方刚成立不到10天",
+      "insight": "停牌一周后，宇邦新材（301266）披露拟筹划控制权变更事项，公司股票将自2026年9月7日（星…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwsss4150239.shtml"
+    },
+    {
+      "id": "ff2d2b468f",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 17:06",
+      "title": "增收不增利魔咒缠身，上半年净利润下滑超9成，华宝新能如何破局？",
+      "insight": "来源：尺度商业 文 | 董武英 编辑 | 刘振涛 作为“A股便携储能第一股”，华宝新能上市之后业…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssw6822448.shtml"
+    },
+    {
       "id": "ff4d582da7",
       "source": "每日经济新闻",
       "tag": "财经",
@@ -28,6 +136,33 @@
       "link": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwnku4242959.shtml"
     },
     {
+      "id": "ff4337eb45",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 14:50",
+      "title": "铜冠铜箔：现金流四连负，毛利率靠PCB铜箔“单腿”支撑",
+      "insight": "来源：证券之星 今年上半年，铜箔行业景气度回升带动铜冠铜箔（301217.SZ）经营业绩大幅上扬…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwsss4143217.shtml"
+    },
+    {
+      "id": "ff9a6aeacd",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 14:50",
+      "title": "苏泊尔上半年营净双降：外销大客户订单承压，内销“烧钱”换量增长成色待考",
+      "insight": "来源：证券之星 8月27日，苏泊尔（002032.SZ）披露2026年半年度报告。营收与净利润双…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssv0031163.shtml"
+    },
+    {
+      "id": "ffa869bd32",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-06 14:50",
+      "title": "油价上涨重创业绩，中国国航中报亏损同比扩大，高负债与资本开支重压难解",
+      "insight": "来源：证券之星 中国国航（601111.SH）的业绩修复进程正式被打断。今年上半年，受中东地缘冲…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssw6803062.shtml"
+    },
+    {
       "id": "ff1d98c7a5",
       "source": "环球市场播报",
       "tag": "美股",
@@ -44,142 +179,7 @@
       "title": "民调显示 特朗普的支持率已降至历史最低点",
       "insight": "根据一项最新民调，唐纳德·特朗普的支持率已降至历史最低点，该民调清晰显示选民对美国总统治理经济和…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnky6877923.shtml"
-    },
-    {
-      "id": "ff49300366",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 14:40",
-      "title": "美联储理事日程表显示存在“静默期”内与银行家会面的情况",
-      "insight": "最近几个月，在美联储的静默期内，两名美联储理事会见了私营部门银行官员或参加了他们举办的活动，而静…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnky6874696.shtml"
-    },
-    {
-      "id": "ffbd7675cc",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "09-06 14:40",
-      "title": "商业秘密｜奢侈品定价进入“克制时代”：爱马仕、香奈儿也要放缓涨价节奏",
-      "insight": "告别高频大幅涨价的模式，奢侈品转向克制定价与精准调价策略。 2026 年已过去近四分之三，Jes…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwnkx0104146.shtml"
-    },
-    {
-      "id": "ff8ee94aa4",
-      "source": "新华社",
-      "tag": "财经",
-      "time": "09-06 14:27",
-      "title": "「微特稿」美国被曝谋划“战后遏制伊朗” 指望中东国家配合",
-      "insight": "【新华社微特稿】据美国阿克西奥斯新闻网站报道，美国政府正在草拟一份“战后遏制伊朗”战略方案，重点…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwnkx0096687.shtml"
-    },
-    {
-      "id": "ffc03b77fc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 14:07",
-      "title": "伊朗外长与沙特和土耳其外长讨论霍尔木兹海峡和地区稳定问题",
-      "insight": "伊朗外交部长阿巴斯·阿拉格齐周六晚间分别与沙特阿拉伯和土耳其的同行通了电话，讨论旨在恢复稳定和解…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwnku4229602.shtml"
-    },
-    {
-      "id": "fff0487046",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "09-06 13:52",
-      "title": "9月错峰游正当时：机票低至1.5折，中高星酒店降幅可达五成以上",
-      "insight": "随着暑期亲子客流退潮，中秋国庆长假尚未启幕，9月上中旬的旅游市场正处在下半年最舒服的“空档期”。…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqwhaz0209200.shtml"
-    },
-    {
-      "id": "ff13d8b978",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "09-06 13:37",
-      "title": "“随时能问、随手可查”的反诈智能助手“国家反诈AI”APP重磅上线",
-      "insight": "#国家反诈AI正式上线#【“随时能问、随手可查”的反诈智能助手“国家反诈AI”APP重磅上线】为…",
-      "link": "https://finance.sina.com.cn/china/2026-09-06/doc-iniqwhaz0206158.shtml"
-    },
-    {
-      "id": "ff1ee46a3b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-06 13:18",
-      "title": "视频丨新疆慕士塔格峰2号冰川发生雪崩 文旅部门发布安全提示",
-      "insight": "近日，位于新疆阿克陶县的慕士塔格峰2号冰川发生雪崩，多名游客用手机记录下雪崩画面。大量冰雪从峰顶…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqwhaw4351731.shtml"
-    },
-    {
-      "id": "ff99ff7349",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "09-06 13:02",
-      "title": "多人疑因蛋炒饭“食物中毒”，大家乐致歉：暂停涉事门店营业，已与个别消费者达成和解",
-      "insight": "9月6日，近日，多名网友在社交平台上发帖称，其孩子在大家乐（广州番禺天河城店）就餐后，出现了呕吐…",
-      "link": "https://finance.sina.com.cn/stock/roll/2026-09-06/doc-iniqwhaz0183310.shtml"
-    },
-    {
-      "id": "ffb331e6a0",
-      "source": "新京报",
-      "tag": "财经热点",
-      "time": "09-06 12:50",
-      "title": "佛山70余企业联名质疑园区“电费加价”，市监部门：已立案调查",
-      "insight": "新京报记者 程亚龙 编辑 甘浩 校对 卢茜 近来，佛山市顺德区华智科创中心工业园区入驻企业与园区…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-06/doc-iniqwhaw4343969.shtml"
-    },
-    {
-      "id": "ffe3af0388",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 12:38",
-      "title": "美联储加息迫在眉睫 特朗普政府加大对沃什施压",
-      "insight": "距离美联储即将审议加息的议息会议还有十天，特朗普政府正展开全方位施压，试图阻止本次加息落地。 过…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwhaz0170214.shtml"
-    },
-    {
-      "id": "ff6e917d73",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 12:08",
-      "title": "以色列国防军在实施打击前要求黎巴嫩南部一个村庄居民远离一栋建筑物",
-      "insight": "以色列国防军告知黎巴嫩南部一个村庄的居民，在以军打击前撤离一栋建筑物及其周围地区。 以色列国防军…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwhca6923315.shtml"
-    },
-    {
-      "id": "ff6424d9cd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 12:07",
-      "title": "普京与美国特使会谈三个多小时 后者随后将访问基辅",
-      "insight": "俄罗斯总统弗拉基米尔·普京在莫斯科接待了美国特使史蒂夫·威特科夫和贾里德·库什纳，进行了三个多小…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwhav9494071.shtml"
-    },
-    {
-      "id": "ff42dd6826",
-      "source": "滚动播报",
-      "tag": "财经",
-      "time": "09-06 12:00",
-      "title": "“美航母遭弹道导弹袭击”",
-      "insight": "来源：参考消息 据埃菲社9月5日报道，据伊朗法尔斯通讯社报道，伊朗伊斯兰革命卫队表示，5日在霍尔…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-06/doc-iniqwhca6920088.shtml"
-    },
-    {
-      "id": "ff731d7a67",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 11:39",
-      "title": "马来西亚总理经济顾问：马来西亚有信心保障今年燃料供应充足",
-      "insight": "马来西亚总理经济顾问表示，马来西亚政府有信心在年底前获得充足的燃料供应。 他周五向当地媒体表示，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwhca6900913.shtml"
-    },
-    {
-      "id": "ff7afd9224",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 11:19",
-      "title": "AI驱动全球造富潮 2025年全球亿万富豪人数创新高",
-      "insight": "财富调研机构Altrata近期发布报告显示，受人工智能热潮在全球加速造富，2025年全球亿万富豪…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqvzvc0247696.shtml"
     }
   ],
-  "updateTime": "2026-09-06 15:28"
+  "updateTime": "2026-09-06 20:30"
 }
