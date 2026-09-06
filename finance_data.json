@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "fff5df3bf7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 06:19",
+      "title": "9月7日周末要闻：美特使斡旋俄乌冲突 伊朗将在霍尔木兹海峡外设立限制区 油价小幅走高",
+      "insight": "上周国际市场回顾 9月5日美股收盘：三大指数全线收跌，就业数据公布后美债收益率上行 9月5日美股…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxyne9624068.shtml"
+    },
+    {
+      "id": "ffa4c52d88",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-07 06:09",
+      "title": "受中东局势紧张影响，油价小幅走高，纳斯达克期货走强",
+      "insight": "纳斯达克合约小幅上涨；美伊在中东相互打击油轮之后，原油期货走强。 美债合约走势平稳，黄金与比特币…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-07/doc-iniqxyne9618818.shtml"
+    },
+    {
+      "id": "ff08528f61",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 05:37",
+      "title": "德国极右翼政党在州选举中取得有史以来最佳成绩",
+      "insight": "在公众对政治建制派的不满日益加剧之际，极右翼的德国选择党周日在一场州议会选举中取得该党有史以来的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxueh9736239.shtml"
+    },
+    {
+      "id": "fff7e77b8e",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 05:31",
+      "title": "视频丨美货机冲出跑道撞车起火事故已致至少5死5伤",
+      "insight": "当地时间9月6日下午2时左右，美国亚马逊公司一架从波多黎各起飞的波音767-300型货运飞机在迈…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxynk5824293.shtml"
+    },
+    {
+      "id": "ffae227941",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "09-07 04:57",
+      "title": "泽连斯基称与美特使等人的会晤“非常具有实质性”",
+      "insight": "新华社基辅9月6日电（记者李东旭）据乌克兰国家通讯社6日晚报道，乌克兰总统泽连斯基在与美国总统特…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxuep0774906.shtml"
+    },
+    {
       "id": "ff75c52e19",
       "source": "环球市场播报",
       "tag": "美股",
@@ -10,6 +55,33 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxuen5928789.shtml"
     },
     {
+      "id": "ff631f69c7",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 03:42",
+      "title": "视频丨一波音货机在美迈阿密国际机场冲出跑道 撞上多辆汽车后起火",
+      "insight": "当地时间9月6日，据美国联邦航空管理局消息称，当日下午，一架从波多黎各起飞的波音767-300货…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxuen5949243.shtml"
+    },
+    {
+      "id": "ff8c6e626f",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 03:42",
+      "title": "一波音货机在美迈阿密国际机场冲出跑道 撞上多辆汽车后起火",
+      "insight": "当地时间9月6日，据美国联邦航空管理局消息称，当日下午，一架从波多黎各起飞的波音767-300货…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxuep0771986.shtml"
+    },
+    {
+      "id": "ffb1caf5bf",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 03:40",
+      "title": "泽连斯基称与美特使等人举行“实质性”会晤",
+      "insight": "当地时间9月6日，乌克兰总统泽连斯基在与美国总统特朗普的特使威特科夫和女婿库什纳会晤后表示，乌方…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxuep0777067.shtml"
+    },
+    {
       "id": "ff6e0e8208",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +89,24 @@
       "title": "美债交易员严阵以待 新的一周收益率曲线两端均可能大幅动荡",
       "insight": "美债投资者正为各个期限债券可能出现更大波动做准备，因为未来一周存在一些潜在催化因素可能引发短期和…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxuen5926881.shtml"
+    },
+    {
+      "id": "ff678aed64",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 02:52",
+      "title": "伊朗称未来几天将宣布霍尔木兹海峡“禁区”",
+      "insight": "当地时间6日，伊朗最高国家安全委员会秘书雷扎伊表示，未来几天，伊朗将宣布霍尔木兹海峡区域的“禁区…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxpwq6056252.shtml"
+    },
+    {
+      "id": "ff9a28241c",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 02:45",
+      "title": "法国共产党全国书记鲁塞尔宣布参加2027年总统选举",
+      "insight": "当地时间9月6日晚，法国共产党全国书记法比安·鲁塞尔正式宣布参加2027年法国总统选举。他表示，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxpwk9814702.shtml"
     },
     {
       "id": "ff5d7bac93",
@@ -35,6 +125,15 @@
       "title": "美国特使结束俄乌斡旋会谈 泽连斯基称准备迎接又一个艰难冬天",
       "insight": "乌克兰已经接受这样一个现实：与俄罗斯的冲突还会拖过又一个艰难的冬天。乌克兰将寻求盟友提供一揽子支…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwr0859010.shtml"
+    },
+    {
+      "id": "ff3074fbb4",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 00:11",
+      "title": "德国选择党在萨安州议会选举中大幅领先",
+      "insight": "当地时间9月6日，德国东部萨克森-安哈尔特州（萨安州）举行州议会选举。最新出口民调显示，极右翼的…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqxpwk9781948.shtml"
     },
     {
       "id": "ffb6940370",
@@ -64,6 +163,15 @@
       "link": "https://finance.sina.com.cn/7x24/2026-09-06/doc-iniqxiqn9837782.shtml"
     },
     {
+      "id": "ff5bdd7648",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-06 22:47",
+      "title": "泽连斯基结束与美方代表首轮会谈",
+      "insight": "当地时间9月6日，乌克兰总统泽连斯基在基辅会见美国总统特使威特科夫和特朗普女婿库什纳，目前双方首…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-06/doc-iniqxiqs6123505.shtml"
+    },
+    {
       "id": "ff33c87bae",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "伊朗与美国针锋相对袭击油轮 美伊战争仍然看不到结束的曙光",
       "insight": "伊朗表示，为报复美国在周末期间袭击伊朗油轮，伊朗袭击了三艘在霍尔木兹海峡使用未经其授权航线的油轮…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchs6720747.shtml"
-    },
-    {
-      "id": "ff1d67f0d6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 22:14",
-      "title": "OPEC+维持10月石油产出政策不变",
-      "insight": "OPEC+在周日的一次会议上表示，其10月份的石油产出政策维持不变，该组织在一份声明中称，因为产…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchs6716954.shtml"
-    },
-    {
-      "id": "ff814524b6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 22:13",
-      "title": "特朗普对沃什施压，美联储加息在即",
-      "insight": "距离美联储可能考虑加息的会议还有十天，特朗普政府似乎正在全力施压，试图阻止加息进程。 过去一周，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1072002.shtml"
-    },
-    {
-      "id": "ff2af5ac3b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 21:23",
-      "title": "特朗普称加拿大对美国的美元“失衡”是不可接受的。",
-      "insight": "“加元对美元的汇率失衡是不可接受的，”唐纳德·特朗普总统在Truth Social上表示。“ 这…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxchv1058393.shtml"
-    },
-    {
-      "id": "ff716f19c1",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 21:12",
-      "title": "复牌！301266，低空经济“大佬”拟入主",
-      "insight": "来源：中国基金报 【导读】宇邦新材9月7日复牌 中国基金报记者 夏天 停牌一周后，宇邦新材（证券…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqxchu6225460.shtml"
-    },
-    {
-      "id": "ff653bf8fc",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 21:12",
-      "title": "任职仅1个月，中信海直独董因连续缺席会议遭解职",
-      "insight": "来源：中国基金报 中国基金报记者 刘墨 9月6日晚间，中信海直公告称，公司拟提请股东大会解除独立…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqxchs6687116.shtml"
-    },
-    {
-      "id": "ff0d730f5e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 20:03",
-      "title": "以色列国防军称对真主党武装分子发动袭击 以回应无人机袭击",
-      "insight": "以色列国防军称，周日对黎巴嫩南部的真主党武装分子和基础设施发动袭击，以回应前一天真主党向安全区士…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyt0006993.shtml"
-    },
-    {
-      "id": "ff608c308a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-06 19:49",
-      "title": "OPEC+维持石油产量配额不变的计划",
-      "insight": "OPEC+主要成员国坚持维持石油产量配额不变的计划，而伊朗战争继续导致中东大片地区的石油生产停滞…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyu6772443.shtml"
-    },
-    {
-      "id": "ffd4486055",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "09-06 19:47",
-      "title": "002731，将被退市！多重风险压顶",
-      "insight": "多重风险压顶的*ST萃华（002731），将面临规范类退市！ 9月6日晚间，*ST萃华发布公告，…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwwyt0000265.shtml"
-    },
-    {
-      "id": "ffef06143f",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 19:43",
-      "title": "继续停牌！002731，触及规范类退市情形",
-      "insight": "来源：中国基金报 【导读】*ST萃华未在9月6日前披露2025年年报，触及规范类退市情形 中国基…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyw6333314.shtml"
-    },
-    {
-      "id": "ffd3bb4dab",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 19:43",
-      "title": "连续涨停！002403，提示风险",
-      "insight": "来源：中国基金报 【导读】爱仕达连续涨停后提示风险称，具身智能机器人项目处于起步阶段 中国基金报…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwys9999696.shtml"
-    },
-    {
-      "id": "ffccfb25d9",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 19:30",
-      "title": "航司接连“资不抵债”，民航怎么了？",
-      "insight": "来源：民航之翼 上半年，上市公司财报已公布。 在高油价冲击，民航业业绩无一例外的下滑。 大家发现…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwys9999081.shtml"
-    },
-    {
-      "id": "ffc39e3fc3",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "09-06 18:47",
-      "title": "350亿火电巨头，豪掷10亿成立投资公司",
-      "insight": "一则工商登记信息，把陕西能源推到了资本运作的叙事里。 近日，陕西陕能汇森资本投资有限公司成立（下…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyq4043127.shtml"
     }
   ],
-  "updateTime": "2026-09-07 03:50"
+  "updateTime": "2026-09-07 06:37"
 }
