@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff75c52e19",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 03:50",
+      "title": "伊朗将在霍尔木兹海峡外设立限制区",
+      "insight": "伊朗高级安全官员雷扎伊表示，未来几天将宣布在霍尔木兹海峡以外设立一个新的限制区。 担任伊朗最高领…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxuen5928789.shtml"
+    },
+    {
+      "id": "ff6e0e8208",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 03:39",
+      "title": "美债交易员严阵以待 新的一周收益率曲线两端均可能大幅动荡",
+      "insight": "美债投资者正为各个期限债券可能出现更大波动做准备，因为未来一周存在一些潜在催化因素可能引发短期和…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxuen5926881.shtml"
+    },
+    {
+      "id": "ff5d7bac93",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 01:39",
+      "title": "俄罗斯外长拉夫罗夫发出警告 称德国正走向对俄宣战",
+      "insight": "俄罗斯外交部长谢尔盖·拉夫罗夫指责德国正走向与俄罗斯直接对抗，并批评柏林在莱比锡机场发生无人机事…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwq6029921.shtml"
+    },
+    {
+      "id": "ffe5d471e3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 01:27",
+      "title": "美国特使结束俄乌斡旋会谈 泽连斯基称准备迎接又一个艰难冬天",
+      "insight": "乌克兰已经接受这样一个现实：与俄罗斯的冲突还会拖过又一个艰难的冬天。乌克兰将寻求盟友提供一揽子支…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwr0859010.shtml"
+    },
+    {
       "id": "ffb6940370",
       "source": "环球市场播报",
       "tag": "美股",
@@ -143,43 +179,7 @@
       "title": "350亿火电巨头，豪掷10亿成立投资公司",
       "insight": "一则工商登记信息，把陕西能源推到了资本运作的叙事里。 近日，陕西陕能汇森资本投资有限公司成立（下…",
       "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyq4043127.shtml"
-    },
-    {
-      "id": "ff7442fe2c",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "09-06 18:33",
-      "title": "002731，将被退市！年报、半年报全部逾期未披露",
-      "insight": "多重风险压顶的*ST萃华（002731），将面临规范类退市！ 9月6日晚间，*ST萃华发布公告，…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwwyu6736766.shtml"
-    },
-    {
-      "id": "ff7105e48a",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-06 18:30",
-      "title": "获捐1亿元！985，成立新学院",
-      "insight": "来源：青塔 9月6日，厦门大学智能制造学院成立。罕王实业集团、罕王微电子有限公司随即宣布为厦门大…",
-      "link": "https://finance.sina.com.cn/china/2026-09-06/doc-iniqxchq9936896.shtml"
-    },
-    {
-      "id": "ff934dcaee",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 17:59",
-      "title": "斩获两连板！爱仕达提示风险",
-      "insight": "來源：资本秘闻 9月6日，爱仕达披露公告称，具身智能机器人的合作项目为公司新开拓业务，尚处于起步…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwssy6436299.shtml"
-    },
-    {
-      "id": "ffe2412cbf",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-06 17:59",
-      "title": "触及规范类退市！一A股公司将终止上市",
-      "insight": "来源：资本秘闻 触及规范类退市情形，*ST萃华将 被终止上市。 9月6日，*ST萃华披露公告称，…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-06/doc-iniqwsss4159324.shtml"
     }
   ],
-  "updateTime": "2026-09-07 01:26"
+  "updateTime": "2026-09-07 03:50"
 }
