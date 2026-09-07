@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff80c54614",
-      "source": "新浪港股",
+      "id": "ff0f4a5906",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "09-07 10:13",
-      "title": "剂泰科技-P盘中涨超16% 今日起正式调入港股通标的证券名单",
-      "insight": "剂泰科技-P（07666）早盘一度涨超16%，领涨AI制药概念股。截至发稿，股价上涨11.43%…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeuh5782988.shtml"
+      "time": "09-07 15:41",
+      "title": "太平洋上半年营收、净利润皆最低 权益类投资业务收入竟是负值|券商半年报",
+      "insight": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvrw6335828.shtml"
     },
     {
-      "id": "ff3dbd919e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-07 10:10",
-      "title": "心动公司早盘涨逾13% GPT6上线在游戏垂类的开发表现亮眼",
-      "insight": "心动公司（02400）早盘涨逾13%。截至发稿，股价上涨12.91%，现报45.14港元，成交额…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeuh5781479.shtml"
-    },
-    {
-      "id": "ff77c1fb67",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-07 10:08",
-      "title": "兑吧早盘大涨超16% 近12个交易日股价累计飙涨逾400%",
-      "insight": "兑吧（01753）今日延续升势，8月21日至今，公司股价累计飙涨超400%，成为近段时间港股AI…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeua9673352.shtml"
-    },
-    {
-      "id": "ffa847c864",
+      "id": "ff6ee9cab5",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-07 10:04",
-      "title": "韩元升至两年高点 外资已连日流入韩国股市",
-      "insight": "在半导体股上涨和外资持续流入韩国基准股指的推动下，韩元周一升至近两年以来的最高水平。 韩元兑美元…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyeuh5778256.shtml"
+      "time": "09-07 15:41",
+      "title": "Liquid Network联盟钱包被提取约4000枚比特币，侧链暂停交易",
+      "insight": "Liquid Network联盟钱包被提取约4000枚比特币，侧链暂停交易 比特币侧链Liqui…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0353244.shtml"
     },
     {
-      "id": "ffba851963",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:55",
-      "title": "光大期货：9月7日有色金属日报",
-      "insight": "铜：宏观逆风 高位震荡 （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeuh5774288.shtml"
-    },
-    {
-      "id": "ffb4d805bf",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:53",
-      "title": "光大期货：9月7日软商品日报",
-      "insight": "白糖：天气影响暂难证伪 市场缺乏新指引 （张笑金，从业资格号：F0306200；交易咨询资格号：…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeue6430688.shtml"
-    },
-    {
-      "id": "ff4dcaa859",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:53",
-      "title": "光大期货：9月7日农产品日报",
-      "insight": "油脂油料：地缘冲突升温 油粕联袂上涨 （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeui0605571.shtml"
-    },
-    {
-      "id": "ff16c78676",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:52",
-      "title": "光大期货：9月7日能源化工日报",
-      "insight": "原油：内外原油价差或持续走强 （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeui0605340.shtml"
-    },
-    {
-      "id": "ff94f2a760",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:52",
-      "title": "光大期货：9月7日矿钢煤焦日报",
-      "insight": "钢材：去库加速成本提振，钢价或将震荡偏强 （邱跃成，从业资格号：F3046854；交易咨询资格号…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeue6428677.shtml"
-    },
-    {
-      "id": "fff1590788",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-07 09:51",
-      "title": "光大期货：9月7日金融日报",
-      "insight": "股指：市场缩量分化，大盘表现更好 （王东灜，从业资格号：F03087149；交易咨询资格号：Z0…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-07/doc-iniqyeue6428044.shtml"
-    },
-    {
-      "id": "ff97d819e9",
+      "id": "ff75df8d4c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-07 09:47",
-      "title": "因火山活动持续影响 印尼延长机场关闭时间",
-      "insight": "由于喀拉喀托之子火山喷发的火山灰持续扰乱印尼的各项活动，印尼延长了部分地区的机场关闭时间，并停止…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyeuh5770972.shtml"
+      "time": "09-07 15:35",
+      "title": "眼镜巨头依视路陆逊梯卡CEO调整高管层",
+      "insight": "依视路陆逊梯卡集团首席执行官弗朗西斯科・米勒里对这家眼镜巨头的高层管理团队开展大调整。此前，他与…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvry5518513.shtml"
     },
     {
-      "id": "ffb870dd2c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-07 09:44",
-      "title": "海光芯正盘中涨超10% 今日起正式纳入港股通",
-      "insight": "海光芯正（01191）今日放量大涨，盘中涨超10%，截至发稿，股价上涨7.14%，现报112.5…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeua9646902.shtml"
-    },
-    {
-      "id": "ffaf935b2c",
+      "id": "ff0a3bffc9",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 09:43",
-      "title": "俄罗斯大使称将会满足印度原油需求 抨击美国制裁法案是“施压伎俩”",
-      "insight": "俄罗斯驻新德里大使表示，俄罗斯准备好向印度供应所需石油，以满足其能源需求，同时抨击有关加强对莫斯…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyeue6417752.shtml"
-    },
-    {
-      "id": "ff57f303be",
-      "source": "长安街知事",
       "tag": "财经热点",
-      "time": "09-07 09:42",
-      "title": "北京市委、市政府向福建省委、省政府致慰问电，并捐赠人民币400万元",
-      "insight": "近期，受台风“简拉维”“沙德尔”及其带来的强降雨影响，福建省泉州、漳州、宁德、莆田等多地发生洪涝…",
-      "link": "https://finance.sina.com.cn/china/2026-09-07/doc-iniqyeua9665694.shtml"
+      "time": "09-07 15:35",
+      "title": "高市早苗顾问将日银加息预期提前至9月，预计明年1月前再加一次",
+      "insight": "日本首相高市早苗的经济顾问、东方汇理日本首席经济学家相田卓司周一（9月7日）在最新研报中，将日本…",
+      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0350520.shtml"
     },
     {
-      "id": "ff09917efc",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-07 09:41",
-      "title": "复星医药盘初涨超5% 控股子公司出售Gland Pharma约6.00%股权",
-      "insight": "复星医药（02196）盘初涨超5%，截至发稿，股价上涨3.40%，现报16.75港元，成交额42…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeui0600592.shtml"
-    },
-    {
-      "id": "ffca278d04",
-      "source": "北美前哨",
+      "id": "ff4e84873d",
+      "source": "央视",
       "tag": "财经热点",
-      "time": "09-07 09:40",
-      "title": "特斯拉的无人驾驶出租车来了，竞争对手Waymo不服：“有风险！”",
-      "insight": "文 | 《北美前哨》栏目 康路 发自纽约 美国中部时间9月3日下午，特斯拉在美国德州奥斯汀召开发…",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyeuh5767755.shtml"
+      "time": "09-07 15:33",
+      "title": "商务部：原产于日本的进口二氯二氢硅存在倾销",
+      "insight": "来源：央视网 央视网消息：9月7日，商务部公布对原产于日本的进口二氯二氢硅反倾销调查的初步裁定。…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvrz0352134.shtml"
     },
     {
-      "id": "ff85fe1a4b",
-      "source": "新浪港股",
+      "id": "ff5bfc9b6f",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "09-07 09:38",
-      "title": "群核科技早盘高开股价现涨近19% 今日正式纳入港股通",
-      "insight": "群核科技（00068）今日高开走强，截至发稿，股价上涨18.75%，现报11.40港元，成交额6…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeuh5767006.shtml"
+      "time": "09-07 15:28",
+      "title": "国金证券上半年固收类/权益类证券比值最高 自营收入大降36%|券商半年报",
+      "insight": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvru9548019.shtml"
     },
     {
-      "id": "ffbf16b50d",
-      "source": "新浪港股",
+      "id": "ffc6f4dca6",
+      "source": "中国新闻网",
+      "tag": "财经",
+      "time": "09-07 15:28",
+      "title": "外交部：赖清德当局惯于拿着台湾百姓的血汗钱滥施“金元外交”",
+      "insight": "中新网北京9月7日电 （记者 郭超凯）中国外交部发言人毛宁9月7日主持例行记者会。 有记者提问：…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvry5515542.shtml"
+    },
+    {
+      "id": "ff97c9aa17",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-07 15:25",
+      "title": "伊朗最高国家安全委员会秘书雷扎伊：将划设霍尔木兹海峡外限制区",
+      "insight": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊周日（9月6日）晚表示，伊朗将在未来数日划设霍尔木兹海峡…",
+      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0346105.shtml"
+    },
+    {
+      "id": "fff744d4cc",
+      "source": "央视新闻客户端",
+      "tag": "财经",
+      "time": "09-07 15:25",
+      "title": "外媒披露台当局“金元外交” 外交部回应",
+      "insight": "9月7日，外交部发言人毛宁主持例行记者会。有记者问：日前，所罗门媒体报道披露，台湾当局今年增加了…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-07/doc-iniqyvru9545252.shtml"
+    },
+    {
+      "id": "ff58684293",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-07 15:22",
+      "title": "德国选择党赢得萨安州选举，外交部：德国内政，不作评论",
+      "insight": "9月7日，外交部发言人毛宁主持例行记者会。德新社记者提问，德国东部萨安州举行州议会选举，极右翼的…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvru9542812.shtml"
+    },
+    {
+      "id": "ff10203f0d",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-07 15:18",
+      "title": "外交部：中美双方就AI问题保持着沟通",
+      "insight": "9月7日，外交部发言人毛宁主持例行记者会。有记者就中美人工智能领域合作提问。 毛宁表示，中美双方…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqyvrz0344745.shtml"
+    },
+    {
+      "id": "ff55122233",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-07 15:11",
+      "title": "星宇股份“解约门”追责，总经理扣薪12个月，人力资源总监免职",
+      "insight": "来源：ZAKER财经 107个应届生的饭碗，最终换来了总经理一年的薪水。 9月7日，有媒体报道星…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-07/doc-iniqyvrz0339499.shtml"
+    },
+    {
+      "id": "ffda719ef4",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "09-07 09:36",
-      "title": "美格智能早盘高开逾11% 拟出资参设合资公司布局AIDC光通信业务",
-      "insight": "美格智能（03268）早盘高开逾11%，截至发稿，股价上涨10.49%，现报20.86港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeua9635618.shtml"
+      "time": "09-07 15:10",
+      "title": "红塔证券营收、净利润降幅皆最大 自营收入占比最高却严重跑输行业 投行净收入及占比皆最低|券商半年报",
+      "insight": "出品：新浪财经上市公司研究院 作者：图灵 2026年上半年，A股市场成交额创历史新高，债市走出震…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-09-07/doc-iniqyvry5506683.shtml"
     },
     {
-      "id": "ff48cfb8be",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-07 09:35",
-      "title": "华沿机器人早盘高开逾11% 公司正式进入港股通名单",
-      "insight": "华沿机器人（01021）早盘高开逾11%，截至发稿，股价上涨9.37%，现报10.04港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-07/doc-iniqyeue6405102.shtml"
+      "id": "ff2f01ca0f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-07 15:09",
+      "title": "美国能源部长赖特：与伊朗“可能达不成核协议”",
+      "insight": "美国能源部长克里斯·赖特周日（9月6日）表示，美国与伊朗最终“可能不会有核协议”，如果外交途径无…",
+      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqyvrz0338289.shtml"
     },
     {
-      "id": "ff1628507c",
-      "source": "新浪财经",
+      "id": "ff1cee2138",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 15:08",
+      "title": "Anthropic最快下周提交IPO文件 摩根士丹利与高盛有望领衔承销",
+      "insight": "人工智能公司Anthropic即将为其首次公开募股提交文件，最快于下周向美国证券交易委员会递交招…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0337932.shtml"
+    },
+    {
+      "id": "ffbde6c08d",
+      "source": "市场资讯",
       "tag": "理财",
-      "time": "09-07 09:30",
-      "title": "中央气象台：每 日 天 气 提 示（2026年09月07日）",
-      "insight": "来源：中央气象台网站 昨日，黑龙江西部、吉林西部、内蒙古东部、甘肃中东部、青海东部、云南西部、广…",
-      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-09-07/doc-iniqyeue6399075.shtml"
+      "time": "09-07 15:06",
+      "title": "收评|国内期货主力合约涨跌不一 合成橡胶涨超4%",
+      "insight": "2026年9月7日，国内期货主力合约涨跌不一。合成橡胶涨超4%，20号胶涨近3%，鸡蛋、SC原油…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-07/doc-iniqyvru9524037.shtml"
+    },
+    {
+      "id": "ffb6ac4ff5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 15:03",
+      "title": "日本8月末外汇储备单月减少796亿美元，降幅创纪录",
+      "insight": "日本财务省周一（9月7日）公布，截至8月末，日本官方外汇储备资产降至1.2075万亿美元，较7月…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvrz0335900.shtml"
+    },
+    {
+      "id": "ff0c08f9e9",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "09-07 14:58",
+      "title": "HarmonyOS 7正式开启公测",
+      "insight": "新浪科技讯9月7日下午消息，华为举办HarmonyOS 7 | HUAWEI Mate XT 2…",
+      "link": "https://finance.sina.com.cn/tob/2026-09-07/doc-iniqyvry5501813.shtml"
+    },
+    {
+      "id": "ff3263c77d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 14:56",
+      "title": "美债收益率迎来4.8%关口考验，财政风险或将向其他资产外溢",
+      "insight": "米勒‑塔巴克公司首席市场策略师马特・马利表示，美国国债收益率将在 4.8% 关口迎来关键考验；若…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqyvru9514255.shtml"
+    },
+    {
+      "id": "ffe5f06304",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "09-07 14:52",
+      "title": "理想汽车：将陆续全系搭载自研电池，希望像苹果、华为、特斯拉一样，将核心技术掌握在自己手里",
+      "insight": "新浪科技讯 9月7日下午消息，理想汽车今日发布《关于“理想汽车将全系搭载自研电池”的进展同步》，…",
+      "link": "https://finance.sina.com.cn/tob/2026-09-07/doc-iniqyriy6414836.shtml"
     }
   ],
-  "updateTime": "2026-09-07 10:16"
+  "updateTime": "2026-09-07 15:45"
 }
