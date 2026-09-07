@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "id": "ffb7fb3e9e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 02:54",
+      "title": "特朗普：不能再让庞巴迪在美国卖飞机了",
+      "insight": "美国总统特朗普说，不应该再让庞巴迪在美国销售飞机了。 他说：“他们的产品不够好！” 特朗普声称，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzxcn5089669.shtml"
+    },
+    {
+      "id": "ff6035d6c7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 01:57",
+      "title": "德意志银行策略师称交易员错估了美欧央行加息的力度",
+      "insight": "德意志银行策略师Henry Allen认为，从价格面临的上行压力来分析，投资者低估了遏制通胀所需…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvq5204901.shtml"
+    },
+    {
+      "id": "fff497fbb0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 01:55",
+      "title": "伊朗与美国相互攻击，沙特阿美设施遭袭，油价升至六周高点",
+      "insight": "周一，油价升至六周高点，因美国和伊朗在周末相互发动攻击，加剧了中东地区的紧张局势。 国际石油基准…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvn6244152.shtml"
+    },
+    {
+      "id": "ffcbef4640",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 00:51",
+      "title": "面对特朗普觊觎格陵兰 欧盟拟投资2亿欧元加强联系",
+      "insight": "欧盟将向格陵兰投资2亿欧元（2.32亿美元），作为加强与这一地区联系的一部分。此前，美国总统特朗…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvr0019620.shtml"
+    },
+    {
+      "id": "ff5098f4ae",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 00:24",
+      "title": "欧洲股市表现平淡 油价上涨与诺华下跌形成拖累",
+      "insight": "欧洲股市周一受到油价上涨以及诺华股价下跌的拖累。此前，诺华一款心脏病药物在临床试验中失利。 斯托…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvk9429552.shtml"
+    },
+    {
+      "id": "ff144f2cd6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 00:22",
+      "title": "欧洲债市：德债五连跌 各期限英债收益率走高约4个基点",
+      "insight": "德国国债连续第五天下跌，国际油价逼近每桶100美元，令投资者继续警惕通胀压力。英债同样走弱。 德…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvk9428773.shtml"
+    },
+    {
+      "id": "ff3aec0310",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 00:13",
+      "title": "卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡 出口恢复信号增强",
+      "insight": "一艘上月初在卡塔尔装载液化天然气的运输船正驶向霍尔木兹海峡，可能成为自7月以来首次可见的尝试驶出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvq5178631.shtml"
+    },
+    {
+      "id": "ff8b2bf2fb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 23:50",
+      "title": "知情人士称沙特阿美位于吉赞的石油设施再次遭到袭击",
+      "insight": "据知情人士透露，沙特阿美位于吉赞的石油设施周一再次遭到袭击。这是当地一系列袭击事件中的最新一起，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9545467.shtml"
+    },
+    {
+      "id": "fff7d67b70",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 23:37",
+      "title": "关税揣测搅动市场 伦敦期铜创出新高",
+      "insight": "有关美国总统特朗普拟将关税扩大至精铜的揣测推动铜价上涨数周后，这一基本金属在伦敦触及纪录高位。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpt0131213.shtml"
+    },
+    {
+      "id": "ffe99cb82c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 23:36",
+      "title": "伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
+      "insight": "伊斯兰革命卫队的Ali Mohammadi表示，通过霍尔木兹海峡的船只“一旦抵达阿曼Khasab…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9537865.shtml"
+    },
+    {
+      "id": "ffcb598ec6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 23:16",
+      "title": "加拿大势将对数百种美国商品加征关税 卡尼拟借强硬立场增加谈判筹码",
+      "insight": "加拿大准备于周二对数百种美国商品实施15%至50%的关税措施，总理马克·卡尼押注，对美国总统特朗…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9528993.shtml"
+    },
+    {
+      "id": "ffc798fef1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 23:16",
+      "title": "居英富豪外流再添新例 对冲基金创始人Chris Rokos转居希腊",
+      "insight": "对冲基金创始人Chris Rokos据悉将离开英国，成为该国又一位选择离开的高额纳税人和金融界知…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9528800.shtml"
+    },
+    {
+      "id": "ffb7d5dcc9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-07 22:58",
+      "title": "美国就伊朗未遵守核相关义务加大外交施压力度",
+      "insight": "美国正加大对伊朗的外交施压力度，提议因德黑兰方面阻挠核查人员开展工作，将伊朗问题提交联合国安理会…",
+      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqznpq6294499.shtml"
+    },
+    {
+      "id": "ff7677c356",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-07 22:54",
+      "title": "美国大型高校捐赠基金跑赢标普500指数",
+      "insight": "多所美国大型高校捐赠基金有望追平或是跑赢大盘；得益于对SpaceX、OpenAI等科技企业的大额…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpt0121117.shtml"
+    },
+    {
+      "id": "fffe687f7b",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-07 22:50",
+      "title": "16天8板！金健米业上半年营收增长25%，但净利转亏",
+      "insight": "来源：上市之家 粮食概念热股金健米业（600127.SH）发布2026年半年度报告。报告显示，公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6292777.shtml"
+    },
+    {
+      "id": "ff33069c52",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-07 22:50",
+      "title": "“人民币政府”、“熊源”！新任董事长邹来昌“首秀”即翻车？紫金矿业半年报三处低级错误拷问治理成色",
+      "insight": "来源：上市之家 “A+H”两市合计近2万亿市值的国际矿业巨头紫金矿业（601899.SH），刚刚…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpn9520109.shtml"
+    },
+    {
+      "id": "ff47486ad1",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-07 22:50",
+      "title": "20cm跌停，市值腰斩！谁在抛售“中国版英伟达”？还有更大压力！",
+      "insight": "來源：上市之家 9月7日，有着“中国版英伟达”之称的A股算力芯片龙头摩尔线程（688795.SH…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6291635.shtml"
+    },
+    {
       "id": "ff15de9bca",
       "source": "环球市场播报",
       "tag": "美股",
@@ -26,160 +179,7 @@
       "title": "002361，副总经理被证监会立案调查",
       "insight": "9月7日，神剑股份（002361）披露公告称，公司副总经理吴德清当日收到中国证监会出具的《立案告…",
       "link": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9508792.shtml"
-    },
-    {
-      "id": "ffedfbc989",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "09-07 22:21",
-      "title": "江波龙H股定价打骨折，14家基石组团捡漏",
-      "insight": "记者丨吴佳楠 编辑丨孙超逸，骆一帆 9月8日，江波龙将在港交所主板挂牌。这家按2025年存储产品…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznps5282281.shtml"
-    },
-    {
-      "id": "ffed2179ae",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:21",
-      "title": "特朗普在AI帖子狂潮中声称，他已为美国“在股市赚了数千亿美元”",
-      "insight": "美国总统特朗普周日在其社交媒体平台上发布了一系列AI生成的图片以及一系列笼统且未经证实的声明，其…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9503114.shtml"
-    },
-    {
-      "id": "ff9be778b1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:20",
-      "title": "OpenAI首席科学家警告：无人准备好机器智能快速崛起的后果",
-      "insight": "OpenAI首席科学家Jakub Pachocki于9月6日在公司网站发表长文《一颗外星心智》（…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6274758.shtml"
-    },
-    {
-      "id": "ff9b881798",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:17",
-      "title": "大众汽车达成协议：工厂将由造车转为生产防空装备",
-      "insight": "大众汽车已与一家以色列投资集团签署协议，这家处境艰难的德国车企将把奥斯纳布吕克工厂的生产业务，从…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9500750.shtml"
-    },
-    {
-      "id": "ffaff8a846",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:14",
-      "title": "奥迪发布纯电掀背A2 e-tron，宣称品牌史上最省电",
-      "insight": "奥迪9月7日在巴黎正式发布纯电紧凑型掀背车A2 e-tron，时隔二十多年重新启用A2这一车名。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6271708.shtml"
-    },
-    {
-      "id": "ff98fd94c6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:07",
-      "title": "大众汽车就奥斯纳布吕克工厂转作防务枢纽达成框架协议",
-      "insight": "大众汽车集团9月7日宣布，已与下萨克森州以及以色列投资机构奥勒留资本就可能出售大众奥斯纳布吕克有…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6268334.shtml"
-    },
-    {
-      "id": "ff23d07f82",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-07 22:01",
-      "title": "日元兑美元升至2月以来最高",
-      "insight": "日元9月7日大幅走强，升至今年2月以来最高水平。伦敦交易时段，美元兑日元一度下跌约1.4%至15…",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqznpn9491671.shtml"
-    },
-    {
-      "id": "ffb96f8cac",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 21:58",
-      "title": "默茨对州选举惨淡表现深感震惊 称极右翼地方大胜“改变整个德国”",
-      "insight": "德国总理弗里德里希·默茨表示，极右翼政党在一场州选举中取得压倒性胜利，德国政府必须从中吸取教训，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9490173.shtml"
-    },
-    {
-      "id": "ffeae9b225",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 21:55",
-      "title": "欧元区二季度GDP三估上修至环比0.6%",
-      "insight": "欧盟统计局9月7日公布2026年第二季度国内生产总值和就业三次估值。经季节调整后，欧元区GDP环…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6260597.shtml"
-    },
-    {
-      "id": "ff83c9e154",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 21:43",
-      "title": "大跌20%，国产算力被错杀了",
-      "insight": "来源：虎嗅APP 国产算力潜力尚未完全释放 出品 | 妙投APP 作者 | 董必政 编辑 | 丁…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpn9502713.shtml"
-    },
-    {
-      "id": "ff12e1995b",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 21:43",
-      "title": "在暴跌25%的市场里，雷军开始“崩老头”？",
-      "insight": "来源：虎嗅APP 找到第二曲线很重要 出品|虎嗅汽车组 作者|杨杰 题图|虎嗅拍摄 2026年9…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpn9502031.shtml"
-    },
-    {
-      "id": "ff2e9f537b",
-      "source": "《财经》杂志",
-      "tag": "股市",
-      "time": "09-07 21:41",
-      "title": "解禁日20%跌停，谁在卖出摩尔线程?",
-      "insight": "摩尔线程此次解禁，令公司流通股本一天内扩容85%。其解禁数量与网下打新的A1类投资者解禁的股份相…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6265641.shtml"
-    },
-    {
-      "id": "ffc2fddb17",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "09-07 21:23",
-      "title": "继续停牌！600825，筹划重大资产重组",
-      "insight": "9月7日晚间，新华传媒（600825）公告称，公司拟以发行股份方式购买上海界面财联社科技股份有限…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqzhfq9600191.shtml"
-    },
-    {
-      "id": "ff0701291d",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-07 21:17",
-      "title": "因涉嫌内幕交易！002361，副总被立案",
-      "insight": "来源：中国基金报 【导读】因涉嫌内幕交易，神剑股份副总经理被证监会立案 中国基金报记者 李智 9…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfv0223508.shtml"
-    },
-    {
-      "id": "ff85368199",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 21:06",
-      "title": "天康生物公司副总不幸去世，年仅58岁",
-      "insight": "知名上市公司副总不幸去世，年仅58岁 来源：读创财经 9月7日晚，天康生物发布公告，公司董事会于…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6271660.shtml"
-    },
-    {
-      "id": "ff606587e1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 20:52",
-      "title": "SpaceX竞争对手完成历史性火箭首入轨，称航天行业迫切需要更多发射能力",
-      "insight": "德国火箭企业伊萨尔航空（Isar Aerospace）上周末实现火箭首次成功入轨，为欧洲商业航天…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqzhfv0211553.shtml"
-    },
-    {
-      "id": "ff4a36afba",
-      "source": "一财网",
-      "tag": "财经热点",
-      "time": "09-07 20:49",
-      "title": "被AI换脸、遭遇“网络开盒”怎么办？最高法明确裁判规则",
-      "insight": "9月7日，最高人民法院发布《关于依法审理涉人工智能纠纷案件的意见》（简称《意见》）。这是首部由国…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-07/doc-iniqzhfq9569978.shtml"
     }
   ],
-  "updateTime": "2026-09-07 22:39"
+  "updateTime": "2026-09-08 02:56"
 }

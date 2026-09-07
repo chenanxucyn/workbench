@@ -2,28 +2,28 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "华为再发布高性能芯片",
-      "heat": 12091460,
+      "topic": "郑钦文2:0战胜斯瓦泰克",
+      "heat": 12131231,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87?type=general",
-      "scheme": "snssdk1128://search/华为再发布高性能芯片"
+      "link": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%872%3A0%E6%88%98%E8%83%9C%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B?type=general",
+      "scheme": "snssdk1128://search/郑钦文2:0战胜斯瓦泰克"
     },
     {
       "rank": 2,
-      "topic": "郑钦文今晚对战斯瓦泰克",
-      "heat": 12053061,
+      "topic": "真正想上大学的是高三的自己",
+      "heat": 11885359,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%83%91%E9%92%A6%E6%96%87%E4%BB%8A%E6%99%9A%E5%AF%B9%E6%88%98%E6%96%AF%E7%93%A6%E6%B3%B0%E5%85%8B?type=general",
-      "scheme": "snssdk1128://search/郑钦文今晚对战斯瓦泰克"
+      "link": "https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E6%83%B3%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%98%AF%E9%AB%98%E4%B8%89%E7%9A%84%E8%87%AA%E5%B7%B1?type=general",
+      "scheme": "snssdk1128://search/真正想上大学的是高三的自己"
     },
     {
       "rank": 3,
       "topic": "信息通信行业发展十五五规划发布",
-      "heat": 11862096,
+      "heat": 11256122,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -32,28 +32,8 @@
     },
     {
       "rank": 4,
-      "topic": "秋天的第一件燕麦系卫衣",
-      "heat": 11445909,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E7%87%95%E9%BA%A6%E7%B3%BB%E5%8D%AB%E8%A1%A3?type=general",
-      "scheme": "snssdk1128://search/秋天的第一件燕麦系卫衣"
-    },
-    {
-      "rank": 5,
-      "topic": "真正想上大学的是高三的自己",
-      "heat": 10719112,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9C%9F%E6%AD%A3%E6%83%B3%E4%B8%8A%E5%A4%A7%E5%AD%A6%E7%9A%84%E6%98%AF%E9%AB%98%E4%B8%89%E7%9A%84%E8%87%AA%E5%B7%B1?type=general",
-      "scheme": "snssdk1128://search/真正想上大学的是高三的自己"
-    },
-    {
-      "rank": 6,
       "topic": "这个秋天你跑步了吗",
-      "heat": 10534499,
+      "heat": 11012500,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,9 +41,19 @@
       "scheme": "snssdk1128://search/这个秋天你跑步了吗"
     },
     {
-      "rank": 7,
+      "rank": 5,
+      "topic": "中国女篮全力冲击小组第二",
+      "heat": 10405026,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%A5%B3%E7%AF%AE%E5%85%A8%E5%8A%9B%E5%86%B2%E5%87%BB%E5%B0%8F%E7%BB%84%E7%AC%AC%E4%BA%8C?type=general",
+      "scheme": "snssdk1128://search/中国女篮全力冲击小组第二"
+    },
+    {
+      "rank": 6,
       "topic": "中国央行连续22个月增持黄金",
-      "heat": 9081128,
+      "heat": 10140588,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,9 +61,9 @@
       "scheme": "snssdk1128://search/中国央行连续22个月增持黄金"
     },
     {
-      "rank": 8,
+      "rank": 7,
       "topic": "一定要试试潮汕鱼饭",
-      "heat": 8410319,
+      "heat": 7789169,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -81,9 +71,9 @@
       "scheme": "snssdk1128://search/一定要试试潮汕鱼饭"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "topic": "华为新品发布会 ​",
-      "heat": 8307103,
+      "heat": 7775628,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -91,9 +81,19 @@
       "scheme": "snssdk1128://search/华为新品发布会 ​"
     },
     {
+      "rank": 9,
+      "topic": "秋天的第一件燕麦系卫衣",
+      "heat": 7757145,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%A7%8B%E5%A4%A9%E7%9A%84%E7%AC%AC%E4%B8%80%E4%BB%B6%E7%87%95%E9%BA%A6%E7%B3%BB%E5%8D%AB%E8%A1%A3?type=general",
+      "scheme": "snssdk1128://search/秋天的第一件燕麦系卫衣"
+    },
+    {
       "rank": 10,
       "topic": "江西这些涉灾信息不实",
-      "heat": 7746951,
+      "heat": 7739737,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -102,18 +102,8 @@
     },
     {
       "rank": 11,
-      "topic": "官方回应驳船往长江倾倒黑色固体",
-      "heat": 7733294,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AE%98%E6%96%B9%E5%9B%9E%E5%BA%94%E9%A9%B3%E8%88%B9%E5%BE%80%E9%95%BF%E6%B1%9F%E5%80%BE%E5%80%92%E9%BB%91%E8%89%B2%E5%9B%BA%E4%BD%93?type=general",
-      "scheme": "snssdk1128://search/官方回应驳船往长江倾倒黑色固体"
-    },
-    {
-      "rank": 12,
       "topic": "中国女篮末轮将战意大利",
-      "heat": 7727701,
+      "heat": 7717778,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -121,9 +111,19 @@
       "scheme": "snssdk1128://search/中国女篮末轮将战意大利"
     },
     {
+      "rank": 12,
+      "topic": "你来找我吧我不想一个人了",
+      "heat": 7702228,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BD%A0%E6%9D%A5%E6%89%BE%E6%88%91%E5%90%A7%E6%88%91%E4%B8%8D%E6%83%B3%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/你来找我吧我不想一个人了"
+    },
+    {
       "rank": 13,
       "topic": "小米新品发布会",
-      "heat": 7715868,
+      "heat": 7683487,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,68 +132,18 @@
     },
     {
       "rank": 14,
-      "topic": "广西南宁站一旅客撞列车身亡",
-      "heat": 7682617,
+      "topic": "小米澎程N90探索版看点总结",
+      "heat": 7669702,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B9%BF%E8%A5%BF%E5%8D%97%E5%AE%81%E7%AB%99%E4%B8%80%E6%97%85%E5%AE%A2%E6%92%9E%E5%88%97%E8%BD%A6%E8%BA%AB%E4%BA%A1?type=general",
-      "scheme": "snssdk1128://search/广西南宁站一旅客撞列车身亡"
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%BE%8E%E7%A8%8BN90%E6%8E%A2%E7%B4%A2%E7%89%88%E7%9C%8B%E7%82%B9%E6%80%BB%E7%BB%93?type=general",
+      "scheme": "snssdk1128://search/小米澎程N90探索版看点总结"
     },
     {
       "rank": 15,
-      "topic": "你来找我吧我不想一个人了",
-      "heat": 7677075,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BD%A0%E6%9D%A5%E6%89%BE%E6%88%91%E5%90%A7%E6%88%91%E4%B8%8D%E6%83%B3%E4%B8%80%E4%B8%AA%E4%BA%BA%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/你来找我吧我不想一个人了"
-    },
-    {
-      "rank": 16,
-      "topic": "中戏迎新晚会太权威了",
-      "heat": 7673101,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E6%88%8F%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/中戏迎新晚会太权威了"
-    },
-    {
-      "rank": 17,
-      "topic": "等来了侯明昊的光绘镜头签",
-      "heat": 7670974,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%AD%89%E6%9D%A5%E4%BA%86%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9A%84%E5%85%89%E7%BB%98%E9%95%9C%E5%A4%B4%E7%AD%BE?type=general",
-      "scheme": "snssdk1128://search/等来了侯明昊的光绘镜头签"
-    },
-    {
-      "rank": 18,
-      "topic": "田曦薇请保持这个更新速度",
-      "heat": 7669212,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%E8%AF%B7%E4%BF%9D%E6%8C%81%E8%BF%99%E4%B8%AA%E6%9B%B4%E6%96%B0%E9%80%9F%E5%BA%A6?type=general",
-      "scheme": "snssdk1128://search/田曦薇请保持这个更新速度"
-    },
-    {
-      "rank": 19,
-      "topic": "檀健次穿燕麦系动次打次",
-      "heat": 7660846,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%AA%80%E5%81%A5%E6%AC%A1%E7%A9%BF%E7%87%95%E9%BA%A6%E7%B3%BB%E5%8A%A8%E6%AC%A1%E6%89%93%E6%AC%A1?type=general",
-      "scheme": "snssdk1128://search/檀健次穿燕麦系动次打次"
-    },
-    {
-      "rank": 20,
       "topic": "王子不会拍为4岁白血病女孩圆梦",
-      "heat": 7660050,
+      "heat": 7659436,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -201,79 +151,29 @@
       "scheme": "snssdk1128://search/王子不会拍为4岁白血病女孩圆梦"
     },
     {
-      "rank": 21,
-      "topic": "徐明浩SCN万人合唱",
-      "heat": 7655999,
+      "rank": 16,
+      "topic": "华为再发布高性能芯片",
+      "heat": 7650842,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BE%90%E6%98%8E%E6%B5%A9SCN%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1?type=general",
-      "scheme": "snssdk1128://search/徐明浩SCN万人合唱"
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BA%E5%86%8D%E5%8F%91%E5%B8%83%E9%AB%98%E6%80%A7%E8%83%BD%E8%8A%AF%E7%89%87?type=general",
+      "scheme": "snssdk1128://search/华为再发布高性能芯片"
     },
     {
-      "rank": 22,
-      "topic": "迪迦奥特曼30周年",
-      "heat": 7654976,
+      "rank": 17,
+      "topic": "被清明上河园的幕后诚意圈粉了",
+      "heat": 7650388,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC30%E5%91%A8%E5%B9%B4?type=general",
-      "scheme": "snssdk1128://search/迪迦奥特曼30周年"
+      "link": "https://www.douyin.com/search/%E8%A2%AB%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%AD%E7%9A%84%E5%B9%95%E5%90%8E%E8%AF%9A%E6%84%8F%E5%9C%88%E7%B2%89%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/被清明上河园的幕后诚意圈粉了"
     },
     {
-      "rank": 23,
-      "topic": "一组绣球花拍出复古油画感",
-      "heat": 7653663,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E7%BB%A3%E7%90%83%E8%8A%B1%E6%8B%8D%E5%87%BA%E5%A4%8D%E5%8F%A4%E6%B2%B9%E7%94%BB%E6%84%9F?type=general",
-      "scheme": "snssdk1128://search/一组绣球花拍出复古油画感"
-    },
-    {
-      "rank": 24,
-      "topic": "小团团版你可能不认识我",
-      "heat": 7653247,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E7%89%88%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E6%88%91?type=general",
-      "scheme": "snssdk1128://search/小团团版你可能不认识我"
-    },
-    {
-      "rank": 25,
-      "topic": "火影古堡萌黄形态可爱捏",
-      "heat": 7651746,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%8F%A4%E5%A0%A1%E8%90%8C%E9%BB%84%E5%BD%A2%E6%80%81%E5%8F%AF%E7%88%B1%E6%8D%8F?type=general",
-      "scheme": "snssdk1128://search/火影古堡萌黄形态可爱捏"
-    },
-    {
-      "rank": 26,
-      "topic": "短剧圈秋日团建来了",
-      "heat": 7651486,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9F%AD%E5%89%A7%E5%9C%88%E7%A7%8B%E6%97%A5%E5%9B%A2%E5%BB%BA%E6%9D%A5%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/短剧圈秋日团建来了"
-    },
-    {
-      "rank": 27,
-      "topic": "华为Mate XT 2正式上线",
-      "heat": 7649634,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate%20XT%202%E6%AD%A3%E5%BC%8F%E4%B8%8A%E7%BA%BF?type=general",
-      "scheme": "snssdk1128://search/华为Mate XT 2正式上线"
-    },
-    {
-      "rank": 28,
+      "rank": 18,
       "topic": "蘑菇射击挑战都谁通关了",
-      "heat": 7649048,
+      "heat": 7643120,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -281,25 +181,125 @@
       "scheme": "snssdk1128://search/蘑菇射击挑战都谁通关了"
     },
     {
-      "rank": 29,
-      "topic": "酒店都凑不齐的雷霆混搭风装修",
-      "heat": 7646470,
+      "rank": 19,
+      "topic": "一组绣球花拍出复古油画感",
+      "heat": 7641113,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%85%92%E5%BA%97%E9%83%BD%E5%87%91%E4%B8%8D%E9%BD%90%E7%9A%84%E9%9B%B7%E9%9C%86%E6%B7%B7%E6%90%AD%E9%A3%8E%E8%A3%85%E4%BF%AE?type=general",
-      "scheme": "snssdk1128://search/酒店都凑不齐的雷霆混搭风装修"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E7%BB%84%E7%BB%A3%E7%90%83%E8%8A%B1%E6%8B%8D%E5%87%BA%E5%A4%8D%E5%8F%A4%E6%B2%B9%E7%94%BB%E6%84%9F?type=general",
+      "scheme": "snssdk1128://search/一组绣球花拍出复古油画感"
+    },
+    {
+      "rank": 20,
+      "topic": "中戏迎新晚会太权威了",
+      "heat": 7636286,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E6%88%8F%E8%BF%8E%E6%96%B0%E6%99%9A%E4%BC%9A%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/中戏迎新晚会太权威了"
+    },
+    {
+      "rank": 21,
+      "topic": "交锋见招拆招全程高能",
+      "heat": 7634588,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BA%A4%E9%94%8B%E8%A7%81%E6%8B%9B%E6%8B%86%E6%8B%9B%E5%85%A8%E7%A8%8B%E9%AB%98%E8%83%BD?type=general",
+      "scheme": "snssdk1128://search/交锋见招拆招全程高能"
+    },
+    {
+      "rank": 22,
+      "topic": "郑业成王京花枪对打",
+      "heat": 7626550,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%83%91%E4%B8%9A%E6%88%90%E7%8E%8B%E4%BA%AC%E8%8A%B1%E6%9E%AA%E5%AF%B9%E6%89%93?type=general",
+      "scheme": "snssdk1128://search/郑业成王京花枪对打"
+    },
+    {
+      "rank": 23,
+      "topic": "徐明浩SCN万人合唱",
+      "heat": 7626137,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BE%90%E6%98%8E%E6%B5%A9SCN%E4%B8%87%E4%BA%BA%E5%90%88%E5%94%B1?type=general",
+      "scheme": "snssdk1128://search/徐明浩SCN万人合唱"
+    },
+    {
+      "rank": 24,
+      "topic": "姜月初AI拼豆手速比斩妖还快",
+      "heat": 7623940,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%A7%9C%E6%9C%88%E5%88%9DAI%E6%8B%BC%E8%B1%86%E6%89%8B%E9%80%9F%E6%AF%94%E6%96%A9%E5%A6%96%E8%BF%98%E5%BF%AB?type=general",
+      "scheme": "snssdk1128://search/姜月初AI拼豆手速比斩妖还快"
+    },
+    {
+      "rank": 25,
+      "topic": "小团团版你可能不认识我",
+      "heat": 7619623,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%9B%A2%E5%9B%A2%E7%89%88%E4%BD%A0%E5%8F%AF%E8%83%BD%E4%B8%8D%E8%AE%A4%E8%AF%86%E6%88%91?type=general",
+      "scheme": "snssdk1128://search/小团团版你可能不认识我"
+    },
+    {
+      "rank": 26,
+      "topic": "火影古堡萌黄形态可爱捏",
+      "heat": 7618618,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%81%AB%E5%BD%B1%E5%8F%A4%E5%A0%A1%E8%90%8C%E9%BB%84%E5%BD%A2%E6%80%81%E5%8F%AF%E7%88%B1%E6%8D%8F?type=general",
+      "scheme": "snssdk1128://search/火影古堡萌黄形态可爱捏"
+    },
+    {
+      "rank": 27,
+      "topic": "小米18Fold正式发布",
+      "heat": 7616758,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Fold%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83?type=general",
+      "scheme": "snssdk1128://search/小米18Fold正式发布"
+    },
+    {
+      "rank": 28,
+      "topic": "迪迦奥特曼30周年",
+      "heat": 7615274,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%BF%AA%E8%BF%A6%E5%A5%A5%E7%89%B9%E6%9B%BC30%E5%91%A8%E5%B9%B4?type=general",
+      "scheme": "snssdk1128://search/迪迦奥特曼30周年"
+    },
+    {
+      "rank": 29,
+      "topic": "等来了侯明昊的光绘镜头签",
+      "heat": 7613994,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%AD%89%E6%9D%A5%E4%BA%86%E4%BE%AF%E6%98%8E%E6%98%8A%E7%9A%84%E5%85%89%E7%BB%98%E9%95%9C%E5%A4%B4%E7%AD%BE?type=general",
+      "scheme": "snssdk1128://search/等来了侯明昊的光绘镜头签"
     },
     {
       "rank": 30,
-      "topic": "被清明上河园的幕后诚意圈粉了",
-      "heat": 7640460,
+      "topic": "胡萝卜须抓住鼹鼠抛向天空",
+      "heat": 7613379,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A2%AB%E6%B8%85%E6%98%8E%E4%B8%8A%E6%B2%B3%E5%9B%AD%E7%9A%84%E5%B9%95%E5%90%8E%E8%AF%9A%E6%84%8F%E5%9C%88%E7%B2%89%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/被清明上河园的幕后诚意圈粉了"
+      "link": "https://www.douyin.com/search/%E8%83%A1%E8%90%9D%E5%8D%9C%E9%A1%BB%E6%8A%93%E4%BD%8F%E9%BC%B9%E9%BC%A0%E6%8A%9B%E5%90%91%E5%A4%A9%E7%A9%BA?type=general",
+      "scheme": "snssdk1128://search/胡萝卜须抓住鼹鼠抛向天空"
     }
   ],
-  "updateTime": "2026-09-07 22:39"
+  "updateTime": "2026-09-08 02:56"
 }
