@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "id": "ff0c6b2bbe",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 06:51",
+      "title": "9月8日隔夜要闻：美股周一休市 油价上涨 美总统特使称美代表团访俄乌取得“实质性进展”",
+      "insight": "市场 因美国劳动节 美股周一休市一日 攀升的油价令投资者态度谨慎 美股期货在清淡的假日交投中下跌…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk5012197.shtml"
+    },
+    {
+      "id": "ffce009c3a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 06:37",
+      "title": "道指期货下跌300点，油价攀升至六周高位",
+      "insight": "道琼斯指数期货周一下跌，为缩短的交易周拉开序幕。华尔街正密切关注中东战事以及加拿大与美国之间日益…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk5008920.shtml"
+    },
+    {
+      "id": "ff7b3c5710",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 06:31",
+      "title": "NTSB：亚马逊货机迈阿密坠毁，冲出跑道1300英尺，撞击两车致5死5伤",
+      "insight": "一名联邦官员周一表示，周日坠毁在迈阿密国际机场的亚马逊货运飞机冲出跑道约1，300英尺，撞上了机…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk5007246.shtml"
+    },
+    {
+      "id": "ff9636640f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 06:19",
+      "title": "SpaceX欧洲挑战者崛起：Isar Aerospace首飞成功，订单储备超100亿欧元",
+      "insight": "德国火箭制造商Isar Aerospace上周末首次成功入轨，这是欧洲商业航天行业的一个里程碑。…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracme9326553.shtml"
+    },
+    {
+      "id": "ffdbdc5c85",
+      "source": "证券日报",
+      "tag": "财经热点",
+      "time": "09-08 06:18",
+      "title": "国际农产品期价普遍走高 国内板块同步走强",
+      "insight": "本报记者王宁 8月以来，国际农产品期货板块迎来一轮较强走势。上海文华财经资讯股份有限公司（以下简…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-iniracmh6098675.shtml"
+    },
+    {
+      "id": "ff1eb27a5f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 05:57",
+      "title": "9月8日外盘头条：特朗普威胁要禁售庞巴迪飞机 加拿大拟对数百种美国商品征收关税 伦敦期铜创出新高",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美加贸易战恐升温 特朗普威胁要禁售庞巴迪飞机…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracme9316293.shtml"
+    },
+    {
+      "id": "ffdf28980a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 05:41",
+      "title": "攀升的油价令投资者态度谨慎 美股期货在清淡的假日交投中下跌",
+      "insight": "美国股票期货在谨慎的假日交易中下跌，中东冲突的升级推高油价，加剧了本就严峻的通胀形势。 伊朗和美…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk4994889.shtml"
+    },
+    {
+      "id": "ff4ea45fac",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 05:36",
+      "title": "伦敦期铜触及每吨14533美元纪录高位 关税揣测搅动市场",
+      "insight": "有关美国总统唐纳德·特朗普拟将关税扩大至精铜的揣测推动铜价上涨数周后，这一基本金属在伦敦触及纪录…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk4994050.shtml"
+    },
+    {
+      "id": "ff67e320e4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 05:25",
+      "title": "泽连斯基：美国正探索俄乌冬季降级措施",
+      "insight": "乌克兰总统泽连斯基周一在接受采访时表示，美国正在探索乌克兰和俄罗斯是否可以在冬季采取冲突降级措施…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmh6072470.shtml"
+    },
+    {
+      "id": "ff7993cadb",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 04:49",
+      "title": "OpenAI首席科学家称AI或很快迈入自我进化阶段 期望业界自愿放缓开发",
+      "insight": "OpenAI首席科学家Jakub Pachocki警告，人工智能正在以极快速度演进，以至于越来越…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk4983695.shtml"
+    },
+    {
+      "id": "ff81b6eb22",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-08 04:42",
+      "title": "美国家运输安全委员会：冲出跑道的波音货机黑匣子已找到",
+      "insight": "当地时间9月7日，美国国家运输安全委员会召开新闻发布会，通报关于亚马逊公司一架波音767-300…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-iniracmh6091691.shtml"
+    },
+    {
+      "id": "ff65aa04af",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-08 04:40",
+      "title": "美军称对伊海上封锁已使94艘商船改变航向",
+      "insight": "当地时间9月7日，美军中央司令部表示，截至当天，美军在对伊朗的海上封锁行动中已要求94艘商船改变…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-iniracme9290304.shtml"
+    },
+    {
+      "id": "ffe0ad0766",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 04:40",
+      "title": "美加贸易战恐升级 特朗普威胁要禁售庞巴迪飞机",
+      "insight": "美国和加拿大的贸易冲突面临持续升温，总统唐纳德·特朗普威胁要禁止销售庞巴迪公司生产的飞机。 “别…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniracmk9814093.shtml"
+    },
+    {
+      "id": "ff92690c2a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-08 04:20",
+      "title": "美加贸易战恐愈打愈烈 卡尼组合拳蓄势待发而特朗普又抛新威胁",
+      "insight": "加拿大对数百种美国商品征收15%至50%关税的措施定于周二生效，总理马克·卡尼笃定他奋起反击美国…",
+      "link": "https://finance.sina.com.cn/world/2026-09-08/doc-iniqzxck6177281.shtml"
+    },
+    {
+      "id": "ff20695fa4",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "09-08 03:45",
+      "title": "欧洲四大电信巨头密谋组团 拟竞标卫星频谱挑战马斯克星链",
+      "insight": "（来源：财联社）财联社9月8日讯（编辑 赵昊）最新消息显示，欧洲多家大型移动通信运营商正在进行初…",
+      "link": "https://finance.sina.com.cn/stock/t/2026-09-08/doc-iniqzxck6167935.shtml"
+    },
+    {
+      "id": "ffbfc606df",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-08 02:57",
+      "title": "美加贸易冲突升级 特朗普威胁要禁售庞巴迪飞机",
+      "insight": "美国和加拿大的贸易冲突持续升级，总统特朗普威胁要禁止销售庞巴迪公司美国生产的飞机。 “别再跑到美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzxcn9922332.shtml"
+    },
+    {
       "id": "ffb7fb3e9e",
       "source": "环球市场播报",
       "tag": "美股",
@@ -10,176 +154,32 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzxcn5089669.shtml"
     },
     {
-      "id": "ff6035d6c7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 01:57",
-      "title": "德意志银行策略师称交易员错估了美欧央行加息的力度",
-      "insight": "德意志银行策略师Henry Allen认为，从价格面临的上行压力来分析，投资者低估了遏制通胀所需…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvq5204901.shtml"
-    },
-    {
-      "id": "fff497fbb0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 01:55",
-      "title": "伊朗与美国相互攻击，沙特阿美设施遭袭，油价升至六周高点",
-      "insight": "周一，油价升至六周高点，因美国和伊朗在周末相互发动攻击，加剧了中东地区的紧张局势。 国际石油基准…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvn6244152.shtml"
-    },
-    {
-      "id": "ffcbef4640",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 00:51",
-      "title": "面对特朗普觊觎格陵兰 欧盟拟投资2亿欧元加强联系",
-      "insight": "欧盟将向格陵兰投资2亿欧元（2.32亿美元），作为加强与这一地区联系的一部分。此前，美国总统特朗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvr0019620.shtml"
-    },
-    {
-      "id": "ff5098f4ae",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 00:24",
-      "title": "欧洲股市表现平淡 油价上涨与诺华下跌形成拖累",
-      "insight": "欧洲股市周一受到油价上涨以及诺华股价下跌的拖累。此前，诺华一款心脏病药物在临床试验中失利。 斯托…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvk9429552.shtml"
-    },
-    {
-      "id": "ff144f2cd6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 00:22",
-      "title": "欧洲债市：德债五连跌 各期限英债收益率走高约4个基点",
-      "insight": "德国国债连续第五天下跌，国际油价逼近每桶100美元，令投资者继续警惕通胀压力。英债同样走弱。 德…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvk9428773.shtml"
-    },
-    {
-      "id": "ff3aec0310",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-08 00:13",
-      "title": "卡塔尔LNG运输船罕见尝试驶出霍尔木兹海峡 出口恢复信号增强",
-      "insight": "一艘上月初在卡塔尔装载液化天然气的运输船正驶向霍尔木兹海峡，可能成为自7月以来首次可见的尝试驶出…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-iniqzsvq5178631.shtml"
-    },
-    {
-      "id": "ff8b2bf2fb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 23:50",
-      "title": "知情人士称沙特阿美位于吉赞的石油设施再次遭到袭击",
-      "insight": "据知情人士透露，沙特阿美位于吉赞的石油设施周一再次遭到袭击。这是当地一系列袭击事件中的最新一起，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9545467.shtml"
-    },
-    {
-      "id": "fff7d67b70",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 23:37",
-      "title": "关税揣测搅动市场 伦敦期铜创出新高",
-      "insight": "有关美国总统特朗普拟将关税扩大至精铜的揣测推动铜价上涨数周后，这一基本金属在伦敦触及纪录高位。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpt0131213.shtml"
-    },
-    {
-      "id": "ffe99cb82c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 23:36",
-      "title": "伊朗称经霍尔木兹海峡美国通道安全通行实际上已不可能",
-      "insight": "伊斯兰革命卫队的Ali Mohammadi表示，通过霍尔木兹海峡的船只“一旦抵达阿曼Khasab…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9537865.shtml"
-    },
-    {
-      "id": "ffcb598ec6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 23:16",
-      "title": "加拿大势将对数百种美国商品加征关税 卡尼拟借强硬立场增加谈判筹码",
-      "insight": "加拿大准备于周二对数百种美国商品实施15%至50%的关税措施，总理马克·卡尼押注，对美国总统特朗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9528993.shtml"
-    },
-    {
-      "id": "ffc798fef1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 23:16",
-      "title": "居英富豪外流再添新例 对冲基金创始人Chris Rokos转居希腊",
-      "insight": "对冲基金创始人Chris Rokos据悉将离开英国，成为该国又一位选择离开的高额纳税人和金融界知…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpn9528800.shtml"
-    },
-    {
-      "id": "ffb7d5dcc9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-07 22:58",
-      "title": "美国就伊朗未遵守核相关义务加大外交施压力度",
-      "insight": "美国正加大对伊朗的外交施压力度，提议因德黑兰方面阻挠核查人员开展工作，将伊朗问题提交联合国安理会…",
-      "link": "https://finance.sina.com.cn/world/2026-09-07/doc-iniqznpq6294499.shtml"
-    },
-    {
-      "id": "ff7677c356",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:54",
-      "title": "美国大型高校捐赠基金跑赢标普500指数",
-      "insight": "多所美国大型高校捐赠基金有望追平或是跑赢大盘；得益于对SpaceX、OpenAI等科技企业的大额…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpt0121117.shtml"
-    },
-    {
-      "id": "fffe687f7b",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 22:50",
-      "title": "16天8板！金健米业上半年营收增长25%，但净利转亏",
-      "insight": "来源：上市之家 粮食概念热股金健米业（600127.SH）发布2026年半年度报告。报告显示，公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6292777.shtml"
-    },
-    {
-      "id": "ff33069c52",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 22:50",
-      "title": "“人民币政府”、“熊源”！新任董事长邹来昌“首秀”即翻车？紫金矿业半年报三处低级错误拷问治理成色",
-      "insight": "来源：上市之家 “A+H”两市合计近2万亿市值的国际矿业巨头紫金矿业（601899.SH），刚刚…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpn9520109.shtml"
-    },
-    {
-      "id": "ff47486ad1",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-07 22:50",
-      "title": "20cm跌停，市值腰斩！谁在抛售“中国版英伟达”？还有更大压力！",
-      "insight": "來源：上市之家 9月7日，有着“中国版英伟达”之称的A股算力芯片龙头摩尔线程（688795.SH…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-07/doc-iniqznpq6291635.shtml"
-    },
-    {
-      "id": "ff15de9bca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:37",
-      "title": "俄罗斯下令关闭德国驻圣彼得堡总领事馆 两国争端持续升级",
-      "insight": "俄罗斯将关闭德国驻圣彼得堡总领事馆，进一步加剧两国外交争端。这场争端始于德国指责莫斯科对一起未遂…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznpq6283618.shtml"
-    },
-    {
-      "id": "ff866eb298",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-07 22:36",
-      "title": "南非二季度农产品出口同比增长10%，至41亿美元",
-      "insight": "南非农业商业协会首席经济学家Wandile Sihlobo 9月7日公布的数据显示，二季度南非农…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqznps5283856.shtml"
-    },
-    {
-      "id": "ff16d47f88",
+      "id": "ff2aa6f3d5",
       "source": "上海证券报",
+      "tag": "财经",
+      "time": "09-08 02:30",
+      "title": "六部门部署完善乡村振兴投入机制 促进“三农”领域投入结构不断优化",
+      "insight": "◎记者 李雁争 田甜 农业农村部等六部门近日联合印发《坚持农业农村优先发展 完善乡村振兴投入机制…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-08/doc-iniqzxcn5083453.shtml"
+    },
+    {
+      "id": "ff7be6b009",
+      "source": "央视",
       "tag": "财经热点",
-      "time": "09-07 22:30",
-      "title": "002361，副总经理被证监会立案调查",
-      "insight": "9月7日，神剑股份（002361）披露公告称，公司副总经理吴德清当日收到中国证监会出具的《立案告…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-07/doc-iniqznpn9508792.shtml"
+      "time": "09-08 02:27",
+      "title": "芬兰完成芬俄边境围栏系统建设 未来或扩建",
+      "insight": "芬兰7日宣布，已完成芬兰与俄罗斯边境围栏系统的建设，未来可能进一步扩大围栏修建范围。芬兰边防军当…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-iniqzxch9401435.shtml"
+    },
+    {
+      "id": "ff5d06bde0",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-08 02:17",
+      "title": "扎波罗热核电站外部供电已恢复",
+      "insight": "△扎波罗热核电站（资料图）当地时间9月7日，扎波罗热核电站官方通报，该核电站已恢复330千伏“铁…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-iniqzxck6164086.shtml"
     }
   ],
-  "updateTime": "2026-09-08 02:56"
+  "updateTime": "2026-09-08 07:13"
 }
