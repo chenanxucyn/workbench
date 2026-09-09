@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff4d777fea",
+      "id": "ff3dcef289",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 15:38",
-      "title": "Anthropic对齐研究负责人称未来十年AI灭绝人类的可能性超过10%",
-      "insight": "一位Anthropic公司的安全研究员周二表示，人工智能有超过10%的概率可能 “毁灭全人类”。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivs8906339.shtml"
+      "time": "09-09 21:18",
+      "title": "美国股指期货温和走低 苹果重磅发布会前股价小幅下跌",
+      "insight": "美国股指期货和美国国债双双下跌，市场关注通胀风险。布伦特原油升破每桶100美元，促使交易员加大对…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumq5715991.shtml"
     },
     {
-      "id": "ffa07fc888",
+      "id": "ffecb5f591",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 15:32",
-      "title": "GE航空航天拟117.5亿美元收购CPP，加强关键铸件供应能力",
-      "insight": "GE航空航天9月8日宣布，将以117.5亿美元现金收购精密铸件制造商Consolidated P…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5672601.shtml"
+      "time": "09-09 21:15",
+      "title": "亚马逊首次发行四部分英镑债 据悉已获逾116.5亿英镑认购",
+      "insight": "亚马逊预计将通过首次发行英镑债券筹集42.5亿英镑（58亿美元）。尽管投资者认购订单略有回落，公…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumn8941767.shtml"
     },
     {
-      "id": "ffce51e8a9",
+      "id": "ff9283f9ee",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 15:31",
-      "title": "布伦特原油自7月24日以来首次升破每桶100美元",
-      "insight": "布伦特原油价格自7月以来首次升破每桶100美元。美国与伊朗之间的冲突不断，以及中国原油采购复苏，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5671080.shtml"
+      "time": "09-09 21:13",
+      "title": "摩根大通：霍尔木兹海峡长期封锁情景下，明年布油或均值87美元/桶",
+      "insight": "大宗商品研究主管娜塔莎・卡涅娃牵头的摩根大通分析师团队在一份研报中表示：即便出现“永久冲突”情景…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumn8940541.shtml"
     },
     {
-      "id": "ff6a79cc4b",
+      "id": "ff356272ef",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "09-09 21:00",
+      "title": "突发！603887，超4亿元数据中心重大合同终止！",
+      "insight": "超4亿元合同突然终止！ 9月9日，城地香江（603887）公告称，公司全资子公司香江系统工程与北…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-09/doc-inirfums8470325.shtml"
+    },
+    {
+      "id": "ff94704e42",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 15:29",
-      "title": "亚马逊筹备首次英镑债券发行，拓展债务融资渠道",
-      "insight": "亚马逊9月8日聘请银行安排首次英镑计价债券发行，拟设置3年、6年、12年和19年四档期限。据承销…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8592709.shtml"
+      "time": "09-09 20:55",
+      "title": "伊拉克称一艘燃料油轮在其领海遇袭 未发生泄漏",
+      "insight": "伊拉克国家通讯社INA援引交通部消息报道，一艘悬挂巴拿马旗、装载燃料油的油轮在伊拉克领海内遭到袭…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums3635227.shtml"
     },
     {
-      "id": "ff4a8e5c23",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-09 15:27",
-      "title": "Anthropic订阅用户Token遭黑客盗刷 平台暂无应对方案",
-      "insight": "近期，英国东萨塞克斯的独立AI顾问Grant De Swardt发现他的Claude Max 2…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8592066.shtml"
-    },
-    {
-      "id": "ffc4bcc359",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-09 15:21",
-      "title": "高通与亚马逊合作开发AI芯片，授予最高2500万股认股权",
-      "insight": "高通9月8日宣布与亚马逊开展多代产品合作，为大型AI数据中心开发定制芯片及高速光互连技术，重点面…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivs8887857.shtml"
-    },
-    {
-      "id": "ffea4e7034",
+      "id": "ffee7839d8",
       "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-09 15:20",
-      "title": "快讯：布伦特原油站上100美元/桶",
-      "insight": "北京时间9月9日下午，布伦特原油站上100美元/桶，日内涨超2%。",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-inirfivu5659567.shtml"
-    },
-    {
-      "id": "ff7a3257eb",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "09-09 15:20",
-      "title": "中方将由谁率团出席金砖国家峰会？外交部：会及时发布消息",
-      "insight": "9月9日，外交部发言人毛宁主持例行记者会。 日本广播协会（NHK）记者提问，金砖国家领导人第十八…",
-      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-inirfivu5659695.shtml"
-    },
-    {
-      "id": "ff9b046795",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "09-09 15:20",
-      "title": "美国安机构指责中国企业蒸馏美国模型，外交部：不要进行不实的指责和抹黑",
-      "insight": "9月9日，外交部发言人毛宁主持例行记者会。 法新社记者提问，昨天，美国国安局等三机构发布联合声明…",
-      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-inirfivu5658875.shtml"
-    },
-    {
-      "id": "ff081a048b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-09 15:16",
-      "title": "外交部：立己达人是中国开展对外合作的价值底色",
-      "insight": "9月9日，外交部发言人毛宁主持例行记者会。有记者问：我们注意到近期出现一些炒作中国“抽梯子”的声…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-09/doc-inirfivw8589797.shtml"
-    },
-    {
-      "id": "ff3c6cb68f",
-      "source": "新浪港股",
       "tag": "股市",
-      "time": "09-09 15:12",
-      "title": "中国宏桥午后上涨4% 铝价攀升贡献公司业绩增量",
-      "insight": "中国宏桥（01378）午后上涨4%，截至发稿，股价上涨4%，现报24.46港元，成交额7.57亿…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8876561.shtml"
+      "time": "09-09 20:55",
+      "title": "一天跌没蒸发488亿，摩尔线程为何股价“大跳水”？",
+      "insight": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 头顶“中国英伟达”光环的摩尔线程，迎…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-09/doc-inirfums3637649.shtml"
     },
     {
-      "id": "ffc23a87e1",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 15:08",
-      "title": "中国重汽午后涨超4% 大和上调公司未来两年营收预测",
-      "insight": "中国重汽（03808）午后涨超4%，截至发稿，股价上涨4.01%，现报44.62港元，成交额2.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8872387.shtml"
-    },
-    {
-      "id": "ffee9263ca",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-09 15:08",
-      "title": "西部证券：金价中期看涨 自上而下优选弹性龙头",
-      "insight": "西部证券发布研报称，金价大幅下跌将直接导致黄金类存货可变现净值下降，可能产生较大金额的存货跌价损…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-09/doc-inirfivu5656644.shtml"
-    },
-    {
-      "id": "ff04daea0c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 15:07",
-      "title": "立讯精密午后涨超3% 公司持续推进多领域产品布局",
-      "insight": "立讯精密（02475）午后涨超3%，截至发稿，股价上涨3.01%，现报61.60港元，成交额1.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8869930.shtml"
-    },
-    {
-      "id": "ffe0c09fe7",
+      "id": "ffc77283e9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 15:05",
-      "title": "汇丰与花旗先后看向标普500年末8100点，盈利预测与估值假设各有侧重",
-      "insight": "汇丰9月8日将标普500指数2026年末目标从7650点上调至8100点，与花旗6月公布的目标一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw3750135.shtml"
+      "time": "09-09 20:54",
+      "title": "交易员提高对欧洲和英国央行的加息押注 料到明年底前加息约四次",
+      "insight": "随着全球油气价格上涨令市场持续警惕通胀风险，交易员加大了对欧洲央行加息的押注，目前预计到明年底前…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums8467171.shtml"
     },
     {
-      "id": "ffe2717317",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 15:02",
-      "title": "花旗：中国再保险目标价微降至1.5港元 维持“中性/高风险”评级",
-      "insight": "花旗发布研报称，在中国再保险（01508）上半年业绩公布后更新模型，上调2026年净利润预测12…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirfivu5635529.shtml"
+      "id": "ffad1783de",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:49",
+      "title": "欧盟拟推“欧洲制造”公共采购规则",
+      "insight": "欧盟正推动各国政府将规模达2.6万亿欧元（3万亿美元）的公共采购更多地投向本地供应商。 欧盟行政…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums3632993.shtml"
     },
     {
-      "id": "ffb47b38f1",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-09 15:01",
-      "title": "收评|国内期货主力合约有涨有跌 SC原油涨超5%",
-      "insight": "2026年9月9日，国内期货主力合约有涨有跌。SC原油涨超5%，甲醇涨超4%，纯苯涨超3%，丙烯…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-inirfivs8861497.shtml"
+      "id": "ff20c985ff",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:30",
+      "title": "盘前：股债汇三杀来袭：油价站上100美元",
+      "insight": "周三美国股指期货下跌，美国国债价格也走低。日元升至7个月高位，令美元继续承压。在当前市场中，通胀…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumq5690212.shtml"
     },
     {
-      "id": "ff5693c573",
-      "source": "21世纪经济报道",
+      "id": "ffc39a2a20",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:29",
+      "title": "报道：OpenAI预计到2030年算力支出约达7500亿美元",
+      "insight": "据媒体援引一名了解相关数据的未具名人士报道，OpenAI目前预计，到2030年其算力支出将达到约…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumq5681389.shtml"
+    },
+    {
+      "id": "ffb6154d24",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:27",
+      "title": "银行暴利税山雨欲来 摩根大通CEO戴蒙将与英国财相会面",
+      "insight": "据一位知情人士透露，摩根大通首席执行官杰米·戴蒙计划周三与英国财政大臣约翰·希利会面。英国政府考…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumn8907960.shtml"
+    },
+    {
+      "id": "ff48aea0f9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:26",
+      "title": "ADP：截至8月22日的四周美国私营部门就业人数平均每周增加12,000人",
+      "insight": "根据ADP Research和斯坦福数字经济实验室的初步数据，截至8月22日的四周内，美国私营部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums8457453.shtml"
+    },
+    {
+      "id": "ff46d1103a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:24",
+      "title": "美国国债受油价高企拖累而走弱 回购操作细节公布前市场押注审慎",
+      "insight": "美国国债下跌，交易员担心油价上涨将加剧通胀，并进一步增加美联储加息的压力。 美国两年期国债收益率…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums8456845.shtml"
+    },
+    {
+      "id": "ffdb841348",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:19",
+      "title": "彼得蒂尔投资的防务初创企业结束隐身运营，开设美国导弹工厂",
+      "insight": "核心要点 防务科技初创公司 Covenant 宣布，在达拉斯开设一座占地 10.5 万平方英尺的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumq5674751.shtml"
+    },
+    {
+      "id": "ff1be90175",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:15",
+      "title": "利率上行，高风险抵押贷款需求再度回升",
+      "insight": "核心要点可调利率抵押贷款（ARM）占全部抵押贷款申请的比重升至 8.5%上周符合标准贷款额度的 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums8454109.shtml"
+    },
+    {
+      "id": "ffcf3c6a31",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:14",
+      "title": "日本航运巨头董事长：日元剧烈波动或将令全球市场陷入混乱",
+      "insight": "一位航运业高管表示，尽管日元走弱有利于在海外开展业务的日本企业，但日元的大幅波动会带来隐患。 三…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumq5670920.shtml"
+    },
+    {
+      "id": "ff08a87f8a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:14",
+      "title": "巴克莱上调标普500年末目标至7950点，盈利增长成主要支撑",
+      "insight": "巴克莱将标普500指数2026年末目标位由7800点上调至7950点，同时维持2027年末880…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfums3621509.shtml"
+    },
+    {
+      "id": "ff780869b8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 20:11",
+      "title": "油气价格齐涨 英国及欧洲政府债券遭抛售",
+      "insight": "英国和欧洲政府债券周三进一步遭到抛售，短端领跌，油价和天然气价格上涨给债市带来压力。 英国10年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfumn8895152.shtml"
+    },
+    {
+      "id": "ff49b3e746",
+      "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-09 15:01",
-      "title": "娃哈哈集团成被执行人",
-      "insight": "企查查APP显示，近日，杭州娃哈哈集团有限公司新增一则被执行人信息，执行标的1.84万余元，执行…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-09/doc-inirfivw8584504.shtml"
+      "time": "09-09 20:11",
+      "title": "美债受油价高企拖累而走弱 两年期收益率创去年1月以来新高",
+      "insight": "美国国债下跌，交易员担心油价上涨将加剧通胀，并进一步增加美联储加息的压力。 美国两年期国债收益率…",
+      "link": "https://finance.sina.com.cn/world/2026-09-09/doc-inirfumn8895067.shtml"
     },
     {
-      "id": "ffe8a10502",
+      "id": "ff8fdcc1f6",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-09 15:00",
-      "title": "8月美股散户买入意愿降温 SpaceX系最青睐的标的",
-      "insight": "据独家提供给Axios的数据显示，8月零售投资者买入股票的意愿有所下降，他们趁着月初的上涨行情减…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8579103.shtml"
-    },
-    {
-      "id": "ff850874dc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-09 14:59",
-      "title": "8月美股散户买入意愿降温转投ETF SpaceX系最青睐个股标的",
-      "insight": "数据显示，8月散户投资者的股票买入意愿降温，趁着月初行情上涨减持部分持仓，嘉信理财衡量股票持仓与…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5630954.shtml"
+      "tag": "财经热点",
+      "time": "09-09 20:07",
+      "title": "英国航空交通“大瘫痪”余波未平 政府排除网络攻击可能",
+      "insight": "英国的航空旅客连续第二天遭遇严重出行中断。一个关键节点发生技术故障，迫使希思罗机场及其他航空枢纽…",
+      "link": "https://finance.sina.com.cn/world/2026-09-09/doc-inirfumq5663045.shtml"
     }
   ],
-  "updateTime": "2026-09-09 15:44"
+  "updateTime": "2026-09-09 21:18"
 }
