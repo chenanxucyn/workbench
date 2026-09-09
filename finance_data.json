@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff7a8cedb1",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 10:28",
-      "title": "今海医疗科技盘中涨超21% 上半年微创医疗业务同比大增逾三倍",
-      "insight": "今海医疗科技（02225）盘中涨超21%，入通后累计涨幅近六成。截至发稿，股价上涨16.93%，…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirexfw8898296.shtml"
+      "id": "ff4d777fea",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:38",
+      "title": "Anthropic对齐研究负责人称未来十年AI灭绝人类的可能性超过10%",
+      "insight": "一位Anthropic公司的安全研究员周二表示，人工智能有超过10%的概率可能 “毁灭全人类”。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivs8906339.shtml"
     },
     {
-      "id": "fff266a40c",
+      "id": "ffa07fc888",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:32",
+      "title": "GE航空航天拟117.5亿美元收购CPP，加强关键铸件供应能力",
+      "insight": "GE航空航天9月8日宣布，将以117.5亿美元现金收购精密铸件制造商Consolidated P…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5672601.shtml"
+    },
+    {
+      "id": "ffce51e8a9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:31",
+      "title": "布伦特原油自7月24日以来首次升破每桶100美元",
+      "insight": "布伦特原油价格自7月以来首次升破每桶100美元。美国与伊朗之间的冲突不断，以及中国原油采购复苏，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5671080.shtml"
+    },
+    {
+      "id": "ff6a79cc4b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:29",
+      "title": "亚马逊筹备首次英镑债券发行，拓展债务融资渠道",
+      "insight": "亚马逊9月8日聘请银行安排首次英镑计价债券发行，拟设置3年、6年、12年和19年四档期限。据承销…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8592709.shtml"
+    },
+    {
+      "id": "ff4a8e5c23",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:27",
+      "title": "Anthropic订阅用户Token遭黑客盗刷 平台暂无应对方案",
+      "insight": "近期，英国东萨塞克斯的独立AI顾问Grant De Swardt发现他的Claude Max 2…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8592066.shtml"
+    },
+    {
+      "id": "ffc4bcc359",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-09 15:21",
+      "title": "高通与亚马逊合作开发AI芯片，授予最高2500万股认股权",
+      "insight": "高通9月8日宣布与亚马逊开展多代产品合作，为大型AI数据中心开发定制芯片及高速光互连技术，重点面…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivs8887857.shtml"
+    },
+    {
+      "id": "ffea4e7034",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-09 15:20",
+      "title": "快讯：布伦特原油站上100美元/桶",
+      "insight": "北京时间9月9日下午，布伦特原油站上100美元/桶，日内涨超2%。",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-inirfivu5659567.shtml"
+    },
+    {
+      "id": "ff7a3257eb",
+      "source": "北京日报客户端",
+      "tag": "财经热点",
+      "time": "09-09 15:20",
+      "title": "中方将由谁率团出席金砖国家峰会？外交部：会及时发布消息",
+      "insight": "9月9日，外交部发言人毛宁主持例行记者会。 日本广播协会（NHK）记者提问，金砖国家领导人第十八…",
+      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-inirfivu5659695.shtml"
+    },
+    {
+      "id": "ff9b046795",
+      "source": "北京日报客户端",
+      "tag": "财经热点",
+      "time": "09-09 15:20",
+      "title": "美国安机构指责中国企业蒸馏美国模型，外交部：不要进行不实的指责和抹黑",
+      "insight": "9月9日，外交部发言人毛宁主持例行记者会。 法新社记者提问，昨天，美国国安局等三机构发布联合声明…",
+      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-inirfivu5658875.shtml"
+    },
+    {
+      "id": "ff081a048b",
       "source": "央视",
       "tag": "财经热点",
-      "time": "09-09 10:26",
-      "title": "《焦点访谈》曝光后，安徽、山东、河南连夜核查！",
-      "insight": "去年，相关部门在全国范围内开展专项整治行动，严厉打击所谓的新能源加注站售卖柴油、汽油等危化品行为…",
-      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-inirexha8734533.shtml"
+      "time": "09-09 15:16",
+      "title": "外交部：立己达人是中国开展对外合作的价值底色",
+      "insight": "9月9日，外交部发言人毛宁主持例行记者会。有记者问：我们注意到近期出现一些炒作中国“抽梯子”的声…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-09/doc-inirfivw8589797.shtml"
     },
     {
-      "id": "ff83a5c318",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-09 10:26",
-      "title": "光大期货：9月9日金融日报",
-      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-09/doc-inirexfy5669206.shtml"
-    },
-    {
-      "id": "ff1cc840f5",
+      "id": "ff3c6cb68f",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-09 10:22",
-      "title": "大摩：比亚迪股份重申“增持”评级 目标价121港元",
-      "insight": "摩根士丹利发布研报称，比亚迪股份（01211）管理层对今年下半年国内市场复苏有信心，超快充车型强…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirexfy5665786.shtml"
+      "time": "09-09 15:12",
+      "title": "中国宏桥午后上涨4% 铝价攀升贡献公司业绩增量",
+      "insight": "中国宏桥（01378）午后上涨4%，截至发稿，股价上涨4%，现报24.46港元，成交额7.57亿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8876561.shtml"
     },
     {
-      "id": "ff568ba32f",
+      "id": "ffc23a87e1",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-09 10:20",
-      "title": "高盛：新意网维持“中性”评级 目标价上调至6港元",
-      "insight": "高盛发布研报称，上调新意网（01686）2027至2029财年收入预测1%至5%、EBITDA预…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirexfy5664370.shtml"
+      "time": "09-09 15:08",
+      "title": "中国重汽午后涨超4% 大和上调公司未来两年营收预测",
+      "insight": "中国重汽（03808）午后涨超4%，截至发稿，股价上涨4.01%，现报44.62港元，成交额2.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8872387.shtml"
     },
     {
-      "id": "fff7a8e9e0",
+      "id": "ffee9263ca",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "09-09 15:08",
+      "title": "西部证券：金价中期看涨 自上而下优选弹性龙头",
+      "insight": "西部证券发布研报称，金价大幅下跌将直接导致黄金类存货可变现净值下降，可能产生较大金额的存货跌价损…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-09/doc-inirfivu5656644.shtml"
+    },
+    {
+      "id": "ff04daea0c",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-09 10:18",
-      "title": "太平洋证券：老铺黄金维持“买入”评级 后续有望延续高景气增长态势",
-      "insight": "太平洋证券发布研报称，预计老铺黄金（06181）2026-2028年实现收入339.0/373.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirexfy5662012.shtml"
+      "time": "09-09 15:07",
+      "title": "立讯精密午后涨超3% 公司持续推进多领域产品布局",
+      "insight": "立讯精密（02475）午后涨超3%，截至发稿，股价上涨3.01%，现报61.60港元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-inirfivs8869930.shtml"
     },
     {
-      "id": "ffe2c44bad",
+      "id": "ffe0c09fe7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 10:17",
-      "title": "特朗普发文称赞德国选择政党在州选举中获胜 称其“正在崛起”",
-      "insight": "美国总统特朗普对德国选择党在一场州选举中大胜表示赞赏。此次投票结果不仅对德国执政联盟构成挑战，也…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirexfw8889004.shtml"
+      "time": "09-09 15:05",
+      "title": "汇丰与花旗先后看向标普500年末8100点，盈利预测与估值假设各有侧重",
+      "insight": "汇丰9月8日将标普500指数2026年末目标从7650点上调至8100点，与花旗6月公布的目标一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw3750135.shtml"
     },
     {
-      "id": "ffc3c12ac9",
+      "id": "ffe2717317",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-09 10:16",
-      "title": "太平洋证券：蜜雪集团中期收入同比增长2.3% 供应链与品牌护城河支撑长期发展",
-      "insight": "太平洋证券发布研报称，蜜雪集团（02097）2026年上半年实现收入152.16亿元，同比增长2…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirexfy5660440.shtml"
+      "time": "09-09 15:02",
+      "title": "花旗：中国再保险目标价微降至1.5港元 维持“中性/高风险”评级",
+      "insight": "花旗发布研报称，在中国再保险（01508）上半年业绩公布后更新模型，上调2026年净利润预测12…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-inirfivu5635529.shtml"
     },
     {
-      "id": "ff257fe17f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-09 10:08",
-      "title": "花钱买忠心？特朗普据悉向三位白宫女助手私人赠予大额现金",
-      "insight": "根据特朗普政府公布的财务披露文件，唐纳德·特朗普向其行政助理娜塔莉·哈普（Natalie Har…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-iniresye4024710.shtml"
-    },
-    {
-      "id": "fff4b70566",
+      "id": "ffb47b38f1",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-09 10:00",
-      "title": "华泰期货：地缘紧张局势升级 贵金属偏弱震荡",
-      "insight": "来源：华泰期货 作者： 师橙 市场分析 地缘方面，也门胡塞武装对沙特方面实施了一次大规模军事行动…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-09/doc-iniresye8851530.shtml"
+      "time": "09-09 15:01",
+      "title": "收评|国内期货主力合约有涨有跌 SC原油涨超5%",
+      "insight": "2026年9月9日，国内期货主力合约有涨有跌。SC原油涨超5%，甲醇涨超4%，纯苯涨超3%，丙烯…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-inirfivs8861497.shtml"
     },
     {
-      "id": "ff9272e877",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-09 09:58",
-      "title": "华泰期货：胡塞武装军事行动声明，芳烃价格走高",
-      "insight": "来源：华泰期货 作者： 陈莉 纯苯与苯乙烯观点 市场要闻与重要数据 纯苯方面：纯苯主力基差367…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-iniresya5770523.shtml"
-    },
-    {
-      "id": "ffe5de60aa",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 09:56",
-      "title": "海光芯正盘初上涨30% 携手格罗方德加速下一代AI硅光互连技术全球化商业进程",
-      "insight": "海光芯正（01191）盘中一度上涨30%，入通后累计涨幅逾七成。截至发稿，涨幅收窄股价上涨20.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-09/doc-iniresya5767974.shtml"
-    },
-    {
-      "id": "ff6ddabe62",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-09 09:55",
-      "title": "华泰期货：现货维持升水back结构延续 铜价维持偏强",
-      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-08，沪铜主力合约…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-09/doc-iniresya5767218.shtml"
-    },
-    {
-      "id": "ffc755066c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 09:53",
-      "title": "大摩：小米集团-W重申“增持”评级 目标价33港元",
-      "insight": "摩根士丹利发布研报称，小米集团-W（01810）于秋季发布会上，正式推出SkyNomad，并录得…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-iniresxy8992323.shtml"
-    },
-    {
-      "id": "ffaf4cbdef",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 09:52",
-      "title": "花旗：行业数据利好AI PCB设备股 不利建筑机械股",
-      "insight": "花旗发布研报称，PCB（印刷线路板）设备数据正面，建筑机械则偏负面。PCB设备方面，台湾大量科技…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-iniresya5763967.shtml"
-    },
-    {
-      "id": "ff498cdcf6",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-09 09:50",
-      "title": "浦银国际：网龙维持“买入”评级 目标价12港元",
-      "insight": "浦银国际发布研报称，网龙（00777）通过持续推进 AI 降本及经营效率优化，1H26 整体经营…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-09/doc-iniresye8846736.shtml"
-    },
-    {
-      "id": "ff7b7ff9b2",
-      "source": "市场资讯",
+      "id": "ff5693c573",
+      "source": "21世纪经济报道",
       "tag": "财经热点",
-      "time": "09-09 09:50",
-      "title": "视频|德国右翼政党赢得“历史性胜利”，魏德尔公开发声",
-      "insight": "来源：今日头条号-笑看风云掠过",
-      "link": "https://finance.sina.com.cn/world/2026-09-09/doc-iniresya5760884.shtml"
+      "time": "09-09 15:01",
+      "title": "娃哈哈集团成被执行人",
+      "insight": "企查查APP显示，近日，杭州娃哈哈集团有限公司新增一则被执行人信息，执行标的1.84万余元，执行…",
+      "link": "https://finance.sina.com.cn/wm/2026-09-09/doc-inirfivw8584504.shtml"
     },
     {
-      "id": "ffc2cfca10",
+      "id": "ffe8a10502",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 09:49",
-      "title": "日本国债收益率升至近三十年高位 引发关于海外资金大回流风险的讨论",
-      "insight": "日本国债收益率接近三十年来的最高水平，使得全球投资者长期以来讨论的一个风险再次凸显出来：该国庞大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-iniresxy8987007.shtml"
+      "time": "09-09 15:00",
+      "title": "8月美股散户买入意愿降温 SpaceX系最青睐的标的",
+      "insight": "据独家提供给Axios的数据显示，8月零售投资者买入股票的意愿有所下降，他们趁着月初的上涨行情减…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivw8579103.shtml"
     },
     {
-      "id": "ff8d819ee1",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-09 09:46",
-      "title": "清华大学杨振宁高等研究院揭牌，翁帆出席仪式并发言",
-      "insight": "“清华大学高等研究院”微信公号 九月清华，水木含芳。9月5日，清华大学杨振宁高等研究院揭牌仪式在…",
-      "link": "https://finance.sina.com.cn/china/2026-09-09/doc-iniresye8856878.shtml"
-    },
-    {
-      "id": "ff16c567d7",
+      "id": "ff850874dc",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-09 09:46",
-      "title": "铠侠反驳与SK海力士建立更深度合作关系的说法 承诺缓解芯片价格涨势",
-      "insight": "铠侠CEO周三反驳了有关与竞争对手和利益相关方SK海力士建立更深层次关系的说法，同时承诺控制内存…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-iniresya5755935.shtml"
+      "time": "09-09 14:59",
+      "title": "8月美股散户买入意愿降温转投ETF SpaceX系最青睐个股标的",
+      "insight": "数据显示，8月散户投资者的股票买入意愿降温，趁着月初行情上涨减持部分持仓，嘉信理财衡量股票持仓与…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirfivu5630954.shtml"
     }
   ],
-  "updateTime": "2026-09-09 10:30"
+  "updateTime": "2026-09-09 15:44"
 }
