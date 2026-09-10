@@ -1,6 +1,132 @@
 {
   "news": [
     {
+      "id": "ff3d436080",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 04:26",
+      "title": "阿联酋计划在德国投资460亿美元 涵盖AI和能源等领域",
+      "insight": "阿拉伯联合酋长国计划在德国投资400亿欧元（460亿美元），涉及从人工智能到能源和国防等多个领域…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5480799.shtml"
+    },
+    {
+      "id": "ffd68993dc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 04:26",
+      "title": "9月11日收盘：美股三大指数收跌 美债收益率创新高 油价持续上涨",
+      "insight": "周四，由于人们越来越担心中东旷日持久的战争会导致通货膨胀加剧，美国油价突破每桶100美元，股市应…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5480568.shtml"
+    },
+    {
+      "id": "ffb7c74018",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 04:04",
+      "title": "原油：布伦特升逾每桶107美元 中东冲突加剧供应担忧",
+      "insight": "随着中东局势恶化加剧全球供应担忧，布伦特原油突破每桶107美元，创近四个月最高。 这一全球基准油…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqp2244198.shtml"
+    },
+    {
+      "id": "ffc2a78b4b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 04:04",
+      "title": "美国扩大对沙特打击胡塞武装的支持",
+      "insight": "据报道，100多名美国军事顾问驻扎在沙特阿拉伯，为该国针对也门胡塞武装的军事行动提供情报和目标锁…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh2428290.shtml"
+    },
+    {
+      "id": "ff96af5c94",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 03:58",
+      "title": "美国债市：国债大跌 油价上涨以及回购结果带来沉重压力",
+      "insight": "周四，美国国债承压下跌，因为随着中东紧张局势加剧，引发对全球供应的担忧，油价再度大幅走高，布伦特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqp2241429.shtml"
+    },
+    {
+      "id": "ffbfada993",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 03:43",
+      "title": "特朗普豪言凸显共和党选举困境 5000美元发钱承诺落地希望渺茫",
+      "insight": "过去几个月来，特朗普一直声称所谓的生活成本负担问题是场“骗局”，美国经济在他的领导下一派欣欣向荣…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh7255322.shtml"
+    },
+    {
+      "id": "ffbac5ddc4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 03:40",
+      "title": "伊朗和沙特外长通话讨论不断升级的紧张局势",
+      "insight": "伊朗外交部长阿巴斯·阿拉格齐在他的官方社交媒体上表示，他与沙特外交大臣费萨尔·本·法尔汉强调，将…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh7254619.shtml"
+    },
+    {
+      "id": "ff23bf4761",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 03:39",
+      "title": "纽约汇市：油价和收益率攀升 美元走强而日元回落",
+      "insight": "美元周四延续涨势，油价和美债收益率大幅攀升，同时生产者价格数据进一步强化美联储即将加息的理由；日…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh2422089.shtml"
+    },
+    {
+      "id": "ffc32cce9d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 03:17",
+      "title": "博索纳罗民调支持率飙升追平卢拉 最高法院危机令选情趋紧",
+      "insight": "巴西最高法院内部的一场危机正在给该国左翼领导人、现任总统路易斯·伊纳西奥·卢拉·达席尔瓦竞选连任…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5453480.shtml"
+    },
+    {
+      "id": "ff44a60de7",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 02:51",
+      "title": "英伟达CEO黄仁勋称网络安全将成AI下一个重大市场",
+      "insight": "英伟达联合创始人兼首席执行官黄仁勋表示，网络安全将成为人工智能（AI）的下一个重大市场，AI技术…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2544208.shtml"
+    },
+    {
+      "id": "ff5a756d24",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 02:40",
+      "title": "美国财政部长债实际回购规模低于上限 10年期收益率进一步走高",
+      "insight": "美国财政部周四对10年至20年期国债的回购规模低于计划上限，导致国债收益率进一步走高。 财政部周…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2541058.shtml"
+    },
+    {
+      "id": "ff830bd41d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 02:40",
+      "title": "像分析师一样做研究 OpenAI推出专为金融业者打造的人工智能工具",
+      "insight": "OpenAI推出面向投资银行家和股票研究员的新工具ChatGPT for Financial S…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkqhk2540899.shtml"
+    },
+    {
+      "id": "ff41b1ffa3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 02:34",
+      "title": "美国30年期国债标售认购需求强劲 中标收益率创2001年以来新高",
+      "insight": "美国财政部周四标售220亿美元30年期国债，中标收益率5.308%，创2001年以来最高，但低于…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk7371792.shtml"
+    },
+    {
+      "id": "ffb12a8de4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 02:33",
+      "title": "欧洲天然气价格飙升至2022年以来最高水平 连续五天上涨",
+      "insight": "随着中东紧张局势加剧，引发市场对供应长期遭受干扰以及冬季燃料库存水平的担忧，欧洲天然气价格周四升…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2539644.shtml"
+    },
+    {
       "id": "ffbbcd9604",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -53,133 +179,7 @@
       "title": "关税、能源与AI热潮推高物价，美联储加息难解近忧",
       "insight": "美联储官员已经暗示，如果通胀不能很快改善，他们准备加息。不过，他们可能会发现，面对当前推动物价上…",
       "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhr2303972.shtml"
-    },
-    {
-      "id": "ff0fd52f1e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:59",
-      "title": "梅西百货押注高价商品，争夺高收入消费群体",
-      "insight": "这家连锁百货上调全年业绩预期，高管表示部分动力来自商品提价旗下各品牌全线实现增长后，梅西百货今年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkqhk2517070.shtml"
-    },
-    {
-      "id": "ff12d1f94e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:57",
-      "title": "捷蓝航空因恶劣天气与燃油成本上调，下调运力增长预期",
-      "insight": "受夏季恶劣天气以及其他运营扰动影响，捷蓝航空把第三季度运力增长指引几乎下调一半。 这家航司周四表…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkqhk2516271.shtml"
-    },
-    {
-      "id": "ffa39447dc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:49",
-      "title": "美国周四抵押贷款利率突破 7% 最新房贷与再融资利率",
-      "insight": "受油价上涨、批发端通胀居高不下，叠加特朗普总统表态：如果共和党 11 月保住国会控制权，将向每位…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn7476604.shtml"
-    },
-    {
-      "id": "ff0fdfef72",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:45",
-      "title": "SpaceX股价走高：数据中心建设模式大调整，英国潜在国防订单引市场关注",
-      "insight": "周四 SpaceX 股价出现波动，投资者正在梳理这家火箭卫星企业的多条重要新闻。 其中影响最大的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn2643427.shtml"
-    },
-    {
-      "id": "ffef8dc1a1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:42",
-      "title": "iPhone Duo双机型发布会，苹果把AI战略推到舞台中央",
-      "insight": "苹果在总部举办的周三主题演讲上，发布了旗下最受期待、野心最大的新品：iPhone Duo 折叠屏…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyt2416250.shtml"
-    },
-    {
-      "id": "ffe914bf85",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:37",
-      "title": "拥有49年历史的人气披萨餐饮连锁悄然关闭多家门店",
-      "insight": "过去两年，披萨餐饮行业有数百家门店陆续关停，各大连锁品牌都在通过关闭低效门店推进业务重组。 必胜…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn2641137.shtml"
-    },
-    {
-      "id": "ff2e6e10d2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 00:34",
-      "title": "富国银行：SpaceX无线业务将冲击传统运营商，而铁塔房地产投资信托基金将“悄然”获利",
-      "insight": "速览要点 卡哈尔将 SpaceX 视作行业颠覆者，而皇冠城堡（CCI）是隐形赢家，该公司铁塔租金…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkiyn7472560.shtml"
-    },
-    {
-      "id": "ff3e041a2d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 00:22",
-      "title": "欧洲债市：德国国债收益率升至17年高点 欧洲央行加息押注加码",
-      "insight": "欧洲短期政府债券下跌，而德国10年期国债收益率升至17年高点，此前欧洲央行上调通胀预测后，交易员…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkiyr5635994.shtml"
-    },
-    {
-      "id": "ff55252fa4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-10 23:54",
-      "title": "法国极左翼提议注销央行所持债务 欧洲央行行长称金融层面很危险",
-      "insight": "欧洲央行行长克里斯蒂娜·拉加德表示，极左翼有关通过注销央行所持债务来削减法国巨额政府债务的方案并…",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyr5622885.shtml"
-    },
-    {
-      "id": "ffeca5cdbe",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-10 23:49",
-      "title": "如果回到二十多岁，我会买入这只巴菲特推荐的先锋ETF并永久持有",
-      "insight": "作者：安东尼・迪・皮齐奥|愚人网 沃伦・巴菲特是全球最具标志性的投资大师。1965‑2025 年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn2630842.shtml"
-    },
-    {
-      "id": "ff1501faa7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-10 23:49",
-      "title": "德国央行行长对右翼崛起感到不安 忧心会导致外国投资者望而却步",
-      "insight": "德国央行行长Joachim Nagel表示，他担心极右翼德国选择党最近在一场州选举中获胜，可能会…",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7462795.shtml"
-    },
-    {
-      "id": "ffff0c687c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-10 23:42",
-      "title": "拉加德称欧洲央行此次加息“顺理成章” 市场预计还有更多紧缩行动",
-      "insight": "欧洲央行周四宣布加息，这是2月伊朗战争爆发以来第二次上调利率，油价的回升促使投资者提高对进一步加…",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyn7460906.shtml"
-    },
-    {
-      "id": "ffcc78cdce",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-10 23:40",
-      "title": "抵押贷款利率升至一年多以来高点，美国上月房屋销量下滑",
-      "insight": "8 月抵押贷款利率攀升至一年多以来最高水平，打击潜在购房者意愿，房屋销量随之走低。 美国全国房地…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-10/doc-inirkiyn7460271.shtml"
-    },
-    {
-      "id": "ff5f25e6d5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-10 23:40",
-      "title": "美债市场出现大额期权交易 押注10年期收益率升破5%",
-      "insight": "周四美债市场出现了一宗大额期权交易，押注国债抛售势头将推动10年期收益率升破5%。 油价上涨可能…",
-      "link": "https://finance.sina.com.cn/world/2026-09-10/doc-inirkiyt2388103.shtml"
     }
   ],
-  "updateTime": "2026-09-11 01:58"
+  "updateTime": "2026-09-11 04:34"
 }
