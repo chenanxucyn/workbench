@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ffa5c4a4e2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 06:49",
+      "title": "SpaceX CFO：将由星舰送入轨道的首批升级版Starlink卫星料带来收入",
+      "insight": "SpaceX首席财务官表示，公司预计，本月晚些时候将由星舰送入轨道的首批升级版Starlink卫…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2185091.shtml"
+    },
+    {
+      "id": "ff3c4c6184",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 06:48",
+      "title": "Adobe本财季营收展望略逊预期 AI冲击担忧挥之不去",
+      "insight": "创意软件巨头Adobe本财季营收展望略低于华尔街预期，未能缓解投资者对于人工智能（AI）新创公司…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2335195.shtml"
+    },
+    {
+      "id": "ff9632b263",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 06:46",
+      "title": "贝森特称美国周一将制裁一家“大银行”",
+      "insight": "美国财政部长斯科特·贝森特称，该国周一将制裁一家“大银行”。 贝森特在Real America’…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7166874.shtml"
+    },
+    {
+      "id": "ff028dfec9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 06:09",
+      "title": "9月11日隔夜要闻：美股四连跌 油价持续上涨 美债收益率创新高",
+      "insight": "市场 9月11日收盘：美股三大指数收跌 美债收益率创新高 油价持续上涨 9月11日美股成交额前2…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2164529.shtml"
+    },
+    {
+      "id": "fff5d101ff",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:47",
+      "title": "微软推进数据中心扩张 计划将算力扩大两倍",
+      "insight": "微软计划将数据中心容量扩大逾两倍，此举有望帮助该公司缓解算力短缺问题。此前，由于算力不足，微软不…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2319110.shtml"
+    },
+    {
+      "id": "fff89b273f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:45",
+      "title": "AI需求推动甲骨文云业务营收超预期增长 股价盘后大涨",
+      "insight": "甲骨文云计算业务增长超过华尔街预期，显示该公司对大型人工智能（AI）数据中心项目的巨额投入正在取…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe2318675.shtml"
+    },
+    {
+      "id": "ffe42d5e6e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:45",
+      "title": "特朗普称派发5000美元无需国会批准",
+      "insight": "美国总统特朗普在接受采访时表示，他承诺向美国人派发的5000美元不需要国会批准，但他也补充说，即…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywe7150503.shtml"
+    },
+    {
+      "id": "ff82f39390",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:29",
+      "title": "9月11日外盘头条：美债收益率升至多年高位 中东冲突加剧原油供应担忧 美国生产者价格创三个月最大涨幅",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美债收益率升至多年高位 吸引买家参与30年期…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2145697.shtml"
+    },
+    {
+      "id": "ffeb1de6f8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:28",
+      "title": "美国股市：标普500指数连续第四天下跌 投资者的加息预期增强",
+      "insight": "美国股市周四连续第四个交易日下跌，创下6月以来最长连跌，因为油价持续攀升以及通胀顽固的最新迹象推…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2145345.shtml"
+    },
+    {
+      "id": "ffac744834",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:27",
+      "title": "美债收益率升至多年高位 吸引买家参与30年期国债拍卖",
+      "insight": "随着油价飙升强化美联储最快下周加息的理由，美国国债收益率刷新多年高点，吸引投资者参与30年期国债…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywi5372571.shtml"
+    },
+    {
+      "id": "ffd3fe45f7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 05:26",
+      "title": "9月11日美股成交额前20：苹果收涨3.56%，在周四发布会上发布了新品iPhone Duo",
+      "insight": "周四美股成交额第3名苹果收涨3.56%，成交225.51亿美元。 苹果在总部举办的周三主题演讲上…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkywm2144976.shtml"
+    },
+    {
+      "id": "ff37df1f45",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 04:54",
+      "title": "9月11日热门中概股多数下跌，阿里巴巴跌0.77%，百度跌1.56%",
+      "insight": "上涨个股（按市值从高到低）：京东涨0.07%，中华电信涨0.25%，中通涨0.63%，腾讯音乐涨…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh7270765.shtml"
+    },
+    {
       "id": "ff3d436080",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "纽约汇市：油价和收益率攀升 美元走强而日元回落",
       "insight": "美元周四延续涨势，油价和美债收益率大幅攀升，同时生产者价格数据进一步强化美联储即将加息的理由；日…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqh2422089.shtml"
-    },
-    {
-      "id": "ffc32cce9d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 03:17",
-      "title": "博索纳罗民调支持率飙升追平卢拉 最高法院危机令选情趋紧",
-      "insight": "巴西最高法院内部的一场危机正在给该国左翼领导人、现任总统路易斯·伊纳西奥·卢拉·达席尔瓦竞选连任…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkuqm5453480.shtml"
-    },
-    {
-      "id": "ff44a60de7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 02:51",
-      "title": "英伟达CEO黄仁勋称网络安全将成AI下一个重大市场",
-      "insight": "英伟达联合创始人兼首席执行官黄仁勋表示，网络安全将成为人工智能（AI）的下一个重大市场，AI技术…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2544208.shtml"
-    },
-    {
-      "id": "ff5a756d24",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 02:40",
-      "title": "美国财政部长债实际回购规模低于上限 10年期收益率进一步走高",
-      "insight": "美国财政部周四对10年至20年期国债的回购规模低于计划上限，导致国债收益率进一步走高。 财政部周…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2541058.shtml"
-    },
-    {
-      "id": "ff830bd41d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 02:40",
-      "title": "像分析师一样做研究 OpenAI推出专为金融业者打造的人工智能工具",
-      "insight": "OpenAI推出面向投资银行家和股票研究员的新工具ChatGPT for Financial S…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirkqhk2540899.shtml"
-    },
-    {
-      "id": "ff41b1ffa3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 02:34",
-      "title": "美国30年期国债标售认购需求强劲 中标收益率创2001年以来新高",
-      "insight": "美国财政部周四标售220亿美元30年期国债，中标收益率5.308%，创2001年以来最高，但低于…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk7371792.shtml"
-    },
-    {
-      "id": "ffb12a8de4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 02:33",
-      "title": "欧洲天然气价格飙升至2022年以来最高水平 连续五天上涨",
-      "insight": "随着中东紧张局势加剧，引发市场对供应长期遭受干扰以及冬季燃料库存水平的担忧，欧洲天然气价格周四升…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhk2539644.shtml"
-    },
-    {
-      "id": "ffbbcd9604",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:23",
-      "title": "高盛精英俱乐部再少一员 长期力挺美国优势的Mossavar-Rahmani将退休",
-      "insight": "高盛昔日那批最具声望的老合伙人中，又将有一人离开该公司。 首席执行官苏德巍周四告诉员工，Shar…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhr2306120.shtml"
-    },
-    {
-      "id": "ff9ff60abd",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:22",
-      "title": "欧洲股市连续第三天下跌 投资者的通胀担忧加剧",
-      "insight": "由于油价飙升，以及欧洲央行的言论加剧了人们对通胀的担忧，欧洲股市周四连续第三天下跌。 斯托克欧洲…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhr2305776.shtml"
-    },
-    {
-      "id": "ff16a5e3a7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:22",
-      "title": "沙特原油日产量骤降190万桶 创1990年以来新低",
-      "insight": "沙特阿拉伯向石油输出国组织（OPEC）报告称，上月该国原油产量再次大幅下降，降至1990年以来最…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhp5533085.shtml"
-    },
-    {
-      "id": "ff4a512263",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:20",
-      "title": "美银策略师警告AI驱动的股票风险 呼吁投资者“现在”就对冲",
-      "insight": "美国银行欧洲股票策略主管Sebastian Raedler表示，投资者现在应该对人工智能推动的股…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhp5532327.shtml"
-    },
-    {
-      "id": "ffd32c6741",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:19",
-      "title": "美国国防部首席技术官驳斥Anthropic研究员的AI风险警告",
-      "insight": "美国五角大楼一位高级官员驳斥了日益升温的人工智能（AI）风险担忧，此前Anthropic PBC…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhp5531704.shtml"
-    },
-    {
-      "id": "ffa0de827c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-11 01:18",
-      "title": "关税、能源与AI热潮推高物价，美联储加息难解近忧",
-      "insight": "美联储官员已经暗示，如果通胀不能很快改善，他们准备加息。不过，他们可能会发现，面对当前推动物价上…",
-      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirkqhr2303972.shtml"
     }
   ],
-  "updateTime": "2026-09-11 04:34"
+  "updateTime": "2026-09-11 06:52"
 }
