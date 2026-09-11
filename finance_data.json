@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff26e130c7",
+      "id": "ff5cd3e671",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 01:49",
+      "title": "三菱日联预计美联储本月加息25基点 10月将按兵不动",
+      "insight": "三菱日联放弃了对于美联储今年维持利率不变的预估，预计央行将在9月加息25个基点。 策略师Geor…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5632028.shtml"
+    },
+    {
+      "id": "ffe338d042",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:51",
+      "title": "沙特阿拉伯输油管道系统周四遭袭击",
+      "insight": "两名了解情况的美国官员称，沙特阿拉伯一套输油管道系统周四遭到投射物袭击。 管道附近的泵站遭到袭击…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfr2036172.shtml"
+    },
+    {
+      "id": "ffd6fc97f7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:41",
+      "title": "美股反弹推动美国上季度家庭净资产大增",
+      "insight": "随着股市反弹改善美国居民的资产负债表，美国第二季度家庭财富升至纪录新高。 美联储周五公布的报告显…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5607310.shtml"
+    },
+    {
+      "id": "ff785dbf06",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:33",
+      "title": "美国第二季度家庭净资产创纪录环比增加12.803万亿美元",
+      "insight": "美联储数据显示，美国第二季度家庭净资产环比增加12.803万亿美元，第一季度增幅修正为7，929…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5604336.shtml"
+    },
+    {
+      "id": "ff02bc02c9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:32",
+      "title": "欧洲股市周五反弹 仍创下7月份以来最差单周表现",
+      "insight": "随着油价和债券收益率回落，欧洲股市周五反弹，给市场带来一丝喘息之机，尽管基准股指仍创下7月份以来…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5603515.shtml"
+    },
+    {
+      "id": "ff5cbdff32",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:30",
+      "title": "美联储下周加息几成定局 手机资费大涨或是关键推手",
+      "insight": "美国手机服务价格涨幅创纪录，推动一项关键通胀指标高于预期，可能进而锁定了美联储下周加息的决定。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5602935.shtml"
+    },
+    {
+      "id": "ffece2e005",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-12 00:22",
+      "title": "上海再出重磅规划！30年的城市大扩张，要彻底转向了",
+      "insight": "来源：城读上海城读上海 城市规划系列文章《上海市城市更新和住房发展“十五五”规划》于2026年8…",
+      "link": "https://finance.sina.com.cn/china/2026-09-12/doc-inirntfs8827667.shtml"
+    },
+    {
+      "id": "ffbf381edd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-12 00:09",
+      "title": "欧洲债市：欧洲地区加息押注降温 短期政府债券上涨",
+      "insight": "随着交易员削减对欧洲地区大幅度加息的押注，欧洲短期政府债券上涨，从前一日的大幅下跌中反弹。 德国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirntfu5594710.shtml"
+    },
+    {
+      "id": "ff4470b39c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 23:54",
+      "title": "知名策略师认为美国中期选举前汽油价格达到5美元的风险“极高”",
+      "insight": "资深大宗商品策略师Jeff Currie表示，美国汽油平均价格在中期选举前几乎肯定会达到每加仑5…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirntfs8814359.shtml"
+    },
+    {
+      "id": "ff8c5d0e9e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 23:38",
+      "title": "哈塞特：特朗普可以用财政上负责任的方式来兑现5000美元发钱承诺",
+      "insight": "白宫国家经济委员会主任凯文·哈塞特淡化了有关特朗普5，000美元发钱承诺可能加剧政府负债的担忧。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirntfu5578115.shtml"
+    },
+    {
+      "id": "ffc59b6202",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 23:25",
+      "title": "美国股市有望结束6月以来最长连跌 科技股受甲骨文提振",
+      "insight": "美国股市在动荡一周的最后阶段迎来上涨，油价下跌缓和了对通胀压力的担忧。 纽约时间11：02，标普…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnnxt2146882.shtml"
+    },
+    {
+      "id": "ff64d331dc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 22:59",
+      "title": "美国通胀报告被视为扫清美联储下周加息障碍 债市计入年内两次加息",
+      "insight": "美国核心通胀数据高于预期后，交易员加大对美联储加息的押注，目前市场认为下周加息的概率达到90%，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnnxt2140039.shtml"
+    },
+    {
+      "id": "ff23db0e15",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "09-11 21:00",
-      "title": "7天6板大牛股，宣布复牌",
-      "insight": "来源：中国基金报 【导读】7天6板龙版传媒停牌核查工作已完成，股票将于下周一复牌 中国基金报记者…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnhrw8983029.shtml"
+      "time": "09-11 22:48",
+      "title": "重大资产重组！605303，要买存储芯片公司",
+      "insight": "来源：中国基金报 【导读】加码存储芯片领域，园林股份筹划购买华澜微电子控股权 中国基金报记者 李…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnnxt2138592.shtml"
     },
     {
-      "id": "ffc859a17c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:58",
-      "title": "受美国CPI影响 欧洲政府债券跟随美国国债走低",
-      "insight": "欧洲政府债券随美国国债走低，美国CPI数据强化了市场对美联储可能在下周加息的预期。德国10年期国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhsa7395254.shtml"
-    },
-    {
-      "id": "ff94e9dc0c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:52",
-      "title": "美国核心CPI高于预期 美股期指震荡",
-      "insight": "美国8月一项关键消费者物价指标升幅超过预期，引发市场对美联储今年可能被迫加息的担忧。美股期指一度…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrw8972387.shtml"
-    },
-    {
-      "id": "ffa1865b61",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:43",
-      "title": "美国8月通胀维持3.4%不变，燃油价格持续高企",
-      "insight": "燃油高企持续对经济产生连锁影响，美国8月通胀率维持在3.4%不变，交易员因此加大押注，预期美联储…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhsa7389106.shtml"
-    },
-    {
-      "id": "ffafbf2691",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:42",
-      "title": "美国8月通胀率3.4% 汽油价格依旧高企",
-      "insight": "美国上月同比通胀率维持高位，汽油仍是美国人的一笔高额开支。 美国劳工部周五公布数据，8月通胀率持…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhry5736956.shtml"
-    },
-    {
-      "id": "ff53ba9789",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:42",
-      "title": "美国8月CPI环比上涨0.4%，核心通胀高于预期",
-      "insight": "美国8月消费者价格指数（CPI）环比上涨0.4%，创三个月来最大涨幅，同比上涨3.4%，两项数据…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhry5736653.shtml"
-    },
-    {
-      "id": "ff473d88db",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:38",
-      "title": "Kalshi拟持续扩张快速增长的高风险交易品类",
-      "insight": "据知情人士透露，预测市场平台 Kalshi 计划申请监管批准，推出美国首批受监管的个股永续期货，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrv2224287.shtml"
-    },
-    {
-      "id": "ffc9baa978",
-      "source": "澎湃新闻",
+      "id": "ff03fe5e4c",
+      "source": "市场资讯",
       "tag": "财经热点",
-      "time": "09-11 20:32",
-      "title": "天龙三号首飞失利，原因公布",
-      "insight": "澎湃新闻记者 秦盛 天兵科技公布天龙三号首飞失利原因。 9月11日，天兵科技发布关于天龙三号遥一…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-11/doc-inirnhrv2223429.shtml"
+      "time": "09-11 22:48",
+      "title": "监管亮剑！4人编造、传播虚假信息遭罚",
+      "insight": "来源：中国基金报 【导读】监管发布多张罚单剑指“小作文”乱象 中国基金报记者 舍梨 9月11日，…",
+      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirnnxw5687108.shtml"
     },
     {
-      "id": "ff8c380701",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:28",
-      "title": "受伊朗供给冲击影响 美国柴油价格创纪录触及每加仑6美元",
-      "insight": "受特朗普对伊朗开战、以及乌克兰袭击俄罗斯炼油厂冲击全球燃料供应的影响，美国柴油价格创下新高，再度…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhry5727118.shtml"
-    },
-    {
-      "id": "ff8c309ae5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 20:26",
-      "title": "Anthropic发现Claude遭中俄伊朗等地用户滥用 包括用于武器研发等",
-      "insight": "Anthropic PBC表示，其人工智能模型Claude遭到滥用，被用于尝试开发多种潜在军事用…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrq6720057.shtml"
-    },
-    {
-      "id": "ff45650262",
+      "id": "ffb7c9f9b6",
       "source": "中国证券报",
       "tag": "股市",
-      "time": "09-11 20:10",
-      "title": "*ST卓然严重财务造假，将启动退市程序",
-      "insight": "证监会9月11日消息，近日，证监会对上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnhrv2215906.shtml"
+      "time": "09-11 22:45",
+      "title": "3家A股公司，筹划重大资产重组",
+      "insight": "9月11日晚，有3家A股上市公司发布重大资产重组相关公告。 园林股份拟并购存储芯片公司 园林股份…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnnxt2136195.shtml"
     },
     {
-      "id": "ff5dfc18b4",
-      "source": "中国证监会网站",
+      "id": "ff596a2cb2",
+      "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-11 19:56",
-      "title": "中国证监会严肃查处*ST卓然严重财务造假案件",
-      "insight": "近日，我会对上市公司上海卓然工程技术股份有限公司（简称*ST卓然）涉嫌定期报告等财务数据存在虚假…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirnhrv2211391.shtml"
+      "time": "09-11 22:38",
+      "title": "道明证券放弃按兵不动的预测 目前料美联储9月起将总计加息三次",
+      "insight": "道明证券策略师周五表示，他们预计美联储将在9月启动本轮三次加息中的第一次，此前他们的预测是202…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirnnxu8904082.shtml"
     },
     {
-      "id": "ffe928bbcc",
+      "id": "ff7bea2138",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 21:58",
+      "title": "美国8月CPI通胀因油价局高不下 交易员押注美联储下周加息",
+      "insight": "受燃油高企持续对经济形成连锁冲击，美国8月通胀率维持3.4%不变，交易员因此进一步押注美联储将在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnnxy7284927.shtml"
+    },
+    {
+      "id": "ff55b95cf4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 21:54",
+      "title": "为何10年期美债收益率今日回落？经济学家：短期加息预期升温，通常会推高10年期收益率",
+      "insight": "数周以来，对通胀的担忧持续推高10年期美债收益率。而周五通胀数据依旧偏强，但10年期收益率反而出…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirnnxu8882979.shtml"
+    },
+    {
+      "id": "ff07fb6b5d",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "09-11 19:47",
-      "title": "老板增持1.3亿，老板娘减持23.5亿，海底捞唱哪出？",
-      "insight": "来源 | 野马财经 作者 | 贾紫聪 编辑 |高岩 夫妻本是同林鸟，一买一卖为哪般？ 老板刚花1…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnhrw8927979.shtml"
+      "time": "09-11 21:34",
+      "title": "比特币 3% 收益陷阱：矿工停付即崩盘，机构需警惕",
+      "insight": "来源：智通财经网 据 Woofun AI 消息，Genesis 正式推出基于 Stacks 生态…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-11/doc-inirnnxu8871337.shtml"
     },
     {
-      "id": "ff2fdb721d",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "09-11 19:43",
-      "title": "李强主持召开国务院常务会议 研究算力网建设有关工作",
-      "insight": "李强主持召开国务院常务会议 对加强安全生产工作作出进一步部署 研究算力网建设有关工作 研究全面系…",
-      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirnhrv2210462.shtml"
-    },
-    {
-      "id": "ff051a9a80",
+      "id": "ff786b1205",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-11 19:26",
-      "title": "Anthropic发现也门一团体利用Claude协助研发导弹和火箭系统",
-      "insight": "Anthropic发现，也门北部一个团体正在利用其Claude人工智能模型协助研发导弹和火箭系统…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrq6698424.shtml"
-    },
-    {
-      "id": "ff728afedd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 19:23",
-      "title": "美国海上封锁持续 伊朗石油出口严重受阻",
-      "insight": "美国重新实施海上封锁已近两个月，伊朗石油出口持续受到严重限制，进一步加剧这个伊斯兰共和国的经济危…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrv2197387.shtml"
-    },
-    {
-      "id": "ffc326e0d0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-11 19:21",
-      "title": "美国柴油均价首次突破每加仑6美元，运输与食品成本承压",
-      "insight": "美国汽车协会数据显示，9月11日全美柴油平均零售价升至每加仑6.0556美元，创未经通胀调整的历…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnhrw8907140.shtml"
-    },
-    {
-      "id": "ff48067c4f",
-      "source": "证券时报",
-      "tag": "财经热点",
-      "time": "09-11 19:15",
-      "title": "重大资产重组！605303，拟并购存储芯片公司！",
-      "insight": "园林股份筹划重大资产重组，下周一（9月14日）起停牌。 9月11日晚间园林股份（605303）公…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-11/doc-inirnhry5678042.shtml"
-    },
-    {
-      "id": "ff88852ceb",
-      "source": "中国证券报",
-      "tag": "股市",
-      "time": "09-11 18:58",
-      "title": "7天6板大牛股，下周一复牌",
-      "insight": "龙版传媒9月11日晚公告称，公司股票8月31日—9月8日累计涨幅约为93.47%，股价累计涨幅偏…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-11/doc-inirnaiy9019265.shtml"
-    },
-    {
-      "id": "ff57b2fce0",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "09-11 18:56",
-      "title": "轻资产叙事背后藏分化：文远知行重营运资金 小马智行依赖合作方 规模化与第二曲线阻碍让盈利仍遥不可及",
-      "insight": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 在L4自动驾驶的叙事里，文远知行和小马智行…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-11/doc-inirnaka5785405.shtml"
+      "time": "09-11 21:30",
+      "title": "开盘：道指大涨600点，市场无视偏强通胀数据",
+      "insight": "周五美股上涨，油价回落，投资者试图终结连续四日下跌的行情。尽管最新美国通胀数据出炉后，市场对美联…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirnnxw5647002.shtml"
     }
   ],
-  "updateTime": "2026-09-11 21:09"
+  "updateTime": "2026-09-12 02:04"
 }
