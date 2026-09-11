@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fff6e89129",
+      "id": "ff59b3ba70",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-11 15:37",
+      "title": "贵金属：宏观金融属性利空加剧，贵金属大幅下跌",
+      "insight": "广发期货研究 证监许可【2011】1292号 | 叶倩宁Z0016628 | 2026年09月1…",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-11/doc-inirmvzz2354654.shtml"
+    },
+    {
+      "id": "ffb042628f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-11 15:30",
+      "title": "简单看懂今晚美国CPI数据：这一次，可能直接决定美联储是否加息",
+      "insight": "核心要点：今晚20：30公布的美国8月CPI，可能直接影响美联储下周是否加息。 在就业市场仍较稳…",
+      "link": "https://finance.sina.com.cn/world/2026-09-11/doc-inirmvzx5377791.shtml"
+    },
+    {
+      "id": "ff50794df6",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-11 10:23",
-      "title": "美光称将发放史上最高员工奖金，中国台湾地区员工将获35-68个月薪资奖励",
-      "insight": "美光科技周五宣布，将向全球逾六万名员工发放奖金，金额创史上最高。中国台湾地区的员工将获得相当于3…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmmnc5357422.shtml"
+      "time": "09-11 15:27",
+      "title": "美国长债抛售风波蔓延 贝森特回购操作不及预期加剧焦虑情绪",
+      "insight": "周五，美国长期国债遭抛售的风波蔓延至全球市场。中东冲突升级推高油价，市场愈发预期美联储将加息以抑…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2146916.shtml"
     },
     {
-      "id": "fff4ad6c1c",
-      "source": "新浪财经",
+      "id": "ff69fd0409",
+      "source": "新华社",
       "tag": "财经热点",
-      "time": "09-11 10:23",
-      "title": "2026国际消费趋势大会聚焦服务消费高质量发展，发布“国际化消费环境建设指数”",
-      "insight": "9月11日消息，在2026年中国国际服务贸易交易会主题论坛——2026国际消费趋势大会暨服务消费…",
-      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmmmy2158792.shtml"
+      "time": "09-11 15:26",
+      "title": "外交部：一中原则是中意关系、中欧关系的政治基础",
+      "insight": "新华社北京9月11日电（记者邵艺博、万倩仪）外交部发言人毛宁11日在例行记者会上表示，中方已经就…",
+      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmvzu6853750.shtml"
     },
     {
-      "id": "ff557aab8d",
+      "id": "ff6dd584a5",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-11 15:26",
+      "title": "中方赴印代表团规模有多大？外交部：目前无可提供的信息",
+      "insight": "9月11日，外交部发言人毛宁主持例行记者会。印度报业托拉斯记者提问，发言人能否介绍习主席率代表团…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirmvzz2349937.shtml"
+    },
+    {
+      "id": "ff15720ff0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 15:25",
+      "title": "欧洲央行上调增长预测，预计2027年通胀仍达2.5%",
+      "insight": "欧洲央行上调欧元区经济增长预期，预计2026年至2028年实际国内生产总值分别增长0.9%、1.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzx5371861.shtml"
+    },
+    {
+      "id": "ff4a6bbfee",
       "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-11 15:18",
+      "title": "小摩：美伊冲突若长期化 布油仍难失控 2027年均价或为87美元",
+      "insight": "来源：财联社 财联社9月11日讯（编辑 夏军雄）美伊冲突延续，霍尔木兹海峡恢复通航的预期一再推迟…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmvzx5372280.shtml"
+    },
+    {
+      "id": "ff17ee8b92",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 15:17",
+      "title": "欧洲央行加息25个基点，存款机制利率升至2.5%",
+      "insight": "欧洲央行9月10日决定将三项关键利率均上调25个基点，存款机制利率、主要再融资利率和边际贷款利率…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzu6845623.shtml"
+    },
+    {
+      "id": "fff2414c70",
+      "source": "一财网",
       "tag": "财经",
-      "time": "09-11 10:19",
-      "title": "“黑色星期五”突袭，亚太股市全线下跌，A股也跳水",
-      "insight": "【导读】亚太股市普遍下跌，A股跳水 中国基金报记者 李智 9月11日，亚太股市开盘后普遍下跌，日…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirmmmy2158327.shtml"
+      "time": "09-11 15:17",
+      "title": "事关汽车行业“反内卷”，工信部最新部署",
+      "insight": "国内新能源乘用车和商用车在各自领域新车总销量的占比分别达到70%及40%。 工业和信息化部会同国…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-11/doc-inirmvzz2347090.shtml"
     },
     {
-      "id": "fff29c15a3",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 10:18",
-      "title": "道明证券警告：黄金若失守两道防线，抛售可能加速",
-      "insight": "文章来源：金十数据 黄金近期已经回吐部分涨幅，但在贵金属板块中仍保持相对强势。道明证券（TD S…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-11/doc-inirmmnf2126830.shtml"
+      "id": "ffd678e792",
+      "source": "国家发改委网站",
+      "tag": "财经热点",
+      "time": "09-11 15:05",
+      "title": "9月11日油价上涨 国家调控后汽柴油每吨实际上调260元、250元",
+      "insight": "【2026年9月11日国家对成品油价格实施调控】 8月28日国内成品油价格调整以来，美伊冲突再度…",
+      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmvzz2118147.shtml"
     },
     {
-      "id": "ff612c88ce",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-11 10:13",
-      "title": "金斯瑞生物科技盘中涨超5% 拟折让配股净筹约23.27亿港元",
-      "insight": "金斯瑞生物科技（01548）盘中涨超5%，截至发稿，股价上涨3.06%，现报32.98港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-11/doc-inirmmnc5346625.shtml"
-    },
-    {
-      "id": "ffe3940e1e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-11 10:11",
-      "title": "中际旭创早盘涨超6% 美国FCC新规落地光通信担忧或明显缓解",
-      "insight": "中际旭创（03308）早盘涨超6%。截至发稿，股价上涨6.33%，现报1192港元，成交额13.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-11/doc-inirmmmy6985803.shtml"
-    },
-    {
-      "id": "ff65c6a60a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-11 10:06",
-      "title": "柯利达（603828）收处罚告知书，股民索赔分析",
-      "insight": "2026年9月8日，柯利达（603828）公告收到中国证券监督管理委员会下发的《行政处罚事先告知…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-11/doc-inirmmmy2151351.shtml"
-    },
-    {
-      "id": "ff585456aa",
+      "id": "ffcddc786a",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-11 10:01",
-      "title": "特朗普收紧邮寄投票措施再遇挫，上诉法院拒绝解除禁令",
-      "insight": "、 美国一家联邦上诉法院周四拒绝允许特朗普政府在11月国会中期选举前实施美国邮政（USPS）的一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmmnf2102260.shtml"
+      "time": "09-11 15:03",
+      "title": "伊朗战事倒逼迪拜为新机场规划地下储油罐",
+      "insight": "尽管伊朗战事仍在持续，迪拜仍继续推进机场扩建计划，同时正草拟方案，将新机场部分设施置于地下，防范…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2111814.shtml"
     },
     {
-      "id": "ff4344ba71",
+      "id": "ff6d32d476",
+      "source": "国家发改委网站",
+      "tag": "财经热点",
+      "time": "09-11 15:02",
+      "title": "2026年9月11日国家对成品油价格实施调控 国内汽、柴油（标准品）价格每吨调控后实际上调260元、250元",
+      "insight": "8月28日国内成品油价格调整以来，美伊冲突再度升级，国际市场原油价格持续大幅上涨。为减缓国际油价…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-11/doc-inirmvzz2110429.shtml"
+    },
+    {
+      "id": "ffb8c133ac",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-11 15:02",
+      "title": "收评|国内期货主力合约跌多涨少 沪银跌超5%",
+      "insight": "2026年9月11日，国内期货主力合约跌多涨少。沪银跌超5%，碳酸锂跌近5%，铂跌近4%，合成橡…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmvzz2337904.shtml"
+    },
+    {
+      "id": "ff962bf430",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 15:01",
+      "title": "日本央行加息预期升温，市场预计政策利率将升至1.25%",
+      "insight": "日本央行将于9月17日至18日举行货币政策会议。随着生产者价格维持高位、多名央行官员支持继续收紧…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2109406.shtml"
+    },
+    {
+      "id": "ff615878ff",
       "source": "市场资讯",
       "tag": "财经热点",
-      "time": "09-11 10:00",
-      "title": "江苏省副省长赵岩，调任哈尔滨工业大学党委书记",
-      "insight": "来源 富贵门 据哈尔滨工业大学官方微信公众号消息，日前，中央批准：赵岩同志任哈尔滨工业大学党委书…",
-      "link": "https://finance.sina.com.cn/china/2026-09-11/doc-inirmmmy6983116.shtml"
+      "time": "09-11 15:00",
+      "title": "李途纯往事：央视曾经的“标王”，从白手起家到锒铛入狱再到无罪释放，一代乳业传奇悲情落幕",
+      "insight": "来源：盛华观察 2026年9月8日，原湖南太子奶集团总裁、董事局主席李途纯在北京去世，终年66岁…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-11/doc-inirmvzx5382182.shtml"
     },
     {
-      "id": "fffc21344c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-11 09:54",
-      "title": "果下科技盘中涨超14% 公司与西门子达成战略合作涉及AI算力中心等领域",
-      "insight": "果下科技（02655）盘中涨超14%。截至发稿，股价上涨7.99%，现报17.02港元，成交额6…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-11/doc-inirmfea7107856.shtml"
-    },
-    {
-      "id": "ffb68593df",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:54",
-      "title": "光大期货：9月11日有色金属日报",
-      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价快…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfea2275636.shtml"
-    },
-    {
-      "id": "ffca95b590",
-      "source": "市场资讯",
-      "tag": "外汇",
-      "time": "09-11 09:53",
-      "title": "华泰期货：美国PPI录的超预期数据 市场基本定价加息",
-      "insight": "来源：华泰期货 作者： 师橙 市场分析 经济数据方面，美国8月PPI同比上涨5.4%，预期5.3…",
-      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-11/doc-inirmfea2275076.shtml"
-    },
-    {
-      "id": "ffa211d43a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:53",
-      "title": "光大期货：9月11日软商品日报",
-      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，广…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfef5449963.shtml"
-    },
-    {
-      "id": "ff67fb7118",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:52",
-      "title": "光大期货：9月11日农产品日报",
-      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周四，CB…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfef5449282.shtml"
-    },
-    {
-      "id": "ff88449839",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-11 09:52",
-      "title": "海光芯正早盘涨近7% 公司光模块订单排满2027年全年",
-      "insight": "海光芯正（01191）盘初涨近7%，截至发稿，股价上涨6.68%，现报169.20港元，成交额8…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-11/doc-inirmfei2221056.shtml"
-    },
-    {
-      "id": "fff85c300d",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:52",
-      "title": "光大期货：9月11日能源化工日报",
-      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周四油价再度…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfei2220958.shtml"
-    },
-    {
-      "id": "ff2e2a34ce",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:51",
-      "title": "光大期货：9月11日矿钢煤焦日报",
-      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfei2220148.shtml"
-    },
-    {
-      "id": "fffdcf9228",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:50",
-      "title": "华泰期货：冲突推高油价，气价风险溢价跟随提升",
-      "insight": "来源：华泰期货 作者： 李祖智 市场要闻与重要数据 1．昨日收盘，TTF10月合约报得82.11…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfef5446823.shtml"
-    },
-    {
-      "id": "ff208ffb3d",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-11 09:49",
-      "title": "华泰期货：USDA报告前夕，油脂盘面震荡",
-      "insight": "来源：华泰期货 作者： 白旭宇 油脂观点 市场分析 期货方面，昨日收盘棕榈油2701合约1016…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-11/doc-inirmfef5444749.shtml"
-    },
-    {
-      "id": "ffe4fa9af1",
+      "id": "ff0d09908f",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-11 09:49",
-      "title": "LME仓库中国原产铜占比升至44%，俄铝库存占比维持95%",
-      "insight": "伦敦金属交易所（LME）周四公布的数据显示，8月LME仓库中可交割中国原产铜库存占比从前一个月的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmfei2217045.shtml"
+      "time": "09-11 14:54",
+      "title": "日经225指数周五收跌1.9% 受美联储加息预期与地缘风险双重打击",
+      "insight": "周五，日本东京股市遭遇重挫，日经225指数收盘下跌1.9%，报64011.34点。受到隔夜美股走…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2102599.shtml"
+    },
+    {
+      "id": "ffe2d2363b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 14:52",
+      "title": "韩国KOSPI指数收跌1.8% 芯片股回落",
+      "insight": "周五，韩国综合股价指数（KOSPI）走势震荡。KOSPI指数开盘微跌0.2%，报7038.85点…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzx5327790.shtml"
+    },
+    {
+      "id": "ff350ce41c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 14:51",
+      "title": "加息担忧蔓延至全球债券市场",
+      "insight": "中东冲突升级支撑油价，市场预期美联储或将加息以抑制通胀，长期美债遭到抛售，相关冲击于周五蔓延至全…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2099696.shtml"
+    },
+    {
+      "id": "ffb3099c36",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 14:49",
+      "title": "银行人士警告：贝森特的干预恐损害日本央行公信力",
+      "insight": "日本央行前高层官员警告，美国财政部长斯科特・贝森特对日本货币事务的这一“非常规”干预，有可能损害…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzx5325274.shtml"
+    },
+    {
+      "id": "ff3f3536b4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-11 14:42",
+      "title": "英国7月经济意外增长0.4%",
+      "insight": "受益于全球AI热潮，英国经济7月环比增长0.4%，第三季度开局展现出超出预期的韧性。 英国国家统…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-11/doc-inirmvzz2091741.shtml"
     }
   ],
-  "updateTime": "2026-09-11 10:25"
+  "updateTime": "2026-09-11 15:39"
 }
