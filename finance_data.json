@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "id": "ff2e0f69cd",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 06:17",
+      "title": "美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应",
+      "insight": "美国总统特朗普12日称，美方与也门胡塞武装进行了通话。特朗普称，胡塞武装致电美方并表示不愿与美方…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrpaq5957252.shtml"
+    },
+    {
+      "id": "ff4391336f",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 05:36",
+      "title": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "insight": "当地时间13日凌晨，也门胡塞武装军方发言人叶海亚表示，针对沙特方面持续对也门发动军事行动，也门胡…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrpan4777922.shtml"
+    },
+    {
+      "id": "ff4a3eb8af",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-13 05:32",
+      "title": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+      "insight": "特斯拉公司预告将于10月1日举办活动，展示下一代Roadster车型。这是一款小众产品，该公司首…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-13/doc-inirrpan4774070.shtml"
+    },
+    {
+      "id": "ffd97eba4c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 05:18",
+      "title": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+      "insight": "欧洲央行行长克里斯蒂娜·拉加德表示，欧元区通胀将在一段时间内维持高位。 她在接受采访时表示：“当…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpak7996680.shtml"
+    },
+    {
+      "id": "ff8f8f1952",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 05:16",
+      "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+      "insight": "OpenAI首席执行官Sam Altman在接受采访时表示，这家人工智能公司专注于解决围绕AI技…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpai0779205.shtml"
+    },
+    {
+      "id": "ff01981db7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 04:36",
+      "title": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
+      "insight": "欧洲央行行长克里斯蒂娜·拉加德表示，欧元区通胀仍将在一段时间内维持高位。 她在接受采访时表示：“…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrhuq4882951.shtml"
+    },
+    {
+      "id": "ffb81c6a5b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-13 04:29",
+      "title": "Altman表示OpenAI今年不会IPO 需要推进安全相关工作",
+      "insight": "OpenAI不会在2026年上市，Sam Altman在接受采访时表示，原因是需要开展与安全相关…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-13/doc-inirrhuq4879609.shtml"
+    },
+    {
+      "id": "ffeed26930",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 03:29",
+      "title": "沙特称也门胡塞武装袭击造成2人受伤",
+      "insight": "沙特民防机构12日晚发表声明说，沙特贾赞省图沃勒县当天遭到也门胡塞武装的袭击，造成2人受伤、多栋…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrhuq4889330.shtml"
+    },
+    {
+      "id": "ff06b00a96",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 02:39",
+      "title": "伊朗南部格什姆岛方向传出爆炸声",
+      "insight": "据伊朗方面12日消息，伊朗南部格什姆岛方向两度传出爆炸巨响。 消息称，爆炸声来自海面。",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrans4966414.shtml"
+    },
+    {
       "id": "ff03853e44",
       "source": "环球市场播报",
       "tag": "美股",
@@ -10,6 +91,24 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirranq8184677.shtml"
     },
     {
+      "id": "ff2b915727",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 02:12",
+      "title": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+      "insight": "乌克兰总统办公室主任布达诺夫当地时间12日表示，乌克兰正准备在10月举行新一轮谈判，谈判将采取乌…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirranp1001671.shtml"
+    },
+    {
+      "id": "ffff708509",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 02:04",
+      "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+      "insight": "据卡塔尔半岛电视台12日报道，伊朗外交部发言人巴加埃表示，伊朗和阿曼预计将在14日举行的相关地区…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirranq8180779.shtml"
+    },
+    {
       "id": "ff4cbc584e",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +116,15 @@
       "title": "SpaceX在纳斯达克100指数中的权重将获上调",
       "insight": "SpaceX本月晚些时候将在纳斯达克100指数中获得更高的权重，这一变化可能引发追踪该基准指数的…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirranp0997238.shtml"
+    },
+    {
+      "id": "ffd75f2f94",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 00:48",
+      "title": "胡塞武装称沙特对也门发动129次空袭",
+      "insight": "也门胡塞武装发言人叶海亚当地时间12日称，过去48小时内，沙特空军出动战机对也门塔伊兹省、马里卜…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrhus6058490.shtml"
     },
     {
       "id": "ff46185db1",
@@ -71,115 +179,7 @@
       "title": "麦当劳中国亮相服贸会 发布5项线下消费成果案例",
       "insight": "9月12日晚间消息，2026年中国国际服务贸易交易会（以下简称“服贸会”）于9月9日至13日在北…",
       "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrww5080917.shtml"
-    },
-    {
-      "id": "ff2e60e770",
-      "source": "21世纪经济报道",
-      "tag": "财经",
-      "time": "09-12 21:00",
-      "title": "招ESG人才有多难？97%受访企业面临人才能力缺口",
-      "insight": "21世纪经济报道记者卢陶然 实习生马宁紫 北京报道 绿色金融与ESG投资已从概念迈入实践阶段，人…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirqrwt1186792.shtml"
-    },
-    {
-      "id": "ffa79ff5dc",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-12 20:31",
-      "title": "中深装集团突发讣告：常务副总裁王武烈病逝，终年45岁",
-      "insight": "9月12日，深圳市中深装建设集团有限公司发布讣告，公司党委副书记、常务副总裁、法定代表人王武烈，…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrww5063728.shtml"
-    },
-    {
-      "id": "ff831945a7",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-12 20:20",
-      "title": "高德扫街榜发布“飞行街景2.0”：ABot-Earth 0.7世界模型驱动，提前自由探索目的地",
-      "insight": "新浪科技讯 9月12日晚间消息，阿里巴巴集团旗下高德近日正式发布高德扫街榜2026。在空间智能驱…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqrwy6339005.shtml"
-    },
-    {
-      "id": "ffce950c4a",
-      "source": "滚动播报",
-      "tag": "财经热点",
-      "time": "09-12 20:03",
-      "title": "爆发式增长！今年或达10亿亿",
-      "insight": "央视财经 中国电信研究院发布的《智能体时代AI基础设施发展研究报告（2026）》显示，随着人工智…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-12/doc-inirqrwu8281833.shtml"
-    },
-    {
-      "id": "ff22cc9087",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-12 19:11",
-      "title": "特朗普称伊朗支持的胡塞武装请求美国不要下场",
-      "insight": "在伊朗支持的胡塞武装与沙特的冲突恶化，加剧中东紧张局势之际，美国总统唐纳德·特朗普表示，胡塞武装…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-12/doc-inirqmqw8386696.shtml"
-    },
-    {
-      "id": "ff6b338d4b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-12 19:09",
-      "title": "重庆渝富控股集团有限公司原党委书记、董事长谢文辉涉嫌严重违纪违法接受审查调查",
-      "insight": "央视网消息：中央纪委国家监委网站通报，据重庆市纪委监委消息：重庆渝富控股集团有限公司原党委书记、…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqmqw8388101.shtml"
-    },
-    {
-      "id": "ff6877e19a",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-12 17:57",
-      "title": "滴滴企业版已累计服务超100万家企业，发布跨企业AI工具",
-      "insight": "新浪科技讯 9月12日下午消息，滴滴企业版在2026商旅服务大会上，发布商旅全程保障“超级省”、…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqmqv1266601.shtml"
-    },
-    {
-      "id": "ff46b7232c",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-12 17:52",
-      "title": "连续四天 央行隔夜逆回购如何精准“疏堵”？",
-      "insight": "央行近日公告，9月14日至17日，连续四个工作日开展隔夜逆回购操作，单日操作规模上限6000亿元…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqmqv1265375.shtml"
-    },
-    {
-      "id": "ff0307c492",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-12 17:41",
-      "title": "中国将于2027年接任金砖主席国",
-      "insight": "当地时间9月12日下午，在金砖国家领导人第十八次会晤第一阶段会议上，国家主席习近平宣布，中国将于…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqfie6556107.shtml"
-    },
-    {
-      "id": "ff82e7d35c",
-      "source": "滚动播报",
-      "tag": "财经",
-      "time": "09-12 17:36",
-      "title": "个人消费贷贴息政策提额扩围",
-      "insight": "来源：中国经济网 近日，建设银行、工商银行等国有大型银行，多家城市商业银行等中小金融机构密集发布…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirqfia5235562.shtml"
-    },
-    {
-      "id": "ff4ddc95b4",
-      "source": "滚动播报",
-      "tag": "财经热点",
-      "time": "09-12 17:21",
-      "title": "独家专访野村苏博文：若AI热潮降温 全球资产会迈向何方？",
-      "insight": "来源：21财经 当人工智能热潮与中东冲突的炮火声交织时，全球经济正在经历一场罕见的多线程压力测试…",
-      "link": "https://finance.sina.com.cn/china/gncj/2026-09-12/doc-inirqfie6551887.shtml"
-    },
-    {
-      "id": "fff7e59b0e",
-      "source": "一财网",
-      "tag": "财经热点",
-      "time": "09-12 17:15",
-      "title": "12.5亿长三角联合基金来了，官方详解怎么投、投向哪",
-      "insight": "随着长三角一体化建设纵深推进，区域基础研究的组织模式与出资机制也迎来实质性变革。 12日上午举行…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-12/doc-inirqfie6549413.shtml"
     }
   ],
-  "updateTime": "2026-09-13 03:59"
+  "updateTime": "2026-09-13 06:44"
 }
