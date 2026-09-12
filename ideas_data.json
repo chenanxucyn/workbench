@@ -2,8 +2,18 @@
   "ideas": [
     {
       "rank": 1,
+      "topic": "茸主将对阵拉法加西亚",
+      "heat": 12107902,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%8C%B8%E4%B8%BB%E5%B0%86%E5%AF%B9%E9%98%B5%E6%8B%89%E6%B3%95%E5%8A%A0%E8%A5%BF%E4%BA%9A?type=general",
+      "scheme": "snssdk1128://search/茸主将对阵拉法加西亚"
+    },
+    {
+      "rank": 2,
       "topic": "中国男篮大胜巴林",
-      "heat": 12401361,
+      "heat": 11747224,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -11,19 +21,9 @@
       "scheme": "snssdk1128://search/中国男篮大胜巴林"
     },
     {
-      "rank": 2,
-      "topic": "世界是一本巨大的教科书",
-      "heat": 12116779,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E6%9C%AC%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6?type=general",
-      "scheme": "snssdk1128://search/世界是一本巨大的教科书"
-    },
-    {
       "rank": 3,
       "topic": "沉浸式体验新德里的金砖元素",
-      "heat": 11753695,
+      "heat": 11524932,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "AL 3:2 IG",
-      "heat": 10496759,
+      "heat": 11124208,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -42,8 +42,18 @@
     },
     {
       "rank": 5,
+      "topic": "世界是一本巨大的教科书",
+      "heat": 9790290,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%96%E7%95%8C%E6%98%AF%E4%B8%80%E6%9C%AC%E5%B7%A8%E5%A4%A7%E7%9A%84%E6%95%99%E7%A7%91%E4%B9%A6?type=general",
+      "scheme": "snssdk1128://search/世界是一本巨大的教科书"
+    },
+    {
+      "rank": 6,
       "topic": "手搓万物的抖音“工程师”",
-      "heat": 9415387,
+      "heat": 9719951,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,9 +61,9 @@
       "scheme": "snssdk1128://search/手搓万物的抖音“工程师”"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "topic": "中超津门虎1:0辽宁铁人",
-      "heat": 9211067,
+      "heat": 8594712,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,19 +71,19 @@
       "scheme": "snssdk1128://search/中超津门虎1:0辽宁铁人"
     },
     {
-      "rank": 7,
-      "topic": "茸主将对阵拉法加西亚",
-      "heat": 8174221,
+      "rank": 8,
+      "topic": "潜入地下89米的钢铁穿山甲",
+      "heat": 8432464,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%8C%B8%E4%B8%BB%E5%B0%86%E5%AF%B9%E9%98%B5%E6%8B%89%E6%B3%95%E5%8A%A0%E8%A5%BF%E4%BA%9A?type=general",
-      "scheme": "snssdk1128://search/茸主将对阵拉法加西亚"
+      "link": "https://www.douyin.com/search/%E6%BD%9C%E5%85%A5%E5%9C%B0%E4%B8%8B89%E7%B1%B3%E7%9A%84%E9%92%A2%E9%93%81%E7%A9%BF%E5%B1%B1%E7%94%B2?type=general",
+      "scheme": "snssdk1128://search/潜入地下89米的钢铁穿山甲"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "topic": "孙心然闯入美网青少年决赛",
-      "heat": 7920127,
+      "heat": 8226090,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -81,9 +91,9 @@
       "scheme": "snssdk1128://search/孙心然闯入美网青少年决赛"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "topic": "微胖女生入秋的第一件藏肉穿搭",
-      "heat": 7890720,
+      "heat": 8043081,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -91,29 +101,19 @@
       "scheme": "snssdk1128://search/微胖女生入秋的第一件藏肉穿搭"
     },
     {
-      "rank": 10,
-      "topic": "8个鸡蛋接考的贺永辉大学报到",
-      "heat": 7836232,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/8%E4%B8%AA%E9%B8%A1%E8%9B%8B%E6%8E%A5%E8%80%83%E7%9A%84%E8%B4%BA%E6%B0%B8%E8%BE%89%E5%A4%A7%E5%AD%A6%E6%8A%A5%E5%88%B0?type=general",
-      "scheme": "snssdk1128://search/8个鸡蛋接考的贺永辉大学报到"
-    },
-    {
       "rank": 11,
-      "topic": "张杰杭州演唱会",
-      "heat": 7835839,
+      "topic": "高盛：美联储下周将加息",
+      "heat": 7959690,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/张杰杭州演唱会"
+      "link": "https://www.douyin.com/search/%E9%AB%98%E7%9B%9B%EF%BC%9A%E7%BE%8E%E8%81%94%E5%82%A8%E4%B8%8B%E5%91%A8%E5%B0%86%E5%8A%A0%E6%81%AF?type=general",
+      "scheme": "snssdk1128://search/高盛：美联储下周将加息"
     },
     {
       "rank": 12,
       "topic": "KPL夏决TTG夺冠",
-      "heat": 7833167,
+      "heat": 7844625,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -123,7 +123,7 @@
     {
       "rank": 13,
       "topic": "吃三四个饺子就长肉正常吗",
-      "heat": 7830818,
+      "heat": 7824204,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,8 +132,18 @@
     },
     {
       "rank": 14,
+      "topic": "张杰杭州演唱会",
+      "heat": 7818630,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%A0%E6%9D%B0%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/张杰杭州演唱会"
+    },
+    {
+      "rank": 15,
       "topic": "邓紫棋深圳演唱会",
-      "heat": 7829852,
+      "heat": 7812380,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -141,9 +151,9 @@
       "scheme": "snssdk1128://search/邓紫棋深圳演唱会"
     },
     {
-      "rank": 15,
+      "rank": 16,
       "topic": "谢霆锋长沙演唱会",
-      "heat": 7827806,
+      "heat": 7807470,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -151,29 +161,19 @@
       "scheme": "snssdk1128://search/谢霆锋长沙演唱会"
     },
     {
-      "rank": 16,
-      "topic": "到底是谁抢到了苹果18",
-      "heat": 7827557,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%E8%8B%B9%E6%9E%9C18?type=general",
-      "scheme": "snssdk1128://search/到底是谁抢到了苹果18"
-    },
-    {
       "rank": 17,
-      "topic": "今夜的风悄悄月悄悄 吻你的眉梢",
-      "heat": 7823440,
+      "topic": "没有你在 我有多难熬",
+      "heat": 7795854,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%9C%E7%9A%84%E9%A3%8E%E6%82%84%E6%82%84%E6%9C%88%E6%82%84%E6%82%84%20%E5%90%BB%E4%BD%A0%E7%9A%84%E7%9C%89%E6%A2%A2?type=general",
-      "scheme": "snssdk1128://search/今夜的风悄悄月悄悄 吻你的眉梢"
+      "link": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%9C%A8%20%E6%88%91%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%86%AC?type=general",
+      "scheme": "snssdk1128://search/没有你在 我有多难熬"
     },
     {
       "rank": 18,
       "topic": "说唱巅峰对决总决赛",
-      "heat": 7800145,
+      "heat": 7792570,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -182,18 +182,8 @@
     },
     {
       "rank": 19,
-      "topic": "袁一琦十周年演唱会",
-      "heat": 7796249,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A2%81%E4%B8%80%E7%90%A6%E5%8D%81%E5%91%A8%E5%B9%B4%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/袁一琦十周年演唱会"
-    },
-    {
-      "rank": 20,
       "topic": "刀郎线上音乐会如约开唱",
-      "heat": 7794306,
+      "heat": 7791318,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -201,39 +191,29 @@
       "scheme": "snssdk1128://search/刀郎线上音乐会如约开唱"
     },
     {
-      "rank": 21,
-      "topic": "抢零食大赛玩上心眼了",
-      "heat": 7768619,
+      "rank": 20,
+      "topic": "今夜的风悄悄月悄悄 吻你的眉梢",
+      "heat": 7790906,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8A%A2%E9%9B%B6%E9%A3%9F%E5%A4%A7%E8%B5%9B%E7%8E%A9%E4%B8%8A%E5%BF%83%E7%9C%BC%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/抢零食大赛玩上心眼了"
+      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%9C%E7%9A%84%E9%A3%8E%E6%82%84%E6%82%84%E6%9C%88%E6%82%84%E6%82%84%20%E5%90%BB%E4%BD%A0%E7%9A%84%E7%9C%89%E6%A2%A2?type=general",
+      "scheme": "snssdk1128://search/今夜的风悄悄月悄悄 吻你的眉梢"
+    },
+    {
+      "rank": 21,
+      "topic": "到底是谁抢到了苹果18",
+      "heat": 7790261,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%88%B0%E5%BA%95%E6%98%AF%E8%B0%81%E6%8A%A2%E5%88%B0%E4%BA%86%E8%8B%B9%E6%9E%9C18?type=general",
+      "scheme": "snssdk1128://search/到底是谁抢到了苹果18"
     },
     {
       "rank": 22,
-      "topic": "没有你在 我有多难熬",
-      "heat": 7745183,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B2%A1%E6%9C%89%E4%BD%A0%E5%9C%A8%20%E6%88%91%E6%9C%89%E5%A4%9A%E9%9A%BE%E7%86%AC?type=general",
-      "scheme": "snssdk1128://search/没有你在 我有多难熬"
-    },
-    {
-      "rank": 23,
-      "topic": "王力宏重庆演唱会",
-      "heat": 7743274,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/王力宏重庆演唱会"
-    },
-    {
-      "rank": 24,
       "topic": "父亲 我把你的作品发出来了",
-      "heat": 7739995,
+      "heat": 7787831,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -241,19 +221,9 @@
       "scheme": "snssdk1128://search/父亲 我把你的作品发出来了"
     },
     {
-      "rank": 25,
-      "topic": "陈楚生苏州演唱会",
-      "heat": 7739333,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%99%88%E6%A5%9A%E7%94%9F%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/陈楚生苏州演唱会"
-    },
-    {
-      "rank": 26,
+      "rank": 23,
       "topic": "你总说流星划过天空时很亮",
-      "heat": 7738238,
+      "heat": 7785932,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -261,9 +231,59 @@
       "scheme": "snssdk1128://search/你总说流星划过天空时很亮"
     },
     {
+      "rank": 24,
+      "topic": "茸主UFC这一战到底有多关键",
+      "heat": 7783732,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%8C%B8%E4%B8%BBUFC%E8%BF%99%E4%B8%80%E6%88%98%E5%88%B0%E5%BA%95%E6%9C%89%E5%A4%9A%E5%85%B3%E9%94%AE?type=general",
+      "scheme": "snssdk1128://search/茸主UFC这一战到底有多关键"
+    },
+    {
+      "rank": 25,
+      "topic": "丁俊晖晋级英格兰公开赛四强",
+      "heat": 7755039,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%81%E4%BF%8A%E6%99%96%E6%99%8B%E7%BA%A7%E8%8B%B1%E6%A0%BC%E5%85%B0%E5%85%AC%E5%BC%80%E8%B5%9B%E5%9B%9B%E5%BC%BA?type=general",
+      "scheme": "snssdk1128://search/丁俊晖晋级英格兰公开赛四强"
+    },
+    {
+      "rank": 26,
+      "topic": "王力宏重庆演唱会",
+      "heat": 7750039,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%87%8D%E5%BA%86%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/王力宏重庆演唱会"
+    },
+    {
       "rank": 27,
+      "topic": "卢昱晓刺棠执棋者美之爽之",
+      "heat": 7737074,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8D%A2%E6%98%B1%E6%99%93%E5%88%BA%E6%A3%A0%E6%89%A7%E6%A3%8B%E8%80%85%E7%BE%8E%E4%B9%8B%E7%88%BD%E4%B9%8B?type=general",
+      "scheme": "snssdk1128://search/卢昱晓刺棠执棋者美之爽之"
+    },
+    {
+      "rank": 28,
+      "topic": "张凌赫刺棠权谋感拿捏了",
+      "heat": 7734825,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%A0%E5%87%8C%E8%B5%AB%E5%88%BA%E6%A3%A0%E6%9D%83%E8%B0%8B%E6%84%9F%E6%8B%BF%E6%8D%8F%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/张凌赫刺棠权谋感拿捏了"
+    },
+    {
+      "rank": 29,
       "topic": "我的穿搭思路有点野",
-      "heat": 7735426,
+      "heat": 7734412,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -271,35 +291,15 @@
       "scheme": "snssdk1128://search/我的穿搭思路有点野"
     },
     {
-      "rank": 28,
-      "topic": "AirPods 5首发评测",
-      "heat": 7732401,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/AirPods%205%E9%A6%96%E5%8F%91%E8%AF%84%E6%B5%8B?type=general",
-      "scheme": "snssdk1128://search/AirPods 5首发评测"
-    },
-    {
-      "rank": 29,
-      "topic": "重返未来2026箱中巡游前瞻",
-      "heat": 7730459,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%87%8D%E8%BF%94%E6%9C%AA%E6%9D%A52026%E7%AE%B1%E4%B8%AD%E5%B7%A1%E6%B8%B8%E5%89%8D%E7%9E%BB?type=general",
-      "scheme": "snssdk1128://search/重返未来2026箱中巡游前瞻"
-    },
-    {
       "rank": 30,
-      "topic": "一种新的吵架方式",
-      "heat": 7730103,
+      "topic": "终于我也成了第一个接孩子的家长",
+      "heat": 7733705,
       "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E7%A7%8D%E6%96%B0%E7%9A%84%E5%90%B5%E6%9E%B6%E6%96%B9%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/一种新的吵架方式"
+      "type": "母婴萌娃",
+      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
+      "link": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E6%88%91%E4%B9%9F%E6%88%90%E4%BA%86%E7%AC%AC%E4%B8%80%E4%B8%AA%E6%8E%A5%E5%AD%A9%E5%AD%90%E7%9A%84%E5%AE%B6%E9%95%BF?type=general",
+      "scheme": "snssdk1128://search/终于我也成了第一个接孩子的家长"
     }
   ],
-  "updateTime": "2026-09-13 01:36"
+  "updateTime": "2026-09-13 03:59"
 }
