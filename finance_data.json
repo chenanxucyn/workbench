@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "id": "ff65c157ea",
+      "source": "每日经济新闻",
+      "tag": "股市",
+      "time": "09-13 20:41",
+      "title": "“未给英伟达供货！”“5天3板”PCB牛股紧急澄清，还有一只4倍牛股也公告否认",
+      "insight": "记者|黄胜张益铭 编辑|程鹏黄胜张益铭杜恒峰校对|张锦河 9月13日晚，金安国纪（SZ00263…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsuvt0254428.shtml"
+    },
+    {
+      "id": "ff669b0e90",
+      "source": "券商中国",
+      "tag": "财经热点",
+      "time": "09-13 20:39",
+      "title": "今夜，突发公告！两只大牛股，紧急发声：不属实！",
+      "insight": "A股两大牛股同时澄清！ 今日（9月13日）晚间，金安国纪公告，网传相关信息均不属实，公司未与英伟…",
+      "link": "https://finance.sina.com.cn/china/2026-09-13/doc-inirsuvt0254906.shtml"
+    },
+    {
+      "id": "fff4b70eb2",
+      "source": "每日经济新闻",
+      "tag": "财经热点",
+      "time": "09-13 19:42",
+      "title": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
+      "insight": "记者|黄胜 编辑|程鹏张益铭杜恒峰校对|张锦河 雷电微力（SZ301050，股价28.57元，总…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirsuvt0239313.shtml"
+    },
+    {
+      "id": "ff8aef8d3a",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-13 19:26",
+      "title": "智谱募资50亿美元：多家长线基金加持 用于下一代GLM研发",
+      "insight": "来源：雷递 雷递网雷建平9月13日 智谱（股票代码：02513.HK）今日宣布获50亿美元融资，…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirszcr0132100.shtml"
+    },
+    {
+      "id": "ff029347c7",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-13 18:30",
+      "title": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
+      "insight": "来源：资本秘闻 9月13日晚间，金安国纪发布股票交易异常波动公告显示，截至目前公司未与英伟达、华…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqqa5516323.shtml"
+    },
+    {
+      "id": "ff66afea7a",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-13 17:18",
+      "title": "异动拉升，“5天3板”！000823最新澄清：目前无产品供货给英伟达",
+      "insight": "来源：中国基金报 【导读】超声电子再次澄清英伟达供货传闻 中国基金报记者 夏天 9月13日晚间，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirsqqa5494828.shtml"
+    },
+    {
+      "id": "ffc8462150",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-13 17:07",
+      "title": "上海银行中报：利润增长缓慢，规模扩张赚的钱都去哪了？",
+      "insight": "来源：尺度商业 文 | 刘振涛 A股上市银行2026年中报已披露完毕，头部城商行上海银行中报引来…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqpw7743005.shtml"
+    },
+    {
+      "id": "ffb568dc60",
+      "source": "21世纪经济报道",
+      "tag": "股市",
+      "time": "09-13 16:46",
+      "title": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
+      "insight": "国产GPU“四小龙”之一沐曦股份（688802.SH）即将迎来上市后的首次较大比例限售股解禁。公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqpy4500969.shtml"
+    },
+    {
+      "id": "ff6a8826e8",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "09-13 16:18",
+      "title": "比亚迪利润奖停发传闻发酵，员工称多项福利此前已收紧",
+      "insight": "界面新闻记者 | 王臻界面新闻编辑 | 周姝祺 对不少比亚迪员工而言，9月下旬是一年中最期待的时…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirskfx0444573.shtml"
+    },
+    {
       "id": "ff91e7b2d2",
       "source": "新浪港股",
       "tag": "股市",
@@ -98,88 +179,7 @@
       "title": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
       "insight": "现代汽车集团计划在2029年下半年推出搭载自研Atria AI驾驶辅助系统的量产车型，较此前设定…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirskha4561636.shtml"
-    },
-    {
-      "id": "fff9f7545f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-13 14:49",
-      "title": "Anthropic CEO呼吁放缓前沿AI模型开发，引入常驻独立评估人员",
-      "insight": "Anthropic首席执行官达里奥·阿莫代伊提出一项三阶段人工智能安全框架，主张控制前沿模型能力…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirskha4559528.shtml"
-    },
-    {
-      "id": "ff39cd80fc",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:39",
-      "title": "中国波顿于9月11日斥资295.36万港元回购94.4万股",
-      "insight": "中国波顿（03318）发布公告，于2026年9月11日斥资295.36万港元回购94.4万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4553399.shtml"
-    },
-    {
-      "id": "ff50737f6f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:38",
-      "title": "腾讯控股于9月11日斥资1亿港元回购23.5万股",
-      "insight": "腾讯控股（00700）发布公告，于2026年9月11日斥资1亿港元回购23.5万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4553001.shtml"
-    },
-    {
-      "id": "ff7cdac415",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:37",
-      "title": "顺丰控股于9月11日斥资2068.11万港元回购70.56万股",
-      "insight": "顺丰控股（06936）发布公告，于2026年9月11日，该公司斥资2068.11万港元回购70.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfx0415693.shtml"
-    },
-    {
-      "id": "ff577cafd1",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:37",
-      "title": "世茂集团前8个月累计合约销售总额约97.21亿元",
-      "insight": "世茂集团（00813）公布，截至2026年8月31日止八个月，该集团的累计合约销售总额约为人民币…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfy7779786.shtml"
-    },
-    {
-      "id": "ff2d2abb44",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:36",
-      "title": "渣打集团于9月10日斥资812.47万英镑回购35.8万股",
-      "insight": "渣打集团（02888）发布公告，于2026年9月10日斥资812.47万英镑回购35.8万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfx0415402.shtml"
-    },
-    {
-      "id": "ff6014d569",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:35",
-      "title": "花旗：创科实业维持“买入”评级 目标价168港元",
-      "insight": "花旗发布研报称，维持创科实业（00669）“买入”评级，目标价168港元。管理层预估，美国及欧盟…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-13/doc-inirskfy7779068.shtml"
-    },
-    {
-      "id": "ff76ce1080",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:34",
-      "title": "小摩：汇丰控股维持“增持”评级 目标价205港元",
-      "insight": "摩根大通发布研报称，汇丰控股（00005）宣布集团财务总监（CFO）郭珮瑛（Pam Kaur）计…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-13/doc-inirskhe5578155.shtml"
-    },
-    {
-      "id": "ff1b585bca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-13 14:34",
-      "title": "奥尔特曼排除OpenAI年内IPO，称AI安全工作尚未完成",
-      "insight": "OpenAI首席执行官萨姆·奥特曼明确表示，公司不会在2026年启动首次公开募股。面对人工智能安…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirskfx0414920.shtml"
     }
   ],
-  "updateTime": "2026-09-13 15:53"
+  "updateTime": "2026-09-13 21:34"
 }
