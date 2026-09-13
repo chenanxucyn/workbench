@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ffb35cdad4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 06:21",
+      "title": "9月14日周末要闻：沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨",
+      "insight": "上周国际市场回顾 9月12日美股收盘：三大指数集体上涨，油价回落，美联储下周加息押注升至87% …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtwih7291183.shtml"
+    },
+    {
+      "id": "fffd0fec14",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 06:06",
+      "title": "标普500股指期货下跌，霍尔木兹海峡会议推迟推动油价走高",
+      "insight": "阿曼外交大臣称，伊朗与多个海湾国家原定商讨在霍尔木兹海峡设立临时航运通道的会议已推迟。 受此影响…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirtrzk7415619.shtml"
+    },
+    {
+      "id": "ff1e5c7db9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 06:03",
+      "title": "沙特输油管道关闭，霍尔木兹海峡会议推迟，国际油价上涨",
+      "insight": "沙特一条主要原油管道遭袭击后关停，这条原本用于绕开霍尔木兹海峡的运输通道中断，油价随之上涨。 阿…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirtrzn4186760.shtml"
+    },
+    {
+      "id": "ff8f492822",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 04:38",
+      "title": "聚焦AI安全大讨论：AI巨头罕见呼吁放慢脚步 华盛顿分歧浮现",
+      "insight": "一场有关人工智能给人类带来存亡威胁的讨论在周末骤然升温，并迅速从硅谷蔓延至华盛顿。 Anthro…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtrzn4158932.shtml"
+    },
+    {
+      "id": "ff4da8d84f",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-14 03:52",
+      "title": "胡塞武装称沙特24小时内58次空袭也门",
+      "insight": "当地时间13日，据也门胡塞武装发言人叶海亚说，过去24小时，沙特方面出动F-15战机，从沙特海米…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtrzk7408059.shtml"
+    },
+    {
       "id": "ff0e1d71d4",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,6 +53,33 @@
       "title": "Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构",
       "insight": "Anthropic、OpenAI和谷歌已经在讨论合作成立一个人工智能行业标准机构。 在Anthr…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtmtk9956295.shtml"
+    },
+    {
+      "id": "ffdbb969d3",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-14 03:18",
+      "title": "阿曼外交部：原定于14日举行的地区会议延期",
+      "insight": "当地时间13日晚，阿曼外交部宣布，原定于14日在阿曼南部港口城市塞拉莱举行的地区会议将推迟。日期…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtmtq4266759.shtml"
+    },
+    {
+      "id": "ff0830ed71",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-14 02:31",
+      "title": "伊拉克一化肥厂发生氨气泄漏已致2死50伤",
+      "insight": "总台记者当地时间9月13日获悉，伊拉克民防部门当天表示，位于该国南部巴士拉省豪尔祖拜尔地区的一家…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtrzh9852342.shtml"
+    },
+    {
+      "id": "ff7249a431",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-14 02:27",
+      "title": "莱茵河低水位或致德国巨额经济损失",
+      "insight": "13日，德国莱茵兰-普法尔茨州工商会发言人妮科尔·拉博尔德表示，受持续低水位影响，莱茵河货运能力…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtrzq4995012.shtml"
     },
     {
       "id": "ff25e5f691",
@@ -26,6 +98,15 @@
       "title": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
       "insight": "伊朗计划向其他海湾国家提出一项航运协议之际，美国能源部长克里斯·赖特警告石油交易员，不要指望霍尔…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtfms4337272.shtml"
+    },
+    {
+      "id": "ff49e46cbf",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-14 00:01",
+      "title": "也门政府军称胡塞武装攻势致双方伤亡数千人",
+      "insight": "也门政府军13日说，其与胡塞武装在也门西部沿海地区及相关岛屿持续一个月的冲突中，政府军伤亡约20…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirtfmu5208189.shtml"
     },
     {
       "id": "ff31f48015",
@@ -64,6 +145,15 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcs7631078.shtml"
     },
     {
+      "id": "ffa174cb00",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-13 22:00",
+      "title": "特朗普称已要求乌克兰停止袭击俄柴油燃料设施",
+      "insight": "央视记者当地时间9月13日获悉，美国总统特朗普当天要求乌克兰总统泽连斯基停止袭击俄罗斯柴油燃料设…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirszcs7644653.shtml"
+    },
+    {
       "id": "ff65c157ea",
       "source": "每日经济新闻",
       "tag": "股市",
@@ -89,97 +179,7 @@
       "title": "资本大佬陈发树要减持雷电微力，对应市值超2亿元",
       "insight": "记者|黄胜 编辑|程鹏张益铭杜恒峰校对|张锦河 雷电微力（SZ301050，股价28.57元，总…",
       "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirsuvt0239313.shtml"
-    },
-    {
-      "id": "ff8aef8d3a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-13 19:26",
-      "title": "智谱募资50亿美元：多家长线基金加持 用于下一代GLM研发",
-      "insight": "来源：雷递 雷递网雷建平9月13日 智谱（股票代码：02513.HK）今日宣布获50亿美元融资，…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirszcr0132100.shtml"
-    },
-    {
-      "id": "ff029347c7",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-13 18:30",
-      "title": "PCB牛股，刚刚提示风险！澄清涉及英伟达等不实信息",
-      "insight": "来源：资本秘闻 9月13日晚间，金安国纪发布股票交易异常波动公告显示，截至目前公司未与英伟达、华…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqqa5516323.shtml"
-    },
-    {
-      "id": "ff66afea7a",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-13 17:18",
-      "title": "异动拉升，“5天3板”！000823最新澄清：目前无产品供货给英伟达",
-      "insight": "来源：中国基金报 【导读】超声电子再次澄清英伟达供货传闻 中国基金报记者 夏天 9月13日晚间，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirsqqa5494828.shtml"
-    },
-    {
-      "id": "ffc8462150",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-13 17:07",
-      "title": "上海银行中报：利润增长缓慢，规模扩张赚的钱都去哪了？",
-      "insight": "来源：尺度商业 文 | 刘振涛 A股上市银行2026年中报已披露完毕，头部城商行上海银行中报引来…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqpw7743005.shtml"
-    },
-    {
-      "id": "ffb568dc60",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "09-13 16:46",
-      "title": "1900亿GPU龙头下周解禁，股价较高点已跌超50%",
-      "insight": "国产GPU“四小龙”之一沐曦股份（688802.SH）即将迎来上市后的首次较大比例限售股解禁。公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-13/doc-inirsqpy4500969.shtml"
-    },
-    {
-      "id": "ff6a8826e8",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "09-13 16:18",
-      "title": "比亚迪利润奖停发传闻发酵，员工称多项福利此前已收紧",
-      "insight": "界面新闻记者 | 王臻界面新闻编辑 | 周姝祺 对不少比亚迪员工而言，9月下旬是一年中最期待的时…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirskfx0444573.shtml"
-    },
-    {
-      "id": "ff91e7b2d2",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:04",
-      "title": "汉港控股获主席及主要股东汪林冰增持768.4万股",
-      "insight": "汉港控股（01663）发布公告，本公司董事会（董事会）获汪林冰（汪先生）通知，彼于2026年9月…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfx0422644.shtml"
-    },
-    {
-      "id": "ff0cb4e52e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:03",
-      "title": "北森控股于9月11日斥资149.95万港元回购50万股",
-      "insight": "北森控股（09669）发布公告，于2026年9月11日斥资149.95万港元回购50万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfx0422452.shtml"
-    },
-    {
-      "id": "ffbe7350c8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:02",
-      "title": "凌雄科技于9月11日斥资约226.29万港元回购12万股",
-      "insight": "凌雄科技（02436）发布公告，于2026年9月11日该公司斥资约226.29万港元回购12万股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskhe5585378.shtml"
-    },
-    {
-      "id": "ffcf35a531",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:02",
-      "title": "国联民生于9月11日斥资2785.85万元回购320万股A股",
-      "insight": "国联民生（01456）发布公告，于2026年9月11日斥资人民币2785.85万元回购320万股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4567271.shtml"
     }
   ],
-  "updateTime": "2026-09-14 04:05"
+  "updateTime": "2026-09-14 06:45"
 }
