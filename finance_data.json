@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff0e1d71d4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 03:44",
+      "title": "Anthropic、OpenAI和谷歌讨论合作成立AI行业标准机构",
+      "insight": "Anthropic、OpenAI和谷歌已经在讨论合作成立一个人工智能行业标准机构。 在Anthr…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtmtk9956295.shtml"
+    },
+    {
       "id": "ff25e5f691",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "国联民生于9月11日斥资2785.85万元回购320万股A股",
       "insight": "国联民生（01456）发布公告，于2026年9月11日斥资人民币2785.85万元回购320万股…",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4567271.shtml"
-    },
-    {
-      "id": "ffc723d782",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:01",
-      "title": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
-      "insight": "碧桂园服务（06098）发布公告，于2026年9月11日斥资160.3万港元回购30万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfy7794334.shtml"
     }
   ],
-  "updateTime": "2026-09-14 01:48"
+  "updateTime": "2026-09-14 04:05"
 }
