@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff25e5f691",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 01:38",
+      "title": "法国计划削减300亿欧元预算支出以控制财政赤字",
+      "insight": "法国财政部长罗兰·莱斯屈尔表示，政府计划在下一年度预算中节约约300亿欧元资金，以此遏制财政赤字…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirtfms4348308.shtml"
+    },
+    {
+      "id": "ff8e70cb55",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 01:08",
+      "title": "美国能源部长淡化霍尔木兹海峡问题取得突破的可能性",
+      "insight": "伊朗计划向其他海湾国家提出一项航运协议之际，美国能源部长克里斯·赖特警告石油交易员，不要指望霍尔…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirtfms4337272.shtml"
+    },
+    {
+      "id": "ff31f48015",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 23:48",
+      "title": "伊朗据称周一公布霍尔木兹海峡临时航道协议 特朗普表示不在乎",
+      "insight": "经过一连串密集的外交活动，包括德黑兰与阿布扎比高级官员之间的罕见会晤之后，伊朗计划于周一正式公布…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirtfmq7529373.shtml"
+    },
+    {
+      "id": "ff439098a2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 23:16",
+      "title": "特朗普敦促美联储降息 表示美国利率应该全球最低",
+      "insight": "美国总统特朗普再次表示，美国应该拥有全球最低的利率。但与此同时，他亲自挑选的美联储主席凯文·沃什…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcw5322364.shtml"
+    },
+    {
+      "id": "ffcd949f03",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 22:31",
+      "title": "Anthropic对人工智能的警告或使芯片股承压 但长期影响料有限",
+      "insight": "市场观察人士指出，人工智能高管们呼吁放缓技术发展的言论，短期内可能会对芯片制造商及供应链股票造成…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcs7631330.shtml"
+    },
+    {
+      "id": "ffa2ae6a1c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-13 22:30",
+      "title": "哈塞特：白宫认为没有理由加息 但将百分之百支持美联储的决定",
+      "insight": "美联储主席凯文·沃什及其委员会“不管作出什么决定，我们都会百分之百支持他们”，美国总统唐纳德·特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirszcs7631078.shtml"
+    },
+    {
       "id": "ff65c157ea",
       "source": "每日经济新闻",
       "tag": "股市",
@@ -125,61 +179,7 @@
       "title": "碧桂园服务于9月11日斥资160.3万港元回购30万股",
       "insight": "碧桂园服务（06098）发布公告，于2026年9月11日斥资160.3万港元回购30万股。",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfy7794334.shtml"
-    },
-    {
-      "id": "ffca5a2469",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 15:00",
-      "title": "深圳国际：完成发行2026年中期票据(第四期)",
-      "insight": "深圳国际（00152）发布公告，本公司于2026年9月11日完成发行金额为人民币10 亿元的20…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4566378.shtml"
-    },
-    {
-      "id": "ff96dbe56f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:59",
-      "title": "华虹宏力发行1.91亿股代价股份",
-      "insight": "华虹宏力（01347）发布公告，于2026年9月9日，该公司为收购上海华力微电子有限公司97.4…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfy7793131.shtml"
-    },
-    {
-      "id": "ff6f2b61da",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:58",
-      "title": "名创优品于9月11日斥资约1685.77万港元回购94.9万股",
-      "insight": "名创优品（09896）发布公告，于2026年9月11日该公司斥资约1685.77万港元回购94.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskha4565216.shtml"
-    },
-    {
-      "id": "ff986338d6",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-13 14:58",
-      "title": "兴业合金授出1600万股奖励股份",
-      "insight": "兴业合金（00505）发布公告，于2026年9月11日，董事会已议决根据股份奖励计划授出 160…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-13/doc-inirskfy7792155.shtml"
-    },
-    {
-      "id": "ff2dd678c8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-13 14:57",
-      "title": "加拿大据报寻求成为欧盟“联系成员”，拟推动关键领域深度整合",
-      "insight": "据报道，加拿大总理马克·卡尼正推动建立一种低于欧盟正式成员国及单一市场成员资格的“联系成员”关系…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirskfy7792001.shtml"
-    },
-    {
-      "id": "ff33a6e203",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-13 14:53",
-      "title": "现代汽车将自研驾驶辅助系统推迟至2029年，过渡期采用英伟达方案",
-      "insight": "现代汽车集团计划在2029年下半年推出搭载自研Atria AI驾驶辅助系统的量产车型，较此前设定…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirskha4561636.shtml"
     }
   ],
-  "updateTime": "2026-09-13 21:34"
+  "updateTime": "2026-09-14 01:48"
 }
