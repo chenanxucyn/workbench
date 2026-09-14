@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffe08a9bff",
+      "id": "ff364a5682",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 23:22",
+      "title": "特朗普称俄罗斯和乌克兰同意停止对能源目标的互袭",
+      "insight": "特朗普在Truth Social平台发帖称：“乌克兰已同意不打击俄罗斯能源目标。俄罗斯也同意不对…",
+      "link": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7190008.shtml"
+    },
+    {
+      "id": "ff18d08238",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 23:21",
+      "title": "能源价格上涨推高通胀担忧 交易员加码押注英国央行和欧洲央行加息",
+      "insight": "由于能源价格再次飙升加剧了市场对通胀的担忧，交易员加大对欧洲央行和英国央行的加息押注。 货币市场…",
+      "link": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkks3962367.shtml"
+    },
+    {
+      "id": "fff91408e2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 23:05",
+      "title": "欧洲航天初创企业掀起融资热潮，力图挑战美国主导地位",
+      "insight": "核心要点欧洲多家航天初创企业接连完成大额融资。卫星制造商 Open Cosmos 完成 3 亿欧…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4367299.shtml"
+    },
+    {
+      "id": "ff6f9cd28b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:49",
+      "title": "美银的Subramanian将标普500指数年底目标上调至7400点",
+      "insight": "美国银行的美国股票及量化策略主管Savita Subramanian周一在报告中表示，该行将标普…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkn9199784.shtml"
+    },
+    {
+      "id": "ff8f849278",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "09-14 16:16",
-      "title": "“绩差生”北汽蓝谷：中报销量狂奔仍“失血”，扣非八年半亏近400亿",
-      "insight": "来源：证券之星 近日，北汽蓝谷（600733.SH）公告称，子公司北京新能源汽车股份有限公司（下…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirutnu9443816.shtml"
+      "time": "09-14 22:49",
+      "title": "老股东还没解套，智谱新一轮50亿美元融资落地！股价还在跌",
+      "insight": "来源：上市之家 50亿美元到账了。股价又跌了。 9月13日晚间，智谱（02513.HK）公告完成…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirvkku4363870.shtml"
     },
     {
-      "id": "ffa9477cc9",
+      "id": "ffd038e1bb",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-14 22:43",
+      "title": "交易员完全计入到2027年底欧洲央行加息四次、英国央行五次的预期",
+      "insight": "随着能源价格上涨加剧通胀担忧，货币市场加大了对央行加息的押注。 掉期市场显示，到明年底欧洲央行将…",
+      "link": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7172095.shtml"
+    },
+    {
+      "id": "ff47bf5094",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:39",
+      "title": "美国10年期国债收益率2023年以来首次升破5%",
+      "insight": "美国10年期国债收益率涨破5%，为2023年10月以来首次。油价飙升加剧通胀之忧，美国基准国债收…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4360288.shtml"
+    },
+    {
+      "id": "ff88869e74",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:24",
+      "title": "微软为未来AI模型划定约束，整个行业开始收敛前沿AI研发节奏",
+      "insight": "核心要点微软发布一份临时性行为准则，对自家未来人工智能模型作出诸多限制。该正式版本更新落地之前，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4355830.shtml"
+    },
+    {
+      "id": "ff343f8463",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:24",
+      "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+      "insight": "AI公司Cohere CEO戈麦斯表示，AI 模型正成为有史以来“最强大的网络武器”，将网络安全…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkq7161712.shtml"
+    },
+    {
+      "id": "ff2d8a1f57",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:19",
+      "title": "阿莫代伊呼吁放缓AI发展，对Anthropic即将到来的IPO意味着什么",
+      "insight": "核心要点Anthropic 正在与潜在投资者会面，筹备这场有望载入史册的上市，但其首席执行官达里…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4353554.shtml"
+    },
+    {
+      "id": "ff654539da",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:18",
+      "title": "特朗普称无需更多AI监管，抨击Anthropic CEO达里奥·阿莫代伊",
+      "insight": "美国总统特朗普周一反驳了越来越多要求对人工智能加强监管的呼声，并在Anthropic CEO达里…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4353491.shtml"
+    },
+    {
+      "id": "ff1c033e59",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:17",
+      "title": "微软为未来AI模型设定限制，美国行业放缓前沿开发",
+      "insight": "微软已发布一项临时行为准则，将对其人工智能模型施加限制。这是在Anthropic和OpenAI领…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4352941.shtml"
+    },
+    {
+      "id": "ffd726174f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:15",
+      "title": "英伟达、Palantir等限制使用最先进的AI模型",
+      "insight": "报道称，英伟达、Palantir和Booz Allen Hamilton正要求AI供应商提供新的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkq7155636.shtml"
+    },
+    {
+      "id": "ffbfe36f49",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:10",
+      "title": "“木头姐”增持2790万美元Meta股票",
+      "insight": "方舟投资管理公司负责人“木头姐”凯瑟琳·伍德（Cathie Wood）上周斥资2790万美元买入…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkks3925215.shtml"
+    },
+    {
+      "id": "ff26f77fc0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:10",
+      "title": "两大关键事件临近，比特币陷入盘整",
+      "insight": "比特币即将迎来重要一周。《明晰法案》关键性程序性投票，以及美联储即将公布的政策决议，这两件大事都…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkks3925192.shtml"
+    },
+    {
+      "id": "ffd48323ef",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 22:00",
+      "title": "Cohere首席执行官：AI模型正演变为人类有史以来“威力最强的网络武器”",
+      "insight": "核心要点Cohere 首席执行官艾丹・戈麦斯表示，AI 模型能够大规模查找并利用漏洞，正在成为有…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaw4477981.shtml"
+    },
+    {
+      "id": "ff2c84885f",
       "source": "市场资讯",
       "tag": "股市",
-      "time": "09-14 16:16",
-      "title": "实控人入狱！瑞斯康达专网通信案一审落槌",
-      "insight": "来源：证券之星 近日，瑞斯康达（603803.SH）实控人所涉“专网通信案”一审判决结果出炉，公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirutny4053105.shtml"
+      "time": "09-14 21:56",
+      "title": "终止重大资产重组！金橙子，复牌！",
+      "insight": "来源：资本秘闻 筹划近一周时间，金橙子重大资产重组事项宣告终止。 9月14日晚间，金橙子披露公告…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirveaw4478345.shtml"
     },
     {
-      "id": "ffeed756ad",
-      "source": "新浪港股",
+      "id": "ffc7b0fd60",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 21:55",
+      "title": "油价大涨 据报沙特输油管道重启需数周",
+      "insight": "油价大涨，有报道称沙特阿拉伯可能需要数周时间才能重启一条关键的输油管道。美伊战争期间，这条管道一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveau4047145.shtml"
+    },
+    {
+      "id": "ff0ad4c31a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-14 21:49",
+      "title": "欧洲天然气一度突破1000美元/千立方米",
+      "insight": "伦敦洲际交易所（ICE）数据显示，周一交易时段，欧洲天然气价格自2022年12月以来首次突破每千…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveau4043397.shtml"
+    },
+    {
+      "id": "ffb024e151",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "09-14 16:08",
-      "title": "港股收评：恒指涨0.45% 科指跌0.06% 创新药概念股大涨 存储概念股下挫",
-      "insight": "9月14日消息，港股三大指数涨跌不一。截至收盘，恒生指数涨0.45%，报24917.60，恒生科…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-14/doc-inirutny4042987.shtml"
-    },
-    {
-      "id": "ff80ef2a6a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-14 16:00",
-      "title": "双焦：五轮提涨后博弈加剧，盘面或重回负反馈逻辑",
-      "insight": "一、行情回顾：产业链利润严重不均，双焦震荡走弱 9月以来双焦市场在成本刚性支撑与旺季需求验证的博…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-14/doc-inirutnw7260871.shtml"
-    },
-    {
-      "id": "ffd4cc8c8b",
-      "source": "市场资讯",
-      "tag": "外汇",
-      "time": "09-14 15:58",
-      "title": "87%定价已经锁死沟通空间，美联储还敢按兵不动吗",
-      "insight": "文章来源：汇通财经 9月14日周一，距离美联储9月15日至16日议息会议只剩两个交易日。联邦基金…",
-      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-14/doc-inirutnu9433124.shtml"
-    },
-    {
-      "id": "ffcc5c47a0",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-14 15:51",
-      "title": "突然，集体暴跌！网友直呼：“熊出没，无疑了！”到底发生了啥？",
-      "insight": "期货日报 今日，国内期货市场开盘后，玻璃、纯碱、烧碱“三兄弟”直线下跌，截至收盘，分别下跌5.7…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-14/doc-inirutny4025982.shtml"
-    },
-    {
-      "id": "fff390a4b2",
-      "source": "观察者网",
-      "tag": "外汇",
-      "time": "09-14 15:46",
-      "title": "“我比任何人都懂公式” ，特朗普施压美联储：美国的利率理应全球最低",
-      "insight": "美联储即将召开议息会议之际，美国总统特朗普再次声称，美国的利率应该是全球最低的。 据报道，特朗普…",
-      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-14/doc-inirutpa4591528.shtml"
-    },
-    {
-      "id": "ff1787891a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-14 15:46",
-      "title": "长安期货侯荃宇：地缘情绪有所退潮 聚乙烯基本面权重逐步回归",
-      "insight": "2026年9月上旬，聚乙烯期货市场延续了8月下旬以来的强势格局，但行情驱动逻辑正在发生微妙切换。…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-14/doc-inirutpa4591181.shtml"
-    },
-    {
-      "id": "ff64ae061b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:44",
-      "title": "SpaceX发射SES最后三颗O3b mPOWER卫星，星座扩至13颗",
-      "insight": "SpaceX于9月13日使用猎鹰9号火箭，将SES的第11至第13颗O3b mPOWER卫星送入…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutnu9427217.shtml"
-    },
-    {
-      "id": "ff99f13b30",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:43",
-      "title": "全球政府债务利息支出突破2万亿美元 多国偿债成本超国防开支",
-      "insight": "全球政府债务偿债负担已突破2万亿美元，成为吞噬税收收入、可能压垮民选领导人的重大财政问题。英国、…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutnw7245282.shtml"
-    },
-    {
-      "id": "ff4ded3939",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-14 15:42",
-      "title": "证监会：引导上市公司压缩账期，及时支付中小企业款项",
-      "insight": "央视财经 国务院新闻办公室9月14日举行政策例行吹风会介绍加强中小企业回款难问题治理有关工作情况…",
-      "link": "https://finance.sina.com.cn/china/2026-09-14/doc-inirutnw7243687.shtml"
-    },
-    {
-      "id": "ffe46e8cdd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:41",
-      "title": "美国柴油均价升至每加仑6.20美元，刷新历史纪录",
-      "insight": "美国柴油零售均价首次突破每加仑6美元。截至9月14日，全国平均价格升至6.204美元，较一年前上…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutny4015465.shtml"
-    },
-    {
-      "id": "ffb0e9ceab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:41",
-      "title": "机构：2026年第二季度全球半导体营收突破4250亿美元 环比增长31.4%",
-      "insight": "根据Omdia发布的报告，2026年第二季度全球半导体营收突破4250亿美元，再创历史新高，该市…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutnw7242740.shtml"
-    },
-    {
-      "id": "ffe5e54828",
-      "source": "证券时报网",
-      "tag": "财经热点",
-      "time": "09-14 15:35",
-      "title": "市场监管总局：将对变相延长账期等行为依法依规进行严厉处罚",
-      "insight": "人民财讯9月14日电，9月14日，国务院新闻办公室举行政策例行吹风会介绍加强中小企业回款难问题治…",
-      "link": "https://finance.sina.com.cn/china/2026-09-14/doc-inirutpa4587134.shtml"
-    },
-    {
-      "id": "ffcb67cad0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:33",
-      "title": "美联储本周加息预期升至近90%，沃什面临特朗普降息压力",
-      "insight": "美国8月整体通胀未能进一步回落，交易员对美联储9月加息的定价由上周初约50%升至接近90%。美联…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutnw7234757.shtml"
-    },
-    {
-      "id": "ff26b84d0b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-14 15:33",
-      "title": "外交部：中方愿同金砖国家加强技术合作 深化产业对接",
-      "insight": "9月14日，外交部发言人郭嘉昆主持例行记者会。有记者提问：在金砖峰会上，印尼总统呼吁金砖成员国推…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirutnw7252621.shtml"
-    },
-    {
-      "id": "ff2b3b938c",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-14 15:33",
-      "title": "外交部：散播各种威胁叙事 只会干扰人工智能全球治理进程",
-      "insight": "9月14日，外交部发言人郭嘉昆主持例行记者会。有记者就有美国AI企业称中国AI发展对美构成威胁相…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirutnw7237766.shtml"
-    },
-    {
-      "id": "ff9d6c7ca4",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "09-14 15:25",
-      "title": "4方面10条措施！五部门出手治理中小企业回款难",
-      "insight": "9月14日下午，在国务院政策例行吹风会上，工业和信息化部副部长柯吉欣和中国人民银行、国务院国资委…",
-      "link": "https://finance.sina.com.cn/china/2026-09-14/doc-inirupew9547376.shtml"
-    },
-    {
-      "id": "fffa4e91aa",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-14 15:25",
-      "title": "英国初创公司Isembard开设伦敦二战后最大工厂 国防与AI投资推动制造业回流",
-      "insight": "近日，英国初创公司Isembard在伦敦南华克曼德拉路启用一座占地16万平方英尺的四层工厂及总部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirutnu9419368.shtml"
-    },
-    {
-      "id": "ff76a6e9cf",
-      "source": "e公司",
-      "tag": "财经热点",
-      "time": "09-14 15:25",
-      "title": "央行：将对压降账款、账期成效明显企业给予债券融资便利",
-      "insight": "人民财讯9月14日电，9月14日，中国人民银行金融市场司负责人曹媛媛在国务院政策例行吹风会上表示…",
-      "link": "https://finance.sina.com.cn/china/2026-09-14/doc-inirutny4000321.shtml"
+      "time": "09-14 21:41",
+      "title": "员工欠薪、电商停摆，千叶珠宝老板带着老板娘“跑路”了？",
+      "insight": "來源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 9月10日，东北证券一纸公告，将知名…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirveas7267598.shtml"
     }
   ],
-  "updateTime": "2026-09-14 16:25"
+  "updateTime": "2026-09-14 23:32"
 }
