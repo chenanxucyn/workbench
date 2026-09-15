@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "fff36c8970",
+      "id": "ffcc02df64",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-16 02:00",
-      "title": "卡尼扩大投资税收优惠适用范围 力促投资加拿大",
-      "insight": "加拿大总理马克·卡尼正扩大一项重大投资税收抵扣政策的适用范围，将油气管道、矿业资产等纳入加拿大加…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxxxh8212256.shtml"
+      "time": "09-16 07:15",
+      "title": "美国海岸警卫队登检油轮，开展网络攻击调查",
+      "insight": "美国海岸警卫队周二晚间证实，美军人员与联邦调查局探员登上一艘驶往得克萨斯州的油轮，调查一起网络攻…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykpa8020139.shtml"
     },
     {
-      "id": "ffb160a0b8",
+      "id": "ff334d129c",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 01:56",
-      "title": "美联储不会逆市场定论而动 几十年无一例外",
-      "insight": "债券交易员认为美联储会在周三加息，而且他们笃定的程度之高到了几十年来从未落空的地步。 与美联储会…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxxxq3374025.shtml"
-    },
-    {
-      "id": "ffd44b4d21",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 01:37",
-      "title": "美国20年期国债中标收益率5.420% 创2020年恢复发行以来最高水平",
-      "insight": "美国财政部续发130亿美元20年期国债，中标收益率5.420%，创该期限品种自2020年恢复发行…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxxxn3489186.shtml"
-    },
-    {
-      "id": "ffc40b9b1a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 01:16",
-      "title": "美国20年期国债中标收益率5.420% 创2020年恢复发行以来最高",
-      "insight": "美国财政部发行130亿美元20年期国债，中标收益率5.420%，高于投标截止时5.400%的发行…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrq3612491.shtml"
-    },
-    {
-      "id": "fff162e21b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 01:04",
-      "title": "比特币大跌3%至76000美元，市场对《CLARITY 法案》今年获得通过的预期降温",
-      "insight": "行情事件：比特币周二下跌 3%。 下跌背后原因：这一全球最大加密货币价格走弱，叠加参议院定于周二…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrq3607099.shtml"
-    },
-    {
-      "id": "ff47b9813e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 01:01",
-      "title": "科技巨头对于放缓AI发展的立场汇总",
-      "insight": "周一，部分头部 AI 企业高管呼吁管控前沿大模型的研发速度，这在科技行业掀起巨大争议。 事件起因…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrk8328648.shtml"
-    },
-    {
-      "id": "ff87bbb656",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:58",
-      "title": "亿万投资人鲁宾斯坦：美国债务规模不断膨胀，犹如一颗定时炸弹",
-      "insight": "凯雷集团联合创始人、亿万投资人戴维・鲁宾斯坦警示：美国不断膨胀的债务就如同国内的一颗定时炸弹，债…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrn6831578.shtml"
-    },
-    {
-      "id": "ff71195da4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:50",
-      "title": "“要么行动 要么闭嘴” DoubleLine称美联储需加息以稳定债市",
-      "insight": "DoubleLine Capital的Jeffrey Sherman表示，美联储需要加息，以让交…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrk8325724.shtml"
-    },
-    {
-      "id": "ff1b9d2086",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:40",
-      "title": "欧洲债市：德国国债下跌 英国30年期国债收益率逼近6%",
-      "insight": "德国国债连续第五天下跌，此前沙特东西输油管道受损导致供应受限，推动油价大涨。 德国国债及其他欧元…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrs3487298.shtml"
-    },
-    {
-      "id": "ffeaadc63b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:40",
-      "title": "贝森特支持向美国人发放5000美元支票的提议 称可以不影响财政赤字",
-      "insight": "美国财政部长贝森特表示，他支持总统特朗普提出的如果共和党中期选举后在国会继续保持多数席位，就向美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrq3597936.shtml"
-    },
-    {
-      "id": "ff5dd96ba9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:12",
-      "title": "加拿大皇家银行资本市场上调医疗设备与数字健康企业ResMed评级",
-      "insight": "医疗设备与数字健康企业ResMed（RMD）周二股价上涨近 5%，此前加拿大皇家银行资本市场将该…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrn6814847.shtml"
-    },
-    {
-      "id": "ffe585ffe1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 00:03",
-      "title": "输油管道遇袭后 沙特阿美据悉推迟向部分欧洲客户供应石油",
-      "insight": "据知情人士透露，沙特阿美本月正推迟向部分欧洲客户供应石油。就在几天前，沙特一条关键的石油出口管道…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirxtrk8314791.shtml"
-    },
-    {
-      "id": "ff0f95799a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:43",
-      "title": "摩根士丹利：美国银行股价反应过度",
-      "insight": "尽管美国银行（BAC）预告第三季度业绩疲软，受此影响其股价周一下跌超 5%，但摩根士丹利预计该股…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxtrk8309903.shtml"
-    },
-    {
-      "id": "ff38dd693b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:35",
-      "title": "耐克联合创始人菲尔・奈特将向俄勒冈州医疗中心捐赠11亿美元",
-      "insight": "核心要点 菲尔・奈特与妻子彭妮・奈特承诺，向俄勒冈州普罗维登斯圣文森特医疗中心及其普罗维登斯心脏…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxtrs3471717.shtml"
-    },
-    {
-      "id": "fff32791ab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:31",
-      "title": "OpenAI称正与Anthropic和谷歌合作应对AI安全问题",
-      "insight": "OpenAI正在与主要竞争对手Anthropic和谷歌DeepMind共同研究应对人工智能安全问…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxtrn6798027.shtml"
-    },
-    {
-      "id": "ffe143b5de",
-      "source": "新浪科技",
       "tag": "财经热点",
-      "time": "09-15 23:20",
-      "title": "万字全文|华为监事会主席郭平与新员工座谈纪要",
-      "insight": "9月10日，华为心声社区刊发监事会主席郭平与新员工座谈纪要。谈及人工智能时代的业务布局，郭平表示…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-15/doc-inirxtrn6794137.shtml"
+      "time": "09-16 06:53",
+      "title": "9月16日隔夜要闻：美股三大指数收跌 沙特供应风险推升油价 金价震荡 市场关注联储决议",
+      "insight": "市场 9月16日美股收盘：三大指数收跌 油价回升 10年期美债收益率触及19年高位 9月16日美…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3355284.shtml"
     },
     {
-      "id": "ff03bd987d",
+      "id": "ff9fc1d431",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:18",
-      "title": "埃雷博银行稳定币优厚优惠为何反酿成亏损",
-      "insight": "帕尔默・勒基旗下的埃雷博银行今年初正式开业时，推出一项极具吸引力的福利来招揽加密货币客户：免费帮…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxtrk8304974.shtml"
+      "tag": "财经热点",
+      "time": "09-16 06:39",
+      "title": "特朗普政府官员与Anthropic一位高管会谈 讨论AI安全问题",
+      "insight": "特朗普政府高级官员周二与Anthropic PBC一位高管会谈，讨论人工智能（AI）安全风险。 …",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3347213.shtml"
     },
     {
-      "id": "fff491b619",
+      "id": "ff5fce537d",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:13",
-      "title": "交易员削减欧洲央行加息押注 10月行动概率降至五成",
-      "insight": "货币市场削减对欧洲央行下个月加息的押注，目前预计加息25个基点的概率为50%，此前约为70%。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxtrk8303857.shtml"
+      "tag": "财经热点",
+      "time": "09-16 06:37",
+      "title": "9月16日美股成交前20：科技股承压 市场关注AI安全",
+      "insight": "周二美股成交额第2名美光收涨0.39%，成交349.48亿美元。 Micron（美光）当地时间今…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3346327.shtml"
     },
     {
-      "id": "ff8459b345",
+      "id": "ff52a0496b",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-15 23:01",
-      "title": "开发者找到办法，脱离Anthropic模型使用Claude Code",
-      "insight": "Anthropic 编码工具 Claude Code 负责人鲍里斯・切尔尼，上个月卷入一场网络论…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxpis3690238.shtml"
+      "tag": "财经热点",
+      "time": "09-16 06:14",
+      "title": "高管称Radiant World和Sapphire Minmetals起诉嘉能可 索赔20亿美元",
+      "insight": "Sapphire Minmetals董事长表示，Radiant World和Sapphire M…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3336932.shtml"
     },
     {
-      "id": "ff766f8e28",
+      "id": "ff8bc88436",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 06:13",
+      "title": "OpenAI首席执行官Altman“有信心”AI行业能够自行保障安全",
+      "insight": "OpenAI首席执行官Sam Altman表示，他相信人工智能公司能够安全地开发这项技术，而不会…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6564091.shtml"
+    },
+    {
+      "id": "ffc2ad2a45",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-15 22:58",
-      "title": "DoorDash投资马克・洛尔旗下的Wonder",
-      "insight": "这笔交易也埋下伏笔，未来 DoorDash 有可能接手 Wonder 的配送业务。 两家公司联合…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirxpis3689060.shtml"
+      "time": "09-16 06:12",
+      "title": "携程2026Q2受处罚费用影响净亏损24亿元，入境游保持高双位数增长",
+      "insight": "2026年第二季度，携程集团（9961.HK/TCOM）实现净营业收入人民币157亿元，同比增长…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykpe6563509.shtml"
+    },
+    {
+      "id": "fff74adde7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-16 06:09",
+      "title": "携程2026Q2净利润同比下降，受处罚费用影响，录得净亏损24亿元",
+      "insight": "2026年第二季度，携程集团（9961.HK/TCOM）实现净营业收入人民币157亿元，同比增长…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykph3334556.shtml"
+    },
+    {
+      "id": "ff78093467",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 06:06",
+      "title": "美国股市：主要股指普跌 美债收益率高企令风险资产承压",
+      "insight": "美国股市周二下跌，此前基准美国国债收益率触及2007年以来最高水平。美联储将于周三公布备受关注的…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpk3164571.shtml"
+    },
+    {
+      "id": "ff0b698aae",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 06:05",
+      "title": "大宗商品综述：供应风险推升油价 铜价涨 金价震荡 等候联储决议",
+      "insight": "原油大涨，沙特阿拉伯一条关键管道停运以及利比亚油田停产，为石油市场增添供应风险，而此前市场已因伊…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6559769.shtml"
+    },
+    {
+      "id": "ffe98e4c70",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 06:03",
+      "title": "美国能源部长：沙特东西输油管道有望数日内重启",
+      "insight": "在被问及沙特的东西输油管道是否可能需要数日或更长时间才能重开时，美国能源部长克里斯·赖特表示：“…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3330602.shtml"
+    },
+    {
+      "id": "ff020fa611",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 06:02",
+      "title": "报道：万斯称伊朗战争将进入“非常不同的阶段”",
+      "insight": "美国副总统JD·万斯接受《纽约邮报》采访时表示，与伊朗的战争将在几个月后进入“非常不同的阶段”。…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpa7999748.shtml"
+    },
+    {
+      "id": "ff2e27de06",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "09-16 06:00",
+      "title": "WTO公共论坛2026开幕：人工智能与服务贸易成增长新动力 多边贸易体系面临改革关键节点",
+      "insight": "世界贸易组织（WTO）2026年公共论坛于9月15日在日内瓦开幕。本届论坛以 “驱动未来”（Po…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6556590.shtml"
+    },
+    {
+      "id": "ff2917e018",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-16 06:00",
+      "title": "利率决议公布在即 市场押注加息概率高达94% 若按兵不动或成30余年来最大“鸽派意外”",
+      "insight": "来源：智通财经网 在美联储即将于周三公布利率决议之际，债券交易员几乎已经认定加息将成为最终结果。…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-16/doc-inirykpa8005911.shtml"
+    },
+    {
+      "id": "ff88a22930",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 05:48",
+      "title": "9月16日外盘头条：美对伊战争耗资已超380亿美元 加密货币法案折戟美国参议院 黄仁勋称AI行业不需要新法律",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国国会预算办公室：伊朗战争头五个月给美国带…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefe8126643.shtml"
+    },
+    {
+      "id": "ffca98cf6c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 05:28",
+      "title": "债市空头已处于极端水平 押注美联储兑现加息预期",
+      "insight": "美联储周三公布利率决定之前，债市交易员大举建立看跌头寸，押注推动收益率升至逾十年高点的美国国债抛…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefk3446225.shtml"
+    },
+    {
+      "id": "ff9db94486",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 05:15",
+      "title": "纽约汇市：美元上涨 10年期美债收益率创2007年以来最高",
+      "insight": "美元兑所有G10货币均维持涨势，此前美国10年期国债收益率升至近20年来最高水平，而美联储即将于…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefn3284509.shtml"
+    },
+    {
+      "id": "ff306972b3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 04:39",
+      "title": "美国债市：国债收盘小幅下跌 20年期标售需求偏弱",
+      "insight": "美国长期国债周二小幅下跌，此前20年期美国国债中标收益率高于发行前交易水平，同时油价因供应风险上…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefh6658768.shtml"
+    },
+    {
+      "id": "ff802e0d77",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-16 04:35",
+      "title": "9月16日美股收盘：三大指数收跌 油价回升 10年期美债收益率触及19年高位",
+      "insight": "周二美股连续第二日下跌，投资者为周三美联储利率决议做准备，并关注Anthropic CEO达里奥…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefe8114192.shtml"
+    },
+    {
+      "id": "ffa35d7ab2",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-16 04:34",
+      "title": "联合国安理会就曼德海峡局势举行紧急会议",
+      "insight": "当地时间9月15日，联合国安理会就曼德海峡局势举行紧急会议。联合国助理秘书长哈立德·赫亚里通报称…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-iniryefk3436679.shtml"
     }
   ],
-  "updateTime": "2026-09-16 02:38"
+  "updateTime": "2026-09-16 07:20"
 }
