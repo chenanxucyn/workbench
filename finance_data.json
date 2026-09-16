@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffcc02df64",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 07:15",
-      "title": "美国海岸警卫队登检油轮，开展网络攻击调查",
-      "insight": "美国海岸警卫队周二晚间证实，美军人员与联邦调查局探员登上一艘驶往得克萨斯州的油轮，调查一起网络攻…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykpa8020139.shtml"
-    },
-    {
-      "id": "ff334d129c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:53",
-      "title": "9月16日隔夜要闻：美股三大指数收跌 沙特供应风险推升油价 金价震荡 市场关注联储决议",
-      "insight": "市场 9月16日美股收盘：三大指数收跌 油价回升 10年期美债收益率触及19年高位 9月16日美…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3355284.shtml"
-    },
-    {
-      "id": "ff9fc1d431",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:39",
-      "title": "特朗普政府官员与Anthropic一位高管会谈 讨论AI安全问题",
-      "insight": "特朗普政府高级官员周二与Anthropic PBC一位高管会谈，讨论人工智能（AI）安全风险。 …",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3347213.shtml"
-    },
-    {
-      "id": "ff5fce537d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:37",
-      "title": "9月16日美股成交前20：科技股承压 市场关注AI安全",
-      "insight": "周二美股成交额第2名美光收涨0.39%，成交349.48亿美元。 Micron（美光）当地时间今…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3346327.shtml"
-    },
-    {
-      "id": "ff52a0496b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:14",
-      "title": "高管称Radiant World和Sapphire Minmetals起诉嘉能可 索赔20亿美元",
-      "insight": "Sapphire Minmetals董事长表示，Radiant World和Sapphire M…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3336932.shtml"
-    },
-    {
-      "id": "ff8bc88436",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:13",
-      "title": "OpenAI首席执行官Altman“有信心”AI行业能够自行保障安全",
-      "insight": "OpenAI首席执行官Sam Altman表示，他相信人工智能公司能够安全地开发这项技术，而不会…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6564091.shtml"
-    },
-    {
-      "id": "ffc2ad2a45",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 06:12",
-      "title": "携程2026Q2受处罚费用影响净亏损24亿元，入境游保持高双位数增长",
-      "insight": "2026年第二季度，携程集团（9961.HK/TCOM）实现净营业收入人民币157亿元，同比增长…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykpe6563509.shtml"
-    },
-    {
-      "id": "fff74adde7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-16 06:09",
-      "title": "携程2026Q2净利润同比下降，受处罚费用影响，录得净亏损24亿元",
-      "insight": "2026年第二季度，携程集团（9961.HK/TCOM）实现净营业收入人民币157亿元，同比增长…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirykph3334556.shtml"
-    },
-    {
-      "id": "ff78093467",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:06",
-      "title": "美国股市：主要股指普跌 美债收益率高企令风险资产承压",
-      "insight": "美国股市周二下跌，此前基准美国国债收益率触及2007年以来最高水平。美联储将于周三公布备受关注的…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpk3164571.shtml"
-    },
-    {
-      "id": "ff0b698aae",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:05",
-      "title": "大宗商品综述：供应风险推升油价 铜价涨 金价震荡 等候联储决议",
-      "insight": "原油大涨，沙特阿拉伯一条关键管道停运以及利比亚油田停产，为石油市场增添供应风险，而此前市场已因伊…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6559769.shtml"
-    },
-    {
-      "id": "ffe98e4c70",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:03",
-      "title": "美国能源部长：沙特东西输油管道有望数日内重启",
-      "insight": "在被问及沙特的东西输油管道是否可能需要数日或更长时间才能重开时，美国能源部长克里斯·赖特表示：“…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykph3330602.shtml"
-    },
-    {
-      "id": "ff020fa611",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 06:02",
-      "title": "报道：万斯称伊朗战争将进入“非常不同的阶段”",
-      "insight": "美国副总统JD·万斯接受《纽约邮报》采访时表示，与伊朗的战争将在几个月后进入“非常不同的阶段”。…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpa7999748.shtml"
-    },
-    {
-      "id": "ff2e27de06",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "09-16 06:00",
-      "title": "WTO公共论坛2026开幕：人工智能与服务贸易成增长新动力 多边贸易体系面临改革关键节点",
-      "insight": "世界贸易组织（WTO）2026年公共论坛于9月15日在日内瓦开幕。本届论坛以 “驱动未来”（Po…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-inirykpe6556590.shtml"
-    },
-    {
-      "id": "ff2917e018",
-      "source": "市场资讯",
+      "id": "ffe1a5d6e9",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "09-16 06:00",
-      "title": "利率决议公布在即 市场押注加息概率高达94% 若按兵不动或成30余年来最大“鸽派意外”",
-      "insight": "来源：智通财经网 在美联储即将于周三公布利率决议之际，债券交易员几乎已经认定加息将成为最终结果。…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-16/doc-inirykpa8005911.shtml"
+      "time": "09-16 10:37",
+      "title": "光通信概念股多数走高 海光芯正涨超12%剑桥科技涨超11%",
+      "insight": "光通信概念股多数走高，截至发稿，海光芯正（01191）上涨12.23%，报139.50港元；剑桥…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7848092.shtml"
     },
     {
-      "id": "ff88a22930",
+      "id": "ff9d6daa4e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-16 10:34",
+      "title": "挚达科技早盘涨超22% 公司海外业务收入有望进一步提升",
+      "insight": "挚达科技（02650）盘中涨超25%。截至发稿，股价上涨22.35%，现报10.51港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryvaw7846401.shtml"
+    },
+    {
+      "id": "ff37243c34",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-16 10:33",
+      "title": "2026世界贸易报告发布",
+      "insight": "世界贸易组织（WTO）2026公共论坛于9月15-17日在日内瓦举行。期间发布的《2026年世界…",
+      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryvay6541869.shtml"
+    },
+    {
+      "id": "ff9a225b25",
+      "source": "市场资讯",
+      "tag": "外汇",
+      "time": "09-16 10:31",
+      "title": "华泰期货：美债收益率持续冲高 市场等待靴子落地",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 周内美联储利率决议即将出炉，美国国债抛售潮进一步加剧。周…",
+      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-16/doc-iniryquy7975124.shtml"
+    },
+    {
+      "id": "ffda082cb3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:25",
+      "title": "华泰期货：沙特暂停延布港发货，利比亚油田暂停运营",
+      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 9月16日讯，截至当天收盘，纽约商品交…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqve3430376.shtml"
+    },
+    {
+      "id": "ff4c6e2a7e",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 05:48",
-      "title": "9月16日外盘头条：美对伊战争耗资已超380亿美元 加密货币法案折戟美国参议院 黄仁勋称AI行业不需要新法律",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国国会预算办公室：伊朗战争头五个月给美国带…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefe8126643.shtml"
+      "tag": "美股",
+      "time": "09-16 10:25",
+      "title": "美国据悉准备向以色列提供近年来最大规模重型弹药",
+      "insight": "美国正准备向以色列提供数千枚其军火库中破坏力最强的炸弹，这将是近年来此类武器最大规模的单笔转让之…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryqvh3134456.shtml"
     },
     {
-      "id": "ffca98cf6c",
+      "id": "ff9c776ee0",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:19",
+      "title": "华泰期货：宏观数据不佳，黑色震荡偏弱",
+      "insight": "来源：华泰期货 作者： 邢亚文 钢材：宏观数据不佳，钢材震荡运行 市场分析 昨日螺纹钢主力 RB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqva6648803.shtml"
+    },
+    {
+      "id": "ff469956b8",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:19",
+      "title": "光大期货有色金属类日报9.16",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryquy7967302.shtml"
+    },
+    {
+      "id": "ff1822452c",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 05:28",
-      "title": "债市空头已处于极端水平 押注美联储兑现加息预期",
-      "insight": "美联储周三公布利率决定之前，债市交易员大举建立看跌头寸，押注推动收益率升至逾十年高点的美国国债抛…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefk3446225.shtml"
+      "tag": "美股",
+      "time": "09-16 10:18",
+      "title": "越南工贸部警告电力供应短缺风险",
+      "insight": "据当地媒体援引越南工贸部说法，由于发电和电网项目进度滞后，越南可能从2027年起面临电力短缺。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryqva6647945.shtml"
     },
     {
-      "id": "ff9db94486",
+      "id": "ff86ed512e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:18",
+      "title": "光大期货软商品类日报9.16",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 白糖：消息方…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryquy7966472.shtml"
+    },
+    {
+      "id": "ffafeec3c2",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:16",
+      "title": "光大期货农产品类日报9.16",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周二，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqve3416355.shtml"
+    },
+    {
+      "id": "ff1d40be3a",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:15",
+      "title": "光大期货能源化工类日报9.16",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周二油价再度…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqvh3127805.shtml"
+    },
+    {
+      "id": "ff4b916690",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:13",
+      "title": "光大期货矿钢煤焦类日报9.16",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqve3411687.shtml"
+    },
+    {
+      "id": "ff6203b8f1",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-16 10:13",
+      "title": "三环集团早盘涨超5% AI对MLCC需求持续强劲机构指产业正走向结构性缺货",
+      "insight": "三环集团（06951）早盘涨超5%，截至发稿，股价上涨5.44%，现报131.70元，成交额1.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryqva6638964.shtml"
+    },
+    {
+      "id": "ff2e7da320",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:13",
+      "title": "华泰期货：炼厂降负预期下，乙二醇近月上涨",
+      "insight": "来源：华泰期货 作者： 陈莉 市场分析 期现货方面：昨日EG主力合约收盘价6103元/吨（较前一…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqva6638816.shtml"
+    },
+    {
+      "id": "ff4fe0ffdf",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-16 10:09",
+      "title": "傅里叶盘中涨超11% 公司近期进入港股通名单入通后成交量明显放大",
+      "insight": "傅里叶（03625）早盘一度涨超11%。截至发稿，股价上涨4.23%，现报69港元，成交额239…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryquy7960365.shtml"
+    },
+    {
+      "id": "ff58371ae5",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 05:15",
-      "title": "纽约汇市：美元上涨 10年期美债收益率创2007年以来最高",
-      "insight": "美元兑所有G10货币均维持涨势，此前美国10年期国债收益率升至近20年来最高水平，而美联储即将于…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefn3284509.shtml"
+      "tag": "美股",
+      "time": "09-16 10:08",
+      "title": "得益于全球股市上涨 新西兰养老基金录得14.2%年回报",
+      "insight": "新西兰养老基金在截至6月的一年中实现14.2%的回报，这得益于全球股市上涨，尽管它低配了表现优异…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryqve3404534.shtml"
     },
     {
-      "id": "ff306972b3",
+      "id": "ff665dd561",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-16 10:08",
+      "title": "华泰期货：下游MTO装置复工，甲醇港口基差进一步走高",
+      "insight": "来源：华泰期货 作者： 陈莉 甲醇观点 市场要闻与重要数据 内地方面：Q5500鄂尔多斯动力煤7…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-16/doc-iniryqvh3122407.shtml"
+    },
+    {
+      "id": "ff02ff710f",
       "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 04:39",
-      "title": "美国债市：国债收盘小幅下跌 20年期标售需求偏弱",
-      "insight": "美国长期国债周二小幅下跌，此前20年期美国国债中标收益率高于发行前交易水平，同时油价因供应风险上…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefh6658768.shtml"
+      "tag": "美股",
+      "time": "09-16 10:07",
+      "title": "扎克伯格称更青睐依靠评估人员确保AI安全 而非放缓发展",
+      "insight": "Meta Platforms首席执行官马克·扎克伯格表示，人工智能（AI）实验室应依靠独立评估人…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-iniryqve3402030.shtml"
     },
     {
-      "id": "ff802e0d77",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-16 04:35",
-      "title": "9月16日美股收盘：三大指数收跌 油价回升 10年期美债收益率触及19年高位",
-      "insight": "周二美股连续第二日下跌，投资者为周三美联储利率决议做准备，并关注Anthropic CEO达里奥…",
-      "link": "https://finance.sina.com.cn/world/2026-09-16/doc-iniryefe8114192.shtml"
-    },
-    {
-      "id": "ffa35d7ab2",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-16 04:34",
-      "title": "联合国安理会就曼德海峡局势举行紧急会议",
-      "insight": "当地时间9月15日，联合国安理会就曼德海峡局势举行紧急会议。联合国助理秘书长哈立德·赫亚里通报称…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-iniryefk3436679.shtml"
+      "id": "ffe5f6c942",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-16 10:02",
+      "title": "海清智元早盘涨逾16% 多光谱AI迈入规模化放量期",
+      "insight": "海清智元（01392）今日高开震荡走高，盘中一大涨超17%，触及33.34港元创上市新高，近三个…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-16/doc-iniryquy7955546.shtml"
     }
   ],
-  "updateTime": "2026-09-16 07:20"
+  "updateTime": "2026-09-16 10:45"
 }
