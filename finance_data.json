@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff87e609a2",
+      "id": "ff89e45d65",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-17 16:14",
-      "title": "OpenAI披露六起值得警惕的AI异常行为新事件",
-      "insight": "在全行业持续围绕人工智能安全展开讨论之际，OpenAI于周三披露了六起新案例：AI系统隐瞒错误、…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscqxz3523232.shtml"
+      "time": "09-17 21:41",
+      "title": "卡尼称加拿大将自主决定对外伙伴关系",
+      "insight": "核心要点加拿大总理马克・卡尼支持加欧深化关系，支持布鲁塞尔方面提出的加拿大成为欧盟联系成员国的构…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpv3601607.shtml"
     },
     {
-      "id": "ffd9655593",
-      "source": "新浪港股",
+      "id": "ff14a019dd",
+      "source": "中国证券报",
+      "tag": "财经热点",
+      "time": "09-17 21:37",
+      "title": "450亿正极材料龙头，遭宁德时代减持",
+      "insight": "9月17日，电池正极材料龙头湖南裕能发布公告称，公司股东宁德时代于6月26日至9月16日期间，已…",
+      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-inisczpv3602925.shtml"
+    },
+    {
+      "id": "ffb92f02b1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:35",
+      "title": "查尔斯国王将在峰会上向英伟达、OpenAI、Anthropic高管施压，探讨人工智能安全",
+      "insight": "核心要点查尔斯国王将于周四主持人工智能峰会，召集英伟达、OpenAI、Anthropic 等企业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpx0369452.shtml"
+    },
+    {
+      "id": "ffde470b07",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:30",
+      "title": "开盘：油价与收益率回落 三大股指齐涨",
+      "insight": "受科技股带动，美国三大股指周四走高。美联储三年来首次加息，导致前一交易日股市下挫，交易员正试图收…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpy9061330.shtml"
+    },
+    {
+      "id": "ff9dd74e0b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:25",
+      "title": "英国央行调整缩表方案 取消长期国债出售计划",
+      "insight": "英国央行取消出售长期国债的计划，这是其量化紧缩计划重大调整的一部分。 按照新方案，规模4880亿…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpy9057410.shtml"
+    },
+    {
+      "id": "ffbc00da55",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:22",
+      "title": "中东供应扰动有望缓解 国际油价延续下跌",
+      "insight": "有迹象显示中东供应中断情况或将缓解，沙特正寻求恢复一条重要管道的部分运力，油价因此继续走低。布伦…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpx0357327.shtml"
+    },
+    {
+      "id": "ffdb9bf132",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:21",
+      "title": "黑石拟为旗下大型地产基金安排二级市场出售，帮助部分投资者赎回退出",
+      "insight": "消息人士称，受高利率拖累回报表现、引发投资者赎回需求，黑石集团正尝试为其一只主要房地产基金安排二…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpy9055592.shtml"
+    },
+    {
+      "id": "ff928ec886",
+      "source": "上海证券报",
+      "tag": "财经热点",
+      "time": "09-17 21:18",
+      "title": "海外流动性收紧，A股哪些产业能抗跌",
+      "insight": "北京时间9月17日凌晨，美联储结束为期两天的货币政策会议，宣布将联邦基金利率目标区间上调25个基…",
+      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-inisczpv3587705.shtml"
+    },
+    {
+      "id": "ff2ff55b2e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 21:02",
+      "title": "网飞内容总监贝拉・巴贾里亚解读大型活动战略：流媒体平台加码直播体育赛事",
+      "insight": "核心要点网飞（Netflix）首席内容官贝拉・巴贾里亚表示，平台制定直播大型活动与体育赛事战略时…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpx0332246.shtml"
+    },
+    {
+      "id": "ffaf916a69",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:57",
+      "title": "内塔尼亚胡称将推翻伊朗政权",
+      "insight": "以色列总理内塔尼亚胡在表彰以色列国家安全总局杰出人员的仪式上表示，伊朗政权将会垮台。 “我们将推…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpy9039288.shtml"
+    },
+    {
+      "id": "ff53cbc5bb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:56",
+      "title": "NASCAR首席执行官史蒂夫・奥唐奈谈发展机遇与潜在海外扩张",
+      "insight": "核心要点NASCAR 首席执行官史蒂夫・奥唐奈接受采访时表示，赛事联盟当下的发展势头，为未来增长…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpt3874980.shtml"
+    },
+    {
+      "id": "ff0f3a52da",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:54",
+      "title": "英国央行维持利率不变 警告或需加息并调整长期国债出售安排",
+      "insight": "英国央行将关键利率维持在3.75%不变，同时警告称，如果中东冲突导致通胀压力加剧，可能需要加息。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpv3551844.shtml"
+    },
+    {
+      "id": "ffb20b9c92",
+      "source": "新浪财经",
       "tag": "股市",
-      "time": "09-17 16:08",
-      "title": "港股收评：恒指跌0.44% 科指跌0.34% 黄金股、石油股同步下挫 汽车股逆势活跃",
-      "insight": "9月17日消息，港股三大指数集体下跌。截至收盘，恒生指数跌0.44%，报24604.29，恒生科…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-17/doc-iniscqyc0291472.shtml"
+      "time": "09-17 20:42",
+      "title": "301358，遭宁德时代减持！持股比例降至5%以下",
+      "insight": "短短2个多月，宁德时代（300750）抛售超1700万股湖南裕能（301358）股票，持股比例降…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-17/doc-inisczpy9030502.shtml"
     },
     {
-      "id": "ff545988df",
+      "id": "fffbca7a47",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 16:00",
-      "title": "美联储如期加息但通胀预期高企 沃什公信力修复",
-      "insight": "美联储完成2023年以来首次加息，并释放信号称准备采取进一步举措遏制美国国内通胀。美联储主席凯文…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksc3638450.shtml"
-    },
-    {
-      "id": "ff95e324c3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:52",
-      "title": "美联储加息改写AI融资格局",
-      "insight": "美联储本次加息决议，在短期内对AI行业而言或许是更为重大的变量。当然，长期债券收益率此前已经上行…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksc3628810.shtml"
-    },
-    {
-      "id": "ff7a78ef38",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:51",
-      "title": "英国议员建议能源部门名称删除“净零” 政府称无改名计划",
-      "insight": "英国议会能源安全与净零委员会周四发布报告，建议政府能源安全与净零部从名称中删除“净零”，并减少该…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksc3627562.shtml"
-    },
-    {
-      "id": "ffa6d89557",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:49",
-      "title": "诺和诺德携手Anthropic 以AI加速药物研发",
-      "insight": "丹麦制药企业诺和诺德周三宣布，将与美国人工智能公司Anthropic合作，使用其科学专用平台Cl…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksh9276349.shtml"
-    },
-    {
-      "id": "ffc73b52c6",
-      "source": "新京报",
       "tag": "财经热点",
-      "time": "09-17 15:43",
-      "title": "“一点点”前员工称反映食品安全问题后家人遭上门威胁，品牌回应",
-      "insight": "新京报记者 徐鸣 编辑 刘倩 校对 杨利 近日，“一点点”前员工吴先生向新京报记者反映，他工作期…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-17/doc-inisckrz4110552.shtml"
+      "time": "09-17 20:41",
+      "title": "特朗普没能阻拦美联储加息，机构：沃什是FOMC最鹰派委员之一",
+      "insight": "凯文·沃什拒绝了特朗普要求压低借贷成本的诉求。这位由特朗普提名出任美联储掌门人之人，在上任不足四…",
+      "link": "https://finance.sina.com.cn/world/2026-09-17/doc-inisczpv3536492.shtml"
     },
     {
-      "id": "fff98e8223",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:38",
-      "title": "美联储加息后日元走弱 巴克莱：日本央行加息几乎已成定局",
-      "insight": "美国三年来首次加息落地之后，日元及其他亚洲货币周四走弱，这令日本央行面临更大压力，市场静待其公布…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksf0382993.shtml"
-    },
-    {
-      "id": "fffd72aab1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:38",
-      "title": "英国批准乳腺癌新药纳入NHS 英美药品协议成本引发审计呼声",
-      "insight": "英国国家卫生与临床优化研究所（NICE）近日批准德曲妥珠单抗（Enhertu）纳入英格兰国民保健…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksh9269890.shtml"
-    },
-    {
-      "id": "ff881c2b0c",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "09-17 15:32",
-      "title": "中方回应特朗普可对买俄石油国加税 中国经贸合作不受第三方干扰胁迫",
-      "insight": "9月17日，外交部发言人郭嘉昆主持例行记者会。 彭博社记者提问，美国国会已通过一项法案，授权美国…",
-      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-inisckrz4105715.shtml"
-    },
-    {
-      "id": "ff7adbb218",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "09-17 15:31",
-      "title": "中方回应美方加大对巴西施压力度",
-      "insight": "9月17日，外交部发言人郭嘉昆主持例行记者会。 委内瑞拉南方电视台记者提问，王毅与阿莫林会见期间…",
-      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-iniscksc3611236.shtml"
-    },
-    {
-      "id": "ffd2246fd0",
-      "source": "央视新闻客户端",
-      "tag": "财经热点",
-      "time": "09-17 15:26",
-      "title": "美国会授权特朗普可对购买俄石油产品的国家加征关税，外交部回应",
-      "insight": "9月17日，外交部发言人郭嘉昆主持例行记者会。有记者问，美众议院16日通过对俄制裁法案，其中授权…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-17/doc-iniscksh9265838.shtml"
-    },
-    {
-      "id": "ff264df29e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:22",
-      "title": "欧洲影院运营商Vue拟伦敦上市 估值或达15亿英镑",
-      "insight": "欧洲影院运营商Vue正探索在伦敦证券交易所上市，拟借助今年夏季票房创纪录的势头，估值最高或达15…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscksh9262365.shtml"
-    },
-    {
-      "id": "ff3f9d56ba",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-17 15:17",
-      "title": "美联储三年来首次加息 经济学家预期年内还将加息",
-      "insight": "投资者押注美联储开启一轮加息周期。当地时间周三，美联储主席凯文·沃什的表态几乎印证了市场的这一判…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisckrz4096668.shtml"
-    },
-    {
-      "id": "ff2df92ea8",
+      "id": "ff81878d53",
       "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-17 15:16",
-      "title": "光大期货0917热点追踪：碳酸锂超跌反弹，期现价格见底了吗？",
-      "insight": "周四碳酸锂主力合约盘中冲高近4%，一改前期颓势。9月上旬碳酸锂连续下行，市场博弈头部电池厂下调排…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-inisckrz4096514.shtml"
-    },
-    {
-      "id": "ffbdc54977",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "09-17 15:15",
-      "title": "美联储加息搅动市场！美债在“最痛时刻”迎逆向买盘，金价反弹油价下跌",
-      "insight": "投资者现在正在权衡，随着通胀压力的持续，美联储能以多快的速度进一步收紧货币政策。 美国联邦储备委…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-17/doc-iniscksf0359374.shtml"
-    },
-    {
-      "id": "ff307119c3",
-      "source": "智通财经APP",
       "tag": "股市",
-      "time": "09-17 15:11",
-      "title": "瑞银：维持美联储12月再加息25个基点预测 相关风险已明显偏向上行",
-      "insight": "瑞银投资银行研究部认为，美联储主席沃什（Kevin Warsh）于9月联邦公开市场委员会（FOM…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-17/doc-iniscksf0357244.shtml"
+      "time": "09-17 20:35",
+      "title": "近岸蛋白股价创阶段新高背后，净利连亏、募投项目延期",
+      "insight": "来源：资本秘闻 自8月以来，“mRNA原料酶第一股”近岸蛋白的股价持续走高，并于9月17日盘中创…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-17/doc-inisczpy9029282.shtml"
     },
     {
-      "id": "ff7a3619c1",
-      "source": "央视新闻客户端",
-      "tag": "财经热点",
-      "time": "09-17 15:09",
-      "title": "商务部回应欧委会公共采购法草案设置“欧洲优先”条款",
-      "insight": "商务部17日举行例行新闻发布会，新闻发言人何亚东在回应有关提问时表示，中方注意到欧委会发布了《公…",
-      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-iniscksh9257826.shtml"
-    },
-    {
-      "id": "ff52300d65",
-      "source": "央视新闻客户端",
-      "tag": "财经热点",
-      "time": "09-17 15:08",
-      "title": "商务部：中美经贸团队正就降税等议题保持密切交流",
-      "insight": "商务部17日举行例行新闻发布会，新闻发言人何亚东在回答有关中美双方300亿美元相互降低关税安排磋…",
-      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-inisckrz4095630.shtml"
-    },
-    {
-      "id": "ff5802b835",
+      "id": "ffc6cd10ce",
       "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-17 15:03",
-      "title": "收评|国内期货主力合约跌多涨少 纯苯触及跌停",
-      "insight": "2026年9月17日，国内期货主力合约跌多涨少，纯苯触及跌停，SC原油跌超6%，苯乙烯（EB）跌…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-17/doc-iniscksf0338664.shtml"
+      "tag": "股市",
+      "time": "09-17 20:35",
+      "title": "刚刚，五连板牛股提示风险！",
+      "insight": "来源：资本秘闻 在二级市场接连斩获五个涨停板后，9月17日晚间，澳弘电子发布股票交易风险提示公告…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-17/doc-inisczpx0309326.shtml"
+    },
+    {
+      "id": "ff90aaad48",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-17 20:34",
+      "title": "赛力斯拿回“方向盘”，问界进入危险换挡期",
+      "insight": "来源：识礁Farsight 作者|昊天 天下没有不散的宴席，紧密如赛力斯和华为，也开始“断舍离”…",
+      "link": "https://finance.sina.com.cn/china/2026-09-17/doc-inisczpt3914716.shtml"
+    },
+    {
+      "id": "ff633eb28b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:30",
+      "title": "盘前：纳指期货涨1.09% 人工智能板块表现突出",
+      "insight": "全球股市周四小幅走高，美国股市与美国国债同步上涨，美元则徘徊在七周高位附近，油价下跌提振了市场对…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisczpy9028554.shtml"
+    },
+    {
+      "id": "ff7f759885",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:28",
+      "title": "特朗普家族支持的无人机制造商与巴基斯坦签署协议",
+      "insight": "一家由美国总统唐纳德・特朗普的两个儿子投资支持的无人机制造商表示，公司正洽谈向巴基斯坦出售防务技…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscvha9152347.shtml"
+    },
+    {
+      "id": "ffb2da47a4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-17 20:22",
+      "title": "高盛谨慎看待长期债券 波动性可能进一步加大",
+      "insight": "高盛集团策略师表示，尽管近期抛售推高收益率、增强了债券在多资产投资组合中的配置价值，投资者仍应谨…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-iniscvfz0422694.shtml"
     }
   ],
-  "updateTime": "2026-09-17 16:16"
+  "updateTime": "2026-09-17 22:00"
 }
