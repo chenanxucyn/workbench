@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff1dc36d19",
+      "id": "ffced13015",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:29",
+      "title": "存储概念股早盘普遍上涨 兆易创新及澜起科技均涨逾4%",
+      "insight": "存储概念股早盘普遍上涨，截至发稿，南方东英SK海力士每日杠杆最多2X产品（07709）上涨6.9…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiic3407323.shtml"
+    },
+    {
+      "id": "ffae8bd56f",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 10:28",
+      "title": "华泰期货：美联储加息利空落地 贵金属价格反弹",
+      "insight": "来源：华泰期货 作者： 师橙 策略摘要 地缘方面，消息称特朗普总统预计将于下周二在纽约联合国大会…",
+      "link": "https://finance.sina.com.cn/money/nmetal/roll/2026-09-18/doc-inisfiik8569859.shtml"
+    },
+    {
+      "id": "ff21f529b6",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 10:26",
+      "title": "华泰期货：现货货源偏紧 铅价强势回归",
+      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 现货方面：2026-09-17，LME铅现货升…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3405768.shtml"
+    },
+    {
+      "id": "ff1984edcd",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-18 07:15",
-      "title": "韩国燃油税减免政策延长至11月",
-      "insight": "韩联社援引韩国财政部消息称，受中东局势持续动荡影响，韩国将临时燃油税减免政策再延长两个月，有效期…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8735573.shtml"
+      "time": "09-18 10:25",
+      "title": "澳洲央行行长称必须判断利率是否足够高以抑制通胀",
+      "insight": "澳大利亚央行行长布洛克周五表示，该行需要在本月晚些时候决定基准利率是否处于足以抑制物价压力并让通…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfiik8568041.shtml"
     },
     {
-      "id": "ffe7f8e969",
+      "id": "ff623d9142",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 10:25",
+      "title": "华泰期货：下游开始启动节前备货 铜价维持偏强格局",
+      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-17，沪铜主力合约…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiik8567892.shtml"
+    },
+    {
+      "id": "ff27c6eb08",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:23",
+      "title": "俊知集团盘中涨超13% 收购青海中利光纤技术有望打开AI算力相关光纤产品增量空间",
+      "insight": "俊知集团（01300）盘中涨超13%，截至发稿，股价上涨10.42%，现报3.13港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfiif3386391.shtml"
+    },
+    {
+      "id": "ff2ffe37d2",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 10:22",
+      "title": "华泰期货：锌旺季来临 社库持续下滑",
+      "insight": "来源：华泰期货 作者： 封帆 重要数据 现货方面：LME锌现货升水为88.37美元/吨。SMM上…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiii0157502.shtml"
+    },
+    {
+      "id": "ffba7b391c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 10:20",
+      "title": "华泰期货：库存持续去化，碳酸锂价格阶段性反弹",
+      "insight": "来源：华泰期货 作者： 师橙 市场分析 2026-09-17，碳酸锂主力合约2701开于1262…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfiic3402264.shtml"
+    },
+    {
+      "id": "ff3cfcb88a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:18",
+      "title": "晶泰控股早盘涨超8% 子公司LCC Technologies与斯坦福大学达成药物发现合作",
+      "insight": "晶泰控股（02228）早盘涨超8%。截至发稿，股价上涨8.34%，现报7.47港元，成交额3.6…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazm0283932.shtml"
+    },
+    {
+      "id": "ff0b4a24df",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-18 07:13",
-      "title": "韩国将燃油税减免政策延长两月至11月底",
-      "insight": "韩国财政部周五表示，由于中东局势持续紧张，为缓解民众的燃油负担，韩国将延长燃油税减免政策两个月，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0201334.shtml"
+      "time": "09-18 10:18",
+      "title": "Waymo计划2028年在新加坡推出无人驾驶出租车服务",
+      "insight": "Waymo计划通过2028年在新加坡推出其自动驾驶网约车服务，首次进军东南亚市场。 这家Alph…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfazm0283879.shtml"
     },
     {
-      "id": "ffd9629b91",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 07:00",
-      "title": "富国银行建议抛售日元 指日本央行或令鹰派失望",
-      "insight": "富国银行建议在日本央行做出决定前卖出日元兑美元，因为它不太可能达到甚至超过鹰派的市场预期。 “我…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8729913.shtml"
+      "id": "ff3a045a5b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:14",
+      "title": "云顶新耀盘中涨超5% 维适平®由境外转移至境内生产的药品上市注册申请获受理",
+      "insight": "云顶新耀（01952）盘中涨超5%，截至发稿，股价上涨3.65%，现报27.30港元，成交额96…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3505943.shtml"
     },
     {
-      "id": "ff5033f00e",
-      "source": "21世纪经济报道",
-      "tag": "财经",
-      "time": "09-18 07:00",
-      "title": "985高校迎新：多所高校新生人数超2万",
-      "insight": "10541人！吉林大学再次成为2026级本科新生人数最多的985高校。若把本科生和研究生合并计算…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-18/doc-inisewtm3421255.shtml"
+      "id": "ffeaf1d1f7",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:11",
+      "title": "AI制药概念股早盘集体走高 剂泰科技-P涨逾13%英矽智能涨逾11%",
+      "insight": "AI制药概念股早盘集体走高，截至发稿，剂泰科技-P（07666）上涨13.20%，报17.58港…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3502899.shtml"
     },
     {
-      "id": "ffbde0369d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 06:56",
-      "title": "日元接下来怎么走 要看植田和男今天怎么说",
-      "insight": "今天日本央行将公布利率决定，但日元已很大程度上兑现了市场的重新定价，这意味着要重燃涨势，行长植田…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0187189.shtml"
+      "id": "ffee09b3f9",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:07",
+      "title": "壁仞科技早盘涨超6% 机构指其将获得HBM供应商产能支援",
+      "insight": "壁仞科技（06082）早盘涨超6%，截至发稿，股价上涨6.20%，现报35.96港元，成交额2.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazf3524923.shtml"
     },
     {
-      "id": "ff4f1d626e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 06:55",
-      "title": "亚马逊加入AI安全讨论 呼吁模型发布前严格测试",
-      "insight": "亚马逊表示，人工智能模型只有在经过严格测试后才应发布。在多家顶尖AI实验室因安全漏洞呼吁放慢开发…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0186841.shtml"
+      "id": "ff3990b68e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:04",
+      "title": "MINIMAX-W早盘涨近8% 旗下多款产品通过Singtel AI Pass纳入配套订阅计划",
+      "insight": "MINIMAX-W（00100）早盘涨近8%，截至发稿，股价上涨7.77%，现报274.60港元…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazm0265491.shtml"
     },
     {
-      "id": "ff668750dc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 06:28",
-      "title": "Anthropic披露AI发展指标：Claude主导公司26%研发 参与约90%工作",
-      "insight": "Anthropic PBC表示，该公司超过四分之一的人工智能研发工作由Claude聊天机器人主导…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3397107.shtml"
+      "id": "ff19969ae7",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 10:02",
+      "title": "国民技术盘中涨超12% N32H493高速光模块专用MCU全链路方案亮相光博会",
+      "insight": "国民技术（02701）盘中涨超12%。截至发稿，股价上涨10.37%，现报8.78港元，成交额5…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazf3521005.shtml"
     },
     {
-      "id": "ff9d10ffda",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 06:12",
-      "title": "国际货币基金组织称澳大利亚可能需要继续加息",
-      "insight": "国际货币基金组织工作人员表示，澳大利亚基础通胀压力仍然顽固，当前金融条件是否足够紧缩仍存在较大不…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8715183.shtml"
+      "id": "ff7071e07b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-18 09:58",
+      "title": "力勤资源早盘涨近7% A股IPO申购今日正式启动",
+      "insight": "力勤资源（02245）早盘涨近7%，截至发稿，股价上涨6.55%，现报17.58港元，成交额88…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-18/doc-inisfazi3483755.shtml"
     },
     {
-      "id": "ff012e088b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 05:56",
-      "title": "美国股市：标普500指数创逾六周最佳表现 油价回落缓解通胀担忧",
-      "insight": "美国股市周四上涨，在美联储前一日实施2023年以来首次加息后，油价下跌进一步提振了市场对通胀能够…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewti3546505.shtml"
+      "id": "ffcb19ecfd",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 09:54",
+      "title": "光大期货：9月18日有色金属日报",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfazf3516867.shtml"
     },
     {
-      "id": "ffe97758be",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 05:51",
-      "title": "伊斯兰革命卫队称在霍尔木兹海峡击中悬挂多哥国旗的油轮",
-      "insight": "伊朗伊斯兰革命卫队海军当地时间周五凌晨发布声明，一艘悬挂多哥国旗的油轮“昨晚”试图“非法”通过霍…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtq8708317.shtml"
+      "id": "ff51ace8ff",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 09:54",
+      "title": "光大期货：9月18日软商品日报",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 现货报价方面…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfazf3516535.shtml"
     },
     {
-      "id": "ffad9eb73b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 05:49",
-      "title": "9月18日美股成交额前20：英特尔收涨7.67%，英特尔14A制程较原定进度提前，将于明年第一季度试产",
-      "insight": "周四美股成交额第1名美光收涨5.50%，报977.50美元，成交214.18亿美元。存储芯片供应…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtm3374698.shtml"
+      "id": "ffcc48d735",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 09:53",
+      "title": "光大期货：9月18日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周四，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfazn8679537.shtml"
     },
     {
-      "id": "ffbacd6460",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 05:37",
-      "title": "大宗商品综述：油价跌 中东供应忧虑缓解 铜价涨 金价随美债升",
-      "insight": "原油价格周四下跌，由于交易员押注中东供应中断的情况将有所缓解，现货市场出现降温。伦敦期铜上涨，交…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmm3672565.shtml"
-    },
-    {
-      "id": "fff6b37dfb",
-      "source": "新浪财经",
-      "tag": "美股",
-      "time": "09-18 05:27",
-      "title": "9月18日隔夜要闻：美股收涨 油价微跌 黄仁勋预计明年芯片销量将翻一番 美方批准伊朗出席联合国大会",
-      "insight": "市场 9月18日美股收盘：三大股指收涨 科技股推动大盘走高 油价下跌同样提振股市 9月18日美股…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisewtp0166745.shtml"
-    },
-    {
-      "id": "ffc9f0395c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 05:15",
-      "title": "KKR上调美国国债收益率预期 高利率环境或持续更久",
-      "insight": "KKR在2026年中期展望中将年末10年期美国国债收益率预测由4.5%上调至4.75%，认为通胀…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmm3667283.shtml"
-    },
-    {
-      "id": "ff159df859",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 04:59",
-      "title": "美国债市：国债收复美联储会后大部分失地 油价跌及英债涨提供支撑",
-      "insight": "美国国债周四上涨，中期品种领涨，收复了周三美联储决议引发的大部分跌幅。长期美债收益率也下行，30…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmp3480798.shtml"
-    },
-    {
-      "id": "ff73c24a04",
-      "source": "新浪财经",
-      "tag": "美股",
-      "time": "09-18 04:57",
-      "title": "9月18日外盘头条：美方批准伊朗出席联合国大会 黄仁勋预计明年芯片销量将翻一番 KKR上调美国国债收益率预期",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美方批准伊朗总统和外长赴纽约出席联合国大会 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmm3668057.shtml"
-    },
-    {
-      "id": "ffa66af07a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 04:55",
-      "title": "特朗普与辛鲍姆通话 美墨贸易谈判出现新议题",
-      "insight": "美国总统特朗普与墨西哥总统辛鲍姆通电话之际，两国正接近就《美墨加协定》相关分歧达成安排。知情人士…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmp3478748.shtml"
-    },
-    {
-      "id": "ffc149fa34",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 04:52",
-      "title": "美方批准伊朗总统和外长赴纽约出席联合国大会",
-      "insight": "美国政府已向伊朗总统佩泽希齐扬、外交部长阿拉格齐等核心代表团成员签发签证，允许其赴纽约参加联合国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmp3477142.shtml"
-    },
-    {
-      "id": "ff006dadbc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 04:38",
-      "title": "英国海军收到霍尔木兹海峡安全事件报告 船员据报安全",
-      "insight": "英国海上贸易行动办公室（UKMTO）的网站显示，英国海军收到报告称，在阿曼Khasab东北16海…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmm3657226.shtml"
-    },
-    {
-      "id": "ff9945a6a4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 04:38",
-      "title": "原油：油价下跌 中东供应忧虑缓解但市场仍偏紧",
-      "insight": "原油价格周四下跌，由于交易员押注中东供应中断的情况将有所缓解，现货市场出现降温。 全球基准的布伦…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisesmm3657181.shtml"
+      "id": "ff7fd9b572",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-18 09:53",
+      "title": "光大期货：9月18日能源化工日报",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周四油价大幅…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisfazm0249054.shtml"
     }
   ],
-  "updateTime": "2026-09-18 07:18"
+  "updateTime": "2026-09-18 10:36"
 }
