@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff03c11b4a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-18 15:31",
-      "title": "世界黄金协会深度解读：美国财政部干预为何引发市场不安？",
-      "insight": "8月金价涨势强劲 8月，黄金价格强势上涨13%，月末收于4，536美元/盎司，实现近25年来第三…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-18/doc-inisftxc0214685.shtml"
-    },
-    {
-      "id": "ffaae69be9",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "09-18 15:28",
-      "title": "iPhone 18 Pro首发遭“黄牛”拒收， Pro Max溢价大幅缩水",
-      "insight": "9月18日，iPhone 18 Pro 系列在中国内地正式开启发售，率先推出的是Pro及Pro …",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftwx3292050.shtml"
-    },
-    {
-      "id": "ffa9a0e8eb",
+      "id": "fff5a2072b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-18 15:25",
-      "title": "美共和党人愿给沃什政策空间 对美联储加息松了口气",
-      "insight": "美联储刚刚在11月中期选举前夕，让国会共和党人的处境变得更加棘手。但共和党议员并未对美联储主席凯…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftwx3289732.shtml"
+      "time": "09-18 21:10",
+      "title": "AI安全浪潮催生监管机构需求，但其独立性遭到质疑",
+      "insight": "对人工智能潜在危害的担忧持续升温，一批原本默默无闻的 AI 安全研究机构走到聚光灯下；但同时，外…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenv3502887.shtml"
     },
     {
-      "id": "ff84aec060",
-      "source": "智通财经APP",
+      "id": "ff5d9fbdaf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 21:10",
+      "title": "On昂跑签约姆巴佩加码足球布局 对耐克构成打击",
+      "insight": "瑞士运动品牌On昂跑签下法国球星基利安·姆巴佩，后者将作为合作伙伴参与足球产品开发并担任品牌代言…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0275139.shtml"
+    },
+    {
+      "id": "ff6b54a173",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 21:07",
+      "title": "漏洞猎手利用克劳德入侵OpenAI",
+      "insight": "此次披露再度印证 AI 企业存在网络安全漏洞 初创企业 Hacktron AI 的网络安全研究团…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0272595.shtml"
+    },
+    {
+      "id": "ff1f38fe60",
+      "source": "上海证券报",
+      "tag": "财经热点",
+      "time": "09-18 21:06",
+      "title": "603226，拟并购切入PCB产业链",
+      "insight": "9月18日晚间，菲林格尔（603226）发布公告称，公司拟以现金支付的方式购买克锐斯51%股权，…",
+      "link": "https://finance.sina.com.cn/china/2026-09-18/doc-inishenv3506420.shtml"
+    },
+    {
+      "id": "ffe32095f1",
+      "source": "上海证券报",
+      "tag": "财经热点",
+      "time": "09-18 21:06",
+      "title": "涉严重违纪违法，600502董事长被查",
+      "insight": "9月18日，据安徽纪检监察网消息：安徽建工集团控股有限公司党委书记、董事长杨善斌涉嫌严重违纪违法…",
+      "link": "https://finance.sina.com.cn/china/2026-09-18/doc-inishenx0278615.shtml"
+    },
+    {
+      "id": "ff0de66b6a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 21:06",
+      "title": "克劳德代码、Codex、Gemini 命令行工具与GitHub Copilot被发现存在同一安全漏洞",
+      "insight": "当下 AI 行业将大量精力纠结于那些网传会对互联网乃至人类本身构成安全威胁的大模型，与此同时，研…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0271261.shtml"
+    },
+    {
+      "id": "ffa9d503dd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:57",
+      "title": "土耳其主权财富基金据悉出手买入蓝筹股 力挽市场跌势",
+      "insight": "据知情人士透露，土耳其主权财富基金周四买入股票，以支撑该国股市。这是土耳其为遏制基金管理行业危机…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenv3492030.shtml"
+    },
+    {
+      "id": "ffa8f37bdc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:48",
+      "title": "基利安・姆巴佩结束与耐克长期合作，将领衔昂跑足球鞋业务拓展",
+      "insight": "皇家马德里前锋基利安・姆巴佩结束了与耐克的长期合作，将担任瑞士品牌昂跑足球鞋新业务的代言人，这也…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenv3486607.shtml"
+    },
+    {
+      "id": "ffb89ddbcc",
+      "source": "新浪财经",
       "tag": "股市",
-      "time": "09-18 15:25",
-      "title": "世界黄金协会：金价上涨及市场情绪改善推动黄金期货交易更为活跃",
-      "insight": "世界黄金协会发文称，8月，金价大幅上涨，以美元计价的伦敦午盘金价，以人民币计价的上海午盘基准金价…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-18/doc-inisftwz3438856.shtml"
+      "time": "09-18 20:33",
+      "title": "600502，董事长被查！",
+      "insight": "9月18日晚间，安徽建工（600502）公告称，公司董事长、党委书记杨善斌涉嫌严重违纪违法，目前…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-18/doc-inishenv3477818.shtml"
     },
     {
-      "id": "ff051efd80",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 15:24",
-      "title": "法国总理勒科尔尼提出540亿欧元节支计划 拟削减养老金支出",
-      "insight": "法国总理塞巴斯蒂安·勒科尔尼周四提出明年预算草案，计划通过540亿欧元节支措施，在2027年将财…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftxe8452623.shtml"
-    },
-    {
-      "id": "ff311b2681",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "09-18 15:22",
-      "title": "中方领导人是否将访问美国？外交部：中美就年内元首互访保持着沟通",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。彭博社记者提问，发言人能否确认，中方领导人是否将访…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftxc0202011.shtml"
-    },
-    {
-      "id": "ff0f519509",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 15:20",
-      "title": "美国中期选举前物价全面上涨 房贷利率逼近7%",
-      "insight": "距离美国中期选举仅剩数周，美国民众面临从外出就餐、加油到购房等几乎一切开销全面上涨的局面，与此同…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftxe8450786.shtml"
-    },
-    {
-      "id": "ff2c9f715e",
-      "source": "央视新闻客户端",
-      "tag": "财经热点",
-      "time": "09-18 15:19",
-      "title": "外交部：中美双方就年内元首互动安排保持着沟通",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。有记者就中美元首会晤提问。 对此，郭嘉昆表示，中美…",
-      "link": "https://finance.sina.com.cn/china/2026-09-18/doc-inisftxc0201411.shtml"
-    },
-    {
-      "id": "ffe643dabd",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-18 15:19",
-      "title": "外交部：中美应办成更多造福两国和两国人民的好事实事",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。有记者问，据报道，中国国家文物局当地时间16日和1…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftwx3290456.shtml"
-    },
-    {
-      "id": "ff85f48079",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-18 15:19",
-      "title": "外交部：菲方应立即停止海上的侵权挑衅 停止散播虚假叙事、颠倒黑白",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。有记者就南海最新局势提问。 郭嘉昆表示，中国海警局…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftwx3290944.shtml"
-    },
-    {
-      "id": "ff4c94a06a",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-18 15:19",
-      "title": "外交部：我们将密切关注欧方动向 采取必要措施维护中国企业正当合法权益",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。 郭嘉昆表示，中欧经贸关系的本质是互利共赢，不是你…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-18/doc-inisftxe8456106.shtml"
-    },
-    {
-      "id": "ff5727da2c",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-18 15:19",
-      "title": "收评：国内期货主力合约跌多涨少 原油大跌超9%",
-      "insight": "2026年9月18日收盘，国内期货主力合约跌多涨少。上涨方面，沪银涨近4%，中证500、钯、集运…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-18/doc-inisftxc0197537.shtml"
-    },
-    {
-      "id": "ffd8b94c62",
-      "source": "央视新闻客户端",
-      "tag": "财经热点",
-      "time": "09-18 15:19",
-      "title": "外交部：绝不允许日本军国主义死灰复燃",
-      "insight": "9月18日，外交部发言人郭嘉昆主持例行记者会。有记者问，今年是九一八事变爆发95周年。近期不少日…",
-      "link": "https://finance.sina.com.cn/china/2026-09-18/doc-inisftxc0202460.shtml"
-    },
-    {
-      "id": "ffd76e9943",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 15:16",
-      "title": "苹果首款折叠智能手机亮相后，三星Galaxy Z Fold 8销量上涨",
-      "insight": "行业消息人士周四表示，在苹果发布首款折叠屏手机iPhone Duo之后，三星电子新款 Galax…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftwx3285788.shtml"
-    },
-    {
-      "id": "ff0feb26fd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 15:15",
-      "title": "伊朗转陆路贸易应对美国封锁 边境拥堵与成本压力加剧",
-      "insight": "自今年2月美国和以色列对伊朗发动军事行动、美国实施海上封锁以来，伊朗正将原本经由霍尔木兹海峡的贸…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftxc0193615.shtml"
-    },
-    {
-      "id": "fff1408aeb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 15:10",
-      "title": "拉加德干预币安欧盟牌照申请 币安未获牌照停止对欧推广",
-      "insight": "欧洲央行行长克里斯蒂娜·拉加德亲自干预，阻止币安通过希腊监管机构获得欧盟全境加密资产牌照。币安未…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisftxe8445849.shtml"
-    },
-    {
-      "id": "ff3068218f",
-      "source": "新浪证券",
+      "id": "ff8731803c",
+      "source": "新浪财经",
       "tag": "股市",
-      "time": "09-18 14:58",
-      "title": "港股IPO风险深扒③｜拨康视云之后：监管的持续动作与待打磨的规则细节",
-      "insight": "拨康视云被停牌核查，只是香港 IPO 监管持续收紧链条上的最新一环，而非孤立的个案。从执法到规则…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisftxe8438751.shtml"
+      "time": "09-18 20:33",
+      "title": "万亿AI巨头，股份回购计划实施完毕！",
+      "insight": "A股AI巨头工业富联本次回购实施完毕。 工业富联（601138）9月18日晚间公告称，公司此前公…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-18/doc-inishenx0250367.shtml"
     },
     {
-      "id": "ff904471d9",
-      "source": "新浪证券",
+      "id": "ff2d3daf4e",
+      "source": "新浪财经",
       "tag": "股市",
-      "time": "09-18 14:54",
-      "title": "港股IPO风险深扒②｜从拨康视云学筛查：招股阶段与配售公告里的预警信号",
-      "insight": "拨康视云的案例表明，发行环节的异常往往在上市之前便已埋下。本篇以它为参照，将可用于筛查同类新股的…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisftxe8436864.shtml"
+      "time": "09-18 20:33",
+      "title": "301155，终止10亿元“海力高端能源装备制造项目”，改投新项目",
+      "insight": "9月18日晚间，海力风电（301155）同时发布一份终止对外投资公告和一份投资协议公告。 具体来…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-09-18/doc-inishenx0250256.shtml"
     },
     {
-      "id": "ff35dbccc3",
+      "id": "ff6bb483e3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-18 14:52",
-      "title": "韩国将在价格压力下延长燃油税减免至11月",
-      "insight": "韩国财政部周五表示，将燃油税减免计划延长两个月至11月，以缓解中东局势长期紧张的公众物价负担。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inisfprc3524178.shtml"
+      "time": "09-18 20:33",
+      "title": "大模型初创公司Naive AI估值达 14 亿美元",
+      "insight": "据知情人士透露，一家于今年2月创立、处于保密运营状态的AI模型初创公司，在完成三轮融资合计4亿美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0247774.shtml"
     },
     {
-      "id": "ff18ab3b00",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "09-18 14:50",
-      "title": "港股IPO风险深扒①｜拨康视云停牌核查：发行数据里的异常信号",
-      "insight": "2026年9月10日，香港证监会依据《证券及期货（在证券市场上市）规则》第8（1）条，指示联交所…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-09-18/doc-inisfprf0294676.shtml"
+      "id": "ffeaa9f6ff",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:30",
+      "title": "盘前：纳指期货涨0.36% ，油价连跌三日，“三巫日”驾到",
+      "insight": "周五美国和亚洲科技股推动股市上涨，油价回落提振整体市场情绪，为这个动荡的一周带来较为积极的收尾。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishent3179319.shtml"
+    },
+    {
+      "id": "ffaefd5ca3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:29",
+      "title": "汇丰拟通过风险转移交易对冲数据中心贷款风险",
+      "insight": "汇丰控股正筹划一笔风险转移交易，以对冲与数据中心相关的贷款敞口。随着人工智能投资热潮持续升温，越…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenv3472262.shtml"
+    },
+    {
+      "id": "ff576c70a5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:29",
+      "title": "亚航创始人费南德斯驳斥财务危机传闻，公布全新增长规划",
+      "insight": "核心要点托尼・费南德斯反驳近期一份报告提出的财务风险担忧，表示亚航计划中的融资主要用于债务再融资…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0244735.shtml"
+    },
+    {
+      "id": "ff3db6543c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:26",
+      "title": "AI安全辩论走进Dreamforce现实场景：企业高管称去年的模型已经够用",
+      "insight": "核心要点本周 Dreamforce 大会的重磅嘉宾正身处一场辩论的中心：AI 安全，以及是否应当…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0243360.shtml"
+    },
+    {
+      "id": "ffd35795c6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:24",
+      "title": "美债跌出机会 5%收益率吸引资金入场",
+      "insight": "尽管焦虑情绪笼罩着全球最大的债券市场，但一些投资者仍看到了一个颇具吸引力的买入理由：收益。 美国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishent3172561.shtml"
+    },
+    {
+      "id": "ff8dc086af",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:22",
+      "title": "美妆、健康与康养赛道正在融合为同一个零售品类",
+      "insight": "核心要点随着消费者愈发看重整体性消费采购，美妆、健康与康养逐渐归为同一大品类，消费者也将其归入同…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenx0240238.shtml"
+    },
+    {
+      "id": "ff7d80e559",
+      "source": "证券时报",
+      "tag": "财经热点",
+      "time": "09-18 20:17",
+      "title": "国常会重磅部署！事关老年人服务保障、 高质量体育赛事供给等",
+      "insight": "9月18日，国务院总理李强主持召开国务院常务会议，听取老龄工作情况汇报；研究推动体育赛事健康发展…",
+      "link": "https://finance.sina.com.cn/china/2026-09-18/doc-inishenx0237885.shtml"
+    },
+    {
+      "id": "ffda2adfef",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-18 20:17",
+      "title": "昂跑据称签约姆巴佩 耐克暂未置评",
+      "insight": "瑞士运动品牌昂跑（On）宣布进军足球领域，签下基利安·姆巴佩作为足球业务的领军代言人，这对老对手…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishenv3463090.shtml"
     }
   ],
-  "updateTime": "2026-09-18 15:50"
+  "updateTime": "2026-09-18 21:17"
 }
