@@ -1,6 +1,141 @@
 {
   "news": [
     {
+      "id": "ffb3789b1f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 04:38",
+      "title": "9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方",
+      "insight": "周五，美国股市涨跌互现，投资者继续消化美联储三年来首次加息以及人工智能引发的担忧。道指与标普50…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2810028.shtml"
+    },
+    {
+      "id": "ff57fb6602",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 04:21",
+      "title": "Anthropic推进上市筹备，年化营收料超1000亿美元",
+      "insight": "Anthropic首席执行官达里奥·阿莫代伊最近呼吁对人工智能开发速度施加更多护栏，这在华尔街和…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkr0136721.shtml"
+    },
+    {
+      "id": "ff84667bde",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:53",
+      "title": "美国债市：美债追随欧洲债市下跌 收益率曲线走平",
+      "insight": "美国国债周五跟随全球债券市场下跌，收益率曲线呈熊市趋平走势，短端和中段收益率当天上涨约7个基点，…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8093161.shtml"
+    },
+    {
+      "id": "ff49f64e84",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:52",
+      "title": "纽约汇市：美元持平 日元在汇率摸底报道后收窄跌幅",
+      "insight": "彭博美元指数周五基本抹去涨幅。此前有报道称日本央行向市场参与者进行汇率摸底，日元随之收窄跌幅。 …",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkm2929849.shtml"
+    },
+    {
+      "id": "ff22f30918",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:26",
+      "title": "没人喜欢被指手画脚 日本央行行长却同时面对两个“指挥者”",
+      "insight": "没有人喜欢被坐在后排的人指挥怎么开车。日本央行行长植田和男现在却有两个这样的“后座司机”，而且两…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8086786.shtml"
+    },
+    {
+      "id": "ff06025984",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:24",
+      "title": "日本央行据报进行汇率摸底",
+      "insight": "日元周五收窄跌幅，此前报道称，日本央行向市场参与者询问汇率水平，这一举动通常被视为官方干预的前兆…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkr0110516.shtml"
+    },
+    {
+      "id": "ff3295e317",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:09",
+      "title": "交易员对日元的看涨情绪略有增强 此前日本央行据报进行汇率摸底",
+      "insight": "在有关日本央行进行汇率摸底的报道传出后，交易员对未来一周日元的看涨情绪略有增强。不过，与7月底东…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvks8080745.shtml"
+    },
+    {
+      "id": "ff59b00410",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:08",
+      "title": "Anthropic据报计划年底拥有约5吉瓦可用算力 明年再翻番",
+      "insight": "报道称，Anthropic已告知投资者，公司计划到今年底拥有约5吉瓦的可用算力，此举表明在这家人…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkr0101174.shtml"
+    },
+    {
+      "id": "ff9ace53a5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 03:06",
+      "title": "指剔除能源的通胀“也过热” 堪萨斯城联储行长支持加息",
+      "insight": "堪萨斯城联邦储备银行行长杰夫·施密德表示自己支持了本周的加息，认为这是抑制高通胀的必要措施，因为…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishvkm2916287.shtml"
+    },
+    {
+      "id": "ff15a60b7e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:58",
+      "title": "伦敦海事保险市场扩大黑海高风险区域，船舶战争险面临重新定价",
+      "insight": "伦敦海事保险市场联合战争委员会发布JWLA-035通告，将战争险申报范围扩大至黑海大部分水域。进…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvks8077790.shtml"
+    },
+    {
+      "id": "ff2a3e0a38",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:50",
+      "title": "美联储外部审查重估硅谷银行倒闭：监管人员早已发现风险却迟迟未行动",
+      "insight": "美联储负责监管事务的副主席米歇尔·鲍曼公布硅谷银行倒闭独立审查的初步结论。审查认为，该行同时面临…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvkr0093455.shtml"
+    },
+    {
+      "id": "ff7e00d816",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:45",
+      "title": "美墨贸易谈判取得阶段性进展，辛鲍姆称已达成部分共识",
+      "insight": "墨西哥总统辛鲍姆9月18日确认，她本周三与美国总统特朗普通话，双方围绕贸易问题达成部分共识，但在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvkm2911673.shtml"
+    },
+    {
+      "id": "ff9a6cbddc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:36",
+      "title": "美联储拟完成大型银行压力测试改革，模型与计算公式将公开",
+      "insight": "美联储负责监管事务的副主席米歇尔·鲍曼表示，理事会将在未来数周审议大型银行压力测试框架的最终修订…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvkp3313860.shtml"
+    },
+    {
+      "id": "ff842a8322",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:30",
+      "title": "全球跨境商业地产投资上半年增长56%，欧洲吸收逾半资金",
+      "insight": "研究数据显示，2026年上半年全球跨境商业地产投资额同比增长56%至718亿美元，明显高于去年同…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvkr0083736.shtml"
+    },
+    {
+      "id": "ff767c4ebc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 02:17",
+      "title": "Anthropic设立实体生物实验室，推动Claude参与机器人实验",
+      "insight": "Anthropic已在旧金山湾区建立一处生物“湿实验室”，将人工智能在生命科学领域的应用从文献、…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishvkp3306289.shtml"
+    },
+    {
       "id": "ffa2ddf1c7",
       "source": "环球市场播报",
       "tag": "美股",
@@ -44,142 +179,7 @@
       "title": "特朗普表示：美国正在与胡塞武装对话",
       "insight": "美国总统特朗普表示，美国正在与胡塞武装进行对话。 NewsNation记者在发帖，援引对特朗普的…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrau8181610.shtml"
-    },
-    {
-      "id": "ff938c2fd5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 01:17",
-      "title": "欧洲债市：法国国债全线重挫 较德国国债利差扩大至105个基点",
-      "insight": "法国国债全线重挫，该国政治不确定性持续，市场对赤字的担忧加剧。 法国国债的下跌推动10年期法国国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap3017322.shtml"
-    },
-    {
-      "id": "ff777f09c5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 01:16",
-      "title": "欧洲股市扩大跌幅 大众汽车下调预期拖累汽车板块",
-      "insight": "欧洲股市扩大跌幅，大众汽车下调利润预期后，汽车股走低拖累大盘。 斯托克欧洲600指数收盘下跌1%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap3017058.shtml"
-    },
-    {
-      "id": "ff387c160d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 01:16",
-      "title": "纽森发布行政令 推动加州建立AI“紧急关停”等安全措施",
-      "insight": "加利福尼亚州州长加文·纽森周五发布一项行政令，推动处于人工智能技术热潮中心的加州为该技术建立防护…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrat0178832.shtml"
-    },
-    {
-      "id": "ff6edd0fab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:58",
-      "title": "迪士尼新设首席技术官岗位，加码科技战略布局",
-      "insight": "Character.AI 负责人卡兰迪普・阿南德将直接向迪士尼首席执行官乔希・达马罗汇报，后者把…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrat0167316.shtml"
-    },
-    {
-      "id": "ffde0d0ba0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:52",
-      "title": "汉堡连锁加盟商关闭60家门店，申请第十一章破产保护",
-      "insight": "2026 年，多家陷入财务困境的快餐加盟商陆续申请破产保护，希望借此完成业务重组与债务重整。 法…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrar3391407.shtml"
-    },
-    {
-      "id": "ff90c2981b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:45",
-      "title": "熊市终将到来，只是我们不知何时降临，历史经验告诉你，如何安然度过熊市",
-      "insight": "作者：达娜・乔治，愚人网 平均来看，美国每三年半就会迎来一轮熊市。2022 年熊市结束至今，到 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrat0160600.shtml"
-    },
-    {
-      "id": "ff740271a1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:23",
-      "title": "巴菲特过半持仓集中在这三只股票，当下哪只最值得买入？",
-      "insight": "作者：杰弗里・塞勒（愚人网） 尽管巴菲特已于去年年底卸任伯克希尔哈撒韦首席执行官，但他的财富与投…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrar3378625.shtml"
-    },
-    {
-      "id": "ff6ac3d58e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:15",
-      "title": "日元跌幅收窄 日本央行据报进行汇率摸底",
-      "insight": "日元收窄了因日本央行未能就进一步加息计划提供更明确指引而引发的跌幅，此前有报道称，日本央行在外汇…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap2998732.shtml"
-    },
-    {
-      "id": "ff58894371",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:13",
-      "title": "大众汽车下调营业利润率预期",
-      "insight": "大众汽车下调营业利润率预期.该公司还提到，其所持保时捷股份价值减记60亿欧元(69亿美元)。这家…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap2997971.shtml"
-    },
-    {
-      "id": "ff46767d11",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:10",
-      "title": "比特币升逾8万美元 投资者消化美国加密货币法案受挫及美联储加息",
-      "insight": "加密货币周五上涨，市场风险偏好上升，投资者消化了美国加密货币法案未获通过以及美联储三年多来首次加…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrar3371457.shtml"
-    },
-    {
-      "id": "ff74eab578",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:08",
-      "title": "高盛分析师斯奈德：有关美国存在盈利泡沫的担忧并无依据",
-      "insight": "高盛集团策略师表示，美国企业亮眼的盈利表现背后，是向好的经济前景与人工智能发展热潮，这意味着市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrau8159480.shtml"
-    },
-    {
-      "id": "ff0faed1b9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:06",
-      "title": "俄罗斯接管雀巢、欧尚等外资企业在俄业务",
-      "insight": "多家食品、零售和物流企业同时被接管 此次被纳入临时管理的资产包括雀巢俄罗斯公司、欧尚在俄业务、经…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap2995682.shtml"
-    },
-    {
-      "id": "ffc190279f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:02",
-      "title": "Joby宣布完成首次全美全程自主飞行",
-      "insight": "这家航空企业表示，本次飞行航程 3199 英里，机载安全飞行员全程未进行任何操控输入该飞行器完成…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrap2994449.shtml"
-    },
-    {
-      "id": "fff5d1f7fb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 00:00",
-      "title": "日本央行向市场参与者进行汇率摸底",
-      "insight": "消息报道称，日本央行在外汇市场进行了“汇率摸底”，向市场参与者询问汇率水平。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inishrat0138432.shtml"
-    },
-    {
-      "id": "ff742b1149",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-18 23:57",
-      "title": "霍华德・巴菲特是谁？伯克希尔‑哈撒韦新任董事长",
-      "insight": "沃伦・巴菲特之子并不具备大型综合集团董事长的传统履历内布拉斯加州奥马哈市，伯克希尔‑哈撒韦总部的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-18/doc-inishkur3124159.shtml"
     }
   ],
-  "updateTime": "2026-09-19 01:59"
+  "updateTime": "2026-09-19 04:43"
 }
