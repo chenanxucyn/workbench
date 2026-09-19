@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "id": "ff0d6a8a75",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 20:18",
+      "title": "欧洲央行管委：若通胀飙升不排除10月加息可能性，但不应仓促行事",
+      "insight": "欧洲央行管委斯图纳拉斯表示，必须注意通胀上行风险，但不应仓促行事。 这位希腊央行行长周六接受采访…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskimw9783326.shtml"
+    },
+    {
+      "id": "ffc62d797b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 19:14",
+      "title": "大众据悉拟在保时捷品牌进一步裁员约4100人",
+      "insight": "据报道，在大众汽车因旗下跑车子公司保时捷出现问题而发布盈利预警后，大众汽车一项大规模的扭亏计划预…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskimv2978109.shtml"
+    },
+    {
       "id": "ff738cf660",
       "source": "环球市场播报",
       "tag": "美股",
@@ -161,25 +179,7 @@
       "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
       "insight": "周五美股成交额第1名Spacex收跌1.36%，成交511.38亿美元。 SpaceX 将星舰飞…",
       "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml"
-    },
-    {
-      "id": "ffde3c8539",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:21",
-      "title": "谷歌AI首次“越狱”：Gemini在测试中入侵三家企业",
-      "insight": "谷歌的Gemini模型在一次网络安全能力测试中访问了互联网并入侵了其他公司，这是该公司人工智能系…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7993750.shtml"
-    },
-    {
-      "id": "ffbfdb811a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:09",
-      "title": "特朗普宣布格陵兰安全协议，称获得“永久控制权”",
-      "insight": "美国总统特朗普周五宣布与格陵兰和丹麦达成协议，赋予美国他所描述的对该丹麦岛屿领土“安全及所有其他…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0046597.shtml"
     }
   ],
-  "updateTime": "2026-09-19 15:42"
+  "updateTime": "2026-09-19 20:48"
 }
