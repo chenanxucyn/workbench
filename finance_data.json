@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "id": "ffa9ae0371",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 01:38",
+      "title": "特朗普称将组建“人工智能部队”并任命AI事务负责人",
+      "insight": "美国总统特朗普在社交媒体发文称，“我正在组建‘人工智能部队’，就像我在第一任期内组建太空军一样，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-iniskyip2787604.shtml"
+    },
+    {
+      "id": "ff678d6577",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "09-19 23:52",
+      "title": "伊朗提出对美谈判三大前提，等待特朗普答复",
+      "insight": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊周六表示，伊朗已通过卡塔尔和巴基斯坦调解人向美方提出谈判…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-19/doc-inisktzr2868566.shtml"
+    },
+    {
+      "id": "ffaa9c05e8",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "09-19 23:49",
+      "title": "阿那亚突发大停电，官方回应：园区外线路故障所致，正抓紧抢修",
+      "insight": "9月19日消息，今日晚间，有网友在社交平台发帖表示，秦皇岛阿那亚突发大停电，园区多家酒店及主道路…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-19/doc-inisktzu7287125.shtml"
+    },
+    {
+      "id": "ff61a8faa2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 22:51",
+      "title": "美军指挥官：霍尔木兹海峡石油运量创六个月新高",
+      "insight": "美军中央司令部司令布拉德·库珀上将表示，过去两周经由霍尔木兹海峡的石油与液化天然气运输量创下六个…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisktzs9617811.shtml"
+    },
+    {
+      "id": "ffd395750f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 22:40",
+      "title": "纳斯达克100指数季度再平衡落定 SpaceX权重将升至2.82%",
+      "insight": "纳斯达克100指数季度再平衡将于周一生效，届时SpaceX在该指数中的权重将升至2.82%，较目…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptt2970689.shtml"
+    },
+    {
+      "id": "ff550f73f0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 22:28",
+      "title": "全球超级油轮短缺推高运费 长途原油贸易面临冲击",
+      "insight": "全球原油运输成本飙升，正令部分长距离原油贸易变得无利可图，并可能扰乱原油流向，而当前燃料市场的紧…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptw7396928.shtml"
+    },
+    {
+      "id": "ff66132363",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 22:27",
+      "title": "SpaceX在纳斯达克100指数中的权重将达到2.82%",
+      "insight": "随着纳斯达克100指数的季度调整于下周一生效，SpaceX在该指数中的权重将达到2.82%，较目…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptw7396556.shtml"
+    },
+    {
+      "id": "ff4c94065f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 22:21",
+      "title": "巴菲特推进计划下一步，确保伯克希尔在他身后不走样",
+      "insight": "沃伦·巴菲特正在推进他多年计划中的第三个重大步骤，逐步从伯克希尔·哈撒韦退出。这家公司曾是一家陷…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskptr2230607.shtml"
+    },
+    {
+      "id": "ffe759c895",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-19 22:19",
+      "title": "英伟达5名高管披露持股变动：黄仁勋4.57万股用于缴税，CFO套现765万美元",
+      "insight": "包括黄仁勋在内，5名英伟达高管合计出售16万股公司股票用以缴税。 当地时间9月18日，英伟达向美…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-iniskptr2230344.shtml"
+    },
+    {
       "id": "ff0d6a8a75",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +98,15 @@
       "title": "大众据悉拟在保时捷品牌进一步裁员约4100人",
       "insight": "据报道，在大众汽车因旗下跑车子公司保时捷出现问题而发布盈利预警后，大众汽车一项大规模的扭亏计划预…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskimv2978109.shtml"
+    },
+    {
+      "id": "ffc5f62b3e",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-19 13:29",
+      "title": "《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见",
+      "insight": "近日，浙江省杭州市财政局官网发布了《关于公开征求&lt;关于废止《杭州市支持低空经济高质量发展的…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisispz2584584.shtml"
     },
     {
       "id": "ff738cf660",
@@ -89,97 +179,7 @@
       "title": "韩美同意就韩国拟在美3500亿美元投资项目举行双边会谈",
       "insight": "韩国外交部表示，韩美两国外长周五在华盛顿会晤，双方同意共同努力，争取就韩国拟在美国开展的投资项目…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7821028.shtml"
-    },
-    {
-      "id": "ff5b5cf8a1",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-19 09:59",
-      "title": "北京依法对四家在线酒店旅游预订平台企业立案调查",
-      "insight": "记者今天（19日）从北京市市场监督管理局了解到，近日，北京市市场监督管理局根据国家市场监督管理总…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhc2645646.shtml"
-    },
-    {
-      "id": "ffbd08d70a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 09:24",
-      "title": "OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展",
-      "insight": "当地时间周五提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、Sp…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7796536.shtml"
-    },
-    {
-      "id": "ff29ec5207",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 09:02",
-      "title": "特朗普称长子将偿还俄罗斯寡头资助的婚礼派对费用",
-      "insight": "美国总统唐纳德・特朗普当地时间周五表示，其子小唐纳德・特朗普告诉他，将会偿还一名俄罗斯寡头。这位…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyi3256375.shtml"
-    },
-    {
-      "id": "ff16f37fdb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 08:59",
-      "title": "特朗普称长子将偿还俄罗斯寡头资助的婚礼派对费用，民主党议员就此发起调查",
-      "insight": "美国总统唐纳德・特朗普当地时间周五表示，其子小唐纳德・特朗普告诉他，将会偿还一名俄罗斯寡头。这位…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7916917.shtml"
-    },
-    {
-      "id": "ff38fa3a4e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 08:20",
-      "title": "黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险",
-      "insight": "英伟达公司首席执行官黄仁勋再度反驳人工智能末日论，称这项技术并不会给人类带来灭绝风险。 黄仁勋在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml"
-    },
-    {
-      "id": "fffab066dd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 08:06",
-      "title": "黄仁勋“唱反调” 呼吁加快人工智能研发进程",
-      "insight": "这家全球最大芯片制造商的首席执行官表示，尽管近期部分行业领袖发出警示——出于对这项技术发展走向的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml"
-    },
-    {
-      "id": "fffb808b22",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 07:53",
-      "title": "特朗普将在联合国大会期间与高市早苗会晤",
-      "insight": "唐纳德・特朗普总统将于下周在纽约联合国大会会议期间，与日本首相高市早苗举行会晤。这是在美国出手协…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7891334.shtml"
-    },
-    {
-      "id": "ffef9561ea",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 07:00",
-      "title": "9月19日隔夜要闻：美股涨跌不一芯片股大涨 油价三连跌 金价续涨 特朗普签署针对俄罗斯和伊朗的制裁法案",
-      "insight": "市场 9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyi3180629.shtml"
-    },
-    {
-      "id": "ff3f5631ac",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:55",
-      "title": "报道：特朗普政府将于下周在联合国主办人工智能活动",
-      "insight": "CNN援引多位不具名知情人士报道，特朗普政府将于周三联合国大会期间举办一场人工智能（AI）高级别…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyi3170170.shtml"
-    },
-    {
-      "id": "ff159b547d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:54",
-      "title": "9月19日美股成交前20：存储芯片爆发 美光涨约4% 闪迪大涨11% 美光高管称内存短缺短期难缓解",
-      "insight": "周五美股成交额第1名Spacex收跌1.36%，成交511.38亿美元。 SpaceX 将星舰飞…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyn7873555.shtml"
     }
   ],
-  "updateTime": "2026-09-19 20:48"
+  "updateTime": "2026-09-20 01:39"
 }
