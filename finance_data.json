@@ -1,6 +1,96 @@
 {
   "news": [
     {
+      "id": "ffdbb503bf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 10:33",
+      "title": "韩官员：李在明并未拒绝特朗普协助对伊战争的要求",
+      "insight": "韩国总统府一名匿名官员称，韩国总统李在明并未拒绝唐纳德·特朗普总统提出的要求，即协助华盛顿开展对…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhh9963803.shtml"
+    },
+    {
+      "id": "ff26fb3d33",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 10:30",
+      "title": "韩美同意就韩国拟在美3500亿美元投资项目举行双边会谈",
+      "insight": "韩国外交部表示，韩美两国外长周五在华盛顿会晤，双方同意共同努力，争取就韩国拟在美国开展的投资项目…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7821028.shtml"
+    },
+    {
+      "id": "ff5b5cf8a1",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-19 09:59",
+      "title": "北京依法对四家在线酒店旅游预订平台企业立案调查",
+      "insight": "记者今天（19日）从北京市市场监督管理局了解到，近日，北京市市场监督管理局根据国家市场监督管理总…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhc2645646.shtml"
+    },
+    {
+      "id": "ffbd08d70a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 09:24",
+      "title": "OpenAI、谷歌等四家企业遭起诉 被指控合谋呼吁“放缓”AI发展",
+      "insight": "当地时间周五提交至联邦法院的一份民事诉讼显示，人工智能巨头Anthropic、OpenAI、Sp…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7796536.shtml"
+    },
+    {
+      "id": "ff29ec5207",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 09:02",
+      "title": "特朗普称长子将偿还俄罗斯寡头资助的婚礼派对费用",
+      "insight": "美国总统唐纳德・特朗普当地时间周五表示，其子小唐纳德・特朗普告诉他，将会偿还一名俄罗斯寡头。这位…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyi3256375.shtml"
+    },
+    {
+      "id": "ff16f37fdb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 08:59",
+      "title": "特朗普称长子将偿还俄罗斯寡头资助的婚礼派对费用，民主党议员就此发起调查",
+      "insight": "美国总统唐纳德・特朗普当地时间周五表示，其子小唐纳德・特朗普告诉他，将会偿还一名俄罗斯寡头。这位…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7916917.shtml"
+    },
+    {
+      "id": "ff38fa3a4e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 08:20",
+      "title": "黄仁勋再次驳斥AI末日论：AI不存在灭绝人类的风险",
+      "insight": "英伟达公司首席执行官黄仁勋再度反驳人工智能末日论，称这项技术并不会给人类带来灭绝风险。 黄仁勋在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7901276.shtml"
+    },
+    {
+      "id": "fffab066dd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 08:06",
+      "title": "黄仁勋“唱反调” 呼吁加快人工智能研发进程",
+      "insight": "这家全球最大芯片制造商的首席执行官表示，尽管近期部分行业领袖发出警示——出于对这项技术发展走向的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7894604.shtml"
+    },
+    {
+      "id": "fffb808b22",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 07:53",
+      "title": "特朗普将在联合国大会期间与高市早苗会晤",
+      "insight": "唐纳德・特朗普总统将于下周在纽约联合国大会会议期间，与日本首相高市早苗举行会晤。这是在美国出手协…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisifyn7891334.shtml"
+    },
+    {
+      "id": "ffef9561ea",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-19 07:00",
+      "title": "9月19日隔夜要闻：美股涨跌不一芯片股大涨 油价三连跌 金价续涨 特朗普签署针对俄罗斯和伊朗的制裁法案",
+      "insight": "市场 9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100美元下方…",
+      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inisifyi3180629.shtml"
+    },
+    {
       "id": "ff3f5631ac",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -33,7 +123,7 @@
       "tag": "财经热点",
       "time": "09-19 06:09",
       "title": "特朗普宣布格陵兰安全协议，称获得“永久控制权”",
-      "insight": "特朗普称美国将在格陵兰建设“大规模军事存在”，作为与格陵兰和丹麦安全协议的一部分 发布于2026…",
+      "insight": "美国总统特朗普周五宣布与格陵兰和丹麦达成协议，赋予美国他所描述的对该丹麦岛屿领土“安全及所有其他…",
       "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0046597.shtml"
     },
     {
@@ -89,97 +179,7 @@
       "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
       "insight": "转自：新华网 新华社维也纳9月18日电（记者孟凡宇）国际原子能机构18日说，获悉俄罗斯库尔斯克核…",
       "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inishzsp0039008.shtml"
-    },
-    {
-      "id": "ffacc33162",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:40",
-      "title": "穆迪将希腊信用评级展望调整为正面",
-      "insight": "穆迪确认希腊长期外币债务评级为Baa3，为最低一级投资级评级，并将评级展望由稳定上调至正面。 穆…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7984255.shtml"
-    },
-    {
-      "id": "fff05d6910",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:38",
-      "title": "穆迪将波兰信用评级下调至A3 展望为稳定",
-      "insight": "穆迪将波兰长期外币债务评级从A2下调至A3。 穆迪将波兰外币发行人评级从A2下调至A3。 评级展…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0035140.shtml"
-    },
-    {
-      "id": "ff7d263e59",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:34",
-      "title": "大宗商品综述：油价三连跌 沙特出口前景喜忧参半 铜价升 金价续涨",
-      "insight": "随着市场对中东石油供应的担忧发生变化，油价连续第三个交易日下跌。沙特阿拉伯暂停对欧洲的部分原油销…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2820127.shtml"
-    },
-    {
-      "id": "ffd0c0f96e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:29",
-      "title": "原油：布伦特震荡下跌 沙特出口前景喜忧参半",
-      "insight": "随着市场对中东石油供应的担忧发生变化，油价连续第三个交易日下跌。沙特阿拉伯暂停对欧洲的部分原油销…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0031839.shtml"
-    },
-    {
-      "id": "ff0211aa23",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-19 05:22",
-      "title": "特朗普：美国将获得对格陵兰岛安全“永久控制权”",
-      "insight": "△特朗普（资料图）当地时间9月18日，美国总统特朗普在社交媒体上发文称，美国已与丹麦及其自治领地…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inishzsq7999078.shtml"
-    },
-    {
-      "id": "ff03ba1a6e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:21",
-      "title": "9月19日热门中概股多数上涨，阿里巴巴涨超4%，台积电涨超1%",
-      "insight": "9月19日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.76%。 上涨个股（按市值从…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7981020.shtml"
-    },
-    {
-      "id": "ff67719957",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:06",
-      "title": "SpaceX再获NASA 9.5亿美元合同，新增三次载人龙飞船任务",
-      "insight": "SpaceX扩大了与NASA的合同，将在2030年前额外执行三次载人龙飞船飞往国际空间站的任务，…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2814366.shtml"
-    },
-    {
-      "id": "ff065ff60d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 04:48",
-      "title": "特朗普称将禁止CNN、MS NOW、Politico进入白宫",
-      "insight": "美国总统特朗普表示，将禁止有线新闻媒体CNN、MS NOW以及网络媒体Politico进入白宫。…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7974872.shtml"
-    },
-    {
-      "id": "ff6a5a73ed",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 04:46",
-      "title": "Scope将法国信用评级从AA-下调至A+",
-      "insight": "法国遭Scope Ratings下调评级，意味着在明年将举行总统大选之际，有关该国公共财政状况的…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsi2811480.shtml"
-    },
-    {
-      "id": "ff6147e5df",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 04:46",
-      "title": "最新审查报告发现美联储未能妥善应对硅谷银行反复出现的问题",
-      "insight": "美联储负责监管事务的副主席米歇尔·鲍曼以及其他知情人士表示，一份新的报告草案发现，硅谷银行202…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsq7974583.shtml"
     }
   ],
-  "updateTime": "2026-09-19 06:56"
+  "updateTime": "2026-09-19 10:35"
 }
