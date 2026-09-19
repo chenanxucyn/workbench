@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff738cf660",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 13:21",
+      "title": "英国首相将与特朗普会晤 说服释放“爱国者”防空导弹援乌",
+      "insight": "安迪·伯纳姆即将与被其手下官员视作造成英国政府经济困境的人正面会面：唐纳德·特朗普。 这位英国新…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3165413.shtml"
+    },
+    {
+      "id": "ff3724a768",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 12:12",
+      "title": "加州州长签署行政令 要求强制上报AI智能体异常行为",
+      "insight": "美国加州民主党州长加文·纽森于当地时间周五签署一项行政令，称该令将“大幅加快”人工智能安全举措落…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3124180.shtml"
+    },
+    {
+      "id": "ff95d7cbce",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 11:37",
+      "title": "7月也门冲突升级以来首次 沙特首都遭袭",
+      "insight": "沙特当局发布空袭警报后，周六首都利雅得传来爆炸声。近日，也门胡塞武装频繁对沙特发动袭击。 这是自…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqe9872951.shtml"
+    },
+    {
+      "id": "ffdcad5f0d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 11:34",
+      "title": "中期选举激烈 多名共和党候选人在数据中心等议题疏远特朗普",
+      "insight": "在部分竞争最激烈的参众两院席位争夺战中，共和党候选人已开始在特朗普总统议程的核心议题上与其拉开距…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisispz2548225.shtml"
+    },
+    {
+      "id": "ff6461d119",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "09-19 10:49",
+      "title": "8月财政收支边际走弱，四季度支出增速大概率回补",
+      "insight": "记者 王珍8月我国宏观经济延续“生产强于需求、外需强于内需、新动能强于旧动能”的结构性分化格局，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhh9974907.shtml"
+    },
+    {
+      "id": "ff7a93fca0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-19 10:44",
+      "title": "派拉蒙推进和解谈判 谋求扫清1110亿美元收购华纳兄弟探索诉讼障碍",
+      "insight": "据七位了解谈判内情的人士透露，派拉蒙正积极开展和解谈判，希望了结一桩旨在阻止其收购华纳兄弟探索公…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhc2663216.shtml"
+    },
+    {
       "id": "ffdbb503bf",
       "source": "环球市场播报",
       "tag": "美股",
@@ -125,61 +179,7 @@
       "title": "特朗普宣布格陵兰安全协议，称获得“永久控制权”",
       "insight": "美国总统特朗普周五宣布与格陵兰和丹麦达成协议，赋予美国他所描述的对该丹麦岛屿领土“安全及所有其他…",
       "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0046597.shtml"
-    },
-    {
-      "id": "ff39b62abc",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:07",
-      "title": "美国股市：芯片股大涨提振科技板块 标普500指数小幅收高",
-      "insight": "科技股扭转早些时候的跌势，周五收盘上涨，并在经历波动的一周后录得周涨幅，而标普500指数小幅收高…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0045637.shtml"
-    },
-    {
-      "id": "ff3d4a3670",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:05",
-      "title": "特朗普签署对俄罗斯石油买家征收关税法案",
-      "insight": "白宫周五在声明中表示，总统特朗普周五签署一项法案，授权对购买俄罗斯石油的国家征收关税。",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsm3271890.shtml"
-    },
-    {
-      "id": "ff43b89ed7",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 06:05",
-      "title": "9月19日外盘头条：美墨贸易谈判取得阶段性进展 特朗普称正在与胡塞武装对话 大众汽车下调营业利润率预期",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美墨贸易谈判取得阶段性进展，辛鲍姆称已达成部…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsm3271765.shtml"
-    },
-    {
-      "id": "ff324d4fd1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-19 05:52",
-      "title": "对冲基金自2025年年中以来首次转为看涨日元",
-      "insight": "对冲基金自2025年7月以来首次转为看涨日元，在美日当局干预汇市以支撑日元数周之后，这一情绪的转…",
-      "link": "https://finance.sina.com.cn/world/2026-09-19/doc-inishzsp0039879.shtml"
-    },
-    {
-      "id": "ff240ab15a",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-19 05:47",
-      "title": "美总统特朗普签署针对俄罗斯和伊朗的制裁法案",
-      "insight": "△美国白宫（资料图）当地时间9月18日，美国白宫发布声明表示，美国总统特朗普当日签署了《2026…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inishzsi2827423.shtml"
-    },
-    {
-      "id": "ff0af9024b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-19 05:41",
-      "title": "国际原子能机构：俄罗斯一核电站冷却塔被无人机击中",
-      "insight": "转自：新华网 新华社维也纳9月18日电（记者孟凡宇）国际原子能机构18日说，获悉俄罗斯库尔斯克核…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inishzsp0039008.shtml"
     }
   ],
-  "updateTime": "2026-09-19 10:35"
+  "updateTime": "2026-09-19 15:42"
 }
