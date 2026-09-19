@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff05f10a98",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 01:40",
+      "title": "特朗普媒体禁令执行 CNN、MS NOW和Politico记者被拒进入白宫",
+      "insight": "MS NOW、CNN和Politico表示，其记者周六被拒绝进入白宫范围。此前，美国总统特朗普称…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-iniskyip2788479.shtml"
+    },
+    {
       "id": "ffa9ae0371",
       "source": "环球市场播报",
       "tag": "美股",
@@ -170,16 +179,7 @@
       "title": "韩官员：李在明并未拒绝特朗普协助对伊战争的要求",
       "insight": "韩国总统府一名匿名官员称，韩国总统李在明并未拒绝唐纳德·特朗普总统提出的要求，即协助华盛顿开展对…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhh9963803.shtml"
-    },
-    {
-      "id": "ff26fb3d33",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 10:30",
-      "title": "韩美同意就韩国拟在美3500亿美元投资项目举行双边会谈",
-      "insight": "韩国外交部表示，韩美两国外长周五在华盛顿会晤，双方同意共同努力，争取就韩国拟在美国开展的投资项目…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhk7821028.shtml"
     }
   ],
-  "updateTime": "2026-09-20 01:39"
+  "updateTime": "2026-09-20 03:51"
 }
