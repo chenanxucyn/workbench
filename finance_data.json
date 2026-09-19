@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ffa3e393f7",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-20 05:54",
+      "title": "北卡大学捐赠基金收益率大涨37.8%，早期SpaceX投资功不可没",
+      "insight": "截至6月的财年，美国北卡罗来纳大学捐赠基金取得37.8%的回报率，凭借对SpaceX的投资跑赢同…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-20/doc-inismkxi2632927.shtml"
+    },
+    {
+      "id": "ff8a7c3831",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 05:18",
+      "title": "伊朗称已向美政府传达7项谈判条件",
+      "insight": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismkxf1822935.shtml"
+    },
+    {
+      "id": "fffaf7ab35",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 04:06",
+      "title": "沙特主导联军称拦截胡塞武装射向利雅得的弹道导弹",
+      "insight": "当地时间9月19日，沙特主导的多国联军发言人图尔基·马利基发表声明称，沙特皇家防空部队当天凌晨成…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismerq7105861.shtml"
+    },
+    {
+      "id": "ff2acd57d7",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 03:06",
+      "title": "土耳其外长：不接受沙特被卷入美伊冲突",
+      "insight": "当地时间9月19日，土耳其外交部长费丹接受采访。在被问及沙特阿拉伯与也门胡塞武装之间的冲突时，费…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismern9486348.shtml"
+    },
+    {
+      "id": "ff4f54ab27",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 02:43",
+      "title": "俄罗斯“进步MS-35”货运飞船与国际空间站对接",
+      "insight": "俄罗斯国家航天集团19日在官网通报说，俄“进步MS-35”货运飞船当天与国际空间站俄罗斯舱段“探…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyip2832832.shtml"
+    },
+    {
+      "id": "ff535f3bb7",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 02:29",
+      "title": "胡塞武装称对沙特敏感目标及设施发动袭击",
+      "insight": "也门胡塞武装19日发表声明说，当天对沙特首都利雅得的“敏感目标”以及沙特阿美公司位于延布的设施发…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyip2830687.shtml"
+    },
+    {
       "id": "ff05f10a98",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +71,15 @@
       "title": "特朗普称将组建“人工智能部队”并任命AI事务负责人",
       "insight": "美国总统特朗普在社交媒体发文称，“我正在组建‘人工智能部队’，就像我在第一任期内组建太空军一样，…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-iniskyip2787604.shtml"
+    },
+    {
+      "id": "ffc8fa180d",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-20 01:04",
+      "title": "伊朗称仍在通过调解方向美方传递谈判条件",
+      "insight": "伊朗最高国家安全委员会秘书穆赫辛·雷扎伊19日表示，卡塔尔作为调解方已向美国方面转达伊朗的谈判条…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyis7182377.shtml"
     },
     {
       "id": "ff678d6577",
@@ -44,6 +107,15 @@
       "title": "美军指挥官：霍尔木兹海峡石油运量创六个月新高",
       "insight": "美军中央司令部司令布拉德·库珀上将表示，过去两周经由霍尔木兹海峡的石油与液化天然气运输量创下六个…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisktzs9617811.shtml"
+    },
+    {
+      "id": "ff749291eb",
+      "source": "央视",
+      "tag": "财经",
+      "time": "09-19 22:44",
+      "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+      "insight": "当地时间19日，总台记者从伊朗一位不愿透露姓名的高级别消息人士处获悉，卡塔尔和巴基斯坦作为调解方…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisktzr2842436.shtml"
     },
     {
       "id": "ffd395750f",
@@ -107,79 +179,7 @@
       "title": "大众据悉拟在保时捷品牌进一步裁员约4100人",
       "insight": "据报道，在大众汽车因旗下跑车子公司保时捷出现问题而发布盈利预警后，大众汽车一项大规模的扭亏计划预…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-iniskimv2978109.shtml"
-    },
-    {
-      "id": "ffc5f62b3e",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "09-19 13:29",
-      "title": "《杭州市支持低空经济高质量发展的若干措施》将废止，已发布通知征求意见",
-      "insight": "近日，浙江省杭州市财政局官网发布了《关于公开征求&lt;关于废止《杭州市支持低空经济高质量发展的…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisispz2584584.shtml"
-    },
-    {
-      "id": "ff738cf660",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 13:21",
-      "title": "英国首相将与特朗普会晤 说服释放“爱国者”防空导弹援乌",
-      "insight": "安迪·伯纳姆即将与被其手下官员视作造成英国政府经济困境的人正面会面：唐纳德·特朗普。 这位英国新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3165413.shtml"
-    },
-    {
-      "id": "ff3724a768",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 12:12",
-      "title": "加州州长签署行政令 要求强制上报AI智能体异常行为",
-      "insight": "美国加州民主党州长加文·纽森于当地时间周五签署一项行政令，称该令将“大幅加快”人工智能安全举措落…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqc3124180.shtml"
-    },
-    {
-      "id": "ff95d7cbce",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 11:37",
-      "title": "7月也门冲突升级以来首次 沙特首都遭袭",
-      "insight": "沙特当局发布空袭警报后，周六首都利雅得传来爆炸声。近日，也门胡塞武装频繁对沙特发动袭击。 这是自…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqe9872951.shtml"
-    },
-    {
-      "id": "ffdcad5f0d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 11:34",
-      "title": "中期选举激烈 多名共和党候选人在数据中心等议题疏远特朗普",
-      "insight": "在部分竞争最激烈的参众两院席位争夺战中，共和党候选人已开始在特朗普总统议程的核心议题上与其拉开距…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisispz2548225.shtml"
-    },
-    {
-      "id": "ff6461d119",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "09-19 10:49",
-      "title": "8月财政收支边际走弱，四季度支出增速大概率回补",
-      "insight": "记者 王珍8月我国宏观经济延续“生产强于需求、外需强于内需、新动能强于旧动能”的结构性分化格局，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisinhh9974907.shtml"
-    },
-    {
-      "id": "ff7a93fca0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 10:44",
-      "title": "派拉蒙推进和解谈判 谋求扫清1110亿美元收购华纳兄弟探索诉讼障碍",
-      "insight": "据七位了解谈判内情的人士透露，派拉蒙正积极开展和解谈判，希望了结一桩旨在阻止其收购华纳兄弟探索公…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhc2663216.shtml"
-    },
-    {
-      "id": "ffdbb503bf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-19 10:33",
-      "title": "韩官员：李在明并未拒绝特朗普协助对伊战争的要求",
-      "insight": "韩国总统府一名匿名官员称，韩国总统李在明并未拒绝唐纳德·特朗普总统提出的要求，即协助华盛顿开展对…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisinhh9963803.shtml"
     }
   ],
-  "updateTime": "2026-09-20 03:51"
+  "updateTime": "2026-09-20 06:36"
 }
