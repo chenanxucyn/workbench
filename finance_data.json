@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "id": "fff98588a0",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-20 15:20",
+      "title": "说到做到！西贝被曝已起诉罗永浩，即将开庭",
+      "insight": "来源：深蓝财经 近两日，知名微博大V“理记”连续发布多条博文，围绕西贝倒闭传闻与罗永浩的纠纷展开…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-20/doc-inisnhav1512832.shtml"
+    },
+    {
+      "id": "ff36348bbf",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-20 14:55",
+      "title": "航运燃料价格罕见倒挂！生物柴油跌至历史新低 或成为船东新选择",
+      "insight": "来源：财联社 财联社9月20日讯（编辑 周子意）本周，用于航运的生物柴油价格跌至历史最低点，且低…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inisnhav1498827.shtml"
+    },
+    {
+      "id": "ff4e62606b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 14:54",
+      "title": "比特币9月表现抗跌 多重利空下仍有望录得一年来首次季度上涨",
+      "insight": "尽管面临美联储加息、加密市场结构法案受挫、油价飙升及美元走强等多重压力，比特币在历史上表现最弱的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inisnhca6661311.shtml"
+    },
+    {
+      "id": "ff7a2dbb5b",
+      "source": "界面新闻",
+      "tag": "财经热点",
+      "time": "09-20 14:44",
+      "title": "香港财政司司长陈茂波：会进一步扩大点心债市场、发展人民币计价的黄金及大宗商品市场",
+      "insight": "9月20日，香港特区政府财政司司长陈茂波发表网志称，国家“十五五”规划提出加快建设金融强国，香港…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnhav1494485.shtml"
+    },
+    {
+      "id": "ff264b4e95",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-20 14:21",
+      "title": "退休警察“代持”上亿股权，能用法院判决洗白？",
+      "insight": "近日，澎湃新闻报道的戒毒所退休干警获得2亿物流园的80%股权的案件，引发舆论关注。 某市强制隔离…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismzve6779223.shtml"
+    },
+    {
+      "id": "ffcd018c09",
+      "source": "新浪财经",
+      "tag": "财经",
+      "time": "09-20 14:20",
+      "title": "美联储加息落地 全球利率现分化博弈",
+      "insight": "2026年9月17日凌晨，美联储宣布加息25个基点（即0.25个百分点），联邦基金利率区间升至3…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-20/doc-inismzva9363482.shtml"
+    },
+    {
+      "id": "ffd944b8a7",
+      "source": "每日经济新闻",
+      "tag": "财经热点",
+      "time": "09-20 13:40",
+      "title": "最新！委内瑞拉大量黄金储备被曝或转移至美国",
+      "insight": "据英国《金融时报》18日报道，委内瑞拉政府和反对派即将达成协议，将该国价值约40亿美元的黄金储备…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismzve6765682.shtml"
+    },
+    {
+      "id": "fff2f28637",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 13:23",
+      "title": "报道：诺和诺德股东称公司需通过收购拓展业务",
+      "insight": "诺和诺德股东敦促这家制药集团通过收购扩大产品组合，以降低利润对糖尿病治疗药物Ozempic的依赖…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzux1593535.shtml"
+    },
+    {
+      "id": "ff75591a43",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "09-20 13:12",
+      "title": "*ST九鼎、中铁装配、康芝药业遭证监会立案 投资者或可索赔",
+      "insight": "2026年9月18日晚间，*ST 九鼎、中铁装配、康芝药业三家上市公司均发布《关于公司收到中国证…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-20/doc-inismzva9312802.shtml"
+    },
+    {
+      "id": "ff9c0d35ce",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 12:43",
+      "title": "三星电子在美国举办科技论坛，分享人工智能相关战略",
+      "insight": "三星电子周日表示，公司在美国举办第八届年度技术论坛，面向全球开发者分享自身人工智能技术与商业战略…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzve6743022.shtml"
+    },
+    {
+      "id": "ff954883eb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 12:37",
+      "title": "报道：联想寻求出售卢森堡国际银行90%股权 估值或达25亿欧元",
+      "insight": "媒体援引未具名知情人士报道，联想控股正与高盛合作，寻求出售所持卢森堡国际银行90%的股权。 初步…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzux1577514.shtml"
+    },
+    {
+      "id": "ff24050b34",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-20 12:35",
+      "title": "Meta与谷歌押注新型清洁能源技术 以满足AI的电力需求",
+      "insight": "人工智能带来的电力需求暴涨，催生了数十亿美元的清洁能源投资，投资方向包括新一代地热发电与先进核反…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inismzve6739947.shtml"
+    },
+    {
+      "id": "ff2bbad66e",
+      "source": "上海证券报",
+      "tag": "理财",
+      "time": "09-20 12:04",
+      "title": "宁德时代江西锂矿，采矿项目环评重启",
+      "insight": "作为全球规模排名前列的单体锂云母矿，宁德时代旗下江西宜春枧下窝锂矿的复产进程一直被视作碳酸锂供给…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2624805.shtml"
+    },
+    {
+      "id": "ff68cd1c36",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-20 11:12",
+      "title": "“玉”见未来：华北新季玉米价格持续下跌，东北产区如何应对？",
+      "insight": "卓创资讯玉米市场分析师李霞 【导语】8月下旬以来华北和东北地区的玉米价格走势出现明显分化：华北玉…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpc2578633.shtml"
+    },
+    {
+      "id": "ffc5eb0205",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-20 11:11",
+      "title": "三季度生猪产能去化加速，四季度或接近尾声",
+      "insight": "卓创资讯生猪市场分析师朱泽坤 【导语】2026年生猪价格低迷，生猪养殖长期处于亏损状态，长期亏损…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-20/doc-inismvpe9350585.shtml"
+    },
+    {
+      "id": "ff0c436b1f",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "09-20 10:51",
+      "title": "沃尔沃S90从40万降到22万，传统豪车售价集体腰斩",
+      "insight": "9月以来，沃尔沃汽车官网仍将S90的起售价标在40.69万元的高位，但走进线下4S店，这款中大型…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismvnz1666825.shtml"
+    },
+    {
       "id": "ff1d496a61",
       "source": "新浪港股",
       "tag": "股市",
@@ -35,151 +179,7 @@
       "title": "花旗：潍柴动力给予“买入”评级 目标价50港元",
       "insight": "花旗发布研报称，Generac（GNRC.US）与亚马逊达成长期供应协议，为亚马逊数据中心提供备…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inismvpc2536502.shtml"
-    },
-    {
-      "id": "ffb116432e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:19",
-      "title": "大摩：紫金黄金国际维持“增持”评级 目标价189港元",
-      "insight": "摩根士丹利发布研报称，紫金黄金国际（02259）管理层重申今年目标黄金产量约59吨，并通过内生增…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inismvpc2535450.shtml"
-    },
-    {
-      "id": "ff30731e38",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:18",
-      "title": "大摩：药明合联维持“增持”评级 目标价85港元",
-      "insight": "摩根士丹利发布研报称，药明合联（02268）管理层重申其全年收入按固定汇率增长40%的目标，其中…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inismvpe9307143.shtml"
-    },
-    {
-      "id": "ff7e015ea7",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:16",
-      "title": "小摩：中国机械板块近期跌幅未反映基本面 维持看好并建议趁低吸纳",
-      "insight": "摩根大通发布研报称，中国机械板块近日遭遇大幅抛售，审视近期管理层简报、营运更新及最新销售趋势后，…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inismvpe9306189.shtml"
-    },
-    {
-      "id": "ffae6171b8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:13",
-      "title": "ASMPT遭The Capital Group Companies, Inc.减持169.82万股 每股作价约159.09港元",
-      "insight": "香港联交所最新数据显示，9月16日，The Capital Group Companies， I…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvpe9303532.shtml"
-    },
-    {
-      "id": "ffd0f7141a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:12",
-      "title": "知行科技获卢玉坤增持4.31万股 每股作价2.235港元",
-      "insight": "香港联交所最新数据显示，9月14日，卢玉坤增持知行科技（01274）4.31万股，每股作价2.2…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvnz1649271.shtml"
-    },
-    {
-      "id": "ffa6843fb1",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:11",
-      "title": "迈越科技遭叶善敏减持2100万股 每股作价1.18港元",
-      "insight": "香港联交所最新数据显示，9月15日，叶善敏减持迈越科技（02501）2100万股，每股作价1.1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvph6812123.shtml"
-    },
-    {
-      "id": "ff41af2b39",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:10",
-      "title": "信义玻璃获董清波增持120.40万股 每股作价约8.45港元",
-      "insight": "香港联交所最新数据显示，9月16日，董清波增持信义玻璃（00868）120.40万股，每股作价8…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvnz1648548.shtml"
-    },
-    {
-      "id": "ff61a29540",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:09",
-      "title": "创胜集团医药-B获钱雪明增持10万股 每股作价0.8552港元",
-      "insight": "香港联交所最新数据显示，9月17日，钱雪明增持创胜集团医药-B（06628）10万股，每股作价0…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvpc2527538.shtml"
-    },
-    {
-      "id": "ffbff465eb",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:08",
-      "title": "佳兆业集团遭Elliott Investment Management GP LLC减持501.50万股 每股作价约0.031港元",
-      "insight": "香港联交所最新数据显示，9月15日，Elliott Investment Management …",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismvpc2526817.shtml"
-    },
-    {
-      "id": "ffcdfc106f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:07",
-      "title": "三花智控获Schroders PLC增持239.66万股 每股作价约23.5港元",
-      "insight": "香港联交所最新数据显示，9月16日，Schroders PLC增持三花智控（02050）239.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfh9429451.shtml"
-    },
-    {
-      "id": "ff81566043",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:06",
-      "title": "国美零售获上海金尚铂企业服务有限公司增持约216.19亿股 每股作价0.015港元",
-      "insight": "香港联交所最新数据显示，3月23日，上海金尚铂企业服务有限公司增持国美零售（00493）216.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrff2655829.shtml"
-    },
-    {
-      "id": "ffdf02ff74",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:05",
-      "title": "安井食品获Schroders PLC增持4.15万股 每股作价约61.01港元",
-      "insight": "香港联交所最新数据显示，9月15日，Schroders PLC增持安井食品（02648）4.15…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfk6940328.shtml"
-    },
-    {
-      "id": "ffe0b0cbca",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:04",
-      "title": "中国基础能源获马争增持4万股 每股作价0.047港元",
-      "insight": "香港联交所最新数据显示，9月17日，马争增持中国基础能源（08117）4万股，每股作价0.047…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfc1776628.shtml"
-    },
-    {
-      "id": "ff3740db51",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:03",
-      "title": "CNT GROUP获Prime Surplus Limited增持9万股 每股作价0.093港元",
-      "insight": "香港联交所最新数据显示，9月15日，Prime Surplus Limited增持CNT GRO…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfc1776041.shtml"
-    },
-    {
-      "id": "ffee2ff445",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:01",
-      "title": "牧原股份遭FIDELITY FUNDS减持51.51万股 每股作价约37.67港元",
-      "insight": "香港联交所最新数据显示，9月14日，FIDELITY FUNDS减持牧原股份（02714）51.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfc1775101.shtml"
-    },
-    {
-      "id": "fff0fcf7b6",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 10:01",
-      "title": "大禹金融获执行董事徐昊昊增持19万股 每股作价0.1港元",
-      "insight": "香港联交所最新数据显示，9月15日，执行董事徐昊昊增持大禹金融（01073）19万股，每股作价0…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-20/doc-inismrfh9422823.shtml"
     }
   ],
-  "updateTime": "2026-09-20 10:47"
+  "updateTime": "2026-09-20 16:10"
 }
