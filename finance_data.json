@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ffed421af8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-21 06:26",
+      "title": "9月21日周末要闻：原油期货走高 交易员关注中东供应风险与外交动向 特朗普称胡塞武装同意不与美交战",
+      "insight": "上周市场回顾 9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisppwi2245898.shtml"
+    },
+    {
+      "id": "ff163156fe",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-21 06:08",
+      "title": "原油期货大幅走高，美股期货走弱",
+      "insight": "周一早盘，布伦特与WTI原油合约大幅上涨，美国股指期货较上周五尾盘有所回落。卡塔尔能源大臣称，贝…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-21/doc-inisppwi2239534.shtml"
+    },
+    {
+      "id": "ff99648c5d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-21 06:06",
+      "title": "油价上涨，交易员关注中东供应风险与外交动向",
+      "insight": "本周，围绕美伊战争的外交活动将趋于密集，交易员持续追踪中东供应风险，原油价格走高。布伦特原油向每…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-21/doc-inisppwk9011093.shtml"
+    },
+    {
+      "id": "ff12c918c2",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-21 05:50",
+      "title": "中美经贸磋商在美国纽约开始举行",
+      "insight": "当地时间9月20日上午，中美两国经贸团队在美国纽约开始举行中美经贸磋商。",
+      "link": "https://finance.sina.com.cn/world/2026-09-21/doc-inisppwn6174597.shtml"
+    },
+    {
+      "id": "ffcf9e1da6",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-21 02:34",
+      "title": "泽连斯基称与特朗普通话 双方商定在纽约会晤",
+      "insight": "当地时间9月20日，乌克兰总统泽连斯基表示，他当天与美国总统特朗普通话，双方商定在美国纽约举行会…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inispiqm2288523.shtml"
+    },
+    {
+      "id": "ff25d046cd",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-21 02:03",
+      "title": "卡塔尔称美国希望与伊朗达成协议",
+      "insight": "卡塔尔外交部发言人马吉德·安萨里20日表示，卡塔尔正与美国和伊朗保持沟通，推动美伊恢复谈判。他说…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inispiqq6252006.shtml"
+    },
+    {
+      "id": "ffe2880a91",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-21 01:39",
+      "title": "马克龙：支持加拿大和欧盟相互靠拢",
+      "insight": "法国总统马克龙20日说，法国支持加拿大和欧盟相互靠拢的议程，支持加拿大成为欧盟“联席成员”。 马…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisppwk8980954.shtml"
+    },
+    {
       "id": "ff13b3f96e",
       "source": "央视",
       "tag": "财经热点",
@@ -116,70 +179,7 @@
       "title": "小摩：金斯瑞生物科技维持“增持”评级 目标价41港元",
       "insight": "摩根大通发布研报称，礼来（LLY.US）宣布与金斯瑞生物科技（01548）等达成TuneLab合…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2470014.shtml"
-    },
-    {
-      "id": "ff99891c71",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 20:14",
-      "title": "大摩：国泰航空维持“增持”评级 目标价16.9港元",
-      "insight": "摩根士丹利发布研报称，国泰航空（00293）8月客运业务在高基数下趋正常化，货运业务则具韧性；该…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssw6529408.shtml"
-    },
-    {
-      "id": "ff4833d06a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 20:13",
-      "title": "大摩：蔚来-SW给予“增持”评级 目标价68.5港元",
-      "insight": "摩根士丹利发布研报称，蔚来-SW（09866）管理层重申，公司将优先透过销量增长及经营杠杆推动利…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssr1365927.shtml"
-    },
-    {
-      "id": "fff3ccbeed",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 20:12",
-      "title": "大和：建设银行首予“买入”评级 目标价11.05港元",
-      "insight": "大和发布研报称，首予建设银行（00939）“买入”评级及目标价11.05港元，并将该股列为中资行…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2468190.shtml"
-    },
-    {
-      "id": "ff4ac940ac",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 20:11",
-      "title": "大和：英矽智能上半年收入同比上升287.2%至1.06亿美元",
-      "insight": "大和发布研报称，英矽智能（03696）BD及PCC产出创纪录高，其今年上半年收入急增主要由加速对…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssu9239914.shtml"
-    },
-    {
-      "id": "ff4bb427bf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-20 20:10",
-      "title": "大摩：中远海能目标价26港元 重申“增持”评级",
-      "insight": "摩根士丹利发布研报称，重申中远海能（01138）“增持”评级，目标价维持26港元；该行预计，受惠…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssw6527828.shtml"
-    },
-    {
-      "id": "ff8e407fcc",
-      "source": "每日经济新闻",
-      "tag": "财经热点",
-      "time": "09-20 19:52",
-      "title": "LV家族成员进入耐克董事会，透露出什么信号？",
-      "insight": "每经记者|孙宇婷每经编辑|杜宇 当奢侈品与运动品牌双双遭遇增长放缓，两个原本边界清晰的行业，交集…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-20/doc-inisnssw6521728.shtml"
-    },
-    {
-      "id": "fff7541073",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-20 19:17",
-      "title": "老白干，百亿目标先放一放",
-      "insight": "來源：YOUNG财经 漾财经 资料图。 老白干，百亿目标先放一放 田文 老白干酒正处在一个微妙的…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-20/doc-inisnssr1349905.shtml"
     }
   ],
-  "updateTime": "2026-09-21 04:06"
+  "updateTime": "2026-09-21 06:51"
 }
