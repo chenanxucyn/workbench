@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffed421af8",
+      "id": "ff52098c8d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:31",
+      "title": "兑吧盘中涨超13% 创始人向员工持股平台捐赠11.21%总股本",
+      "insight": "兑吧（01753）盘中大涨超13%。截至发稿，涨幅收窄股价上涨6.50%，现报0.655港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispync2192445.shtml"
+    },
+    {
+      "id": "ff28853ac9",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:27",
+      "title": "复宏汉霖早盘涨超10% 汉达远®近期获纳入国家基本药物目录",
+      "insight": "复宏汉霖（02696）早盘涨超10%，截至发稿，股价上涨10.13%，现报65.75港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispymz0853893.shtml"
+    },
+    {
+      "id": "ff44b4adc2",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:22",
+      "title": "山东新华制药股份早盘涨超10% 左卡尼汀口服溶液等获得药品注册证书",
+      "insight": "山东新华制药股份（00719）盘中涨超12%。截至发稿，股价上涨10.27%，现报6.12港元，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispyne8956293.shtml"
+    },
+    {
+      "id": "ffb51e770c",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:19",
+      "title": "金斯瑞生物科技盘中涨超7% 小摩维持“增持”评级",
+      "insight": "金斯瑞生物科技（01548）盘中涨超7%。截至发稿，股价上涨5.34%，现报41.44港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispynh6014007.shtml"
+    },
+    {
+      "id": "fff231d7d6",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:14",
+      "title": "中国生物制药早盘涨超7% 大和给予“买入”评级",
+      "insight": "中国生物制药（01177）早盘涨超7%，截至发稿，股价上涨7.31%，现报5.81港元，成交额2…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispymz0848286.shtml"
+    },
+    {
+      "id": "ff7788dc21",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:11",
+      "title": "博雅互动早盘涨逾12% 比特币冲破8.1万美元公司持有约4316枚比特币",
+      "insight": "博雅互动（00434）早盘涨逾12%，截至发稿，股价上涨11.85%，现报3.21港元，成交额3…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispync2170558.shtml"
+    },
+    {
+      "id": "ff3dce1f09",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-21 06:26",
-      "title": "9月21日周末要闻：原油期货走高 交易员关注中东供应风险与外交动向 特朗普称胡塞武装同意不与美交战",
-      "insight": "上周市场回顾 9月19日收盘：美股涨跌不一 芯片股反弹 费城半导体指数涨超2% 油价回落至100…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisppwi2245898.shtml"
+      "time": "09-21 10:06",
+      "title": "软银据悉寻求发行超过110亿美元的垃圾债券 用于加码投资OpenAI",
+      "insight": "据知情人士透露，软银集团寻求发行总规模超过110亿美元的垃圾债，这将成为史上规模最大的高收益债券…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inispymz0844191.shtml"
     },
     {
-      "id": "ff163156fe",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-21 06:08",
-      "title": "原油期货大幅走高，美股期货走弱",
-      "insight": "周一早盘，布伦特与WTI原油合约大幅上涨，美国股指期货较上周五尾盘有所回落。卡塔尔能源大臣称，贝…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-21/doc-inisppwi2239534.shtml"
+      "id": "ffb2b6670a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 10:00",
+      "title": "君正股份盘中涨超7%创上市新高 H股今日起正式进入港股通名单",
+      "insight": "君正股份（03223）盘中涨超7%，股价创上市新高。截至发稿，股价上涨5.57%，现报106.1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispyne8927615.shtml"
     },
     {
-      "id": "ff99648c5d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-21 06:06",
-      "title": "油价上涨，交易员关注中东供应风险与外交动向",
-      "insight": "本周，围绕美伊战争的外交活动将趋于密集，交易员持续追踪中东供应风险，原油价格走高。布伦特原油向每…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-21/doc-inisppwk9011093.shtml"
+      "id": "ff72abe397",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 09:58",
+      "title": "三环集团盘中涨超9%AI拉动MLCC价格飙涨 现货最高被炒至原价10倍",
+      "insight": "三环集团（06951）盘中涨超9%，高见152.70港元，截至发稿，涨幅收窄，股价上涨2.37%…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispyne8925649.shtml"
     },
     {
-      "id": "ff12c918c2",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-21 05:50",
-      "title": "中美经贸磋商在美国纽约开始举行",
-      "insight": "当地时间9月20日上午，中美两国经贸团队在美国纽约开始举行中美经贸磋商。",
-      "link": "https://finance.sina.com.cn/world/2026-09-21/doc-inisppwn6174597.shtml"
-    },
-    {
-      "id": "ffcf9e1da6",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-21 02:34",
-      "title": "泽连斯基称与特朗普通话 双方商定在纽约会晤",
-      "insight": "当地时间9月20日，乌克兰总统泽连斯基表示，他当天与美国总统特朗普通话，双方商定在美国纽约举行会…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inispiqm2288523.shtml"
-    },
-    {
-      "id": "ff25d046cd",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-21 02:03",
-      "title": "卡塔尔称美国希望与伊朗达成协议",
-      "insight": "卡塔尔外交部发言人马吉德·安萨里20日表示，卡塔尔正与美国和伊朗保持沟通，推动美伊恢复谈判。他说…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inispiqq6252006.shtml"
-    },
-    {
-      "id": "ffe2880a91",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-21 01:39",
-      "title": "马克龙：支持加拿大和欧盟相互靠拢",
-      "insight": "法国总统马克龙20日说，法国支持加拿大和欧盟相互靠拢的议程，支持加拿大成为欧盟“联席成员”。 马…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisppwk8980954.shtml"
-    },
-    {
-      "id": "ff13b3f96e",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-21 01:35",
-      "title": "美中央司令部称已引导109艘商船改道",
-      "insight": "当地时间9月20日，美国中央司令部称，截至当天，已引导109艘商船改变航向，以确保其遵守美对伊朗…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inispchs6372035.shtml"
-    },
-    {
-      "id": "ff201c2941",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-20 22:55",
-      "title": "美官员称美军不会对胡塞武装发动进攻性打击",
-      "insight": "据美国方面20日消息，一名美国官员称，美军不会对也门胡塞武装发动“进攻性打击”。 消息称，据匿名…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnwyp1298619.shtml"
-    },
-    {
-      "id": "ff12c918c2",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "09-20 22:51",
-      "title": "中美经贸磋商在美国纽约开始举行",
-      "insight": "新华社纽约9月20日电 当地时间9月20日上午，中美两国经贸团队在美国纽约开始举行中美经贸磋商。…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnwys9209157.shtml"
-    },
-    {
-      "id": "ff5e20ba70",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-20 22:49",
-      "title": "快讯丨中美经贸磋商在美国纽约开始举行",
-      "insight": "当地时间9月20日上午，中美两国经贸团队在美国纽约开始举行中美经贸磋商。",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inispchs6372398.shtml"
-    },
-    {
-      "id": "ffc506fd6a",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-20 22:38",
-      "title": "特朗普：也门胡塞武装同意不与美国交战",
-      "insight": "美国总统特朗普20日对福克斯新闻频道说，美国同也门胡塞武装保持着沟通，他们同意不与美国交战。",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnwyr2432145.shtml"
-    },
-    {
-      "id": "ff53e3a5d8",
+      "id": "ff8d60f405",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-20 22:09",
-      "title": "特朗普称他可能对与伊朗总统会面持开放态度",
-      "insight": "美国总统唐纳德·特朗普接受采访时表示，他可能对与伊朗总统马苏德·佩泽希齐扬会面持开放态度。 特朗…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-inisnwys9184467.shtml"
+      "time": "09-21 09:56",
+      "title": "欧洲AI企业拒绝放缓开发，批美巨头“借安全担忧谋私利”",
+      "insight": "Mistral等欧洲领先的人工智能企业指责美国竞争对手利用安全担忧来巩固其主导地位，并拒绝接受A…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inispync2151315.shtml"
     },
     {
-      "id": "ffd3b5e688",
+      "id": "ff6ae14577",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-20 22:04",
-      "title": "日赚2.4亿，车企利润不及“宁王”的零头！“去宁化”走到哪一步了？",
-      "insight": "来源：上市之家 “去宁化”的呼声越来越高了。 宁德时代2026年上半年归母净利润达到432.84…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-20/doc-inisnwys9188023.shtml"
+      "tag": "理财",
+      "time": "09-21 09:48",
+      "title": "中信建投期货：9月21日能化早报",
+      "insight": "PX： 供需面供需双增。中国行业负荷环比增加3.2pct至80.0%，升至五年同期中性水平，亚洲…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-21/doc-inispymz0834279.shtml"
     },
     {
-      "id": "ffd56ea3be",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-20 21:47",
-      "title": "日本发现失联“全球鹰”无人机部分残骸",
-      "insight": "日本航空自卫队20日说，日前在鸟取县附近海域失联的一架“全球鹰”无人侦察机的部分残骸已漂至岸边并…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inisnwyp1296073.shtml"
+      "id": "ffcab5e3d5",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-21 09:47",
+      "title": "中信建投期货：9月21日黑色系早报",
+      "insight": "钢材早报：供需弱平衡，期钢区间博弈为主 市场信息： 1、 当地时间9月20日上午，中美两国经贸团…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-21/doc-inispync2140514.shtml"
     },
     {
-      "id": "ffe375e027",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "09-20 20:39",
-      "title": "558万合同索赔1.59亿！一审判赔15万，案件受理费原告承担超99%，被告负担不足1%，两家药企“对簿公堂”",
-      "insight": "558万合同索赔1.59亿！一审判赔15万，案件受理费原告承担超99%，被告负担不足1%，两家药…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-20/doc-inisnssw6547705.shtml"
+      "id": "ff44c88072",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-21 09:41",
+      "title": "原油价格连续第四日下跌 交易员关注外交活动和霍尔木兹海峡通航情况",
+      "insight": "原油价格连续第四日下跌，势将创下自6月份以来最长连跌纪录，交易员密切关注围绕结束美伊战争的外交努…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inispynh5993529.shtml"
     },
     {
-      "id": "ff1e6ab599",
+      "id": "ffb1381160",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-20 20:18",
-      "title": "大摩：中国神华维持“增持”评级 目标价48.3港元",
-      "insight": "摩根士丹利发布研报称，中国神华（01088）管理层于会议上表示，2026年上半年产量较低，全年产…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2472012.shtml"
+      "time": "09-21 09:37",
+      "title": "英派药业-B盘初大涨逾19% 塞纳帕利获CHMP积极意见",
+      "insight": "英派药业-B（07630）盘初大涨逾19%，截至发稿，股价上涨12.82%，现报14.70港元，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispynh5991178.shtml"
     },
     {
-      "id": "ff9d7fc312",
+      "id": "ff74a53d9c",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-20 20:17",
-      "title": "大和：招商银行首予“跑赢大市”评级 目标价56.3港元",
-      "insight": "大和发布研报称，首予招商银行（03968）“跑赢大市”评级，目标价56.3港元，认为手续费收入拐…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2471599.shtml"
+      "time": "09-21 09:20",
+      "title": "快讯：恒指低开0.01% 科指跌0.08% 中资券商股低迷 存储概念股高开",
+      "insight": "美股上周五个别发展，美国十年期国债息率重上5厘水平，不利市场气氛，三大指数收市升跌不一。美元走势…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-21/doc-inispyne8882380.shtml"
     },
     {
-      "id": "ff82c059af",
+      "id": "ffcb947049",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-20 20:16",
-      "title": "大和：引述中国生物制药管理层重申今年收入增长双位数指引 给予“买入”评级",
-      "insight": "大和发布研报称，日前举行医疗健康行业交流活动，中国生物制药（01177）管理层重申今年收入录得双…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnssu9243619.shtml"
+      "time": "09-21 09:16",
+      "title": "堃博医疗-B：终止进一步收购Valgen Holding Corporation股权",
+      "insight": "堃博医疗-B（02216）发布公告，有关进一步收购Valgen Holding Corporat…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-21/doc-inispynh5982661.shtml"
     },
     {
-      "id": "ffe5f21e71",
+      "id": "ff7a587457",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-21 09:16",
+      "title": "花旗CEO称全球企业争相修补系统漏洞 以防御人工智能风险",
+      "insight": "花旗集团首席执行官Jane Fraser表示，随着人工智能模型变得越来越强大，并有可能引发网络攻…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inispynh5982640.shtml"
+    },
+    {
+      "id": "ff8fe82188",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "09-20 20:15",
-      "title": "小摩：金斯瑞生物科技维持“增持”评级 目标价41港元",
-      "insight": "摩根大通发布研报称，礼来（LLY.US）宣布与金斯瑞生物科技（01548）等达成TuneLab合…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-20/doc-inisnsst2470014.shtml"
+      "time": "09-21 09:15",
+      "title": "万里印刷公布于9月21日上午起复牌",
+      "insight": "万里印刷（08385）发布公告，公司股份将于2026年9月21日上午九时正起恢复买卖。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-21/doc-inispyne8876318.shtml"
+    },
+    {
+      "id": "ff3a37a6ed",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 09:15",
+      "title": "邵氏兄弟控股公布于9月21日上午起复牌",
+      "insight": "邵氏兄弟控股（00953）发布公告，公司股份将于2026年9月21日上午九时正起恢复买卖。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-21/doc-inispyne8875538.shtml"
+    },
+    {
+      "id": "ff126a145f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-21 09:14",
+      "title": "中国智能健康公布于9月21日上午起短暂停牌",
+      "insight": "中国智能健康（00348）发布公告，公司股份将于2026年9月21日上午九时正起短暂停止买卖。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-21/doc-inispyne8875072.shtml"
     }
   ],
-  "updateTime": "2026-09-21 06:51"
+  "updateTime": "2026-09-21 10:44"
 }
