@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff7006141c",
+      "id": "ff7e1e7190",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 10:44",
-      "title": "韩国将德克萨斯州燃气电厂定为首个对美国承诺投资项目",
-      "insight": "据未具名政界消息人士透露，韩国已将美国德克萨斯州一座天然气发电项目确定为其对美投资承诺框架下的首…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissitp2209908.shtml"
+      "time": "09-22 15:59",
+      "title": "欧盟推出全新数据中心可持续标签，向大型科技企业施压推动绿色转型",
+      "insight": "欧盟于周一推出面向人工智能数据中心的环境评级体系。欧盟能源专员称，此举是向科技巨头施压，促使其配…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuii2088505.shtml"
     },
     {
-      "id": "ff802505e7",
+      "id": "ffd26cfc82",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 10:36",
-      "title": "与加拿大陷入贸易争端之际 特朗普拟转向白俄罗斯采购廉价钾肥",
-      "insight": "美国总统唐纳德·特朗普表示，在与作为化肥关键成分主要供应国的加拿大发生贸易争端之际，美国正在与白…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissitm5656099.shtml"
+      "time": "09-22 15:53",
+      "title": "美国NHTSA结束对近13万辆本田皮卡后视摄像头问题调查",
+      "insight": "美国汽车安全监管机构周二结束了对129092辆本田Ridgeline皮卡后视摄像头故障的调查，未…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuii2086390.shtml"
     },
     {
-      "id": "ff89c320ac",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:36",
-      "title": "华泰期货：市场情绪缓和，油价大幅回落",
-      "insight": "来源：华泰期货 作者： 康远宁 市场要闻与重要数据 1、 截至9月22日收盘，纽约商品交易所10…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissitp2206455.shtml"
-    },
-    {
-      "id": "fff80644f6",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:34",
-      "title": "华泰期货：节前备货开启 铜价维持偏强格局",
-      "insight": "来源：华泰期货 作者： 师橙 市场要闻与重要数据 期货行情： 2026-09-21，沪铜主力合约…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissitf7042299.shtml"
-    },
-    {
-      "id": "ff8a51f1f7",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:32",
-      "title": "华泰期货：多晶硅价格小幅修复，供需持续博弈",
-      "insight": "来源：华泰期货 作者： 师橙 工业硅： 市场分析 2026-09-21，工业硅期货价格震荡上涨，…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissitf7041386.shtml"
-    },
-    {
-      "id": "ffd3f81491",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:30",
-      "title": "华泰期货：一多空交织，花生现货区域分化",
-      "insight": "来源：华泰期货 作者： 白旭宇 大豆观点 市场分析 期货方面，昨日收盘豆一2611合约4991.…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissiti8877652.shtml"
-    },
-    {
-      "id": "ff1ab03a39",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:28",
-      "title": "华泰期货：上海地产新政出台，玻碱价格偏强震荡",
-      "insight": "市场分析 玻璃方面：昨日玻璃期货偏强震荡运行，下游市场谨慎观望，交投氛围一般，玻璃产销保持低位。…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissiti8875977.shtml"
-    },
-    {
-      "id": "ff52a2b381",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:23",
-      "title": "华泰期货：中美磋商前，油脂震荡运行",
-      "insight": "来源：华泰期货 作者： 白旭宇 油脂观点 市场分析 期货方面，昨日收盘棕榈油2701合约9816…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissiti8871154.shtml"
-    },
-    {
-      "id": "fff3ce0eec",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 10:23",
-      "title": "资深基金经理：尽管美联储重启紧缩周期，但黄金依然值得配置",
-      "insight": "文章来源：汇通财经 美联储已经开启新一轮货币紧缩周期，市场普遍担忧，更加严守政策纪律的美联储，或…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-22/doc-inissitp2201828.shtml"
-    },
-    {
-      "id": "ff14dfdfa9",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-22 10:22",
-      "title": "博雅互动早盘涨超11% 公司共持有约4468枚比特币",
-      "insight": "博雅互动（00434）盘中涨超12%，截至发稿，早盘上涨11.22%，现报3.47港元，成交额1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissitf7037592.shtml"
-    },
-    {
-      "id": "ff09edce38",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-22 10:18",
-      "title": "腾讯早盘涨超6%  AI助手Muse验证消费级Agent机构看好“小微”生态壁垒",
-      "insight": "腾讯（00700）早盘涨超6%，截至发稿，股价上涨6.56%，现报458.20港元，成交额137…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissitp2199287.shtml"
-    },
-    {
-      "id": "ffc6f1d0bd",
+      "id": "ffa7faa268",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 10:09",
-      "title": "韩国央行称将在监测金融稳定的同时决定是否进一步加息",
-      "insight": "韩国央行货币政策委员会成员Chang Yongsung周二在一份声明中表示，该行将决定进一步加息…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissiti8855329.shtml"
+      "time": "09-22 15:51",
+      "title": "花旗银行考虑扩大吉尔吉斯斯坦业务，或设立当地分行",
+      "insight": "花旗银行正考虑扩大在吉尔吉斯斯坦的业务布局，包括与当地国有银行建立代理行关系，并研究在该国设立分…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuif5668202.shtml"
     },
     {
-      "id": "ff8e0704bc",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-22 09:59",
-      "title": "光通信概念股早盘涨幅居前 长飞光纤光缆涨超7%剑桥科技涨超6%",
-      "insight": "光通信概念股早盘涨幅居前，截至发稿，长飞光纤光缆（06869）上涨7.44%，报199.30港元…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inissitf7026660.shtml"
-    },
-    {
-      "id": "ff303c54f7",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-22 09:55",
-      "title": "纳真科技首挂上市 股价现涨12.20%公司在全球所有专业光模块厂商中排名第五",
-      "insight": "纳真科技（09856）首挂上市，公告显示，每股定价32.96港元，共发行1.72亿股股份，每手1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-09-22/doc-inissitm5610655.shtml"
-    },
-    {
-      "id": "ff3167e4e2",
+      "id": "ff88ac8081",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 09:50",
-      "title": "欧盟与菲律宾就自由贸易协定达成“实质性协议”",
-      "insight": "根据欧盟和菲律宾的联合声明，双方已就一项自由贸易协定达成“实质性协议”。 根据欧盟委员会主席冯德…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisscmr2315741.shtml"
+      "time": "09-22 15:48",
+      "title": "得州暂停数据中心项目审批，等待电网和用水审计完成",
+      "insight": "得州州长格雷格·阿博特宣布，在州政府完成对数据中心电力需求和用水情况的审计前，暂停所有与数据中心…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuii2084382.shtml"
     },
     {
-      "id": "ffb57ed67d",
+      "id": "ff40f9f605",
+      "source": "新浪基金",
+      "tag": "基金",
+      "time": "09-22 15:47",
+      "title": "从追光到种田：粮食板块的逻辑，不止厄尔尼诺",
+      "insight": "最近，A股也觉醒了种田的血脉基因，农业主题成为大热方向。 过去很长一段时间里，市场的聚光灯似乎只…",
+      "link": "https://finance.sina.com.cn/money/fund/jjh/2026-09-22/doc-inissuhz6920842.shtml"
+    },
+    {
+      "id": "ff5af231c3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "09-22 15:41",
+      "title": "乙二醇：累库预期落地，乙二醇回落",
+      "insight": "广发期货研究 证监许可【2011】1292号 | 张晓珍Z0003135 | 2026年09月2…",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-22/doc-inissuif5658132.shtml"
+    },
+    {
+      "id": "ffab75ea4a",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 09:47",
-      "title": "阿里巴巴据悉通过大宗交易出售约5亿美元的中通快递ADR",
-      "insight": "据知情人士透露，阿里巴巴周一通过未注册的大宗交易出售约5亿美元中通快递ADR（美国上市凭证）。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisscmi7150825.shtml"
+      "time": "09-22 15:40",
+      "title": "鼓励举报腐败行为，韩国将奖金上限提高至追回款项的30%",
+      "insight": "韩国政府官员周二表示，政府决定取消腐败及侵害公共利益行为举报者现有的30亿韩元（220万美元）奖…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuhz6917301.shtml"
     },
     {
-      "id": "ff10275e51",
+      "id": "ffbea2a335",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:40",
+      "title": "Stifel维持甲骨文“买入”评级：Project Jupiter数据中心建设取得进展",
+      "insight": "Stifel重申对甲骨文的“买入”评级，主要关注公司在新墨西哥州推进Project Jupite…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuic8881948.shtml"
+    },
+    {
+      "id": "ff3249262e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:40",
+      "title": "美版iPhone 18 Pro Max被爆使用高通骁龙X80芯片而非苹果自研C2芯片",
+      "insight": "苹果最新旗舰机型iPhone 18 Pro系列现已开启发货，其所搭载的调制解调器芯片选择引发市场…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuif5654482.shtml"
+    },
+    {
+      "id": "ff323c8c0e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:36",
+      "title": "GameStop董事长Ryan Cohen斥资2640万美元增持公司股票",
+      "insight": "GameStop董事长兼首席执行官Ryan Cohen于9月21日增持公司股票，共买入115.0…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuhz6915647.shtml"
+    },
+    {
+      "id": "ff42838ac7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:35",
+      "title": "波音获得两份美国防务合同，总价值4150万美元",
+      "insight": "波音获得两份总价值约4150万美元的美国防务合同，内容分别涉及科威特F/A-18E/F“超级大黄…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuhz6914542.shtml"
+    },
+    {
+      "id": "ff8593381b",
+      "source": "中证网",
+      "tag": "财经热点",
+      "time": "09-22 15:34",
+      "title": "原高瓴合伙人严文韬加入DeepSeek，出任CFO",
+      "insight": "中国证券报·中证金牛座记者从业内获悉，原高瓴创投合伙人严文韬已正式加入DeepSeek，出任CF…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-22/doc-inissuic8875256.shtml"
+    },
+    {
+      "id": "ff549d7381",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "09-22 15:25",
+      "title": "美国制裁伊朗航空公司，外交部：反对没有国际法依据的非法单边制裁",
+      "insight": "9月22日，外交部发言人郭嘉昆主持例行记者会。 法新社记者提问，美国财政部长贝森特周一警告称，在…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuii2072966.shtml"
+    },
+    {
+      "id": "ff730e8bbf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:25",
+      "title": "美国制裁风险上升，印度石油买家或削减俄罗斯原油采购",
+      "insight": "在美国制裁风险上升背景下，印度石油采购方或将削减俄罗斯原油船货。参与相关讨论的知情人士称，新德里…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuhz6909093.shtml"
+    },
+    {
+      "id": "ffde777f25",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:21",
+      "title": "特朗普将亮相联大：聚焦伊朗 密集会见多国领导人 计划与丹麦签署协议",
+      "insight": "美国总统唐纳德·特朗普将于当地时间周二在联合国大会发表讲话。当前，全球局势以及特朗普本人的总统任…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuif5629982.shtml"
+    },
+    {
+      "id": "ff8073e6e4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:19",
+      "title": "欧洲央行SAFE调查：中东冲突冲击欧元区企业，贸易商、中小企业承压最重",
+      "insight": "欧洲央行2026年二季度欧元区企业融资状况调查（SAFE）分析显示，中东地缘冲突对欧元区企业预期…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuhz6906183.shtml"
+    },
+    {
+      "id": "ffe89ee265",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-22 15:19",
+      "title": "外交部：中方愿同美方一道 丰富中美建设性战略稳定关系内涵",
+      "insight": "9月22日，外交部发言人郭嘉昆主持例行记者会。有记者问：外交部发言人办公室今天在社交媒体发布题为…",
+      "link": "https://finance.sina.com.cn/china/2026-09-22/doc-inissuhz6907954.shtml"
+    },
+    {
+      "id": "ffc5d639a1",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-22 15:19",
+      "title": "外交部：各方应该共同推动人工智能开放、包容、普惠、向善发展",
+      "insight": "9月22日，外交部发言人郭嘉昆主持例行记者会。有记者提问时表示，媒体近期报道，美国和中国将在未来…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-22/doc-inissuhz6910400.shtml"
+    },
+    {
+      "id": "ff22eff499",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-22 15:17",
+      "title": "奥本海默维持特斯拉“与大盘持平”评级：看好其向Physical AI平台转型",
+      "insight": "奥本海默重申对特斯拉的“与大盘持平”评级，认为公司正逐步从一家电动车制造商转向更加完整的Phys…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inissuic8853413.shtml"
+    },
+    {
+      "id": "ff6a597f55",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-22 09:43",
-      "title": "黄金维持区间震荡，等待方向选择",
-      "insight": "文章来源：汇通财经 现货黄金周二亚洲早盘走弱，XAU/USD回落至4355美元附近，结束此前连续…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-22/doc-inisscmm8956165.shtml"
-    },
-    {
-      "id": "ff9c805ab0",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 09:41",
-      "title": "中信建投期货：9月22日能化早报",
-      "insight": "橡胶：震荡延续 周一，国产全乳胶18350元/吨，环比上日上涨50元/吨；泰国20号混合胶179…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inisscmr2310007.shtml"
-    },
-    {
-      "id": "ff4299ea23",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-22 09:41",
-      "title": "澜起科技盘初高开逾17% 机构指伺服器CPU的需求正持续上升",
-      "insight": "澜起科技（06809）盘初高开逾17%，截至发稿，股价上涨15.50%，现报330.80港元，成…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-22/doc-inisscmm8951300.shtml"
-    },
-    {
-      "id": "ffccd3e7b6",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-22 09:38",
-      "title": "光大期货0922黄金点评：鹰派余威叠加美债收益率高企，金价偏弱运行",
-      "insight": "隔夜贵金属市场延续弱势格局。9月21日，COMEX黄金盘中震荡走低，报收4381.0美元/盎司，…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-09-22/doc-inisscmi7145154.shtml"
+      "time": "09-22 15:17",
+      "title": "光大期货0922热点追踪：铜巨震后重返高位，9月底有望刷新高点吗？",
+      "insight": "隔夜内外铜价震荡偏强，LME、COMEX铜价持续冲高，逼近年内前期高点，周二沪铜主力合约涨超1%…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-22/doc-inissuii2068138.shtml"
     }
   ],
-  "updateTime": "2026-09-22 10:45"
+  "updateTime": "2026-09-22 16:07"
 }
