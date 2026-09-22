@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffcadf3ae6",
+      "id": "ff19f4b928",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:40",
-      "title": "Anthropic CEO Amodei将向联合国安理会介绍人工智能风险",
-      "insight": "Anthropic首席执行官达里奥·阿莫代将于周三出席联合国安理会有关人工智能未来的会议，并就人…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmev8815615.shtml"
-    },
-    {
-      "id": "ff973e7048",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:39",
-      "title": "知情人士：SpaceX逐步淘汰猎鹰9号火箭",
-      "insight": "据报道，SpaceX正在逐步淘汰全球使用最频繁的猎鹰9号火箭，转而专注于新型星舰飞船，导致商业航…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmet6688050.shtml"
-    },
-    {
-      "id": "ff2be3f095",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:36",
-      "title": "瑞银：欧洲工业与矿业股估值较低",
-      "insight": "瑞银称，欧洲工业与矿业股估值较低，且拥挤度低于美股，因此筛选表现良好。 策略师Gerry Fow…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmev8812224.shtml"
-    },
-    {
-      "id": "ff6e046612",
-      "source": "《财经》杂志",
       "tag": "财经热点",
-      "time": "09-22 21:36",
-      "title": "大众下修指引，中国成最大变量",
-      "insight": "下修盈利预期，将约百亿欧元特殊项目压至年内，是大众汽车集团一次性风险的集中释放。中国市场不但是减…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-22/doc-inistmez1852628.shtml"
+      "time": "09-23 02:14",
+      "title": "贝森特是特朗普政府“AI沙皇”热门人选",
+      "insight": "Semafor援引三位不具名知情人士报道，美国财政部长斯科特·贝森特是出任特朗普政府“AI沙皇”…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistvur8713067.shtml"
     },
     {
-      "id": "fff541b416",
+      "id": "ff570d4529",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 02:13",
+      "title": "特朗普称美国官员周二早些时候与伊朗代表团长谈",
+      "insight": "美国总统特朗普表示，一名美国官员大约一小时前与伊朗代表团举行了三小时的会谈。",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistvup6538638.shtml"
+    },
+    {
+      "id": "ff3dd95625",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 02:13",
+      "title": "里士满联储行长警告通胀压力可能需要一定时间才能消退",
+      "insight": "里士满联储行长汤姆·巴尔金警告称，通胀冲击可能需要一段时间才能消退，持续高企的价格压力存在变得根…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistvur8712526.shtml"
+    },
+    {
+      "id": "ff1d1c5b15",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:55",
+      "title": "Anthropic推出Claude Opus 5.5 宣称能以更低成本处理企业任务",
+      "insight": "Anthropic周二发布新款人工智能模型Claude Opus 5.5，该工具将能以更低成本处…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistvuv1695968.shtml"
+    },
+    {
+      "id": "ff9d34018a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:38",
+      "title": "美国与丹麦达成的协议显示 美国或在格陵兰增设国防设施",
+      "insight": "根据美国与丹麦达成的协议，美国可在格陵兰设立更多国防基地。 协议包括在Narsarsuaq和Me…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnx1823259.shtml"
+    },
+    {
+      "id": "ff4073031e",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:32",
+      "title": "特朗普称美伊一直保持沟通 相信将能达成一项协议",
+      "insight": "美国总统特朗普在与英国首相安迪·伯纳姆会晤期间表示，美国和伊朗将达成一项协议。 特朗普说：“他们…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnt8826281.shtml"
+    },
+    {
+      "id": "ff02dc146f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:31",
+      "title": "苹果开发无屏版健康追踪器 瞄准Whoop等竞争对手",
+      "insight": "苹果正在开发一款类似Whoop腕戴设备的无屏健康和健身追踪器。 知情人士称，苹果已经探索这一产品…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnt8826184.shtml"
+    },
+    {
+      "id": "ff7bb33bb4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:30",
+      "title": "欧洲债市：德国国债持稳 欧洲央行加息押注保持稳定",
+      "insight": "随着布伦特原油价格震荡，德国国债持稳，法国国债表现落后，交易员关注结束美伊战争的外交努力。 法国…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnv5598344.shtml"
+    },
+    {
+      "id": "ff1b838784",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:29",
+      "title": "伊朗据报拟暂扣未经授权通过霍尔木兹海峡的船只 罚款相当于货值20%",
+      "insight": "伊朗半官方的法尔斯通讯社援引议会国家安全委员会发言人报道，伊朗计划暂时扣押未经授权通过霍尔木兹海…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnv5597988.shtml"
+    },
+    {
+      "id": "ff28bf7a5a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:29",
+      "title": "美国2年期国债中标收益率创2024年以来最高 需求略低于预期",
+      "insight": "美国财政部690亿美元2年期国债拍卖中标收益率为4.787%，为2024年5月以来的最高水平，高…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnx1821096.shtml"
+    },
+    {
+      "id": "ff17e23339",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 01:05",
+      "title": "贝森特的副手称国库券供应量的激增获得了市场非常良好的承接",
+      "insight": "美国财政部长斯科特·贝森特新近获确认的副手Francis Brooke表示，过去几个月，美国国库…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnt8815770.shtml"
+    },
+    {
+      "id": "ff202e1fb1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:30",
-      "title": "开盘：三大股指齐涨 AI行情主导大盘",
-      "insight": "受人工智能概念股带动大盘上涨之后，周二美股主要股指小幅高开。 道指涨0.36%，标普500指数涨…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmev8812090.shtml"
+      "time": "09-23 01:01",
+      "title": "企业娱乐预订初创公司Ande获光速创投、红点创投5200万美元融资",
+      "insight": "Instinct、Muse 这类个人 AI 智能体已经承诺，帮人们省去抢热门餐厅座位、百老汇演出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnt8814000.shtml"
     },
     {
-      "id": "ff2d5f6e9c",
+      "id": "ff1171af95",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 00:54",
+      "title": "特朗普坚定拒绝制定管控AI的国际协议 淡化前沿模型失控风险",
+      "insight": "美国总统特朗普拒绝有关制定国际协议、为AI发展设置安全护栏的呼吁，其淡化了前沿模型失控可能带来的…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnr6649238.shtml"
+    },
+    {
+      "id": "ffd3ded2e7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:28",
-      "title": "阿塞拜疆计划到2030年底将铝年产量提升至10万吨",
-      "insight": "阿塞拜疆总统伊利哈姆·阿利耶夫表示，阿塞拜疆计划通过一项旨在发展采矿业和冶金工业的新国家计划，到…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmez1846212.shtml"
+      "time": "09-23 00:51",
+      "title": "软件企业AI产品降价，留住客户以防转投Anthropic、OpenAI",
+      "insight": "亚马逊、微软、Figma、Workday 等软件厂商与云服务商，正在面向客户及咨询合作伙伴推出 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnr6648314.shtml"
     },
     {
-      "id": "ff13b26291",
+      "id": "ff5f2ff112",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-23 00:48",
+      "title": "花旗调查：家族办公室将通胀视为头号担忧 青睐股票和黄金",
+      "insight": "家族办公室目前将通胀视为头号担忧，显示商品和服务价格上涨即便对最富有的投资者也构成困扰。 根据花…",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnt8808974.shtml"
+    },
+    {
+      "id": "ff14caf340",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:26",
-      "title": "猎鹰9号即将逐步退役，行业加紧寻找新的载荷发射途径",
-      "insight": "记者迈卡・梅登伯格、贝基・彼得森报道，SpaceX 正在逐步退役全球发射频次最高的猎鹰 9 号火…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmex5577445.shtml"
+      "time": "09-23 00:45",
+      "title": "Anthropic发布Opus 5.5，系CEO阿莫代伊呼吁放缓AI发展之后推出的首款大模型",
+      "insight": "Anthropic（非上市公司，股票代码 ANTH.PVT）于周二推出全新高性能大模型 Opus…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnx1809893.shtml"
     },
     {
-      "id": "ff29e5443c",
+      "id": "ffc91457e5",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:22",
-      "title": "“这里没有副总裁、高级副总裁”，Hut 8 为何取消绝大多数传统职位头衔",
-      "insight": "作者：艾伦・默里 上周，31 岁的阿斯赫・吉努特到访，令我颇有启发。他是 Hut 8 的首席执行…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmet6681191.shtml"
+      "time": "09-23 00:42",
+      "title": "游戏驿站CEO斥资2600万美元增持股票，游戏驿站股价上涨约4%",
+      "insight": "周二，游戏驿站（GME）股价上涨约 4%。这家游戏零售巨头向美国证券交易委员会提交 Form‑4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnv5579093.shtml"
     },
     {
-      "id": "ff3d5af4aa",
+      "id": "ffdf7c0874",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:19",
-      "title": "亚马逊将Meta的Muse拒之门外",
-      "insight": "Meta 全新推出的 Muse 智能体，一面收获不少用户青睐，一面也引来多方抵触。 电商平台 S…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistmex5573469.shtml"
+      "time": "09-23 00:34",
+      "title": "Nscale即将IPO，华尔街将再度接受高度集中化AI投资的考验",
+      "insight": "当英国新型云服务商 Nscale 完成上市，将考验公众投资者对一家收入高度依赖两大客户的企业的接…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnv5574889.shtml"
     },
     {
-      "id": "ff7d1bd93e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:16",
-      "title": "AutoZone销售额实现增长，预计将延续进一步扩张态势",
-      "insight": "内容摘要 AutoZone 公布财年第四季度利润 9.316 亿美元，折合每股 56.05 美元…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewv6809412.shtml"
-    },
-    {
-      "id": "ff4b4386be",
+      "id": "ff58d8c69d",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-22 21:13",
-      "title": "格力电商迎“新掌门”，72岁董明珠再为“退休”作铺垫？",
-      "insight": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 “我会少些话语，给年轻人更多的机会”…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-22/doc-inistmex5579227.shtml"
-    },
-    {
-      "id": "ff6bbfdc0c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:13",
-      "title": "托尔工业准备迎接更多不利因素：购买力承压、原材料成本挤压公司毛利率",
-      "insight": "内容摘要 托尔工业公布财年第四季度利润 4080 万美元，上年同期为 1.258 亿美元。 房车…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewx8927265.shtml"
-    },
-    {
-      "id": "ff8300a378",
-      "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-22 21:10",
-      "title": "万斯牵头专项工作组 拟清除76万涉嫌欺诈的奥巴马医保参保记录",
-      "insight": "美国副总统JD·万斯领导的反欺诈专项工作组，计划将数十万人从《平价医疗法案》公共医保交易平台剔除…",
-      "link": "https://finance.sina.com.cn/world/2026-09-22/doc-inistewx8925106.shtml"
+      "time": "09-23 00:29",
+      "title": "伦敦AI大会现场，她突然问了一个很多人都不敢问的问题。当AI越来越快地改变我们的生活，谁在替我们决定未来",
+      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
+      "link": "https://finance.sina.com.cn/world/2026-09-23/doc-inistrnv5572386.shtml"
     },
     {
-      "id": "ff046e7be5",
+      "id": "ff141e8b13",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-22 21:09",
-      "title": "途易上调盈利指引，度假游需求强劲，公司仍暂停发布营收指引",
-      "insight": "内容摘要 德国旅游集团途易将全年息税前基础收益指引收窄至 12 亿‑13 亿欧元区间。 德国旅游…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistexc1969835.shtml"
-    },
-    {
-      "id": "ff875a1b77",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-22 21:07",
-      "title": "美国官员：特朗普称若“条件合适”愿与伊朗官员会面",
-      "insight": "一名了解相关情况的美国官员透露，美国总统特朗普对其顾问表示，如果“条件合适”，希望安排与赴纽约参…",
-      "link": "https://finance.sina.com.cn/world/2026-09-22/doc-inistewz5695030.shtml"
-    },
-    {
-      "id": "ffb1c2c84c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:06",
-      "title": "AI 概念股涨势降温，油价跌破 100 美元关口",
-      "insight": "受沙特即将重启一条关键输油管道、市场愈发期待通过外交途径斡旋重新开放霍尔木兹海峡等因素影响，全球…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewz5694045.shtml"
-    },
-    {
-      "id": "ffa4e97d81",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:03",
-      "title": "全球头部AI从业者担忧技术威胁社会 心理负担日益加重",
-      "insight": "全球头部AI企业与研究机构的员工，承受着越来越大的精神压力：他们参与研发的系统，在他们看来可能对…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistexc1966024.shtml"
-    },
-    {
-      "id": "ffe4eead1e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 21:02",
-      "title": "Kalshi向美国商品期货交易委员会申请，拟在平台推出保证金交易",
-      "insight": "核心要点Kalshi 正向联邦监管机构申请许可，拟允许部分交易者在其预测市场使用杠杆交易。该公司…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewv6802002.shtml"
-    },
-    {
-      "id": "ff35aa0e3e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 20:59",
-      "title": "罗森布拉特证券首予闪迪“买入”评级：AI正重塑NAND价值，目标价2400美元",
-      "insight": "罗森布拉特证券首次覆盖闪迪并给予“买入”评级，目标价定为2400美元。该机构认为，随着AI模型规…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewx8915580.shtml"
-    },
-    {
-      "id": "ffccd7f938",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-22 20:59",
-      "title": "设备故障过后，纽瓦克、费城机场航班运行中断情况有所缓解",
-      "insight": "核心要点周二航班扰动仍在持续，但相比前一日已有所好转。周一新泽西州中部一条光纤被挖断，导致空管的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inistewv6800983.shtml"
+      "time": "09-23 00:04",
+      "title": "肥胖药赛道，礼来与诺和诺德迎来挑战者？",
+      "insight": "Viking Therapeutics周二早盘股价大涨 31%。该公司公布旗下糖尿病及肥胖候选药…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inistrnt8779440.shtml"
     }
   ],
-  "updateTime": "2026-09-22 21:48"
+  "updateTime": "2026-09-23 02:26"
 }
