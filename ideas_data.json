@@ -2,28 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "第五届数贸会亮点抢先看",
-      "heat": 11679991,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E5%B1%8A%E6%95%B0%E8%B4%B8%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
-      "scheme": "snssdk1128://search/第五届数贸会亮点抢先看"
-    },
-    {
-      "rank": 2,
-      "topic": "张展硕200自破纪录夺冠",
-      "heat": 11556998,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%A0%E5%B1%95%E7%A1%95200%E8%87%AA%E7%A0%B4%E7%BA%AA%E5%BD%95%E5%A4%BA%E5%86%A0?type=general",
-      "scheme": "snssdk1128://search/张展硕200自破纪录夺冠"
-    },
-    {
-      "rank": 3,
       "topic": "中秋来庐山看千里江山",
-      "heat": 10677069,
+      "heat": 11323389,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -31,9 +11,19 @@
       "scheme": "snssdk1128://search/中秋来庐山看千里江山"
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "topic": "第五届数贸会亮点抢先看",
+      "heat": 11263768,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E5%B1%8A%E6%95%B0%E8%B4%B8%E4%BC%9A%E4%BA%AE%E7%82%B9%E6%8A%A2%E5%85%88%E7%9C%8B?type=general",
+      "scheme": "snssdk1128://search/第五届数贸会亮点抢先看"
+    },
+    {
+      "rank": 3,
       "topic": "带你第一视角体验洱海渔灯",
-      "heat": 10547470,
+      "heat": 11109163,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -41,9 +31,29 @@
       "scheme": "snssdk1128://search/带你第一视角体验洱海渔灯"
     },
     {
+      "rank": 4,
+      "topic": "美在中秋月圆时",
+      "heat": 10497567,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%BE%8E%E5%9C%A8%E4%B8%AD%E7%A7%8B%E6%9C%88%E5%9C%86%E6%97%B6?type=general",
+      "scheme": "snssdk1128://search/美在中秋月圆时"
+    },
+    {
       "rank": 5,
+      "topic": "已严肃进入假期状态",
+      "heat": 10413558,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B7%B2%E4%B8%A5%E8%82%83%E8%BF%9B%E5%85%A5%E5%81%87%E6%9C%9F%E7%8A%B6%E6%80%81?type=general",
+      "scheme": "snssdk1128://search/已严肃进入假期状态"
+    },
+    {
+      "rank": 6,
       "topic": "纯过日子就是记录一餐一饭",
-      "heat": 9392162,
+      "heat": 9185029,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,109 +61,9 @@
       "scheme": "snssdk1128://search/纯过日子就是记录一餐一饭"
     },
     {
-      "rank": 6,
-      "topic": "提前预定中秋节文案",
-      "heat": 9270539,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8F%90%E5%89%8D%E9%A2%84%E5%AE%9A%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%96%87%E6%A1%88?type=general",
-      "scheme": "snssdk1128://search/提前预定中秋节文案"
-    },
-    {
       "rank": 7,
-      "topic": "中国农民丰收节看丰收底气",
-      "heat": 9152239,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E4%B8%B0%E6%94%B6%E8%8A%82%E7%9C%8B%E4%B8%B0%E6%94%B6%E5%BA%95%E6%B0%94?type=general",
-      "scheme": "snssdk1128://search/中国农民丰收节看丰收底气"
-    },
-    {
-      "rank": 8,
-      "topic": "年轻人的中秋风物志",
-      "heat": 9119009,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B9%B4%E8%BD%BB%E4%BA%BA%E7%9A%84%E4%B8%AD%E7%A7%8B%E9%A3%8E%E7%89%A9%E5%BF%97?type=general",
-      "scheme": "snssdk1128://search/年轻人的中秋风物志"
-    },
-    {
-      "rank": 9,
-      "topic": "万物皆可闪身步",
-      "heat": 9034449,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%97%AA%E8%BA%AB%E6%AD%A5?type=general",
-      "scheme": "snssdk1128://search/万物皆可闪身步"
-    },
-    {
-      "rank": 10,
-      "topic": "一人一个旅行信息差",
-      "heat": 8189471,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E4%BA%BA%E4%B8%80%E4%B8%AA%E6%97%85%E8%A1%8C%E4%BF%A1%E6%81%AF%E5%B7%AE?type=general",
-      "scheme": "snssdk1128://search/一人一个旅行信息差"
-    },
-    {
-      "rank": 11,
-      "topic": "“民惠通APP发高龄补贴”不实",
-      "heat": 8138032,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E2%80%9C%E6%B0%91%E6%83%A0%E9%80%9AAPP%E5%8F%91%E9%AB%98%E9%BE%84%E8%A1%A5%E8%B4%B4%E2%80%9D%E4%B8%8D%E5%AE%9E?type=general",
-      "scheme": "snssdk1128://search/“民惠通APP发高龄补贴”不实"
-    },
-    {
-      "rank": 12,
-      "topic": "中秋回家就馋这一口",
-      "heat": 7855470,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%9B%9E%E5%AE%B6%E5%B0%B1%E9%A6%8B%E8%BF%99%E4%B8%80%E5%8F%A3?type=general",
-      "scheme": "snssdk1128://search/中秋回家就馋这一口"
-    },
-    {
-      "rank": 13,
-      "topic": "中秋国庆出游穿搭指南",
-      "heat": 7816410,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%A9%BF%E6%90%AD%E6%8C%87%E5%8D%97?type=general",
-      "scheme": "snssdk1128://search/中秋国庆出游穿搭指南"
-    },
-    {
-      "rank": 14,
-      "topic": "兰香如故赐婚众生相笑晕了",
-      "heat": 7806566,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%B0%E9%A6%99%E5%A6%82%E6%95%85%E8%B5%90%E5%A9%9A%E4%BC%97%E7%94%9F%E7%9B%B8%E7%AC%91%E6%99%95%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/兰香如故赐婚众生相笑晕了"
-    },
-    {
-      "rank": 15,
-      "topic": "见不到面就同看一轮月",
-      "heat": 7789231,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A7%81%E4%B8%8D%E5%88%B0%E9%9D%A2%E5%B0%B1%E5%90%8C%E7%9C%8B%E4%B8%80%E8%BD%AE%E6%9C%88?type=general",
-      "scheme": "snssdk1128://search/见不到面就同看一轮月"
-    },
-    {
-      "rank": 16,
       "topic": "国庆闪身全国各地",
-      "heat": 7772831,
+      "heat": 9008590,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -161,89 +71,69 @@
       "scheme": "snssdk1128://search/国庆闪身全国各地"
     },
     {
-      "rank": 17,
-      "topic": "国庆穿什么",
-      "heat": 7768027,
+      "rank": 8,
+      "topic": "中国农民丰收节看丰收底气",
+      "heat": 8886976,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A9%BF%E4%BB%80%E4%B9%88?type=general",
-      "scheme": "snssdk1128://search/国庆穿什么"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%86%9C%E6%B0%91%E4%B8%B0%E6%94%B6%E8%8A%82%E7%9C%8B%E4%B8%B0%E6%94%B6%E5%BA%95%E6%B0%94?type=general",
+      "scheme": "snssdk1128://search/中国农民丰收节看丰收底气"
     },
     {
-      "rank": 18,
-      "topic": "我们都被困在这寂寞的夜晚",
-      "heat": 7767770,
+      "rank": 9,
+      "topic": "见不到面就同看一轮月",
+      "heat": 8803853,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E9%83%BD%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%BF%99%E5%AF%82%E5%AF%9E%E7%9A%84%E5%A4%9C%E6%99%9A?type=general",
-      "scheme": "snssdk1128://search/我们都被困在这寂寞的夜晚"
+      "link": "https://www.douyin.com/search/%E8%A7%81%E4%B8%8D%E5%88%B0%E9%9D%A2%E5%B0%B1%E5%90%8C%E7%9C%8B%E4%B8%80%E8%BD%AE%E6%9C%88?type=general",
+      "scheme": "snssdk1128://search/见不到面就同看一轮月"
     },
     {
-      "rank": 19,
-      "topic": "中秋和月亮合个影吧",
-      "heat": 7757191,
+      "rank": 10,
+      "topic": "万物皆可闪身步",
+      "heat": 8790079,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%92%8C%E6%9C%88%E4%BA%AE%E5%90%88%E4%B8%AA%E5%BD%B1%E5%90%A7?type=general",
-      "scheme": "snssdk1128://search/中秋和月亮合个影吧"
+      "link": "https://www.douyin.com/search/%E4%B8%87%E7%89%A9%E7%9A%86%E5%8F%AF%E9%97%AA%E8%BA%AB%E6%AD%A5?type=general",
+      "scheme": "snssdk1128://search/万物皆可闪身步"
     },
     {
-      "rank": 20,
-      "topic": "林锦岐许兰香开启婚后生活",
-      "heat": 7752916,
+      "rank": 11,
+      "topic": "小米18的背屏到底有什么用",
+      "heat": 8574734,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9E%97%E9%94%A6%E5%B2%90%E8%AE%B8%E5%85%B0%E9%A6%99%E5%BC%80%E5%90%AF%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB?type=general",
-      "scheme": "snssdk1128://search/林锦岐许兰香开启婚后生活"
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318%E7%9A%84%E8%83%8C%E5%B1%8F%E5%88%B0%E5%BA%95%E6%9C%89%E4%BB%80%E4%B9%88%E7%94%A8?type=general",
+      "scheme": "snssdk1128://search/小米18的背屏到底有什么用"
     },
     {
-      "rank": 21,
-      "topic": "gogogo回家喽",
-      "heat": 7727429,
+      "rank": 12,
+      "topic": "“民惠通APP发高龄补贴”不实",
+      "heat": 8337041,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/gogogo%E5%9B%9E%E5%AE%B6%E5%96%BD?type=general",
-      "scheme": "snssdk1128://search/gogogo回家喽"
+      "link": "https://www.douyin.com/search/%E2%80%9C%E6%B0%91%E6%83%A0%E9%80%9AAPP%E5%8F%91%E9%AB%98%E9%BE%84%E8%A1%A5%E8%B4%B4%E2%80%9D%E4%B8%8D%E5%AE%9E?type=general",
+      "scheme": "snssdk1128://search/“民惠通APP发高龄补贴”不实"
     },
     {
-      "rank": 22,
-      "topic": "出门玩请本地人帮帮",
-      "heat": 7724613,
+      "rank": 13,
+      "topic": "这顿团圆饭我承包了",
+      "heat": 8307035,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%87%BA%E9%97%A8%E7%8E%A9%E8%AF%B7%E6%9C%AC%E5%9C%B0%E4%BA%BA%E5%B8%AE%E5%B8%AE?type=general",
-      "scheme": "snssdk1128://search/出门玩请本地人帮帮"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E9%A1%BF%E5%9B%A2%E5%9C%86%E9%A5%AD%E6%88%91%E6%89%BF%E5%8C%85%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/这顿团圆饭我承包了"
     },
     {
-      "rank": 23,
-      "topic": "杨幂米兰时装周新造型",
-      "heat": 7724418,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9D%A8%E5%B9%82%E7%B1%B3%E5%85%B0%E6%97%B6%E8%A3%85%E5%91%A8%E6%96%B0%E9%80%A0%E5%9E%8B?type=general",
-      "scheme": "snssdk1128://search/杨幂米兰时装周新造型"
-    },
-    {
-      "rank": 24,
-      "topic": "开启万物月饼化时期",
-      "heat": 7723858,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%80%E5%90%AF%E4%B8%87%E7%89%A9%E6%9C%88%E9%A5%BC%E5%8C%96%E6%97%B6%E6%9C%9F?type=general",
-      "scheme": "snssdk1128://search/开启万物月饼化时期"
-    },
-    {
-      "rank": 25,
+      "rank": 14,
       "topic": "看看你国庆被分到哪一批",
-      "heat": 7705993,
+      "heat": 8249028,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -251,55 +141,165 @@
       "scheme": "snssdk1128://search/看看你国庆被分到哪一批"
     },
     {
-      "rank": 26,
-      "topic": "各地月饼品鉴师已上线",
-      "heat": 7704853,
+      "rank": 15,
+      "topic": "黑灰系女孩的国庆出行look",
+      "heat": 8161513,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E6%9C%88%E9%A5%BC%E5%93%81%E9%89%B4%E5%B8%88%E5%B7%B2%E4%B8%8A%E7%BA%BF?type=general",
-      "scheme": "snssdk1128://search/各地月饼品鉴师已上线"
+      "link": "https://www.douyin.com/search/%E9%BB%91%E7%81%B0%E7%B3%BB%E5%A5%B3%E5%AD%A9%E7%9A%84%E5%9B%BD%E5%BA%86%E5%87%BA%E8%A1%8Clook?type=general",
+      "scheme": "snssdk1128://search/黑灰系女孩的国庆出行look"
+    },
+    {
+      "rank": 16,
+      "topic": "中秋国庆出游穿搭指南",
+      "heat": 8072064,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%9B%BD%E5%BA%86%E5%87%BA%E6%B8%B8%E7%A9%BF%E6%90%AD%E6%8C%87%E5%8D%97?type=general",
+      "scheme": "snssdk1128://search/中秋国庆出游穿搭指南"
+    },
+    {
+      "rank": 17,
+      "topic": "出门玩请本地人帮帮",
+      "heat": 7963531,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%87%BA%E9%97%A8%E7%8E%A9%E8%AF%B7%E6%9C%AC%E5%9C%B0%E4%BA%BA%E5%B8%AE%E5%B8%AE?type=general",
+      "scheme": "snssdk1128://search/出门玩请本地人帮帮"
+    },
+    {
+      "rank": 18,
+      "topic": "属于妈妈的味道一口就能认出来",
+      "heat": 7903830,
+      "videos": 0,
+      "type": "母婴萌娃",
+      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
+      "link": "https://www.douyin.com/search/%E5%B1%9E%E4%BA%8E%E5%A6%88%E5%A6%88%E7%9A%84%E5%91%B3%E9%81%93%E4%B8%80%E5%8F%A3%E5%B0%B1%E8%83%BD%E8%AE%A4%E5%87%BA%E6%9D%A5?type=general",
+      "scheme": "snssdk1128://search/属于妈妈的味道一口就能认出来"
+    },
+    {
+      "rank": 19,
+      "topic": "红尘误此生翻唱",
+      "heat": 7834851,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%BA%A2%E5%B0%98%E8%AF%AF%E6%AD%A4%E7%94%9F%E7%BF%BB%E5%94%B1?type=general",
+      "scheme": "snssdk1128://search/红尘误此生翻唱"
+    },
+    {
+      "rank": 20,
+      "topic": "小米新品发布会",
+      "heat": 7834297,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B3%E6%96%B0%E5%93%81%E5%8F%91%E5%B8%83%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/小米新品发布会"
+    },
+    {
+      "rank": 21,
+      "topic": "林锦岐许兰香开启婚后生活",
+      "heat": 7824696,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9E%97%E9%94%A6%E5%B2%90%E8%AE%B8%E5%85%B0%E9%A6%99%E5%BC%80%E5%90%AF%E5%A9%9A%E5%90%8E%E7%94%9F%E6%B4%BB?type=general",
+      "scheme": "snssdk1128://search/林锦岐许兰香开启婚后生活"
+    },
+    {
+      "rank": 22,
+      "topic": "小大人打工日常belike",
+      "heat": 7815998,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%A4%A7%E4%BA%BA%E6%89%93%E5%B7%A5%E6%97%A5%E5%B8%B8belike?type=general",
+      "scheme": "snssdk1128://search/小大人打工日常belike"
+    },
+    {
+      "rank": 23,
+      "topic": "中秋和月亮合个影吧",
+      "heat": 7791292,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%92%8C%E6%9C%88%E4%BA%AE%E5%90%88%E4%B8%AA%E5%BD%B1%E5%90%A7?type=general",
+      "scheme": "snssdk1128://search/中秋和月亮合个影吧"
+    },
+    {
+      "rank": 24,
+      "topic": "柯淳新电影嘴甜的人先享受业绩",
+      "heat": 7787529,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9F%AF%E6%B7%B3%E6%96%B0%E7%94%B5%E5%BD%B1%E5%98%B4%E7%94%9C%E7%9A%84%E4%BA%BA%E5%85%88%E4%BA%AB%E5%8F%97%E4%B8%9A%E7%BB%A9?type=general",
+      "scheme": "snssdk1128://search/柯淳新电影嘴甜的人先享受业绩"
+    },
+    {
+      "rank": 25,
+      "topic": "开启万物月饼化时期",
+      "heat": 7779502,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%80%E5%90%AF%E4%B8%87%E7%89%A9%E6%9C%88%E9%A5%BC%E5%8C%96%E6%97%B6%E6%9C%9F?type=general",
+      "scheme": "snssdk1128://search/开启万物月饼化时期"
+    },
+    {
+      "rank": 26,
+      "topic": "原神7.1版本上线",
+      "heat": 7766620,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.1%E7%89%88%E6%9C%AC%E4%B8%8A%E7%BA%BF?type=general",
+      "scheme": "snssdk1128://search/原神7.1版本上线"
     },
     {
       "rank": 27,
-      "topic": "鞠婧祎张云龙咬脖吻张力拉满",
-      "heat": 7702263,
+      "topic": "和10个陌生人一起过中秋节",
+      "heat": 7745666,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%BC%A0%E4%BA%91%E9%BE%99%E5%92%AC%E8%84%96%E5%90%BB%E5%BC%A0%E5%8A%9B%E6%8B%89%E6%BB%A1?type=general",
-      "scheme": "snssdk1128://search/鞠婧祎张云龙咬脖吻张力拉满"
+      "link": "https://www.douyin.com/search/%E5%92%8C10%E4%B8%AA%E9%99%8C%E7%94%9F%E4%BA%BA%E4%B8%80%E8%B5%B7%E8%BF%87%E4%B8%AD%E7%A7%8B%E8%8A%82?type=general",
+      "scheme": "snssdk1128://search/和10个陌生人一起过中秋节"
     },
     {
       "rank": 28,
-      "topic": "专访钢琴教师段俊",
-      "heat": 7699112,
+      "topic": "今年中秋不吃月饼吃火锅",
+      "heat": 7738672,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%93%E8%AE%BF%E9%92%A2%E7%90%B4%E6%95%99%E5%B8%88%E6%AE%B5%E4%BF%8A?type=general",
-      "scheme": "snssdk1128://search/专访钢琴教师段俊"
+      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E4%B8%8D%E5%90%83%E6%9C%88%E9%A5%BC%E5%90%83%E7%81%AB%E9%94%85?type=general",
+      "scheme": "snssdk1128://search/今年中秋不吃月饼吃火锅"
     },
     {
       "rank": 29,
-      "topic": "一分钟讲清螃蟹哪里不能吃",
-      "heat": 7695352,
+      "topic": "JOJO新OP动画解禁",
+      "heat": 7735872,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E5%88%86%E9%92%9F%E8%AE%B2%E6%B8%85%E8%9E%83%E8%9F%B9%E5%93%AA%E9%87%8C%E4%B8%8D%E8%83%BD%E5%90%83?type=general",
-      "scheme": "snssdk1128://search/一分钟讲清螃蟹哪里不能吃"
+      "link": "https://www.douyin.com/search/JOJO%E6%96%B0OP%E5%8A%A8%E7%94%BB%E8%A7%A3%E7%A6%81?type=general",
+      "scheme": "snssdk1128://search/JOJO新OP动画解禁"
     },
     {
       "rank": 30,
-      "topic": "小米18Pro系列发布",
-      "heat": 7686957,
+      "topic": "全明星版就骗我一次",
+      "heat": 7730893,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318Pro%E7%B3%BB%E5%88%97%E5%8F%91%E5%B8%83?type=general",
-      "scheme": "snssdk1128://search/小米18Pro系列发布"
+      "link": "https://www.douyin.com/search/%E5%85%A8%E6%98%8E%E6%98%9F%E7%89%88%E5%B0%B1%E9%AA%97%E6%88%91%E4%B8%80%E6%AC%A1?type=general",
+      "scheme": "snssdk1128://search/全明星版就骗我一次"
     }
   ],
-  "updateTime": "2026-09-24 07:22"
+  "updateTime": "2026-09-24 10:35"
 }
