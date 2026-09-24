@@ -2,18 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "美在中秋月圆时",
-      "heat": 12106467,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BE%8E%E5%9C%A8%E4%B8%AD%E7%A7%8B%E6%9C%88%E5%9C%86%E6%97%B6?type=general",
-      "scheme": "snssdk1128://search/美在中秋月圆时"
-    },
-    {
-      "rank": 2,
       "topic": "先进制造业赋能中国经济",
-      "heat": 11975529,
+      "heat": 12092987,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,79 +11,29 @@
       "scheme": "snssdk1128://search/先进制造业赋能中国经济"
     },
     {
-      "rank": 3,
-      "topic": "国乒女团vs日本女团",
-      "heat": 11924158,
+      "rank": 2,
+      "topic": "中秋晒月亮大赛",
+      "heat": 10946012,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2vs%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%9B%A2?type=general",
-      "scheme": "snssdk1128://search/国乒女团vs日本女团"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%99%92%E6%9C%88%E4%BA%AE%E5%A4%A7%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/中秋晒月亮大赛"
+    },
+    {
+      "rank": 3,
+      "topic": "CFA友谊赛国足vs马尔代夫",
+      "heat": 10314724,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/CFA%E5%8F%8B%E8%B0%8A%E8%B5%9B%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB?type=general",
+      "scheme": "snssdk1128://search/CFA友谊赛国足vs马尔代夫"
     },
     {
       "rank": 4,
-      "topic": "对这片土地爱得深沉",
-      "heat": 10454492,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AF%B9%E8%BF%99%E7%89%87%E5%9C%9F%E5%9C%B0%E7%88%B1%E5%BE%97%E6%B7%B1%E6%B2%89?type=general",
-      "scheme": "snssdk1128://search/对这片土地爱得深沉"
-    },
-    {
-      "rank": 5,
-      "topic": "中秋团圆的N种想象",
-      "heat": 10444176,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E5%9B%A2%E5%9C%86%E7%9A%84N%E7%A7%8D%E6%83%B3%E8%B1%A1?type=general",
-      "scheme": "snssdk1128://search/中秋团圆的N种想象"
-    },
-    {
-      "rank": 6,
-      "topic": "多想和你再过一次中秋",
-      "heat": 9296947,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A4%9A%E6%83%B3%E5%92%8C%E4%BD%A0%E5%86%8D%E8%BF%87%E4%B8%80%E6%AC%A1%E4%B8%AD%E7%A7%8B?type=general",
-      "scheme": "snssdk1128://search/多想和你再过一次中秋"
-    },
-    {
-      "rank": 7,
-      "topic": "今晚24时油价迎调整",
-      "heat": 9224959,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%8A%E6%99%9A24%E6%97%B6%E6%B2%B9%E4%BB%B7%E8%BF%8E%E8%B0%83%E6%95%B4?type=general",
-      "scheme": "snssdk1128://search/今晚24时油价迎调整"
-    },
-    {
-      "rank": 8,
-      "topic": "双节期间我国菜篮子供应充足",
-      "heat": 9079314,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%8C%E8%8A%82%E6%9C%9F%E9%97%B4%E6%88%91%E5%9B%BD%E8%8F%9C%E7%AF%AE%E5%AD%90%E4%BE%9B%E5%BA%94%E5%85%85%E8%B6%B3?type=general",
-      "scheme": "snssdk1128://search/双节期间我国菜篮子供应充足"
-    },
-    {
-      "rank": 9,
-      "topic": "国足vs马尔代夫前瞻",
-      "heat": 8948129,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3vs%E9%A9%AC%E5%B0%94%E4%BB%A3%E5%A4%AB%E5%89%8D%E7%9E%BB?type=general",
-      "scheme": "snssdk1128://search/国足vs马尔代夫前瞻"
-    },
-    {
-      "rank": 10,
       "topic": "张展硕亚运会六金王",
-      "heat": 8881944,
+      "heat": 10276483,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -101,59 +41,59 @@
       "scheme": "snssdk1128://search/张展硕亚运会六金王"
     },
     {
-      "rank": 11,
-      "topic": "用周五饭票打开中秋节",
-      "heat": 8750738,
+      "rank": 5,
+      "topic": "多想和你再过一次中秋",
+      "heat": 9118488,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8%E5%91%A8%E4%BA%94%E9%A5%AD%E7%A5%A8%E6%89%93%E5%BC%80%E4%B8%AD%E7%A7%8B%E8%8A%82?type=general",
-      "scheme": "snssdk1128://search/用周五饭票打开中秋节"
+      "link": "https://www.douyin.com/search/%E5%A4%9A%E6%83%B3%E5%92%8C%E4%BD%A0%E5%86%8D%E8%BF%87%E4%B8%80%E6%AC%A1%E4%B8%AD%E7%A7%8B?type=general",
+      "scheme": "snssdk1128://search/多想和你再过一次中秋"
     },
     {
-      "rank": 12,
-      "topic": "陌生快递寄来“双节礼品卡”要注意",
-      "heat": 8240711,
+      "rank": 6,
+      "topic": "美在中秋月圆时",
+      "heat": 9044474,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92%E5%AF%84%E6%9D%A5%E2%80%9C%E5%8F%8C%E8%8A%82%E7%A4%BC%E5%93%81%E5%8D%A1%E2%80%9D%E8%A6%81%E6%B3%A8%E6%84%8F?type=general",
-      "scheme": "snssdk1128://search/陌生快递寄来“双节礼品卡”要注意"
+      "link": "https://www.douyin.com/search/%E7%BE%8E%E5%9C%A8%E4%B8%AD%E7%A7%8B%E6%9C%88%E5%9C%86%E6%97%B6?type=general",
+      "scheme": "snssdk1128://search/美在中秋月圆时"
     },
     {
-      "rank": 13,
-      "topic": "绣出你的中秋祝福",
-      "heat": 7824305,
+      "rank": 7,
+      "topic": "双节期间我国菜篮子供应充足",
+      "heat": 8878641,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BB%A3%E5%87%BA%E4%BD%A0%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%A5%9D%E7%A6%8F?type=general",
-      "scheme": "snssdk1128://search/绣出你的中秋祝福"
+      "link": "https://www.douyin.com/search/%E5%8F%8C%E8%8A%82%E6%9C%9F%E9%97%B4%E6%88%91%E5%9B%BD%E8%8F%9C%E7%AF%AE%E5%AD%90%E4%BE%9B%E5%BA%94%E5%85%85%E8%B6%B3?type=general",
+      "scheme": "snssdk1128://search/双节期间我国菜篮子供应充足"
     },
     {
-      "rank": 14,
-      "topic": "纯过日子就是记录一餐一饭",
-      "heat": 7781120,
+      "rank": 8,
+      "topic": "对你怎么可能轻描淡写",
+      "heat": 8623756,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E5%B0%B1%E6%98%AF%E8%AE%B0%E5%BD%95%E4%B8%80%E9%A4%90%E4%B8%80%E9%A5%AD?type=general",
-      "scheme": "snssdk1128://search/纯过日子就是记录一餐一饭"
+      "link": "https://www.douyin.com/search/%E5%AF%B9%E4%BD%A0%E6%80%8E%E4%B9%88%E5%8F%AF%E8%83%BD%E8%BD%BB%E6%8F%8F%E6%B7%A1%E5%86%99?type=general",
+      "scheme": "snssdk1128://search/对你怎么可能轻描淡写"
     },
     {
-      "rank": 15,
-      "topic": "我的长长长假",
-      "heat": 7774981,
+      "rank": 9,
+      "topic": "国乒女团横扫日本夺冠",
+      "heat": 8355708,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87?type=general",
-      "scheme": "snssdk1128://search/我的长长长假"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E4%B9%92%E5%A5%B3%E5%9B%A2%E6%A8%AA%E6%89%AB%E6%97%A5%E6%9C%AC%E5%A4%BA%E5%86%A0?type=general",
+      "scheme": "snssdk1128://search/国乒女团横扫日本夺冠"
     },
     {
-      "rank": 16,
+      "rank": 10,
       "topic": "中秋假期高速正常收费",
-      "heat": 7772594,
+      "heat": 8292925,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -161,9 +101,39 @@
       "scheme": "snssdk1128://search/中秋假期高速正常收费"
     },
     {
-      "rank": 17,
+      "rank": 11,
+      "topic": "陌生快递寄来“双节礼品卡”要注意",
+      "heat": 7997429,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%99%8C%E7%94%9F%E5%BF%AB%E9%80%92%E5%AF%84%E6%9D%A5%E2%80%9C%E5%8F%8C%E8%8A%82%E7%A4%BC%E5%93%81%E5%8D%A1%E2%80%9D%E8%A6%81%E6%B3%A8%E6%84%8F?type=general",
+      "scheme": "snssdk1128://search/陌生快递寄来“双节礼品卡”要注意"
+    },
+    {
+      "rank": 12,
+      "topic": "举头望月思故乡",
+      "heat": 7789600,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%BE%E5%A4%B4%E6%9C%9B%E6%9C%88%E6%80%9D%E6%95%85%E4%B9%A1?type=general",
+      "scheme": "snssdk1128://search/举头望月思故乡"
+    },
+    {
+      "rank": 13,
+      "topic": "我的长长长假",
+      "heat": 7786651,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87?type=general",
+      "scheme": "snssdk1128://search/我的长长长假"
+    },
+    {
+      "rank": 14,
       "topic": "国乒男团2:3不敌日本摘银",
-      "heat": 7735403,
+      "heat": 7762604,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -171,9 +141,29 @@
       "scheme": "snssdk1128://search/国乒男团2:3不敌日本摘银"
     },
     {
-      "rank": 18,
+      "rank": 15,
+      "topic": "祝福你的中秋有满满的爱",
+      "heat": 7759286,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%A5%9D%E7%A6%8F%E4%BD%A0%E7%9A%84%E4%B8%AD%E7%A7%8B%E6%9C%89%E6%BB%A1%E6%BB%A1%E7%9A%84%E7%88%B1?type=general",
+      "scheme": "snssdk1128://search/祝福你的中秋有满满的爱"
+    },
+    {
+      "rank": 16,
+      "topic": "见不到面就同看一轮月",
+      "heat": 7756226,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%A7%81%E4%B8%8D%E5%88%B0%E9%9D%A2%E5%B0%B1%E5%90%8C%E7%9C%8B%E4%B8%80%E8%BD%AE%E6%9C%88?type=general",
+      "scheme": "snssdk1128://search/见不到面就同看一轮月"
+    },
+    {
+      "rank": 17,
       "topic": "国羽女团携第63金来抖音报数",
-      "heat": 7721097,
+      "heat": 7707594,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -181,9 +171,19 @@
       "scheme": "snssdk1128://search/国羽女团携第63金来抖音报数"
     },
     {
+      "rank": 18,
+      "topic": "短发女孩最适配的BGM出现了",
+      "heat": 7704618,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%9F%AD%E5%8F%91%E5%A5%B3%E5%AD%A9%E6%9C%80%E9%80%82%E9%85%8D%E7%9A%84BGM%E5%87%BA%E7%8E%B0%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/短发女孩最适配的BGM出现了"
+    },
+    {
       "rank": 19,
       "topic": "一个人心中只有一个宝贝",
-      "heat": 7681355,
+      "heat": 7690947,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -192,28 +192,88 @@
     },
     {
       "rank": 20,
-      "topic": "张博恒也来抖音金牌报数了",
-      "heat": 7678875,
+      "topic": "条纹全面入侵我的世界",
+      "heat": 7678094,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%A0%E5%8D%9A%E6%81%92%E4%B9%9F%E6%9D%A5%E6%8A%96%E9%9F%B3%E9%87%91%E7%89%8C%E6%8A%A5%E6%95%B0%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/张博恒也来抖音金牌报数了"
+      "link": "https://www.douyin.com/search/%E6%9D%A1%E7%BA%B9%E5%85%A8%E9%9D%A2%E5%85%A5%E4%BE%B5%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C?type=general",
+      "scheme": "snssdk1128://search/条纹全面入侵我的世界"
     },
     {
       "rank": 21,
-      "topic": "这是我的超大大大月饼",
-      "heat": 7670027,
+      "topic": "小米18 Pro开箱",
+      "heat": 7674247,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E8%B6%85%E5%A4%A7%E5%A4%A7%E5%A4%A7%E6%9C%88%E9%A5%BC?type=general",
-      "scheme": "snssdk1128://search/这是我的超大大大月饼"
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E7%B1%B318%20Pro%E5%BC%80%E7%AE%B1?type=general",
+      "scheme": "snssdk1128://search/小米18 Pro开箱"
     },
     {
       "rank": 22,
+      "topic": "“济公”游本昌去世",
+      "heat": 7672511,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E2%80%9C%E6%B5%8E%E5%85%AC%E2%80%9D%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%8E%BB%E4%B8%96?type=general",
+      "scheme": "snssdk1128://search/“济公”游本昌去世"
+    },
+    {
+      "rank": 23,
+      "topic": "亚运女子水球金牌花式来抖音报数",
+      "heat": 7663336,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BA%9A%E8%BF%90%E5%A5%B3%E5%AD%90%E6%B0%B4%E7%90%83%E9%87%91%E7%89%8C%E8%8A%B1%E5%BC%8F%E6%9D%A5%E6%8A%96%E9%9F%B3%E6%8A%A5%E6%95%B0?type=general",
+      "scheme": "snssdk1128://search/亚运女子水球金牌花式来抖音报数"
+    },
+    {
+      "rank": 24,
+      "topic": "红尘误此生翻唱",
+      "heat": 7656242,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%BA%A2%E5%B0%98%E8%AF%AF%E6%AD%A4%E7%94%9F%E7%BF%BB%E5%94%B1?type=general",
+      "scheme": "snssdk1128://search/红尘误此生翻唱"
+    },
+    {
+      "rank": 25,
+      "topic": "无畏契约巴黎世家网吧",
+      "heat": 7652877,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E5%B7%B4%E9%BB%8E%E4%B8%96%E5%AE%B6%E7%BD%91%E5%90%A7?type=general",
+      "scheme": "snssdk1128://search/无畏契约巴黎世家网吧"
+    },
+    {
+      "rank": 26,
+      "topic": "记忆会褪色但记录不会",
+      "heat": 7652487,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%AE%B0%E5%BF%86%E4%BC%9A%E8%A4%AA%E8%89%B2%E4%BD%86%E8%AE%B0%E5%BD%95%E4%B8%8D%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/记忆会褪色但记录不会"
+    },
+    {
+      "rank": 27,
+      "topic": "周柯宇剧里婚礼吻太自然",
+      "heat": 7652126,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E5%91%A8%E6%9F%AF%E5%AE%87%E5%89%A7%E9%87%8C%E5%A9%9A%E7%A4%BC%E5%90%BB%E5%A4%AA%E8%87%AA%E7%84%B6?type=general",
+      "scheme": "snssdk1128://search/周柯宇剧里婚礼吻太自然"
+    },
+    {
+      "rank": 28,
       "topic": "娃娃们来送济公爷爷了",
-      "heat": 7668088,
+      "heat": 7645610,
       "videos": 0,
       "type": "母婴萌娃",
       "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
@@ -221,85 +281,25 @@
       "scheme": "snssdk1128://search/娃娃们来送济公爷爷了"
     },
     {
-      "rank": 23,
-      "topic": "中秋三件套这样吃才不伤胃",
-      "heat": 7662179,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E4%B8%89%E4%BB%B6%E5%A5%97%E8%BF%99%E6%A0%B7%E5%90%83%E6%89%8D%E4%B8%8D%E4%BC%A4%E8%83%83?type=general",
-      "scheme": "snssdk1128://search/中秋三件套这样吃才不伤胃"
-    },
-    {
-      "rank": 24,
-      "topic": "各地特色月饼申请出战",
-      "heat": 7656448,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E7%89%B9%E8%89%B2%E6%9C%88%E9%A5%BC%E7%94%B3%E8%AF%B7%E5%87%BA%E6%88%98?type=general",
-      "scheme": "snssdk1128://search/各地特色月饼申请出战"
-    },
-    {
-      "rank": 25,
-      "topic": "中秋我就这样在天津耍起",
-      "heat": 7651587,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%88%91%E5%B0%B1%E8%BF%99%E6%A0%B7%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%80%8D%E8%B5%B7?type=general",
-      "scheme": "snssdk1128://search/中秋我就这样在天津耍起"
-    },
-    {
-      "rank": 26,
-      "topic": "众星哀悼游本昌爷爷",
-      "heat": 7644524,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BC%97%E6%98%9F%E5%93%80%E6%82%BC%E6%B8%B8%E6%9C%AC%E6%98%8C%E7%88%B7%E7%88%B7?type=general",
-      "scheme": "snssdk1128://search/众星哀悼游本昌爷爷"
-    },
-    {
-      "rank": 27,
-      "topic": "开启万物月饼化时期",
-      "heat": 7641754,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%80%E5%90%AF%E4%B8%87%E7%89%A9%E6%9C%88%E9%A5%BC%E5%8C%96%E6%97%B6%E6%9C%9F?type=general",
-      "scheme": "snssdk1128://search/开启万物月饼化时期"
-    },
-    {
-      "rank": 28,
-      "topic": "风月吻眉梢舞蹈挑战",
-      "heat": 7641511,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%A3%8E%E6%9C%88%E5%90%BB%E7%9C%89%E6%A2%A2%E8%88%9E%E8%B9%88%E6%8C%91%E6%88%98?type=general",
-      "scheme": "snssdk1128://search/风月吻眉梢舞蹈挑战"
-    },
-    {
       "rank": 29,
-      "topic": "假期第一顿被这里承包了",
-      "heat": 7639659,
+      "topic": "再也收不到济公爷爷新年祝福了",
+      "heat": 7644697,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E7%AC%AC%E4%B8%80%E9%A1%BF%E8%A2%AB%E8%BF%99%E9%87%8C%E6%89%BF%E5%8C%85%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/假期第一顿被这里承包了"
+      "link": "https://www.douyin.com/search/%E5%86%8D%E4%B9%9F%E6%94%B6%E4%B8%8D%E5%88%B0%E6%B5%8E%E5%85%AC%E7%88%B7%E7%88%B7%E6%96%B0%E5%B9%B4%E7%A5%9D%E7%A6%8F%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/再也收不到济公爷爷新年祝福了"
     },
     {
       "rank": 30,
-      "topic": "胡歌发文送别游本昌",
-      "heat": 7638056,
+      "topic": "许嵩天津演唱会紫色穿搭大赏",
+      "heat": 7644229,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%83%A1%E6%AD%8C%E5%8F%91%E6%96%87%E9%80%81%E5%88%AB%E6%B8%B8%E6%9C%AC%E6%98%8C?type=general",
-      "scheme": "snssdk1128://search/胡歌发文送别游本昌"
+      "link": "https://www.douyin.com/search/%E8%AE%B8%E5%B5%A9%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A%E7%B4%AB%E8%89%B2%E7%A9%BF%E6%90%AD%E5%A4%A7%E8%B5%8F?type=general",
+      "scheme": "snssdk1128://search/许嵩天津演唱会紫色穿搭大赏"
     }
   ],
-  "updateTime": "2026-09-24 21:56"
+  "updateTime": "2026-09-25 02:46"
 }
