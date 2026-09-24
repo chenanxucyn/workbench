@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffa3a0adb6",
+      "id": "ff8faad41a",
       "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:40",
+      "title": "韩国首尔证券交易所因中秋节休市一日",
+      "insight": "【休市提醒】今日沪深及北交所、国内期货交易所因中秋节休市。香港交易所因中秋节休市一日，南、北向交…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9844120.shtml"
+    },
+    {
+      "id": "ff3b5f1982",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:32",
+      "title": "高盛下调美元兑日元12个月目标价至150，市场风向转变",
+      "insight": "高盛下调美元兑日元汇率预测，称日本国内政策环境转好，叠加日本资本存在回流本土的可能性，增持日元的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9841079.shtml"
+    },
+    {
+      "id": "ff3a7f98d7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:27",
+      "title": "Anthropic拟效仿Palantir模式，让七位联合创始人掌握投票权，为上市铺路",
+      "insight": "据知情人士透露，Anthropic 正提请股东批准一套新公司架构，授予首席执行官达里奥・阿莫代伊…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7897496.shtml"
+    },
+    {
+      "id": "ff75a8c2a4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:20",
+      "title": "美伊据称磋商分阶段协议 以期重开霍尔木兹海峡",
+      "insight": "据知情人士透露，美国与伊朗谈判代表正在磋商一项分阶段协议，内容包括伊朗重开霍尔木兹海峡，美国解除…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9838776.shtml"
+    },
+    {
+      "id": "ff59762bee",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:17",
+      "title": "全球债券指数收益率自2007年以来首次升至4%",
+      "insight": "受油价上涨加剧通胀担忧影响，主要国债市场平均收益率升至4%，为2007年以来首次。 彭博国债指数…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4678792.shtml"
+    },
+    {
+      "id": "ff81396bd5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:15",
+      "title": "特斯拉将在内华达州新工厂落成典礼上正式推出Semi电动卡车",
+      "insight": "特斯拉将于当地时间周四晚在内华达州斯帕克斯市的新工厂落成典礼上推出其Semi卡车。这家电动汽车制…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4665735.shtml"
+    },
+    {
+      "id": "ff8c9044b1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:14",
+      "title": "特斯拉内华达州工厂投产，重型Semi卡车产量即将提升",
+      "insight": "特斯拉将在内华达州斯帕克斯市正式启用首座量产重型电动卡车Semi的工厂，首席执行官埃隆・马斯克借…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4665482.shtml"
+    },
+    {
+      "id": "ffd72ca76e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:07",
+      "title": "GfK：英国消费者信心的提振势头正在减弱",
+      "insight": "英国消费者信心在9月仅微幅上升，这表明由安迪·伯纳姆（Andy Burnham）出任首相所引发的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835847.shtml"
+    },
+    {
+      "id": "ff834442e9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:05",
+      "title": "9月25日隔夜要闻：伊朗总统谈浓缩铀 以官员称恢复对伊打击只是时间问题 美国财政部长债回购再次未达上限",
+      "insight": "市场 9月25日外盘头条：美伊据悉讨论分阶段协议 30年期美债收益率升至2004年来最高 百事可…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835481.shtml"
+    },
+    {
+      "id": "ff1c6413e7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:04",
+      "title": "OpenAI将在数日内预览GPT-6 Cyber",
+      "insight": "据媒体援引多位知情人士的消息报道，OpenAI 将在数日内预览一款专注于网络安全的人工智能模型 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4675623.shtml"
+    },
+    {
+      "id": "ff61bce059",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:03",
+      "title": "胡塞武装声称袭击了利雅得和沙特阿美在延布的设施",
+      "insight": "也门胡塞武装发言人发表声明称，该组织使用弹道导弹、巡航导弹以及无人机，对沙特阿拉伯发动了两次袭击…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7887898.shtml"
+    },
+    {
+      "id": "ffbb0323c6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:03",
+      "title": "瑞银股价上涨 有报道称其考虑与外国银行合并",
+      "insight": "瑞银股价在美国市场一度上涨1.9%，之前Semafor援引未具名知情人士报道，瑞银已重启有关如何…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9834687.shtml"
+    },
+    {
+      "id": "ffc2994c87",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 07:02",
+      "title": "美国30年期国债收益率创逾二十年最高 财政部回购规模低于预期",
+      "insight": "美国超长期国债收益率升至20多年来最高水平，对通胀和政府债务负担加重的忧虑推动全球债市持续承压。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9834569.shtml"
+    },
+    {
+      "id": "ff0e611460",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 06:57",
+      "title": "美国正寻求推翻欧盟对马斯克X平台的1.2亿欧元罚款",
+      "insight": "美国正寻求加入埃隆·马斯克提起的法律诉讼，以推翻欧盟因社交媒体平台X违反网络规则而对其开出的1.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4673924.shtml"
+    },
+    {
+      "id": "ff3b077eb3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 06:55",
+      "title": "伊朗总统佩泽希齐扬谈浓缩铀问题：将遵守国际法",
+      "insight": "伊朗总统马苏德·佩泽希齐扬在接受福克斯新闻采访时通过翻译表示，伊朗将在浓缩铀问题上遵守国际法。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7883926.shtml"
+    },
+    {
+      "id": "ff54eeb9e1",
+      "source": "央视",
       "tag": "财经热点",
-      "time": "09-25 01:25",
-      "title": "美国7年期国债中标收益率创2009年以来最高",
-      "insight": "美国财政部发行440亿美元7年期国债的中标收益率为5.085%，创下自2009年该期限债券重新发…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsv0141069.shtml"
+      "time": "09-25 06:50",
+      "title": "落实“两国方案”高级别国际会议召开",
+      "insight": "当地时间24日，在第81届联合国大会高级别周期间，落实“两国方案”高级别国际会议在纽约联合国总部…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-25/doc-inisyuqf4672552.shtml"
     },
     {
-      "id": "ffee01a41d",
+      "id": "ff2df87524",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 01:17",
-      "title": "巴里・迪勒旗下People Inc撤销收购要约，美高梅度假村股价大跌9%",
-      "insight": "核心要点巴里・迪勒旗下 People Inc． 撤回收购美高梅度假村的要约。这家已经持有该博彩巨…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycst4905827.shtml"
+      "time": "09-25 06:44",
+      "title": "大宗商品综述：油价涨 供应紧张削弱对协议的乐观 金价跌 锌价升",
+      "insight": "原油上涨，多项关键市场指标显示供应紧张，盖过了推动霍尔木兹海峡重开的外交努力取得进展的迹象。金价…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7879222.shtml"
     },
     {
-      "id": "ffaaaf0c37",
+      "id": "ff3f92d203",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 01:15",
-      "title": "费城联储主席保尔森：未来或迎来“适度” 加息，以此遏制通胀",
-      "insight": "费城联邦储备银行主席安娜・保尔森周四表示，为使通胀回落至目标水平，她与同僚可能需要进一步上调利率…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycst4905166.shtml"
+      "time": "09-25 06:43",
+      "title": "9月25日热门中概股多数下跌 台积电涨1.03%",
+      "insight": "9月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.64%。 上涨个股（按市值从…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4651040.shtml"
     },
     {
-      "id": "ff1288692b",
+      "id": "ff221e5b76",
+      "source": "环球网",
+      "tag": "财经",
+      "time": "09-25 06:38",
+      "title": "视频丨以色列总理联大发言 多国代表集体退场",
+      "insight": "本文转自【央视新闻客户端】； 当地时间9月24日下午，以色列总理内塔尼亚胡在第81届联合国大会一…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqi7878276.shtml"
+    },
+    {
+      "id": "fff6cc7175",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 01:13",
-      "title": "债市抛售愈演愈烈，华尔街一款替代债券的交易策略热度飙升",
-      "insight": "如果说美国国债市场面临重重困境，有一种期权交易策略热度暴涨，却是其中最少被大众讨论的现象。 这种…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycsr8132096.shtml"
-    },
-    {
-      "id": "ffafb4037e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 01:10",
-      "title": "养猫人群消费增加，带动宠物零售商业绩上涨",
-      "insight": "核心要点通用磨坊、Chewy、Petco 在本月财报电话会上均指出，猫类宠物产品销售表现强劲。犬…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycsr8130931.shtml"
-    },
-    {
-      "id": "ff234c9989",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 01:09",
-      "title": "美联储官员哈马克：经济面临接连不断的冲击 加剧了通胀心态固化风险",
-      "insight": "克利夫兰联邦储备银行行长贝丝·哈马克表示，美国经济正面临一系列供应冲击，这加大了通胀心态固化的风…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsp4978546.shtml"
-    },
-    {
-      "id": "ff38efa94e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 01:03",
-      "title": "“当然由美国出钱” 丹麦称特朗普政府应为格陵兰军事基地买单",
-      "insight": "丹麦外交大臣拉斯·勒克·拉斯穆森表示，美国将为在格陵兰建设新军事基地承担费用，这与美国总统特朗普…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycst4900019.shtml"
-    },
-    {
-      "id": "ffad06ab32",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 01:00",
-      "title": "欧洲债市：德国国债势创7月份以来最大两日跌幅",
-      "insight": "德国10年期国债收益率势将录得两个月来最大两日升幅，累计上涨14个基点，因石油和天然气价格延续涨…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsv0135399.shtml"
-    },
-    {
-      "id": "fffe559b31",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 00:49",
-      "title": "欧洲股市连续第二天下跌 受到全球债券抛售和油价上涨影响",
-      "insight": "欧洲市场连续第二天下跌，因为油价飙升之际全球债券遭到抛售，平均收益率升至近20年来未见的水平。 …",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsr8121262.shtml"
-    },
-    {
-      "id": "ff367b82d4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 00:29",
-      "title": "美债收益率攀升或将推高车贷利率，购车者需要了解这些信息",
-      "insight": "核心要点专家称，大量车贷利率与 5 年期、10 年期美债收益率挂钩，而当前美债收益率大幅飙升，购…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycsr8112731.shtml"
-    },
-    {
-      "id": "ff186cde42",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-24 23:51",
-      "title": "全球债市遭遇抛售 30年期美债收益率升至2004年来最高",
-      "insight": "美国期限最长国债的收益率升至逾20年来最高水平，在通胀和政府债务负担担忧推动全球债市持续抛售之际…",
-      "link": "https://finance.sina.com.cn/world/2026-09-24/doc-inisycsv0115078.shtml"
-    },
-    {
-      "id": "ffb0d8fcdc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 23:50",
-      "title": "底特律车企混动产品供给不足，现代汽车预计三季度美国销量超过福特",
-      "insight": "核心要点考克斯汽车（Cox Automotive）最新预测：现代汽车有望史上首次在第三季度美国市…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisycsr8090764.shtml"
-    },
-    {
-      "id": "ffaeb945ba",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-24 23:31",
-      "title": "报道：谷歌、OpenAI和Anthropic拟组建前沿AI标准机构",
-      "insight": "The Information援引知情人士报道，谷歌、OpenAI和Anthropic正在推进一…",
-      "link": "https://finance.sina.com.cn/world/2026-09-24/doc-inisycsr8079970.shtml"
-    },
-    {
-      "id": "ff619d6f01",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-24 23:29",
-      "title": "沙特一度警告麦加、延布和吉达等地面临潜在危险",
-      "insight": "沙特阿拉伯民防部门在社交媒体平台X上发布多则消息称，麦加市、红海港口城市吉达和延布，以及塔伊夫和…",
-      "link": "https://finance.sina.com.cn/world/2026-09-24/doc-inisycst4851527.shtml"
-    },
-    {
-      "id": "ff37417947",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 23:28",
-      "title": "前任CEO查佩克仍对被迪士尼解雇一事耿耿于怀",
-      "insight": "鲍勃・查佩克称，自己从一开始就没有机会。 这是他 2022 年末被免去迪士尼首席执行官一职后的首…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisycst4851443.shtml"
-    },
-    {
-      "id": "ff7105f4cd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 23:20",
-      "title": "甲骨文就数据中心项目发出“不可抗力”通知，股价大跌5%",
-      "insight": "核心要点甲骨文向其新墨西哥州数据中心项目的开发商发送了一份 “不可抗力” 通知。如果该项目无法在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8207287.shtml"
-    },
-    {
-      "id": "ffc1b2cf17",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-24 23:13",
-      "title": "费城联储行长保尔森称或需进一步小幅加息",
-      "insight": "费城联邦储备银行行长安娜·保尔森表示可能需要进一步提高利率，以确保通胀率回到央行2%的目标水平。…",
-      "link": "https://finance.sina.com.cn/world/2026-09-24/doc-inisxxkv4976863.shtml"
-    },
-    {
-      "id": "ff370ceea7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 23:11",
-      "title": "全球债券抛售潮加剧，推高世界各地借贷成本",
-      "insight": "周四早盘，美国 30 年期美债收益率一度冲高至 5.45%，创下 2004 年以来新高，本轮抛售…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkr5075988.shtml"
-    },
-    {
-      "id": "ffc414f543",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 22:43",
-      "title": "诺顿杀毒软件母公司向GoDaddy发出收购要约",
-      "insight": "诺顿360杀毒软件的母公司已向网站域名服务商GoDaddy提出收购要约，希望借此将业务范围扩展至…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkr5067988.shtml"
-    },
-    {
-      "id": "ffbe235517",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-24 22:35",
-      "title": "欧洲央行管委Radev：必须给之前的加息行动足够的时间发挥作用",
-      "insight": "欧洲央行管理委员会委员Dimitar Radev表示，在判断此前加息是否正在有效遏制通胀之前，决…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkv4956815.shtml"
+      "time": "09-25 06:36",
+      "title": "胡塞武装袭击沙特 声称打击沙特阿美设施",
+      "insight": "周四，沙特阿拉伯再次遭到胡塞武装的袭击。沙特称，已拦截向红海港口延布和塔伊夫市发射的导弹。 沙特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4647938.shtml"
     }
   ],
-  "updateTime": "2026-09-25 02:46"
+  "updateTime": "2026-09-25 07:42"
 }
