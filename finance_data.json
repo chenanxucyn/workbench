@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff3c2678bd",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-25 16:08",
-      "title": "港股收评：恒指跌1.01% 科指跌1.13% 科网股普跌 石油股走弱",
-      "insight": "9月25日消息，港股三大指数午后回升。截至收盘，恒生指数跌1.01%，报24510.09，恒生科…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-25/doc-iniszrtx7720176.shtml"
-    },
-    {
-      "id": "ff183d9604",
+      "id": "ff78663e74",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 15:59",
-      "title": "亚马逊推出工具帮助商家管理沃尔玛、Shopify等平台库",
-      "insight": "亚马逊周四在年度卖家大会上宣布，入驻亚马逊平台的商家现在可以利用亚马逊的软件工具，管理其在竞争对…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszrtz4485852.shtml"
+      "time": "09-25 22:18",
+      "title": "高盛预计人工智能资本支出将持续增长，并表示营收必须迎头赶上",
+      "insight": "高盛策略师预计，美国超大规模云计算企业的资本支出将在2027年升至约1.2万亿美元，但他们认为，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahru9228189.shtml"
     },
     {
-      "id": "ff5ae398f3",
+      "id": "ffca5495ea",
       "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 22:13",
+      "title": "微软将企业级AI整合至单一应用，与Anthropic展开竞争",
+      "insight": "核心要点微软面向企业员工更新 Copilot 应用，意在挑战 Anthropic 旗下 Clau…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrt4286331.shtml"
+    },
+    {
+      "id": "ff2c2a7712",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 22:04",
+      "title": "历史表明，利率如此快速上行往往会爆发金融灾难：“总会有地方爆雷”",
+      "insight": "核心要点周三，美国 10 年期美债收益率创下 2025 年初以来最大单日涨幅；周四，该收益率攀升…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4413099.shtml"
+    },
+    {
+      "id": "ffe7937141",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:51",
+      "title": "受片山皋月言论提振 日元涨幅扩大至逾1%",
+      "insight": "日元在纽约早盘延续涨势，日内升幅超过1%。此前日本财务大臣片山皋月表示，市场对日元疲软存在误解，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4192593.shtml"
+    },
+    {
+      "id": "ff7bbbbeef",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:40",
+      "title": "油价连涨两日后略有回落 美伊据悉探索分阶段协议",
+      "insight": "随着美国和伊朗谈判人员探讨分阶段重新开放全球最重要能源航运通道的协议，油价小幅回落。 布伦特原油…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400962.shtml"
+    },
+    {
+      "id": "ffa495cca5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:39",
+      "title": "高盛料明年超大规模云服务商AI资本支出增长逾50%至1.2万亿美元",
+      "insight": "高盛集团策略师预计，美国五大超大规模云服务商明年在AI基础设施方面的支出将增长逾50%，达到1.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400238.shtml"
+    },
+    {
+      "id": "ff5edadb81",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:30",
+      "title": "开盘：主要股指小幅走高，阿卡迈领涨科技板块",
+      "insight": "美债收益率飙升在金融市场掀起连锁反应，华尔街即将结束一周震荡行情，周五美国主要股指小幅走高。 道…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4396807.shtml"
+    },
+    {
+      "id": "ffc0e01276",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:18",
+      "title": "开市客公布75亿美元大规模扩张计划",
+      "insight": "在又一个业绩亮眼的财季过后，仓储会员店开市客（Costco Wholesale）公布 2027 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343748.shtml"
+    },
+    {
+      "id": "ff9b4e5382",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:17",
+      "title": "特斯拉Optimus机器人量产遇阻：手部结构、供应链问题凸显，扩产进程启动",
+      "insight": "知情人士透露，近几个月特斯拉Optimus人形机器人产量提升约10倍，但公司仍难以实现稳定规模化…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343490.shtml"
+    },
+    {
+      "id": "ff2615ca6f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 21:11",
+      "title": "阿卡迈拿下116亿美元Anthropic大单，股价大幅飙升",
+      "insight": "周四，阿卡迈技术公司宣布与人工智能巨头 Anthropic 签订一份价值 116 亿美元、为期七…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4182748.shtml"
+    },
+    {
+      "id": "ff046bc5be",
+      "source": "新浪财经",
       "tag": "财经热点",
-      "time": "09-25 15:47",
-      "title": "日本监管机构正加强对人工智能数据中心融资的审查力度",
-      "insight": "随着日本大型银行和人寿保险公司增加对这一快速扩张领域的风险敞口，日本金融厅（FSA）正加强对相关…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszrua9506550.shtml"
+      "time": "09-25 20:44",
+      "title": "老铺黄金最大门店亮相上海恒隆",
+      "insight": "9月25日消息，老铺黄金上海恒隆广场新门店正式亮相。新门店位于恒隆广场二层核心区，面积超过350…",
+      "link": "https://finance.sina.com.cn/tob/2026-09-25/doc-initaaiv4373700.shtml"
     },
     {
-      "id": "ff8b5228cc",
-      "source": "新京报",
+      "id": "ff774bb871",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 20:39",
+      "title": "乌克兰称袭击导致俄罗斯两座炼油厂起火",
+      "insight": "乌克兰表示，其袭击了俄罗斯另外两座炼油厂。尽管俄乌双方本周早些时候都与美国举行了会谈，而美方希望…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9332846.shtml"
+    },
+    {
+      "id": "ff4e0b95d1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 20:30",
+      "title": "开盘：纳指期货涨0.73% 布伦特原油下跌1%",
+      "insight": "周五美股股指期货小幅上涨。美债收益率飙升搅动整个金融市场，华尔街即将结束这一周震荡起伏的交易行情…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4176664.shtml"
+    },
+    {
+      "id": "ffcd3d7f19",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 20:12",
+      "title": "AI太空竞赛愈演愈烈，谷歌发射卫星入局",
+      "insight": "投资者得到新的佐证：计算领域的全新前沿阵地，就在太空。 谷歌成为又一家谋求在地球轨道部署数据中心…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9325690.shtml"
+    },
+    {
+      "id": "ffdc739e2c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 20:01",
+      "title": "莫德纳CEO务实的创新之道",
+      "insight": "作者：莱拉・麦克莱伦记者辛西娅・库恩斯（左）采访莫德纳首席执行官斯特凡・班塞尔 莫德纳一款用于防…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaait7580599.shtml"
+    },
+    {
+      "id": "ff42c27bd5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 19:45",
+      "title": "诺和押注下一发展篇章，礼来在GLP‑1领域持续扩大优势",
+      "insight": "核心要点 诺和本周公布一项宏大战略，试图在王牌注射剂维格维（Wegovy）与诺和泰（Ozempi…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7702421.shtml"
+    },
+    {
+      "id": "ff0d10d6f3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-25 19:27",
+      "title": "巴斯夫向化工同业对手赢创发起收购邀约",
+      "insight": "巴斯夫向同业对手赢创提出收购意向，拟整合承压的欧洲化工行业 知情人士透露，总部位于德国路德维希港…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzx4467799.shtml"
+    },
+    {
+      "id": "ffd2746247",
+      "source": "新浪科技",
       "tag": "财经热点",
-      "time": "09-25 15:42",
-      "title": "中秋节全国铁路预计发送旅客2234万人次，热门方向增加运力",
-      "insight": "新京报讯（记者裴剑飞）记者从中国国家铁路集团有限公司获悉，9月25日中秋节，全国铁路预计发送旅客…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-25/doc-iniszrtv4346343.shtml"
+      "time": "09-25 19:24",
+      "title": "加码中国本土运营 维密上海淮海旗舰店开业",
+      "insight": "9月25日晚间消息，维多利亚的秘密（以下简称“维密”）上海淮海旗舰店正式开业。作为维密中国旗舰店…",
+      "link": "https://finance.sina.com.cn/tob/2026-09-25/doc-iniszvzy9443116.shtml"
     },
     {
-      "id": "ff21ddd7d4",
+      "id": "ff70025561",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 15:31",
-      "title": "特朗普与高市早苗讨论日元疲软问题",
-      "insight": "日本财务大臣片山皋月周五在东京对记者表示，美国总统特朗普本周在纽约与日本首相高市早苗会谈时，对日…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszrtv4341763.shtml"
+      "time": "09-25 19:09",
+      "title": "Meta股价势创2013年以来最佳单月表现 市值逼近2万亿美元",
+      "insight": "Meta Platforms股价终于迎来多头期待已久的突破。 随着个人AI助手Muse发布并迅速…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzy9439484.shtml"
     },
     {
-      "id": "ff744ec54e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 15:25",
-      "title": "日元势创逾两周来最大单日涨幅 此前日本财务大臣发表汇率言论",
-      "insight": "在日本财务大臣片山皋月就日元发表的最新评论使得交易员们对干预风险保持警惕后，日元势创逾两周来最大…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszrtx7695230.shtml"
-    },
-    {
-      "id": "ffe7811213",
+      "id": "ff97aa79e3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-25 15:22",
-      "title": "初创公司TypeSafe AI推出低幻觉“Jev”模型",
-      "insight": "一家最近估值达到2亿美元的初创公司，正因推出一代据称比OpenAI和Anthropic产品更高效…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszrtz4466520.shtml"
-    },
-    {
-      "id": "ff2cb2daeb",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-25 15:19",
-      "title": "独家|光储龙头阳光电源筹建户储事业部，子公司海外户储电站业务被叫停",
-      "insight": "9月25日消息，据消息人士透露，光储龙头阳光电源已筹建单独的户储事业部，阳光电源高级副总裁兼光储…",
-      "link": "https://finance.sina.com.cn/tob/2026-09-25/doc-iniszrtz4465655.shtml"
-    },
-    {
-      "id": "ff3fb4bfda",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 15:10",
-      "title": "2026年IMF和世界银行秋季年会将于10月12日-18日召开",
-      "insight": "国际货币基金组织（IMF）和世界银行集团（WBG）2026年年会将于10月12日（星期一）至10…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmnc4590535.shtml"
-    },
-    {
-      "id": "ff2adfd350",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 14:51",
-      "title": "美联储推进GENIUS法案 完善稳定币监管",
-      "insight": "美国联邦储备委员会（Federal Reserve）周四提出两项监管规则，以完成《指导并建立美国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmmz7806078.shtml"
-    },
-    {
-      "id": "ff6193e439",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 14:30",
-      "title": "加密货币交易所Bitget3.52亿美元资产被黑客盗窃",
-      "insight": "Bitget CEO格雷西·陈在独立研究人员发现异常钱包转账后不久宣布发生安全事件 加密货币交易…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmmx4451853.shtml"
-    },
-    {
-      "id": "ff283fc1e1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 14:20",
-      "title": "在支付10亿欧元账单后，荷兰寻求取消天然气储备目标",
-      "insight": "在斥资近10亿欧元用于补充国内天然气储备后，荷兰希望废除强制性的天然气储备目标。荷方认为，现行的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmmx4448816.shtml"
-    },
-    {
-      "id": "ffb30157ff",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-25 14:19",
-      "title": "里昂：周大福创建维持“跑赢大市”评级 目标价11.5港元",
-      "insight": "里昂发布研报称，维持周大福创建（00659）“跑赢大市”评级及目标价11.50港元不变。公司20…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-25/doc-iniszmmx4448300.shtml"
-    },
-    {
-      "id": "ff7b28501a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-25 14:18",
-      "title": "伯恩斯坦：澜起科技维持“跑赢大市”评级 H股目标价520港元",
-      "insight": "伯恩斯坦发布研报称，重申澜起科技（06809，688008.SH）“跑赢大市”评级，H股目标价为…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-09-25/doc-iniszmne9607306.shtml"
-    },
-    {
-      "id": "ff4a7f16ed",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 14:16",
-      "title": "马斯克计划在年底前将 Colossus 2 的英伟达芯片数量增加一倍",
-      "insight": "马斯克表示，其旗下 xAI 公司打造的 AI 算力集群 Colossus 2，到年底时英伟达芯片…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmmx4447476.shtml"
-    },
-    {
-      "id": "ff090239e5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 13:59",
-      "title": "欧洲央行三大高层职位将陆续空缺 人事接班竞争料加剧",
-      "insight": "欧洲央行执委会成员Isabel Schnabel将提前离任，料加剧包括行长拉加德接班人在内的高层…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszmmz7771616.shtml"
-    },
-    {
-      "id": "ffd376be09",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 13:56",
-      "title": "日本央行物价趋势指标上行 支持再度加息",
-      "insight": "日本央行物价趋势指标上行，支持再度加息 日本央行的核心通胀指标上月加速上行，显著高于目标水平。当…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszmne9596969.shtml"
-    },
-    {
-      "id": "fff73d66ab",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-25 13:50",
-      "title": "贝索斯已向蓝色起源投入300亿美元 公司估值达1400亿美元",
-      "insight": "杰夫·贝索斯自2000年创立蓝色起源以来，已向该公司投入300亿美元，其中包括最新一笔20亿美元…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszmmx4435173.shtml"
-    },
-    {
-      "id": "ff3832e0bf",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 13:48",
-      "title": "交易商：印度炼厂采购10月船期伊拉克原油",
-      "insight": "据知情交易商称，伊拉克国家石油销售公司（SOMO）完成招标后，印度炼油企业以离岸价（FOB）购入…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszmmx4434508.shtml"
-    },
-    {
-      "id": "ffa5db1218",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-25 13:36",
-      "title": "特朗普对汇率的担忧提振日元 欧洲斯托克50指数期货反弹",
-      "insight": "油价回落支撑欧洲股市，欧洲斯托克50指数期货上涨0.7%，该指数现货市场周四收跌0.4%。有报道…",
-      "link": "https://finance.sina.com.cn/world/2026-09-25/doc-iniszmne9589283.shtml"
+      "time": "09-25 18:51",
+      "title": "英国央行行长贝利：若能源冲击持续 加息可能性将上升",
+      "insight": "英国央行行长贝利周五在牛津表示，如果伊朗冲突引发的价格冲击持续，加息的可能性将会上升。 自冲突爆…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-iniszvzv7676548.shtml"
     }
   ],
-  "updateTime": "2026-09-25 16:25"
+  "updateTime": "2026-09-25 22:21"
 }
