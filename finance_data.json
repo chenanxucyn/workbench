@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ffab511e54",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "09-27 06:44",
+      "title": "经济日报金观平：系统谋划夯实金融强国根基",
+      "insight": "来源：经济日报  《金融强国建设“十五五”规划》近期正式出台，金融强国建设有了清晰的“施工图”。…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfhus0440552.shtml"
+    },
+    {
+      "id": "ff69c4c9e5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 06:43",
+      "title": "OpenAI和Anthropic正在调查数万起AI相关安全事件",
+      "insight": "OpenAI、Anthropic以及安全研究人员正在调查数万起安全事件。在这些事件中，他们的前沿…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0433670.shtml"
+    },
+    {
+      "id": "ffecea6688",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 06:03",
+      "title": "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中",
+      "insight": "在2026年人工智能峰会上，Core Automation公司首席执行官杰瑞·特沃雷克指出，衡量…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml"
+    },
+    {
+      "id": "ff90d8e056",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 05:55",
+      "title": "特朗普拟废除拜登时代的汽车燃油经济性标准",
+      "insight": "特朗普政府计划于周一发布新的燃油效率规定，以放宽拜登任内实施的更为严格的标准。 特朗普将这一于去…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfanu0546574.shtml"
+    },
+    {
+      "id": "ffa6d5065e",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-27 05:24",
+      "title": "伊朗外长: 霍尔木兹海峡开放取决于伊方条件是否满足",
+      "insight": "当地时间27日，伊朗外长阿拉格齐表示，伊朗不会在既定条件上向美国让步，霍尔木兹海峡的开放取决于伊…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfanp9970318.shtml"
+    },
+    {
+      "id": "ffa2a01bbc",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 03:31",
+      "title": "特朗普发帖：美国汽车工人和购车者的大日子",
+      "insight": "美国总统特朗普周六在社交媒体上发帖称：美国汽车工人和购车者的大日子！我刚刚批准了新的燃油经济性标…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0630562.shtml"
+    },
+    {
+      "id": "ff7faefe6f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 03:23",
+      "title": "特朗普：已批准旨在终结电动车强制令的新燃油经济性标准",
+      "insight": "美国总统特朗普在社交媒体平台上发帖称：“我刚刚批准了新的燃油经济性标准”，此举将终结拜登政府时期…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0629095.shtml"
+    },
+    {
       "id": "ffefedbcf7",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,6 +71,15 @@
       "title": "特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得",
       "insight": "美国总统特朗普周六表示，他拒绝了伊朗提出的一项重新开放霍尔木兹海峡的协议。与此同时，沙特阿拉伯首…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initerww3927998.shtml"
+    },
+    {
+      "id": "ff34976bba",
+      "source": "秦朔朋友圈",
+      "tag": "财经热点",
+      "time": "09-27 00:00",
+      "title": "心碎刘欢",
+      "insight": "刘欢走了。 他生于1963年8月26日，走时刚到63岁零一个月，实在太早了。 看到群里的消息，先…",
+      "link": "https://finance.sina.com.cn/china/2026-09-27/doc-initfans3773631.shtml"
     },
     {
       "id": "ff619729cf",
@@ -107,79 +179,7 @@
       "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
       "insight": "德国芯片厂商英飞凌科技将于10月1日正式启用泰国半导体工厂，项目投资超480亿泰铢（折合14.4…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml"
-    },
-    {
-      "id": "ffacc2cec2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 08:43",
-      "title": "玻利维亚取消银行美元卖出汇率限制",
-      "insight": "玻利维亚央行官网信息显示，该国央行出台新外汇规定，取消金融机构美元卖出汇率上限，这是迈向更灵活货…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3994746.shtml"
-    },
-    {
-      "id": "ff8be6eeba",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 08:34",
-      "title": "特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动",
-      "insight": "【相关阅读】美方：或在中期选举后恢复轰炸！特朗普：伊朗一直“乞求”美国达成协议 美国官员称，美国…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml"
-    },
-    {
-      "id": "ff64602cf5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 08:23",
-      "title": "庞巴迪CEO：正就加拿大本土生产萨博监视飞机进入深度谈判",
-      "insight": "庞巴迪公司正与瑞典萨博公司深入洽谈，计划在加拿大生产后者的“全球眼”监视飞机。这家总部位于魁北克…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7211893.shtml"
-    },
-    {
-      "id": "ffd47f14f9",
-      "source": "中国证券报-中证网",
-      "tag": "财经热点",
-      "time": "09-26 07:42",
-      "title": "美股科技巨头，历史新高，市值逼近5万亿美元",
-      "insight": "当地时间9月25日，美股三大指数集体收涨，美股芯片股表现活跃。 截至收盘，道指上涨近480点，涨…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initccvi3964796.shtml"
-    },
-    {
-      "id": "ff498ee2b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 07:39",
-      "title": "AI失控了？OpenAI确认干预3家美国政府网站",
-      "insight": "安全研究人员以及一名了解相关事件的知情人士称，今年夏天，OpenAI的人工智能在该实验室不知情的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml"
-    },
-    {
-      "id": "ffd5afaa07",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 07:35",
-      "title": "苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金",
-      "insight": "圣地亚哥联邦陪审团周五裁定，苹果公司侵犯塔克申技术公司专利，需赔付超过57亿美元。涉案专利是iP…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml"
-    },
-    {
-      "id": "ff6f1e1755",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "09-26 07:31",
-      "title": "加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售",
-      "insight": "关注美债收益率和金融股表现。 本周美债收益率持续走高，经济数据强于预期、政府债务高企叠加能源价格…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml"
-    },
-    {
-      "id": "ff178970e3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 07:22",
-      "title": "美国要求科罗拉多州一座燃煤电厂维持运行",
-      "insight": "美国能源部长克里斯·赖特发布一项紧急命令，要求三州发电输电联盟、西南电力库、普拉特河电力局、盐河…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvf7184181.shtml"
     }
   ],
-  "updateTime": "2026-09-27 02:12"
+  "updateTime": "2026-09-27 07:18"
 }
