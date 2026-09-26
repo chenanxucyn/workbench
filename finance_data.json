@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff107bb93f",
+      "source": "市场资讯",
+      "tag": "外汇",
+      "time": "09-26 16:41",
+      "title": "美债收益率重返5%！美股走弱，金价跌破4300美元",
+      "insight": "撰文：嘉盛集团资深分析师Jerry Chen 周三油价和美债收益率大幅升高导致风险情绪降温，风险…",
+      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-26/doc-initcyyx3758826.shtml"
+    },
+    {
       "id": "ffa8761c70",
       "source": "环球市场播报",
       "tag": "美股",
@@ -170,16 +179,7 @@
       "title": "大宗商品综述：原油下跌 伦铜基本持平 金价微升",
       "insight": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。铜价连续第二周…",
       "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4068313.shtml"
-    },
-    {
-      "id": "ff5a1cea6d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 06:19",
-      "title": "9月26日热门中概股多数下跌，阿里巴巴跌0.8%",
-      "insight": "9月26日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.64%。 上涨个股（按市值从…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpn8935658.shtml"
     }
   ],
-  "updateTime": "2026-09-26 16:16"
+  "updateTime": "2026-09-26 21:33"
 }
