@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ff42fe803c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-26 10:38",
+      "title": "美参议员：白宫释放信号 不会禁止柴油出口",
+      "insight": "美国参议员泰德·克鲁兹上周五晚间向炼油行业领袖表示，白宫已作出承诺，特朗普政府不会禁止美国柴油出…",
+      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3940901.shtml"
+    },
+    {
+      "id": "ffe498841b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-26 10:34",
+      "title": "白宫未推进小肯尼迪要求提供超加工食品安全性证明的提议",
+      "insight": "今年早些时候，卫生部长小罗伯特·F·肯尼迪原本准备向势力庞大的食品行业发起挑战。 媒体获取的一份…",
+      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3938449.shtml"
+    },
+    {
+      "id": "ff6d99b1bc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-26 10:15",
+      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
+      "insight": "德国芯片厂商英飞凌科技将于10月1日正式启用泰国半导体工厂，项目投资超480亿泰铢（折合14.4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml"
+    },
+    {
+      "id": "ffacc2cec2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-26 08:43",
+      "title": "玻利维亚取消银行美元卖出汇率限制",
+      "insight": "玻利维亚央行官网信息显示，该国央行出台新外汇规定，取消金融机构美元卖出汇率上限，这是迈向更灵活货…",
+      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3994746.shtml"
+    },
+    {
+      "id": "ff8be6eeba",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-26 08:34",
+      "title": "特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动",
+      "insight": "美国官员称，美国总统特朗普拒绝了伊朗提出的七天停火提议，并告知幕僚，他计划在11月中期选举结束后…",
+      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml"
+    },
+    {
+      "id": "ff64602cf5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-26 08:23",
+      "title": "庞巴迪CEO：正就加拿大本土生产萨博监视飞机进入深度谈判",
+      "insight": "庞巴迪公司正与瑞典萨博公司深入洽谈，计划在加拿大生产后者的“全球眼”监视飞机。这家总部位于魁北克…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7211893.shtml"
+    },
+    {
+      "id": "ffd47f14f9",
+      "source": "中国证券报-中证网",
+      "tag": "财经热点",
+      "time": "09-26 07:42",
+      "title": "美股科技巨头，历史新高，市值逼近5万亿美元",
+      "insight": "当地时间9月25日，美股三大指数集体收涨，美股芯片股表现活跃。 截至收盘，道指上涨近480点，涨…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initccvi3964796.shtml"
+    },
+    {
       "id": "ff498ee2b4",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +80,15 @@
       "title": "苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金",
       "insight": "圣地亚哥联邦陪审团周五裁定，苹果公司侵犯塔克申技术公司专利，需赔付超过57亿美元。涉案专利是iP…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml"
+    },
+    {
+      "id": "ff6f1e1755",
+      "source": "一财网",
+      "tag": "财经",
+      "time": "09-26 07:31",
+      "title": "加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售",
+      "insight": "关注美债收益率和金融股表现。 本周美债收益率持续走高，经济数据强于预期、政府债务高企叠加能源价格…",
+      "link": "https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml"
     },
     {
       "id": "ff178970e3",
@@ -107,79 +179,7 @@
       "title": "欧洲央行副行长Vujcic：能源价格将长期维持高位",
       "insight": "欧洲央行副行长Boris Vujcic表示，中东战争持续意味着能源价格将在较长时间内维持高位，并…",
       "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4058027.shtml"
-    },
-    {
-      "id": "ff3760f27f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:58",
-      "title": "9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、白宫考虑一系列方案以降低高企的柴油价格 包括…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4055069.shtml"
-    },
-    {
-      "id": "ff0981a61e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:51",
-      "title": "白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税",
-      "insight": "特朗普政府官员已提出多项措施，以遏制柴油价格飙升，从暂停对柴油征税，到取消针对通常仅限非公路使用…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpf3768448.shtml"
-    },
-    {
-      "id": "ffd2f0f857",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:37",
-      "title": "美国股市：主要股指普涨 霍尔木兹海峡重开希望推动油价回落",
-      "insight": "美国股市周五上涨，油价回落盖过了消费者信心下降的影响。 标普500指数上涨0.5%，以科技股为主…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7275068.shtml"
-    },
-    {
-      "id": "ff13527875",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-26 05:36",
-      "title": "美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
-      "insight": "当地时间9月25日，央视记者获悉，一位美国官员透露，继伊朗方面提出开放霍尔木兹海峡并在提议获接纳…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initaxpn8933991.shtml"
-    },
-    {
-      "id": "ff1775228c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:35",
-      "title": "沙特原油出口创伊朗战争以来新高，管道停运难阻出口激增",
-      "insight": "根据贸易情报公司Kpler的数据，尽管与武装战斗急剧升级，沙特阿拉伯本月原油出口仍大幅飙升。 利…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4046939.shtml"
-    },
-    {
-      "id": "ff1787fe4d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:11",
-      "title": "OpenAI通知包括政府部门在内的数十家机构 称其网站或遭AI干扰",
-      "insight": "OpenAI表示，该公司已通知包括政府部门和大学在内的“数十家”机构，它们的网站可能因OpenA…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7266546.shtml"
-    },
-    {
-      "id": "ff63916352",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 05:04",
-      "title": "原油：WTI下跌 交易员权衡美伊霍尔木兹海峡谈判进展",
-      "insight": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。 WTI期货下…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7263134.shtml"
-    },
-    {
-      "id": "ff9c8ab0d9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 04:51",
-      "title": "纽约汇市：美元指数回落 日元势创近三周最佳表现",
-      "insight": "美元兑多数G10货币下跌，此前公布的一项消费者信心指标高于经济学家的预期后，长期美债延续跌势。日…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfi3887718.shtml"
     }
   ],
-  "updateTime": "2026-09-26 07:44"
+  "updateTime": "2026-09-26 10:56"
 }
