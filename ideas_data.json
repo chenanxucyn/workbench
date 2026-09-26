@@ -2,58 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "中美达成八点成果共识",
-      "heat": 11303979,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86?type=general",
-      "scheme": "snssdk1128://search/中美达成八点成果共识"
-    },
-    {
-      "rank": 2,
-      "topic": "中美交往档案珍藏在这里",
-      "heat": 10890328,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E4%BA%A4%E5%BE%80%E6%A1%A3%E6%A1%88%E7%8F%8D%E8%97%8F%E5%9C%A8%E8%BF%99%E9%87%8C?type=general",
-      "scheme": "snssdk1128://search/中美交往档案珍藏在这里"
-    },
-    {
-      "rank": 3,
-      "topic": "林诗栋蒯曼混双夺金",
-      "heat": 10884257,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E6%B7%B7%E5%8F%8C%E5%A4%BA%E9%87%91?type=general",
-      "scheme": "snssdk1128://search/林诗栋蒯曼混双夺金"
-    },
-    {
-      "rank": 4,
-      "topic": "林诗栋4:2战胜松岛辉空",
-      "heat": 10288498,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B4%3A2%E6%88%98%E8%83%9C%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA?type=general",
-      "scheme": "snssdk1128://search/林诗栋4:2战胜松岛辉空"
-    },
-    {
-      "rank": 5,
-      "topic": "中秋最好的团圆是回家",
-      "heat": 10284206,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9B%A2%E5%9C%86%E6%98%AF%E5%9B%9E%E5%AE%B6?type=general",
-      "scheme": "snssdk1128://search/中秋最好的团圆是回家"
-    },
-    {
-      "rank": 6,
       "topic": "中国男足亚运四强",
-      "heat": 9199379,
+      "heat": 12091072,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,9 +11,39 @@
       "scheme": "snssdk1128://search/中国男足亚运四强"
     },
     {
-      "rank": 7,
+      "rank": 2,
+      "topic": "中美达成八点成果共识",
+      "heat": 11703549,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90%E5%85%AB%E7%82%B9%E6%88%90%E6%9E%9C%E5%85%B1%E8%AF%86?type=general",
+      "scheme": "snssdk1128://search/中美达成八点成果共识"
+    },
+    {
+      "rank": 3,
+      "topic": "中美交往档案珍藏在这里",
+      "heat": 11155927,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E4%BA%A4%E5%BE%80%E6%A1%A3%E6%A1%88%E7%8F%8D%E8%97%8F%E5%9C%A8%E8%BF%99%E9%87%8C?type=general",
+      "scheme": "snssdk1128://search/中美交往档案珍藏在这里"
+    },
+    {
+      "rank": 4,
+      "topic": "林诗栋蒯曼混双夺金",
+      "heat": 11093610,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B%E8%92%AF%E6%9B%BC%E6%B7%B7%E5%8F%8C%E5%A4%BA%E9%87%91?type=general",
+      "scheme": "snssdk1128://search/林诗栋蒯曼混双夺金"
+    },
+    {
+      "rank": 5,
       "topic": "晒出你手中的中秋金牌月饼",
-      "heat": 9049608,
+      "heat": 10537247,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,49 +51,29 @@
       "scheme": "snssdk1128://search/晒出你手中的中秋金牌月饼"
     },
     {
+      "rank": 6,
+      "topic": "中秋最好的团圆是回家",
+      "heat": 10484706,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%A7%8B%E6%9C%80%E5%A5%BD%E7%9A%84%E5%9B%A2%E5%9C%86%E6%98%AF%E5%9B%9E%E5%AE%B6?type=general",
+      "scheme": "snssdk1128://search/中秋最好的团圆是回家"
+    },
+    {
+      "rank": 7,
+      "topic": "要等到月亮变全你才会回到我身边",
+      "heat": 9323717,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%A6%81%E7%AD%89%E5%88%B0%E6%9C%88%E4%BA%AE%E5%8F%98%E5%85%A8%E4%BD%A0%E6%89%8D%E4%BC%9A%E5%9B%9E%E5%88%B0%E6%88%91%E8%BA%AB%E8%BE%B9?type=general",
+      "scheme": "snssdk1128://search/要等到月亮变全你才会回到我身边"
+    },
+    {
       "rank": 8,
-      "topic": "白宫欢迎晚宴的细致与用心",
-      "heat": 8795736,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E7%9A%84%E7%BB%86%E8%87%B4%E4%B8%8E%E7%94%A8%E5%BF%83?type=general",
-      "scheme": "snssdk1128://search/白宫欢迎晚宴的细致与用心"
-    },
-    {
-      "rank": 9,
-      "topic": "中美达成300亿美元对等降税安排",
-      "heat": 8559216,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E7%BE%8E%E8%BE%BE%E6%88%90300%E4%BA%BF%E7%BE%8E%E5%85%83%E5%AF%B9%E7%AD%89%E9%99%8D%E7%A8%8E%E5%AE%89%E6%8E%92?type=general",
-      "scheme": "snssdk1128://search/中美达成300亿美元对等降税安排"
-    },
-    {
-      "rank": 10,
-      "topic": "EDG对阵LOUD",
-      "heat": 8556967,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/EDG%E5%AF%B9%E9%98%B5LOUD?type=general",
-      "scheme": "snssdk1128://search/EDG对阵LOUD"
-    },
-    {
-      "rank": 11,
-      "topic": "交换一张你镜头里的月亮",
-      "heat": 8300114,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%9C%88%E4%BA%AE?type=general",
-      "scheme": "snssdk1128://search/交换一张你镜头里的月亮"
-    },
-    {
-      "rank": 12,
       "topic": "我也开始看月亮了",
-      "heat": 8146190,
+      "heat": 9257150,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -121,19 +81,49 @@
       "scheme": "snssdk1128://search/我也开始看月亮了"
     },
     {
-      "rank": 13,
-      "topic": "上海警方辟谣院士窃取他人成果",
-      "heat": 7958572,
+      "rank": 9,
+      "topic": "白宫欢迎晚宴的细致与用心",
+      "heat": 9191081,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%8A%E6%B5%B7%E8%AD%A6%E6%96%B9%E8%BE%9F%E8%B0%A3%E9%99%A2%E5%A3%AB%E7%AA%83%E5%8F%96%E4%BB%96%E4%BA%BA%E6%88%90%E6%9E%9C?type=general",
-      "scheme": "snssdk1128://search/上海警方辟谣院士窃取他人成果"
+      "link": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E6%AC%A2%E8%BF%8E%E6%99%9A%E5%AE%B4%E7%9A%84%E7%BB%86%E8%87%B4%E4%B8%8E%E7%94%A8%E5%BF%83?type=general",
+      "scheme": "snssdk1128://search/白宫欢迎晚宴的细致与用心"
     },
     {
-      "rank": 14,
+      "rank": 10,
+      "topic": "林诗栋4:2战胜松岛辉空",
+      "heat": 9187758,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9E%97%E8%AF%97%E6%A0%8B4%3A2%E6%88%98%E8%83%9C%E6%9D%BE%E5%B2%9B%E8%BE%89%E7%A9%BA?type=general",
+      "scheme": "snssdk1128://search/林诗栋4:2战胜松岛辉空"
+    },
+    {
+      "rank": 11,
+      "topic": "陈芋汐卢为夺亚运双人10米跳台金牌",
+      "heat": 9180108,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%99%88%E8%8A%8B%E6%B1%90%E5%8D%A2%E4%B8%BA%E5%A4%BA%E4%BA%9A%E8%BF%90%E5%8F%8C%E4%BA%BA10%E7%B1%B3%E8%B7%B3%E5%8F%B0%E9%87%91%E7%89%8C?type=general",
+      "scheme": "snssdk1128://search/陈芋汐卢为夺亚运双人10米跳台金牌"
+    },
+    {
+      "rank": 12,
+      "topic": "欧国联英格兰vs西班牙前瞻",
+      "heat": 9157871,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%AC%A7%E5%9B%BD%E8%81%94%E8%8B%B1%E6%A0%BC%E5%85%B0vs%E8%A5%BF%E7%8F%AD%E7%89%99%E5%89%8D%E7%9E%BB?type=general",
+      "scheme": "snssdk1128://search/欧国联英格兰vs西班牙前瞻"
+    },
+    {
+      "rank": 13,
       "topic": "双节假期求真快讯",
-      "heat": 7882905,
+      "heat": 9140140,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -141,39 +131,29 @@
       "scheme": "snssdk1128://search/双节假期求真快讯"
     },
     {
-      "rank": 15,
-      "topic": "晒出你的中秋节手抄报",
-      "heat": 7730160,
+      "rank": 14,
+      "topic": "手机拍月亮教程",
+      "heat": 9099563,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E7%9A%84%E4%B8%AD%E7%A7%8B%E8%8A%82%E6%89%8B%E6%8A%84%E6%8A%A5?type=general",
-      "scheme": "snssdk1128://search/晒出你的中秋节手抄报"
+      "link": "https://www.douyin.com/search/%E6%89%8B%E6%9C%BA%E6%8B%8D%E6%9C%88%E4%BA%AE%E6%95%99%E7%A8%8B?type=general",
+      "scheme": "snssdk1128://search/手机拍月亮教程"
+    },
+    {
+      "rank": 15,
+      "topic": "黄霄雲苏州演唱会",
+      "heat": 9084390,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%BB%84%E9%9C%84%E9%9B%B2%E8%8B%8F%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/黄霄雲苏州演唱会"
     },
     {
       "rank": 16,
-      "topic": "我拍到了古诗词里的中秋",
-      "heat": 7726176,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E6%8B%8D%E5%88%B0%E4%BA%86%E5%8F%A4%E8%AF%97%E8%AF%8D%E9%87%8C%E7%9A%84%E4%B8%AD%E7%A7%8B?type=general",
-      "scheme": "snssdk1128://search/我拍到了古诗词里的中秋"
-    },
-    {
-      "rank": 17,
-      "topic": "今年中秋送这一根就够了",
-      "heat": 7714447,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%B9%B4%E4%B8%AD%E7%A7%8B%E9%80%81%E8%BF%99%E4%B8%80%E6%A0%B9%E5%B0%B1%E5%A4%9F%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/今年中秋送这一根就够了"
-    },
-    {
-      "rank": 18,
       "topic": "谢霆锋重庆演唱会",
-      "heat": 7695224,
+      "heat": 9037269,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -181,9 +161,39 @@
       "scheme": "snssdk1128://search/谢霆锋重庆演唱会"
     },
     {
+      "rank": 17,
+      "topic": "就借这月光再与你对望",
+      "heat": 8952084,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%B0%B1%E5%80%9F%E8%BF%99%E6%9C%88%E5%85%89%E5%86%8D%E4%B8%8E%E4%BD%A0%E5%AF%B9%E6%9C%9B?type=general",
+      "scheme": "snssdk1128://search/就借这月光再与你对望"
+    },
+    {
+      "rank": 18,
+      "topic": "黄誉博天津演唱会",
+      "heat": 8644622,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%BB%84%E8%AA%89%E5%8D%9A%E5%A4%A9%E6%B4%A5%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/黄誉博天津演唱会"
+    },
+    {
       "rank": 19,
+      "topic": "满月在杯中升起",
+      "heat": 8481474,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%BB%A1%E6%9C%88%E5%9C%A8%E6%9D%AF%E4%B8%AD%E5%8D%87%E8%B5%B7?type=general",
+      "scheme": "snssdk1128://search/满月在杯中升起"
+    },
+    {
+      "rank": 20,
       "topic": "我与复联4的终局之约",
-      "heat": 7683926,
+      "heat": 8368666,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -191,19 +201,9 @@
       "scheme": "snssdk1128://search/我与复联4的终局之约"
     },
     {
-      "rank": 20,
-      "topic": "刘欢歌曲回顾",
-      "heat": 7681150,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%88%98%E6%AC%A2%E6%AD%8C%E6%9B%B2%E5%9B%9E%E9%A1%BE?type=general",
-      "scheme": "snssdk1128://search/刘欢歌曲回顾"
-    },
-    {
       "rank": 21,
       "topic": "刘欢病逝 丧事从简不举行追悼会",
-      "heat": 7679562,
+      "heat": 8356270,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -212,48 +212,28 @@
     },
     {
       "rank": 22,
-      "topic": "长假闪身全国各地",
-      "heat": 7679508,
+      "topic": "气球载相思 遥寄天上月",
+      "heat": 8350687,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%95%BF%E5%81%87%E9%97%AA%E8%BA%AB%E5%85%A8%E5%9B%BD%E5%90%84%E5%9C%B0?type=general",
-      "scheme": "snssdk1128://search/长假闪身全国各地"
+      "link": "https://www.douyin.com/search/%E6%B0%94%E7%90%83%E8%BD%BD%E7%9B%B8%E6%80%9D%20%E9%81%A5%E5%AF%84%E5%A4%A9%E4%B8%8A%E6%9C%88?type=general",
+      "scheme": "snssdk1128://search/气球载相思 遥寄天上月"
     },
     {
       "rank": 23,
-      "topic": "华晨宇一个人盘了场晚会",
-      "heat": 7676605,
+      "topic": "刘欢歌曲回顾",
+      "heat": 8311756,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E4%B8%80%E4%B8%AA%E4%BA%BA%E7%9B%98%E4%BA%86%E5%9C%BA%E6%99%9A%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/华晨宇一个人盘了场晚会"
+      "link": "https://www.douyin.com/search/%E5%88%98%E6%AC%A2%E6%AD%8C%E6%9B%B2%E5%9B%9E%E9%A1%BE?type=general",
+      "scheme": "snssdk1128://search/刘欢歌曲回顾"
     },
     {
       "rank": 24,
-      "topic": "道明我们都在爱你",
-      "heat": 7668486,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%81%93%E6%98%8E%E6%88%91%E4%BB%AC%E9%83%BD%E5%9C%A8%E7%88%B1%E4%BD%A0?type=general",
-      "scheme": "snssdk1128://search/道明我们都在爱你"
-    },
-    {
-      "rank": 25,
-      "topic": "一代人有一代人的中秋灯笼",
-      "heat": 7655855,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E4%BB%A3%E4%BA%BA%E6%9C%89%E4%B8%80%E4%BB%A3%E4%BA%BA%E7%9A%84%E4%B8%AD%E7%A7%8B%E7%81%AF%E7%AC%BC?type=general",
-      "scheme": "snssdk1128://search/一代人有一代人的中秋灯笼"
-    },
-    {
-      "rank": 26,
       "topic": "您拨打的用户正在旅游中",
-      "heat": 7653481,
+      "heat": 8016295,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -261,45 +241,65 @@
       "scheme": "snssdk1128://search/您拨打的用户正在旅游中"
     },
     {
-      "rank": 27,
-      "topic": "井柏然刘雯现身李荣浩演唱会",
-      "heat": 7650683,
+      "rank": 25,
+      "topic": "华晨宇南京演唱会",
+      "heat": 7871293,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BA%95%E6%9F%8F%E7%84%B6%E5%88%98%E9%9B%AF%E7%8E%B0%E8%BA%AB%E6%9D%8E%E8%8D%A3%E6%B5%A9%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/井柏然刘雯现身李荣浩演唱会"
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E5%8D%97%E4%BA%AC%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/华晨宇南京演唱会"
+    },
+    {
+      "rank": 26,
+      "topic": "终于等到这首睡前别想太多",
+      "heat": 7815794,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%BB%88%E4%BA%8E%E7%AD%89%E5%88%B0%E8%BF%99%E9%A6%96%E7%9D%A1%E5%89%8D%E5%88%AB%E6%83%B3%E5%A4%AA%E5%A4%9A?type=general",
+      "scheme": "snssdk1128://search/终于等到这首睡前别想太多"
+    },
+    {
+      "rank": 27,
+      "topic": "Tank厦门演唱会",
+      "heat": 7813151,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/Tank%E5%8E%A6%E9%97%A8%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/Tank厦门演唱会"
     },
     {
       "rank": 28,
-      "topic": "打包个月亮寄给你",
-      "heat": 7646184,
+      "topic": "张艺谋发文悼念刘欢",
+      "heat": 7799345,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%89%93%E5%8C%85%E4%B8%AA%E6%9C%88%E4%BA%AE%E5%AF%84%E7%BB%99%E4%BD%A0?type=general",
-      "scheme": "snssdk1128://search/打包个月亮寄给你"
+      "link": "https://www.douyin.com/search/%E5%BC%A0%E8%89%BA%E8%B0%8B%E5%8F%91%E6%96%87%E6%82%BC%E5%BF%B5%E5%88%98%E6%AC%A2?type=general",
+      "scheme": "snssdk1128://search/张艺谋发文悼念刘欢"
     },
     {
       "rank": 29,
-      "topic": "王嘉尔三次被cue名场面",
-      "heat": 7642999,
-      "videos": 0,
-      "type": "搞笑",
-      "insight": "搞笑整活最易破圈，节奏快门槛低，适合二创或 Reaction。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%98%89%E5%B0%94%E4%B8%89%E6%AC%A1%E8%A2%ABcue%E5%90%8D%E5%9C%BA%E9%9D%A2?type=general",
-      "scheme": "snssdk1128://search/王嘉尔三次被cue名场面"
-    },
-    {
-      "rank": 30,
-      "topic": "句句不提中秋 句句都是中秋",
-      "heat": 7640536,
+      "topic": "交换一张你镜头里的月亮",
+      "heat": 7798990,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%A5%E5%8F%A5%E4%B8%8D%E6%8F%90%E4%B8%AD%E7%A7%8B%20%E5%8F%A5%E5%8F%A5%E9%83%BD%E6%98%AF%E4%B8%AD%E7%A7%8B?type=general",
-      "scheme": "snssdk1128://search/句句不提中秋 句句都是中秋"
+      "link": "https://www.douyin.com/search/%E4%BA%A4%E6%8D%A2%E4%B8%80%E5%BC%A0%E4%BD%A0%E9%95%9C%E5%A4%B4%E9%87%8C%E7%9A%84%E6%9C%88%E4%BA%AE?type=general",
+      "scheme": "snssdk1128://search/交换一张你镜头里的月亮"
+    },
+    {
+      "rank": 30,
+      "topic": "你的闪身步闪去哪里",
+      "heat": 7797345,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BD%A0%E7%9A%84%E9%97%AA%E8%BA%AB%E6%AD%A5%E9%97%AA%E5%8E%BB%E5%93%AA%E9%87%8C?type=general",
+      "scheme": "snssdk1128://search/你的闪身步闪去哪里"
     }
   ],
-  "updateTime": "2026-09-26 21:33"
+  "updateTime": "2026-09-27 02:12"
 }

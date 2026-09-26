@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ffefedbcf7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 00:28",
+      "title": "特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得",
+      "insight": "美国总统特朗普周六表示，他拒绝了伊朗提出的一项重新开放霍尔木兹海峡的协议。与此同时，沙特阿拉伯首…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initerww3927998.shtml"
+    },
+    {
+      "id": "ff619729cf",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-26 22:48",
+      "title": "巴西政府在选举前延长燃油价格补贴措施",
+      "insight": "为在10月4日总统选举首轮投票前持续为消费者提供价格缓冲，巴西政府延长了旨在遏制燃油价格上涨的相…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-26/doc-initemqy4019193.shtml"
+    },
+    {
+      "id": "ff57a8e147",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "09-26 22:39",
+      "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
+      "insight": "新华社华盛顿9月26日电 美国总统特朗普26日称，他拒绝了伊朗提出的重开霍尔木兹海峡的提议。 特…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initemqy4015193.shtml"
+    },
+    {
+      "id": "ff735b5fa8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-26 22:25",
+      "title": "伯克希尔披露对股价下跌的房屋建筑商Lennar持股接近翻倍",
+      "insight": "自7月初以来，伯克希尔·哈撒韦将其在美国第二大房屋建筑商Lennar的持股接近翻倍，从而加大了对…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initemra0782676.shtml"
+    },
+    {
+      "id": "ff20f88f6a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-26 22:10",
+      "title": "10年期美国国债收益率处于近二十年来的最高水平",
+      "insight": "本周美国投资者感到不安，因为基准10年期美国国债收益率飙升至2007年以来最高水平，但顽固的通胀…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initemrc5422885.shtml"
+    },
+    {
+      "id": "ff7ab0d0e8",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "09-26 20:38",
+      "title": "欧盟拟大力增加卫星发射 寻求开辟域外发射场",
+      "insight": "负责防御与太空事务的欧盟委员安德留斯·库比柳斯日前说，欧盟计划今后数年内大力增加卫星发射，寻求在…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initemra0773462.shtml"
+    },
+    {
       "id": "ff107bb93f",
       "source": "市场资讯",
       "tag": "外汇",
@@ -125,61 +179,7 @@
       "title": "美国要求科罗拉多州一座燃煤电厂维持运行",
       "insight": "美国能源部长克里斯·赖特发布一项紧急命令，要求三州发电输电联盟、西南电力库、普拉特河电力局、盐河…",
       "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvf7184181.shtml"
-    },
-    {
-      "id": "ff5a43aa22",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 07:21",
-      "title": "巴西：不会向博彩公司退还牌照费用",
-      "insight": "# 翻译 巴西财政部长达里奥·杜里甘在圣保罗周五的新闻发布会上表示，巴西不会向博彩公司退还牌照费…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3956496.shtml"
-    },
-    {
-      "id": "ff316d19de",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-26 07:20",
-      "title": "习近平圆满结束对美国的国事访问（现场视频）",
-      "insight": "来源：中国新闻社 当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。 离开华盛…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3659614.shtml"
-    },
-    {
-      "id": "ff90967053",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 07:17",
-      "title": "随着推理需求激增，Fireworks与Fal考虑开启新一轮融资",
-      "insight": "Fal、Fireworks AI这类提供AI模型与服务器调用服务的初创企业营收持续走高。开发者借…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7182245.shtml"
-    },
-    {
-      "id": "ffbec1f647",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 06:58",
-      "title": "克利夫兰联储行长称增长前景和债务担忧等推高长期美债收益率",
-      "insight": "克利夫兰联储行长贝丝·哈马克表示，增长前景增强、对政府债务的担忧，以及市场预期美联储将进一步加息…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpf3783706.shtml"
-    },
-    {
-      "id": "ffcbd86746",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 06:52",
-      "title": "9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
-      "insight": "市场 9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高 9月26日热门…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4073998.shtml"
-    },
-    {
-      "id": "ff15e43229",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 06:36",
-      "title": "大宗商品综述：原油下跌 伦铜基本持平 金价微升",
-      "insight": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。铜价连续第二周…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4068313.shtml"
     }
   ],
-  "updateTime": "2026-09-26 21:33"
+  "updateTime": "2026-09-27 02:12"
 }
