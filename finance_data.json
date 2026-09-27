@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff8df0cd11",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-27 07:53",
-      "title": "加息逆风 BTC 冲 8.6 万：西格尔与詹卡洛的供需博弈",
-      "insight": "据 Woofun AI 消息，比特币在美联储持续加息的宏观紧缩背景下，逆势从夏季的约 58，00…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhum9868579.shtml"
+      "id": "ff603438a6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 15:33",
+      "title": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量",
+      "insight": "作为全球市值最高企业英伟达的掌门人，黄仁勋是AI浪潮背后最重要的基础设施建设者。在近期的一次深度…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-inithcye3418857.shtml"
     },
     {
-      "id": "ffaa2c8829",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-27 07:53",
-      "title": "ETF月入27亿叠加金叉，BTC剑指10万",
-      "insight": "据 Woofun AI 消息，比特币（BTC）在现货 ETF 资金大幅涌入与技术面多重利好共振下…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhum9868593.shtml"
-    },
-    {
-      "id": "ffa55a88f2",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "09-27 07:51",
-      "title": "13亿基金代币化：锁定SpaceX与OpenAI",
-      "insight": "据 Woofun AI 消息，方舟投资 （ARK） 与 Securitize（SECZ.US） …",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhuq3691439.shtml"
-    },
-    {
-      "id": "ffab511e54",
+      "id": "ffcae5a96a",
       "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "09-27 06:44",
-      "title": "经济日报金观平：系统谋划夯实金融强国根基",
-      "insight": "来源：经济日报  《金融强国建设“十五五”规划》近期正式出台，金融强国建设有了清晰的“施工图”。…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfhus0440552.shtml"
+      "tag": "股市",
+      "time": "09-27 15:00",
+      "title": "股价暴涨后“熄火”，锡华科技中报增收不增利，六成营收靠赊销",
+      "insight": "来源：证券之星 低位启动的四连涨停引爆股价后，风电齿轮箱部件细分龙头锡华科技（603248.SH…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithcye3445825.shtml"
     },
     {
-      "id": "ff69c4c9e5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-27 06:43",
-      "title": "OpenAI和Anthropic正在调查数万起AI相关安全事件",
-      "insight": "OpenAI、Anthropic以及安全研究人员正在调查数万起安全事件。在这些事件中，他们的前沿…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0433670.shtml"
-    },
-    {
-      "id": "ffecea6688",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-27 06:03",
-      "title": "前OpenAI研究负责人：AI真实能力短板藏在看似简单的任务中",
-      "insight": "在2026年人工智能峰会上，Core Automation公司首席执行官杰瑞·特沃雷克指出，衡量…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initfhus0418397.shtml"
-    },
-    {
-      "id": "ff90d8e056",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-27 05:55",
-      "title": "特朗普拟废除拜登时代的汽车燃油经济性标准",
-      "insight": "特朗普政府计划于周一发布新的燃油效率规定，以放宽拜登任内实施的更为严格的标准。 特朗普将这一于去…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfanu0546574.shtml"
-    },
-    {
-      "id": "ffa6d5065e",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-27 05:24",
-      "title": "伊朗外长: 霍尔木兹海峡开放取决于伊方条件是否满足",
-      "insight": "当地时间27日，伊朗外长阿拉格齐表示，伊朗不会在既定条件上向美国让步，霍尔木兹海峡的开放取决于伊…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-27/doc-initfanp9970318.shtml"
-    },
-    {
-      "id": "ffa2a01bbc",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-27 03:31",
-      "title": "特朗普发帖：美国汽车工人和购车者的大日子",
-      "insight": "美国总统特朗普周六在社交媒体上发帖称：美国汽车工人和购车者的大日子！我刚刚批准了新的燃油经济性标…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0630562.shtml"
-    },
-    {
-      "id": "ff7faefe6f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-27 03:23",
-      "title": "特朗普：已批准旨在终结电动车强制令的新燃油经济性标准",
-      "insight": "美国总统特朗普在社交媒体平台上发帖称：“我刚刚批准了新的燃油经济性标准”，此举将终结拜登政府时期…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0629095.shtml"
-    },
-    {
-      "id": "ffefedbcf7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-27 00:28",
-      "title": "特朗普称已拒绝伊朗提出的霍尔木兹海峡协议 胡塞武装袭击利雅得",
-      "insight": "美国总统特朗普周六表示，他拒绝了伊朗提出的一项重新开放霍尔木兹海峡的协议。与此同时，沙特阿拉伯首…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initerww3927998.shtml"
-    },
-    {
-      "id": "ff34976bba",
-      "source": "秦朔朋友圈",
-      "tag": "财经热点",
-      "time": "09-27 00:00",
-      "title": "心碎刘欢",
-      "insight": "刘欢走了。 他生于1963年8月26日，走时刚到63岁零一个月，实在太早了。 看到群里的消息，先…",
-      "link": "https://finance.sina.com.cn/china/2026-09-27/doc-initfans3773631.shtml"
-    },
-    {
-      "id": "ff619729cf",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 22:48",
-      "title": "巴西政府在选举前延长燃油价格补贴措施",
-      "insight": "为在10月4日总统选举首轮投票前持续为消费者提供价格缓冲，巴西政府延长了旨在遏制燃油价格上涨的相…",
-      "link": "https://finance.sina.com.cn/7x24/2026-09-26/doc-initemqy4019193.shtml"
-    },
-    {
-      "id": "ff57a8e147",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "09-26 22:39",
-      "title": "特朗普称拒绝伊朗重开霍尔木兹海峡的提议",
-      "insight": "新华社华盛顿9月26日电 美国总统特朗普26日称，他拒绝了伊朗提出的重开霍尔木兹海峡的提议。 特…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initemqy4015193.shtml"
-    },
-    {
-      "id": "ff735b5fa8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 22:25",
-      "title": "伯克希尔披露对股价下跌的房屋建筑商Lennar持股接近翻倍",
-      "insight": "自7月初以来，伯克希尔·哈撒韦将其在美国第二大房屋建筑商Lennar的持股接近翻倍，从而加大了对…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initemra0782676.shtml"
-    },
-    {
-      "id": "ff20f88f6a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 22:10",
-      "title": "10年期美国国债收益率处于近二十年来的最高水平",
-      "insight": "本周美国投资者感到不安，因为基准10年期美国国债收益率飙升至2007年以来最高水平，但顽固的通胀…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initemrc5422885.shtml"
-    },
-    {
-      "id": "ff7ab0d0e8",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "09-26 20:38",
-      "title": "欧盟拟大力增加卫星发射 寻求开辟域外发射场",
-      "insight": "负责防御与太空事务的欧盟委员安德留斯·库比柳斯日前说，欧盟计划今后数年内大力增加卫星发射，寻求在…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initemra0773462.shtml"
-    },
-    {
-      "id": "ff107bb93f",
+      "id": "ff495d0ebc",
       "source": "市场资讯",
-      "tag": "外汇",
-      "time": "09-26 16:41",
-      "title": "美债收益率重返5%！美股走弱，金价跌破4300美元",
-      "insight": "撰文：嘉盛集团资深分析师Jerry Chen 周三油价和美债收益率大幅升高导致风险情绪降温，风险…",
-      "link": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-26/doc-initcyyx3758826.shtml"
+      "tag": "股市",
+      "time": "09-27 15:00",
+      "title": "重组方案“瘦身”，观想科技H1再陷亏损，标的估值缩水超两成",
+      "insight": "来源：证券之星 近日，观想科技（301213.SZ）收购锦州辽晶电子科技股份有限公司（以下简称“…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithcye3445695.shtml"
     },
     {
-      "id": "ffa8761c70",
+      "id": "ff819ec54c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-26 13:35",
-      "title": "AI模型使用超现实方言对话 混合诗意文字与科技圈黑话",
-      "insight": "新研究发现，人工智能模型已经开始用一种奇特的新式英语交流，读起来像是詹姆斯·乔伊斯《芬尼根守灵夜…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initcqmc3921102.shtml"
+      "time": "09-27 14:23",
+      "title": "旧超级油轮价值飙升超过新造船，市场陷入“疯狂”",
+      "insight": "随着船东争相利用海湾地区高企的运费，推动大型原油运输船市场进入“疯狂”状态，较老超级油轮的价值首…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsh3516711.shtml"
     },
     {
-      "id": "ffb7c27612",
-      "source": "中国新闻网",
-      "tag": "财经热点",
-      "time": "09-26 11:51",
-      "title": "特朗普第一时间发帖总结会晤",
-      "insight": "当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。美国总统特朗普第一时间在…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initcqme8647331.shtml"
+      "id": "fff3e7ce06",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:20",
+      "title": "瑞士选民将决定延续数百年的中立政策命运",
+      "insight": "瑞士选民将于周日决定，是否在全民公投中对该国延续数百年的中立政策施加更严格的定义。此次公投可能威…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsh3515410.shtml"
+    },
+    {
+      "id": "ffa04a7780",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:14",
+      "title": "币安与Circle扩大合作 分析师称USDC在稳定币竞争中获提振",
+      "insight": "币安向Circle投资1亿美元并签署新的五年商业协议，将在其平台推广和整合USDC。分析师指出，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsh3511363.shtml"
+    },
+    {
+      "id": "ff79c4e733",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:13",
+      "title": "美国能源部长：霍尔木兹海峡石油流量均值接近每日1300万桶",
+      "insight": "美国能源部长克里斯・赖特在福克斯新闻节目中表示，霍尔木兹海峡石油流量均值接近每日 1300 万桶…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsk0283197.shtml"
+    },
+    {
+      "id": "ffbd4f43c8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:11",
+      "title": "Kraken母公司Payward斥资数十亿美元打造金融基础设施",
+      "insight": "Kraken母公司Payward正斥资数十亿美元收购和建设业务，目标是从加密货币交易所转型为统一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsm4752996.shtml"
+    },
+    {
+      "id": "ffb49bdec0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:09",
+      "title": "黑客已经转移8300万美元被盗Bitget交易所虚拟货币",
+      "insight": "在加密货币交易所Bitget遭遇3.88亿美元攻击事件后，幕后黑客已从三个持币钱包中转移约830…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsh3507437.shtml"
+    },
+    {
+      "id": "ffd30df7f1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:07",
+      "title": "报道：阿玛尼将与路威酩轩、欧莱雅开启股权出售谈判",
+      "insight": "据媒体援引知情人士消息报道，阿玛尼计划与路威酩轩、欧莱雅以及依视路陆逊梯卡，就出售少数股权事宜展…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsc9591675.shtml"
+    },
+    {
+      "id": "ff20c08945",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-27 14:04",
+      "title": "英伟达携手德国SCHMID布局玻璃基板",
+      "insight": "英伟达正在考虑采用玻璃基板，并携手德国设备制造商SCHMID及其他企业开展合作，将人工智能芯片的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-initfxsc9590504.shtml"
+    },
+    {
+      "id": "ff846dff1e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:26",
+      "title": "瑞声科技于9月25日斥资785.77万港元回购20万股",
+      "insight": "瑞声科技（02018）发布公告，于2026年9月25日，该公司斥资785.77万港元回购20万股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsk0258505.shtml"
+    },
+    {
+      "id": "ff12a9f8ae",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:25",
+      "title": "贝壳-W于9月24日斥资300万美元回购54.15万股",
+      "insight": "贝壳-W（02423）发布公告，该公司于2026年9月24日斥资300万美元回购54.15万股股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4739989.shtml"
+    },
+    {
+      "id": "ff88a9505d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:24",
+      "title": "汇丰控股于9月24日斥资1.34亿港元回购85.08万股",
+      "insight": "汇丰控股（00005）发布公告，该公司于2026年9月24日斥资1.34亿港元回购85.08万股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9580286.shtml"
+    },
+    {
+      "id": "ffb08d26b2",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:24",
+      "title": "丽珠医药于将于11月3日派发特別中期股息每10股10.2元",
+      "insight": "丽珠医药（01513）发布公告，该公司将于2026年11月3日派发特別中期股息每10股10.2元…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9580084.shtml"
+    },
+    {
+      "id": "fff3c7f467",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:23",
+      "title": "渣打集团于9月24日斥资823.74万英镑回购36.34万股",
+      "insight": "渣打集团（02888）发布公告，该公司于2026年9月24日斥资823.74万英镑回购36.34…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4739225.shtml"
+    },
+    {
+      "id": "ffd72c5125",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:22",
+      "title": "华宝国际拟9000万元收购PT. Broad Far Indonesia100%股权",
+      "insight": "华宝国际（00336）发布公告，于2026年9月25日，Nocton、World Concept…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9579648.shtml"
+    },
+    {
+      "id": "ff727b6508",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:21",
+      "title": "碧桂园服务于9月25日斥资127.39万港元回购25万股",
+      "insight": "碧桂园服务（06098）发布公告，于2026年9月25日，该公司斥资127.39万港元回购25万…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9579265.shtml"
+    },
+    {
+      "id": "ff52019fa2",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:20",
+      "title": "博雷顿与因霍伊订立一项合作意向书",
+      "insight": "博雷顿（01333）发布公告，本公司近日与因霍伊投资（私人）有限公司（INHOYI INVEST…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsm4738419.shtml"
+    },
+    {
+      "id": "ff6630a3ca",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "09-27 13:19",
+      "title": "银建国际公布暂停买卖本公司股份",
+      "insight": "银建国际（00171）发布公告，证券及期货事务监察委员会（委员会）已于2026年9月24日根据证…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfxsc9578491.shtml"
     }
   ],
-  "updateTime": "2026-09-27 10:59"
+  "updateTime": "2026-09-27 17:05"
 }
