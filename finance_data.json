@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "ff8df0cd11",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "09-27 07:53",
+      "title": "加息逆风 BTC 冲 8.6 万：西格尔与詹卡洛的供需博弈",
+      "insight": "据 Woofun AI 消息，比特币在美联储持续加息的宏观紧缩背景下，逆势从夏季的约 58，00…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhum9868579.shtml"
+    },
+    {
+      "id": "ffaa2c8829",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "09-27 07:53",
+      "title": "ETF月入27亿叠加金叉，BTC剑指10万",
+      "insight": "据 Woofun AI 消息，比特币（BTC）在现货 ETF 资金大幅涌入与技术面多重利好共振下…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhum9868593.shtml"
+    },
+    {
+      "id": "ffa55a88f2",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "09-27 07:51",
+      "title": "13亿基金代币化：锁定SpaceX与OpenAI",
+      "insight": "据 Woofun AI 消息，方舟投资 （ARK） 与 Securitize（SECZ.US） …",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-27/doc-initfhuq3691439.shtml"
+    },
+    {
       "id": "ffab511e54",
       "source": "市场资讯",
       "tag": "财经热点",
@@ -152,34 +179,7 @@
       "title": "特朗普第一时间发帖总结会晤",
       "insight": "当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。美国总统特朗普第一时间在…",
       "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initcqme8647331.shtml"
-    },
-    {
-      "id": "ff42fe803c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 10:38",
-      "title": "美参议员：白宫释放信号 不会禁止柴油出口",
-      "insight": "美国参议员泰德·克鲁兹上周五晚间向炼油行业领袖表示，白宫已作出承诺，特朗普政府不会禁止美国柴油出…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3940901.shtml"
-    },
-    {
-      "id": "ffe498841b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-26 10:34",
-      "title": "白宫未推进小肯尼迪要求提供超加工食品安全性证明的提议",
-      "insight": "今年早些时候，卫生部长小罗伯特·F·肯尼迪原本准备向势力庞大的食品行业发起挑战。 媒体获取的一份…",
-      "link": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3938449.shtml"
-    },
-    {
-      "id": "ff6d99b1bc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-26 10:15",
-      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
-      "insight": "德国芯片厂商英飞凌科技将于10月1日正式启用泰国半导体工厂，项目投资超480亿泰铢（折合14.4…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml"
     }
   ],
-  "updateTime": "2026-09-27 07:18"
+  "updateTime": "2026-09-27 10:59"
 }
