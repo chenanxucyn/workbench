@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ff7550db1d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 03:09",
+      "title": "Anthropic首席执行官将与特朗普共进晚餐",
+      "insight": "据知情人士透露，Anthropic首席执行官Dario Amodei定于周日晚上与美国总统特朗普…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initifmv4175884.shtml"
+    },
+    {
+      "id": "ff1f80cafc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 00:25",
+      "title": "贝森特敦促美联储对美国通胀前景保持“开放心态”",
+      "insight": "美国财政部长贝森特表示，美联储决策者在利率问题上应保持“开放心态”，并认为人工智能带来的生产率提…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-inithzcu3145293.shtml"
+    },
+    {
+      "id": "ff9fc88227",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 00:20",
+      "title": "泽连斯基称俄罗斯袭击乌克兰数据中心",
+      "insight": "乌克兰官方表示，俄罗斯在夜间及周日清晨发动空袭，造成乌克兰各地至少6人死亡，并袭击了基辅多个大型…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-28/doc-inithzcv9915484.shtml"
+    },
+    {
+      "id": "ffa7becc43",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 23:44",
+      "title": "特朗普称英国事件嫌疑人企图破坏两国共用基地",
+      "insight": "美国总统特朗普称赞逮捕五名涉嫌策划袭击美国所使用的英国空军基地的男子一事“太棒了”。据英国反恐警…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-inithuvw3258167.shtml"
+    },
+    {
+      "id": "ffbaa0ed29",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-27 23:34",
+      "title": "伊朗副外长批评美财长言论：各国自主决定对伊关系，胁迫制裁时代走向终结",
+      "insight": "伊朗副外长加里巴巴迪批评了美国财长贝森特关于派遣特使向各国施压、要求其经济孤立伊朗的言论。加里巴…",
+      "link": "https://finance.sina.com.cn/7x24/2026-09-27/doc-inithuvw3253579.shtml"
+    },
+    {
       "id": "ffde32c4c4",
       "source": "环球市场播报",
       "tag": "美股",
@@ -134,52 +179,7 @@
       "title": "重整投资人跑了，天邦食品急寻“接盘侠”",
       "insight": "来源 | 野马财经 谁来雪中送炭？ 作者 | 方璐 编辑丨于婞 五年三度陷入亏损，主营生猪养殖业…",
       "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkhf4545398.shtml"
-    },
-    {
-      "id": "ffa88a21cb",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-27 17:10",
-      "title": "老板电器为何豪掷12亿买温度计？",
-      "insight": "来源 | 野马财经 两代人做生意的分野。 作者 | 贾紫聪 编辑 |高岩 2026年，老板电器（…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithkfx9385798.shtml"
-    },
-    {
-      "id": "ff91c633c4",
-      "source": "上海证券报",
-      "tag": "财经热点",
-      "time": "09-27 16:46",
-      "title": "300211获批摘星摘帽！周二复牌",
-      "insight": "9月24日晚，*ST亿通（300211）发布公告，披露公司撤销退市风险警示的申请已获深圳证券交易…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-27/doc-inithcye3460445.shtml"
-    },
-    {
-      "id": "ff603438a6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-27 15:33",
-      "title": "黄仁勋：驳斥AI末日论，AI是工程革命而非神秘超自然力量",
-      "insight": "作为全球市值最高企业英伟达的掌门人，黄仁勋是AI浪潮背后最重要的基础设施建设者。在近期的一次深度…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-27/doc-inithcye3418857.shtml"
-    },
-    {
-      "id": "ffcae5a96a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-27 15:00",
-      "title": "股价暴涨后“熄火”，锡华科技中报增收不增利，六成营收靠赊销",
-      "insight": "来源：证券之星 低位启动的四连涨停引爆股价后，风电齿轮箱部件细分龙头锡华科技（603248.SH…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithcye3445825.shtml"
-    },
-    {
-      "id": "ff495d0ebc",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "09-27 15:00",
-      "title": "重组方案“瘦身”，观想科技H1再陷亏损，标的估值缩水超两成",
-      "insight": "来源：证券之星 近日，观想科技（301213.SZ）收购锦州辽晶电子科技股份有限公司（以下简称“…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-09-27/doc-inithcye3445695.shtml"
     }
   ],
-  "updateTime": "2026-09-28 00:10"
+  "updateTime": "2026-09-28 04:40"
 }
