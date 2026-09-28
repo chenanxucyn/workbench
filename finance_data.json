@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff967cf7bd",
+      "id": "ff6d880bc6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 02:06",
+      "title": "摩根士丹利公布达拉斯扩张计划 包含3,800个岗位",
+      "insight": "摩根士丹利公布达拉斯中心计划，预计涉及约3，800个岗位，成为又一家在这座德克萨斯州城市扩大布局…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkt9531560.shtml"
+    },
+    {
+      "id": "ff2d68812d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 01:23",
+      "title": "欧洲债市：德国30年期国债创9月9日以来最差单日表现",
+      "insight": "随着油价和天然气价格上涨引发欧洲政府债券抛售，德国30年期国债收益率上涨近6个基点至3.97%，…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkp8198986.shtml"
+    },
+    {
+      "id": "ffbb521752",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 01:22",
+      "title": "伊朗官员据悉对美国中期选举前与华盛顿达成协议持悲观态度",
+      "insight": "据知情人士透露，伊朗官员私下对在11月美国中期选举之前与华盛顿达成协议以结束敌对状态并重开霍尔木…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkt9513061.shtml"
+    },
+    {
+      "id": "ff089752c2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 01:21",
+      "title": "贝恩资本合伙人Drew Chen任职逾20年后将离职 另谋新职",
+      "insight": "知情人士称，贝恩资本合伙人Drew Chen在任职逾20年后将离职，寻求新的职业机会。 Chen…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmkkv3357848.shtml"
+    },
+    {
+      "id": "ff4f3c849d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 01:08",
+      "title": "高收益债汹涌来袭 高盛称市场消化能力承压",
+      "insight": "高盛集团信贷策略主管表示，美国高收益债市场公司债供应激增，正开始令债券投资者难以消化，推动风险溢…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3485595.shtml"
+    },
+    {
+      "id": "ff9d8f2a89",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 01:03",
+      "title": "特朗普对在伊朗核问题取得进展基础上放松制裁持开放态度",
+      "insight": "一名美国官员表示，总统特朗普愿意在伊朗核问题取得具体进展的基础上，给予伊朗制裁减免并解冻被冻结的…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3484146.shtml"
+    },
+    {
+      "id": "ffcb11389a",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:26",
-      "title": "英国一处美军使用的空军基地曝出疑似炸弹袭击阴谋",
-      "insight": "核心要点英格兰西部的费尔福德皇家空军基地遭遇炸弹威胁，五人被捕；该基地曾被美军用于打击伊朗导弹阵…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8549948.shtml"
+      "time": "09-29 01:01",
+      "title": "散户投资者担忧情绪升温",
+      "insight": "面对油价波动、美债收益率持续飙升的各类新闻，普通投资者似乎正在重新审视自己此前的乐观立场。 万达…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9634835.shtml"
     },
     {
-      "id": "ffabddc784",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 17:24",
-      "title": "长安期货刘琳：短期中美磋商预期落空 豆粕仍或高位运行",
-      "insight": "一、摘要 近来，国外美豆与国内豆粕止步上涨，维持高位运行态势。中美领导人之间的会晤与经贸磋商吸引…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpfc9718806.shtml"
-    },
-    {
-      "id": "ff194c8746",
+      "id": "ffdc0aebdc",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:23",
-      "title": "英伟达推出双层AI安全系统 旨在防止AI智能体失控",
-      "insight": "英伟达推出一套新的双层人工智能（AI）安全系统，并称其有能力阻止近期OpenAI的AI模型导致H…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8548810.shtml"
+      "time": "09-29 00:52",
+      "title": "SpaceX星舰试飞成功进入地球轨道，26 颗星链卫星完成部署",
+      "insight": "SpaceX 代表在公司直播中称，尽管升空过程中一台发动机出现故障，SpaceX 星舰仍于周一首…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9631844.shtml"
     },
     {
-      "id": "ff65f92241",
+      "id": "ff92538445",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 00:47",
+      "title": "扎克伯格和Anthropic首席执行官等将出席特朗普AI主题午餐会",
+      "insight": "Semafor一名记者在X平台发帖称，Meta首席执行官马克·扎克伯格将于周二出席与美国总统特朗…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeau2857453.shtml"
+    },
+    {
+      "id": "ff3e5f96e3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:14",
-      "title": "全球主权债券承压，美国国债收益率小幅走高",
-      "insight": "受油价走高与通胀担忧影响，全球主权债券再度遭遇抛售压力，美国国债收益率周一小幅上行。 10 年期…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpfa2938624.shtml"
+      "time": "09-29 00:41",
+      "title": "耐克股价或将迎来又一次“业绩重置时刻”？",
+      "insight": "这家运动服饰巨头将于本周晚些时候发布财报，耐克（NKE）或将再度遭遇利空。 Evercore I…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeau2854478.shtml"
     },
     {
-      "id": "ffdf78265b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-28 17:11",
-      "title": "印度快速消耗煤炭库存 以缓解电力缺口",
-      "insight": "发电厂加大发电出力，弥补水电不足以及傍晚太阳能出力下滑，印度电厂煤炭库存快速消耗。为此政府启用应…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3703930.shtml"
-    },
-    {
-      "id": "fffc860c92",
+      "id": "ff7ee79a36",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:11",
-      "title": "SpaceX星舰试飞在即，同时将部署26颗Starlink V3卫星",
-      "insight": "SpaceX计划于9月28日进行“星舰”（Starship）第14次试飞，并首次尝试让星舰进入轨…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpff3703927.shtml"
+      "time": "09-29 00:34",
+      "title": "财报前夕，美光“超级多头”重申2000美元目标价",
+      "insight": "在看多存储芯片股美光科技（股票代码 MU）的华尔街分析师当中，D.A． 戴维森的吉尔・卢里亚堪称…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeav9622448.shtml"
     },
     {
-      "id": "ffc05b30d8",
+      "id": "ff3a2b4464",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 00:33",
+      "title": "德意志银行：供应短缺或令铜价半年内上涨超过50%",
+      "insight": "德意志银行预计，随着买家争夺不断减少的铜库存，铜价未来六个月可能上涨逾50%，达到每吨22，05…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeav9621943.shtml"
+    },
+    {
+      "id": "ffa5ef14f6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-29 00:26",
+      "title": "欧洲股市基本持平 债市抛售抵消英国住宅建筑股涨势",
+      "insight": "欧洲股市周一收盘基本持平，随着10年期美国国债收益率升破5.25%，早盘涨幅尽数回吐。 斯托克欧…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeax3475089.shtml"
+    },
+    {
+      "id": "ff799a8542",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:11",
-      "title": "澳大利亚最大黄金矿企北方之星股价大涨，该公司拒绝270亿美元收购邀约",
-      "insight": "核心要点金田矿业（Gold Fields）的收购提议最初对北方之星估值 387 亿澳元，较其 9…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8544443.shtml"
+      "time": "09-29 00:14",
+      "title": "首席执行官被Meta挖角，MongoDB股价大幅下挫18%",
+      "insight": "Meta 挖角 MongoDB 首席执行官奇兰坦・“CJ”・德赛，由他执掌全新的 Meta 企业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeax3469655.shtml"
     },
     {
-      "id": "ffad75edf0",
+      "id": "ff1a62eb99",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "09-28 17:09",
-      "title": "VinFast制造子公司拟与Future Investment合并，注册资本将增至约214万亿越南盾",
-      "insight": "VinFast Trading and Production计划与Future Investme…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpfc9706904.shtml"
+      "time": "09-29 00:10",
+      "title": "“我们回不去了”：埃尔‑埃里安称收益率将维持高位",
+      "insight": "经济学家穆罕默德・埃尔‑埃里安周一表示，即便伊朗战争落幕、油价回落，美国国债收益率仍大概率维持高…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-29/doc-initmeax3467644.shtml"
     },
     {
-      "id": "ffb44585c4",
+      "id": "ff6aff8e7d",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-28 17:08",
-      "title": "历经数十年打拼 印度裔高管在美国企业董事会的影响力日益增强",
-      "insight": "在美国企业历经数十年的职业晋升之路后，越来越多的印度裔男性如今正跻身董事会。 据ISS-Corp…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8543135.shtml"
+      "time": "09-29 00:04",
+      "title": "Meta聘请MongoDB首席执行官领导新的企业级AI平台",
+      "insight": "Meta Platforms挖角MongoDB总裁兼首席执行官Chirantan “CJ” De…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmeau2831720.shtml"
     },
     {
-      "id": "ffc44436ae",
-      "source": "新京报",
-      "tag": "财经热点",
-      "time": "09-28 17:07",
-      "title": "山姆回应“蛋糕上有蛆虫”",
-      "insight": "新京报记者 赵露 制作 高晨曦 9月28日廖先生反映，22日他在广东佛山山姆店购买蛋糕，吃到第三…",
-      "link": "https://finance.sina.com.cn/wm/2026-09-28/doc-initkpfc9707666.shtml"
-    },
-    {
-      "id": "ffa734364b",
+      "id": "ff78d0f957",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-28 17:06",
-      "title": "卡塔尔延长液化天然气不可抗力期限 霍尔木兹海峡运输中断持续",
-      "insight": "关键航道霍尔木兹海峡能源运输持续受阻，卡塔尔将面向亚洲与欧洲液化天然气供应的不可抗力声明再度延长…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3701902.shtml"
+      "time": "09-29 00:03",
+      "title": "SpaceX星舰首次入轨并部署26颗V3星链卫星 公司CFO称其为“创收飞行”",
+      "insight": "SpaceX巨型星舰火箭周一早晨首次进入轨道，为该项目取得重要里程碑。此前，火箭在上升过程中一台…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmear8305457.shtml"
     },
     {
-      "id": "ff97517ada",
+      "id": "ffd5763c52",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-28 17:05",
-      "title": "印尼央行：即期外汇干预目前仅占总干预规模的30%",
-      "insight": "印尼央行行长德斯特里·达马扬蒂周一在国会听证会上向议员表示，该行已大幅减少成本较高的即期市场干预…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8541879.shtml"
+      "time": "09-29 00:01",
+      "title": "特朗普拒绝伊朗提议令油价上涨 美债市场抛售加剧",
+      "insight": "美国总统特朗普拒绝伊朗重开霍尔木兹海峡的最新提议令油价上涨，从而加剧市场对通胀的担忧，美国国债跌…",
+      "link": "https://finance.sina.com.cn/world/2026-09-29/doc-initmear8304430.shtml"
     },
     {
-      "id": "ff65ec38f2",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 17:04",
-      "title": "【国投期货|化工视点】玻璃：长假面临再度累库压力",
-      "insight": "国投期货研究院 玻璃9月份经过短暂的去库涨价后，月末去库速度再度放缓，现货价格随之回落。现货走势…",
-      "link": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpff3709141.shtml"
-    },
-    {
-      "id": "ff959c30cc",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "09-28 17:04",
-      "title": "大同证券直播间的低佣金之问：万分之0.6是否构成不正当竞争？“都符合”等相关话术是否合规？",
-      "insight": "一场看似寻常的直播间促销，不断试探证券经纪业务的监管红线。 “全佣加在一起不到万一，跟万一说再见…",
-      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-28/doc-initkpex8541025.shtml"
-    },
-    {
-      "id": "ff49fc4c80",
+      "id": "ff14b6f438",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-28 17:04",
-      "title": "PIMCO看好澳大利亚债券价值 认为市场的加息预期过高",
-      "insight": "PIMCO对澳大利亚债券的态度越来越趋于建设性，认为在当地经济放缓的情况下，市场对加息的预期过高…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpfa2929714.shtml"
+      "time": "09-28 23:54",
+      "title": "三大不利因素夹击 纳斯达克100指数下挫",
+      "insight": "科技股周一下挫，中东局势取得突破的希望减弱，加之通胀担忧升温，打击市场情绪。 纽约时间上午11：…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initmeax3462704.shtml"
     },
     {
-      "id": "ff903705f8",
+      "id": "ff02af86b3",
       "source": "环球市场播报",
       "tag": "财经热点",
-      "time": "09-28 17:02",
-      "title": "霍尔木兹危机收紧全球市场 欧洲液化天然气进口增加",
-      "insight": "北半球冬季将至，欧洲液化天然气进口量持续走高。霍尔木兹海峡运输长期受阻，或将加剧全球范围内对该能…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3699794.shtml"
-    },
-    {
-      "id": "ff9fe8c85e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-28 17:01",
-      "title": "高市早苗宣扬日本移民法规重大改革",
-      "insight": "部分新规即将生效，日本首相高市早苗于周末在社交媒体发文，推介日本针对外籍人士的法规修订工作。 她…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpff3699365.shtml"
-    },
-    {
-      "id": "ff584852c6",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-28 17:00",
-      "title": "富达推动德国扩大市场化养老金改革范围",
-      "insight": "资管机构预计明年改革将带来数十亿欧元资金流入，富达国际正游说德国政府扩大养老金改革计划，把存在养…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3698812.shtml"
-    },
-    {
-      "id": "ff0189b8cf",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "09-28 16:59",
-      "title": "受英国预算对冲需求推动 英镑波动率创两个月新高",
-      "insight": "月期期权的到期时间覆盖10月28日英国预算公布时点，期权定价已开始计入该事件风险。 该期限英镑兑…",
-      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8539133.shtml"
-    },
-    {
-      "id": "ff7a73c2c7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-28 16:58",
-      "title": "索尼退出CES展会 本田电动车合资项目终止",
-      "insight": "索尼集团将缺席2027年CES消费电子展，结束其在拉斯维加斯这场电子展会长达数十年的参展历史，转…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8538824.shtml"
+      "time": "09-28 23:52",
+      "title": "交易员下调欧洲央行加息押注 预计10月加息概率不足40%",
+      "insight": "交易员降低了对欧洲央行连续加息的预期，目前预计10月加息的概率不到40%。此前欧洲央行行长克里斯…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initmeax3462313.shtml"
     }
   ],
-  "updateTime": "2026-09-28 17:26"
+  "updateTime": "2026-09-29 03:03"
 }
