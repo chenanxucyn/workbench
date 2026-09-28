@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffc502b224",
-      "source": "市场资讯",
-      "tag": "期货",
-      "time": "09-28 10:47",
-      "title": "快讯：股指期货加速下挫 IC、IM主力合约跌超3%",
-      "insight": "2026年9月28日，股指期货加速下挫，沪深300股指期货（IF）主力合约跌2.44%，上证50…",
-      "link": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-09-28/doc-initiwim9762338.shtml"
+      "id": "ff967cf7bd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:26",
+      "title": "英国一处美军使用的空军基地曝出疑似炸弹袭击阴谋",
+      "insight": "核心要点英格兰西部的费尔福德皇家空军基地遭遇炸弹威胁，五人被捕；该基地曾被美军用于打击伊朗导弹阵…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8549948.shtml"
     },
     {
-      "id": "ff8afa4ce8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 10:36",
-      "title": "思摩尔国际早盘涨逾5% 国内HNB规范准入制度流程有望持续推进",
-      "insight": "思摩尔国际（06969）盘中涨超5%。截至发稿，股价上涨4.76%，现报9.575港元，成交额3…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwik2975391.shtml"
-    },
-    {
-      "id": "ff4162b9fd",
+      "id": "ffabddc784",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-28 10:34",
-      "title": "光大期货：9月28日有色金属日报",
-      "insight": "铜：共识短缺 隐性过剩 （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwik2971371.shtml"
+      "time": "09-28 17:24",
+      "title": "长安期货刘琳：短期中美磋商预期落空 豆粕仍或高位运行",
+      "insight": "一、摘要 近来，国外美豆与国内豆粕止步上涨，维持高位运行态势。中美领导人之间的会晤与经贸磋商吸引…",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpfc9718806.shtml"
     },
     {
-      "id": "ff0555168b",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 10:34",
-      "title": "中国心连心化肥盘中涨超7% 公司发布高端硝基新品开启活化硝基肥时代",
-      "insight": "中国心连心化肥（01866）盘中涨超7%。截至发稿，股价上涨5.83%，现报10.71港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwik2971202.shtml"
+      "id": "ff194c8746",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:23",
+      "title": "英伟达推出双层AI安全系统 旨在防止AI智能体失控",
+      "insight": "英伟达推出一套新的双层人工智能（AI）安全系统，并称其有能力阻止近期OpenAI的AI模型导致H…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8548810.shtml"
     },
     {
-      "id": "ff27ca1dac",
+      "id": "ff65f92241",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:14",
+      "title": "全球主权债券承压，美国国债收益率小幅走高",
+      "insight": "受油价走高与通胀担忧影响，全球主权债券再度遭遇抛售压力，美国国债收益率周一小幅上行。 10 年期…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpfa2938624.shtml"
+    },
+    {
+      "id": "ffdf78265b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:11",
+      "title": "印度快速消耗煤炭库存 以缓解电力缺口",
+      "insight": "发电厂加大发电出力，弥补水电不足以及傍晚太阳能出力下滑，印度电厂煤炭库存快速消耗。为此政府启用应…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3703930.shtml"
+    },
+    {
+      "id": "fffc860c92",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:11",
+      "title": "SpaceX星舰试飞在即，同时将部署26颗Starlink V3卫星",
+      "insight": "SpaceX计划于9月28日进行“星舰”（Starship）第14次试飞，并首次尝试让星舰进入轨…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpff3703927.shtml"
+    },
+    {
+      "id": "ffc05b30d8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:11",
+      "title": "澳大利亚最大黄金矿企北方之星股价大涨，该公司拒绝270亿美元收购邀约",
+      "insight": "核心要点金田矿业（Gold Fields）的收购提议最初对北方之星估值 387 亿澳元，较其 9…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8544443.shtml"
+    },
+    {
+      "id": "ffad75edf0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:09",
+      "title": "VinFast制造子公司拟与Future Investment合并，注册资本将增至约214万亿越南盾",
+      "insight": "VinFast Trading and Production计划与Future Investme…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpfc9706904.shtml"
+    },
+    {
+      "id": "ffb44585c4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:08",
+      "title": "历经数十年打拼 印度裔高管在美国企业董事会的影响力日益增强",
+      "insight": "在美国企业历经数十年的职业晋升之路后，越来越多的印度裔男性如今正跻身董事会。 据ISS-Corp…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8543135.shtml"
+    },
+    {
+      "id": "ffc44436ae",
+      "source": "新京报",
+      "tag": "财经热点",
+      "time": "09-28 17:07",
+      "title": "山姆回应“蛋糕上有蛆虫”",
+      "insight": "新京报记者 赵露 制作 高晨曦 9月28日廖先生反映，22日他在广东佛山山姆店购买蛋糕，吃到第三…",
+      "link": "https://finance.sina.com.cn/wm/2026-09-28/doc-initkpfc9707666.shtml"
+    },
+    {
+      "id": "ffa734364b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:06",
+      "title": "卡塔尔延长液化天然气不可抗力期限 霍尔木兹海峡运输中断持续",
+      "insight": "关键航道霍尔木兹海峡能源运输持续受阻，卡塔尔将面向亚洲与欧洲液化天然气供应的不可抗力声明再度延长…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3701902.shtml"
+    },
+    {
+      "id": "ff97517ada",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:05",
+      "title": "印尼央行：即期外汇干预目前仅占总干预规模的30%",
+      "insight": "印尼央行行长德斯特里·达马扬蒂周一在国会听证会上向议员表示，该行已大幅减少成本较高的即期市场干预…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8541879.shtml"
+    },
+    {
+      "id": "ff65ec38f2",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "09-28 10:33",
-      "title": "光大期货：9月28日软商品日报",
-      "insight": "白糖：巴西定产、北半球估产与厄尔尼诺的三重博弈 （张笑金，从业资格号：F0306200；交易咨询…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8764844.shtml"
+      "time": "09-28 17:04",
+      "title": "【国投期货|化工视点】玻璃：长假面临再度累库压力",
+      "insight": "国投期货研究院 玻璃9月份经过短暂的去库涨价后，月末去库速度再度放缓，现货价格随之回落。现货走势…",
+      "link": "https://finance.sina.com.cn/money/future/2026-09-28/doc-initkpff3709141.shtml"
     },
     {
-      "id": "ffbce2ab45",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 10:32",
-      "title": "光大期货：9月28日农产品日报",
-      "insight": "油脂油料：四季度不缺货 27年上半年供应有担忧 （侯雪玲，从业资格号：F3048706；交易咨询…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8764430.shtml"
-    },
-    {
-      "id": "ff7f53c129",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 10:31",
-      "title": "光大期货：9月28日能源化工日报",
-      "insight": "原油：油价有望延续脉冲式上行的节奏 （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwip3923505.shtml"
-    },
-    {
-      "id": "ffbcf6c9c9",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 10:30",
-      "title": "光大期货：9月28日矿钢煤焦日报",
-      "insight": "钢材：供需缺乏驱动引擎，被动承受成本波动 （邱跃成，从业资格号：F3046854；交易咨询资格号…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8763535.shtml"
-    },
-    {
-      "id": "ff5a08579e",
-      "source": "新浪港股",
+      "id": "ff959c30cc",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "09-28 10:30",
-      "title": "乐普生物盘中涨超5% CMG901临床研究结果入选LBA并将于主席研讨会上公布",
-      "insight": "乐普生物（02157）盘中涨超5%，截至发稿，涨幅回落股价小涨1.32%，现报3.845港元，成…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwim9738405.shtml"
+      "time": "09-28 17:04",
+      "title": "大同证券直播间的低佣金之问：万分之0.6是否构成不正当竞争？“都符合”等相关话术是否合规？",
+      "insight": "一场看似寻常的直播间促销，不断试探证券经纪业务的监管红线。 “全佣加在一起不到万一，跟万一说再见…",
+      "link": "https://finance.sina.com.cn/stock/aigcy/2026-09-28/doc-initkpex8541025.shtml"
     },
     {
-      "id": "ffd3265be4",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 10:29",
-      "title": "光大期货：9月28日金融日报",
-      "insight": "股指：三季度回调企稳，四季度缩量震荡 （王东灜，从业资格号：F03087149；交易咨询资格号：…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwip3922697.shtml"
+      "id": "ff49fc4c80",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:04",
+      "title": "PIMCO看好澳大利亚债券价值 认为市场的加息预期过高",
+      "insight": "PIMCO对澳大利亚债券的态度越来越趋于建设性，认为在当地经济放缓的情况下，市场对加息的预期过高…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpfa2929714.shtml"
     },
     {
-      "id": "ff81a795bf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 10:27",
-      "title": "中环新能源早盘涨近9% 上半年AI算力业务表现亮眼",
-      "insight": "中环新能源（01735）早盘涨近9%，截至发稿，股价上涨8.81%，现报11.24港元，成交额7…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwip3921467.shtml"
+      "id": "ff903705f8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:02",
+      "title": "霍尔木兹危机收紧全球市场 欧洲液化天然气进口增加",
+      "insight": "北半球冬季将至，欧洲液化天然气进口量持续走高。霍尔木兹海峡运输长期受阻，或将加剧全球范围内对该能…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3699794.shtml"
     },
     {
-      "id": "ff155d8b06",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 10:25",
-      "title": "速腾聚创早盘涨逾5% 携手英伟达深化物理AI合作E2 EM4正式接入HSB",
-      "insight": "速腾聚创（02498）盘中涨超5%，截至发稿，股价上涨4.75%，现报16.77港元，成交额39…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwip3920569.shtml"
+      "id": "ff9fe8c85e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 17:01",
+      "title": "高市早苗宣扬日本移民法规重大改革",
+      "insight": "部分新规即将生效，日本首相高市早苗于周末在社交媒体发文，推介日本针对外籍人士的法规修订工作。 她…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpff3699365.shtml"
     },
     {
-      "id": "ffffe01fba",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 09:54",
-      "title": "利特米复牌后大涨超216% 获INNOVATION FORGE HOLDINGS LIMITED折让提全购要约",
-      "insight": "利特米（01936）复牌后一度涨超239%，高见2.95港元，截至发稿，股价大涨216.09%，…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwip3904871.shtml"
+      "id": "ff584852c6",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 17:00",
+      "title": "富达推动德国扩大市场化养老金改革范围",
+      "insight": "资管机构预计明年改革将带来数十亿欧元资金流入，富达国际正游说德国政府扩大养老金改革计划，把存在养…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpff3698812.shtml"
     },
     {
-      "id": "ff4c245f76",
-      "source": "新浪财经",
-      "tag": "理财",
-      "time": "09-28 09:50",
-      "title": "假期集团散户同步出栏 生猪价格承压偏弱运行",
-      "insight": "（来源：信达期货） 研报正文 资讯：9 月 21 日，牧原股份于互动易答复投资者，力争9月底将能…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwim9706532.shtml"
+      "id": "ff0189b8cf",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "09-28 16:59",
+      "title": "受英国预算对冲需求推动 英镑波动率创两个月新高",
+      "insight": "月期期权的到期时间覆盖10月28日英国预算公布时点，期权定价已开始计入该事件风险。 该期限英镑兑…",
+      "link": "https://finance.sina.com.cn/world/2026-09-28/doc-initkpex8539133.shtml"
     },
     {
-      "id": "ff0aec5e1a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 09:50",
-      "title": "均胜电子盘初涨超8% 公司定位为“汽车+机器人Tier1”",
-      "insight": "均胜电子（00699）盘初涨超8%，截至发稿，股价上涨5.15%，现报12.87港元，成交额57…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwik2919679.shtml"
-    },
-    {
-      "id": "ffb2af0330",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "09-28 09:48",
-      "title": "疆棉调研与中期展望：现实与预期的校准",
-      "insight": "来源：CFC商品策略研究 作者 | 中信建投期货 研究发展部  研究员：田亚雄  助理研究员：石…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-09-28/doc-initiwif8749052.shtml"
-    },
-    {
-      "id": "ff99e6e10f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 09:47",
-      "title": "蔚来-SW早盘涨超3% 与吉利控股集团达成换电充电业务战略合作",
-      "insight": "蔚来-SW（09866）早盘涨超3%，截至发稿，股价上涨1.85%，现报28.58港元，成交额2…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-09-28/doc-initiwim9686647.shtml"
-    },
-    {
-      "id": "ffa1e4a72a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 09:45",
-      "title": "翼菲科技早盘一度涨超16% 宣布与中科宇航订立战略合作协议",
-      "insight": "翼菲科技（06871）早盘一度涨超16%。截至发稿，涨幅回落，股价上涨3.25%，现报31.10…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-28/doc-initiwip3900637.shtml"
-    },
-    {
-      "id": "ff76984ea8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "09-28 09:42",
-      "title": "信义能源：新能源光伏REIT申报获深交所受理",
-      "insight": "信义能源（03868）及信义光能（00968）联合公布，于2026年8月26日接获中国证监会的推…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-28/doc-initiwif8739894.shtml"
-    },
-    {
-      "id": "ff64a0304b",
-      "source": "市场资讯",
-      "tag": "财经",
-      "time": "09-28 09:40",
-      "title": "贝森特喊话美联储：对利率保持开放态度，有两大“助力”可控制通胀！",
-      "insight": "文章来源：财联社 当地时间周日（27日），美国财政部长斯科特·贝森特表示，美联储决策者应该对利率…",
-      "link": "https://finance.sina.com.cn/roll/2026-09-28/doc-initiwik2910724.shtml"
+      "id": "ff7a73c2c7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "09-28 16:58",
+      "title": "索尼退出CES展会 本田电动车合资项目终止",
+      "insight": "索尼集团将缺席2027年CES消费电子展，结束其在拉斯维加斯这场电子展会长达数十年的参展历史，转…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-28/doc-initkpex8538824.shtml"
     }
   ],
-  "updateTime": "2026-09-28 10:57"
+  "updateTime": "2026-09-28 17:26"
 }
