@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff1cfb9fd3",
+      "id": "ffe5be1c50",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-01 01:13",
-      "title": "联邦贸易委员会就产品风险调查OpenAI、Anthropic及其他AI企业",
-      "insight": "核心要点 美国联邦贸易委员会（FTC）已启动调查，核查 OpenAI、Anthropic 以及其…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrwqt5579094.shtml"
+      "time": "10-01 05:40",
+      "title": "美元录得3月份以来最佳单月表现 美联储抗通胀立场推升利率预期",
+      "insight": "随着美联储重新聚焦于遏制通胀，推动利率预期和美国国债收益率走高，美元录得3月份以来最佳单月表现。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsiep5417095.shtml"
     },
     {
-      "id": "ff5eadd0c5",
+      "id": "ffef461c5b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-01 01:09",
-      "title": "参议院预计将在选举休会前就议员股票交易禁令、数据中心相关法案举行投票",
-      "insight": "核心要点参议院共和党人预计周三将把两项法案提交全院表决：一项应对数据中心推高公用事业电价问题，另…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrwqt5577384.shtml"
+      "time": "10-01 05:32",
+      "title": "被问及施压鲍威尔辞任美联储理事 特朗普称沃什将“自行其是”",
+      "insight": "美国总统特朗普被问及美联储主席凯文·沃什是否会协助施压前主席杰罗姆·鲍威尔辞去美联储理事职务时表…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr5545178.shtml"
     },
     {
-      "id": "ff9178887a",
+      "id": "ff1b95c657",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-01 01:03",
-      "title": "市场寻找资产负债表 “现金奶牛” 与优质股票的逻辑正在转变",
-      "insight": "核心要点近期一项经济分析发现，当前市场投向 AI 领域的资本开支规模，远超历史上历次资本繁荣周期…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrwqt5575049.shtml"
+      "time": "10-01 05:30",
+      "title": "10月1日外盘头条：特朗普称最后一批美军即将撤离伊拉克 谷歌推出Gemini 4 Argon 美光营收单季破540亿美元",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普：最后一批美军即将撤离伊拉克 2、美联…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2312035.shtml"
     },
     {
-      "id": "ff0023dd52",
+      "id": "ff0418ce11",
       "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 05:25",
+      "title": "美国股市：标普500指数录得6月以来最差月度表现 利率担忧挥之不去",
+      "insight": "标普500指数周三收跌，为投资者一直担忧通胀和高利率的一个月画上句号。 标普500指数在纽约收跌…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2316093.shtml"
+    },
+    {
+      "id": "ffeff1f543",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 05:02",
+      "title": "全球债市单季表现创2024年以来最差 投资者担忧通胀",
+      "insight": "全球政府债券正以2024年以来最差的季度表现收官，100美元的油价让全球经济再度面临顽固通胀的威…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr1643526.shtml"
+    },
+    {
+      "id": "ff3c4f498e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:57",
+      "title": "10月1日热门中概股多数上涨 京东贝壳理想涨超1% BOSS直聘涨超4%",
+      "insight": "10月1日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.60%。 上涨个股（按市值从…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6483549.shtml"
+    },
+    {
+      "id": "ffaf0cedad",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:49",
+      "title": "美光季度营收展望好于华尔街预期 AI建设浪潮推高存储芯片需求",
+      "insight": "得益于AI基础设施建设将芯片需求推高至前所未有的水平，美国最大存储芯片制造商美光科技对当前季度的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302152.shtml"
+    },
+    {
+      "id": "ff2593c98f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:49",
+      "title": "搬出司法部和起诉威吓 特朗普逼鲍威尔从美联储理事会辞职",
+      "insight": "美联储内部报告指一系列失误导致央行总部翻修工程成本飙升后，美国总统唐纳德·特朗普称前主席杰罗姆·…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr5529586.shtml"
+    },
+    {
+      "id": "ff3d7c2b90",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:49",
+      "title": "特朗普首席科技顾问：人工智能企业同意接受外部审计",
+      "insight": "白宫科学技术顾问委员会主席大卫·萨克斯称，人工智能公司已同意对自己的研发进行外部审计。",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2302005.shtml"
+    },
+    {
+      "id": "ff072be360",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:49",
+      "title": "谷歌发布前沿模型Gemini 4 Argon 将在确保安全后尽快推出",
+      "insight": "谷歌在其官方博客宣布推出名为Gemini 4 Argon的新款前沿模型。 新模型将通过Fairw…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6482475.shtml"
+    },
+    {
+      "id": "ff9af1bed8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:48",
+      "title": "原油：油价维持在100美元附近 中东石油供应据估接近战前水平",
+      "insight": "油价在每桶100美元附近波动，华尔街分析师和交易员表示，经霍尔木兹海峡的石油流量正恢复至接近战前…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr5529382.shtml"
+    },
+    {
+      "id": "ffd4bb1a59",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:44",
+      "title": "10月1日美股成交额前20：苹果涨超1% 大举进军智能家居市场 计划推出智能家居控制中枢产品",
+      "insight": "周四美股成交额第3名英伟达收高0.51%，成交271.32亿美元。 英伟达表示，AI云服务商Co…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawt2300979.shtml"
+    },
+    {
+      "id": "ffdc6c8fed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:28",
+      "title": "美光Q4营收单季破542亿美元 预判存储2027-2028持续供给紧缺",
+      "insight": "美光科技公布2026财年第四财季业绩，全部核心指标均超出业绩指引上限。 第四财季实现营收542.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr5523815.shtml"
+    },
+    {
+      "id": "ff92c9ef9b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:21",
+      "title": "Meta股价因AI势头创2022年以来最佳月度表现",
+      "insight": "Meta股价刚刚结束自2022年以来最佳月度表现，投资者欢呼这家社交媒体巨头近期在人工智能领域的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr1636892.shtml"
+    },
+    {
+      "id": "ff5efaee71",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:19",
+      "title": "谷歌推出最先进的AI模型Gemini 4 Argon",
+      "insight": "Alphabet周三推出了Gemini 4 Argon，这是其迄今最先进的人工智能模型，在编码、…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr1636320.shtml"
+    },
+    {
+      "id": "ffeeb07203",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:17",
+      "title": "10月1日美股收盘：9月收官日美股三大股指涨跌不一 道指跌440点",
+      "insight": "9月的最后一个交易日，新的美国经济数据显示上月通胀放缓。 标普500指数周三下跌0.25%，回吐…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6476390.shtml"
+    },
+    {
+      "id": "ffbc04740b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-01 04:08",
+      "title": "美联储理事库克：致力于推动通胀回归2%目标",
+      "insight": "美联储理事丽莎·库克表示，通胀仍处于不应有的高位，并重申致力于实现价格稳定。 “无论身处农村还是…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr1632054.shtml"
+    },
+    {
+      "id": "ff43e14c29",
+      "source": "新华社",
       "tag": "财经热点",
-      "time": "10-01 01:02",
-      "title": "英国首相称伊朗可能参与了RAF Fairford空军基地安全事件",
-      "insight": "英国首相伯纳姆表示，英国政府认为，伊朗政府参与了RAF Fairford空军基地发生的一起安全事…",
-      "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initrwqt5574966.shtml"
+      "time": "10-01 04:07",
+      "title": "调查显示日本10月将迎来新一波涨价潮",
+      "insight": "新华社东京9月30日电（记者蓝建中 李诗萌）日本一家调查机构9月30日公布的调查结果显示，10月…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-01/doc-initsawi6472992.shtml"
     },
     {
-      "id": "ff5574ebe8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-01 01:01",
-      "title": "欧洲股市录得3月以来最差月度表现 利率担忧升温",
-      "insight": "欧洲股市录得3月以来首次月度下跌，油价和债券收益率双双走高，市场对通胀的担忧进一步加剧。 斯托克…",
-      "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initrwqm6560309.shtml"
-    },
-    {
-      "id": "ffb723b188",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-01 01:00",
-      "title": "高盛将美联储加息预期从10月推迟至12月",
-      "insight": "高盛集团表示，周三美国公布的通胀数据再加上纽约联储行长约翰·威廉姆斯昨日的讲话令其现在认为美联储…",
-      "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initrwqv2346593.shtml"
-    },
-    {
-      "id": "ff35999a77",
+      "id": "ffd8ff88e7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-01 00:58",
-      "title": "德意志银行CEO警示：德国政治风向转变令外国投资者感到不安",
-      "insight": "核心要点德意志银行首席执行官克里斯蒂安・泽温表示，德国近期州选举结果 “对德国而言并非好事”，可…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshp6690786.shtml"
+      "time": "10-01 03:56",
+      "title": "特朗普：鲍威尔不辞任美联储理事就应被起诉",
+      "insight": "美国总统特朗普说，杰罗姆·鲍威尔应该“被迫辞去”美联储理事一职。 特朗普表示，如果鲍威尔不辞职就…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawr1629590.shtml"
     },
     {
-      "id": "ff6cafa9b9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-01 00:56",
-      "title": "欧洲债市：德国国债领涨欧债 法国国债表现落后",
-      "insight": "法国和德国10年期国债利差单日升幅创6月份以来最大，欧洲政府债券大多上涨，而法国国债表现落后。 …",
-      "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initrshx2476428.shtml"
-    },
-    {
-      "id": "ffa0ef4240",
+      "id": "fff9454e2b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-01 00:56",
-      "title": "斯特兰蒂斯CEO重申2026全年业绩指引，称转型计划持续推进，公司股价创历史新低",
-      "insight": "核心要点斯特兰蒂斯首席执行官安东尼奥・菲洛萨再次确认车企 2026 年业绩指引以及现金流目标。他…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshp6690459.shtml"
-    },
-    {
-      "id": "ff81dc2104",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:53",
-      "title": "Kalshi、Polymarket 部分产品交易量激增，背后数据引发质疑",
-      "insight": "核心要点 Kalshi 某永续期货合约出现异常交易模式，Polymarket 国际交易所部分低概…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv1849503.shtml"
-    },
-    {
-      "id": "ff8e0302ca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:45",
-      "title": "礼来备受关注的肥胖联合疗法中期临床试验减重效果提升",
-      "insight": "核心要点 礼来公布，一项针对肥胖合并 2 型糖尿病患者的中期临床试验显示，其在研联合疗法减重效果…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv1848287.shtml"
-    },
-    {
-      "id": "ff3d74da7c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:43",
-      "title": "克莱顿称：“超级智能属于国家安全问题”，回避AI“总负责人”任命相关提问",
-      "insight": "核心要点 美国国家情报总监杰伊・克莱顿表示 “超级智能是一项国家安全议题”，此番表态发生在特朗普…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshx2471973.shtml"
-    },
-    {
-      "id": "ff39d97e00",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:40",
-      "title": "特朗普最新全球关税遭遇贸易法院司法挑战",
-      "insight": "核心要点 纽约联邦国际贸易法院的法官合议庭正在开庭审理针对唐纳德・特朗普总统 “301 条款” …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv5698329.shtml"
-    },
-    {
-      "id": "ffbb1472f3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-01 00:29",
-      "title": "美国长期国债收益率再创24年新高 受强劲消费支出数据推动",
-      "insight": "美国长期国债收益率升至数十年来新高，美国消费支出数据的坚挺强化了市场对于美国经济能够承受更高利率…",
-      "link": "https://finance.sina.com.cn/world/2026-10-01/doc-initrshx2467417.shtml"
-    },
-    {
-      "id": "ff59dca33f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:28",
-      "title": "美泰任命罗杰・林奇担任首席执行官，接替伊农・克雷兹",
-      "insight": "核心要点美泰于周三宣布，罗杰・林奇将出任公司首席执行官兼董事长。林奇将接替自 2018 年起执掌…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv1844855.shtml"
-    },
-    {
-      "id": "ffc10ea17d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:04",
-      "title": "康泰纳仕首席执行官罗杰・林奇离职，将加盟美泰公司",
-      "insight": "林奇执掌这家玩具巨头；美泰正推进好莱坞文娱布局，力图转型为一家娱乐企业罗杰・林奇自 2018 年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv1834511.shtml"
-    },
-    {
-      "id": "ff09d7d18d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-01 00:01",
-      "title": "荷美尔食品拟以约 10.6 亿美元收购布雷克布什兄弟公司",
-      "insight": "作为世棒午餐肉、四季宝花生酱的母公司，荷美尔预计此次收购将扩大其在深加工鸡肉领域的市场地位荷美尔…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initrshv5676598.shtml"
-    },
-    {
-      "id": "ffb6c48de7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-30 23:52",
-      "title": "Conagra下跌5.7% 财年第一季度销售额下滑",
-      "insight": "这家食品生产商旗下拥有奥维尔・雷登巴赫爆米花、斯利姆・吉姆肉条等品牌，其第一季度净销售额小幅下滑…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initrshv1831444.shtml"
-    },
-    {
-      "id": "ff02f6d827",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-30 23:48",
-      "title": "通用磨坊任命首席运营官牵头企业转型",
-      "insight": "达娜・麦克纳布将接替自 2017 年起担任首席执行官的杰夫・哈梅宁1999 年加入通用磨坊的达娜…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initrshv1830581.shtml"
-    },
-    {
-      "id": "ffb559a728",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "09-30 23:46",
-      "title": "Cal-Maine由盈转亏，鸡蛋价格走低拖累营收",
-      "insight": "公司财年第一季度净销售额下滑 42%，至 5.396 亿美元；普通鸡蛋销量基本持平，但销售额大跌…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-09-30/doc-initrshv1830189.shtml"
+      "time": "10-01 03:18",
+      "title": "美联储监察长发现翻修工程存在失误，但无刑事移送依据",
+      "insight": "美联储监察长周三发布的一份报告认定，管理和监督失误导致央行总部翻修工程出现重大成本超支，但未发现…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-01/doc-initsawi6462295.shtml"
     }
   ],
-  "updateTime": "2026-10-01 01:23"
+  "updateTime": "2026-10-01 05:44"
 }

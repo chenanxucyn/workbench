@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "中国队获第五人格亚运金牌",
-      "heat": 12092884,
+      "heat": 12038636,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -13,7 +13,7 @@
     {
       "rank": 2,
       "topic": "天安门广场国庆升旗仪式",
-      "heat": 11435110,
+      "heat": 11862561,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -23,7 +23,7 @@
     {
       "rank": 3,
       "topic": "各地装扮一新喜迎国庆",
-      "heat": 11222866,
+      "heat": 11279515,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "读懂设立烈士纪念日的深意",
-      "heat": 11101146,
+      "heat": 11048546,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -42,18 +42,8 @@
     },
     {
       "rank": 5,
-      "topic": "假期一起holymoly",
-      "heat": 10479020,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly?type=general",
-      "scheme": "snssdk1128://search/假期一起holymoly"
-    },
-    {
-      "rank": 6,
       "topic": "我在这里给祖国庆生",
-      "heat": 10434047,
+      "heat": 10483384,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,9 +51,19 @@
       "scheme": "snssdk1128://search/我在这里给祖国庆生"
     },
     {
+      "rank": 6,
+      "topic": "最好的祝福献给祖国",
+      "heat": 10324015,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD?type=general",
+      "scheme": "snssdk1128://search/最好的祝福献给祖国"
+    },
+    {
       "rank": 7,
       "topic": "哈特vs李瑞百分大战",
-      "heat": 9309168,
+      "heat": 9195402,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -72,18 +72,18 @@
     },
     {
       "rank": 8,
-      "topic": "最好的祝福献给祖国",
-      "heat": 9156581,
+      "topic": "假期一起holymoly",
+      "heat": 9142476,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD?type=general",
-      "scheme": "snssdk1128://search/最好的祝福献给祖国"
+      "link": "https://www.douyin.com/search/%E5%81%87%E6%9C%9F%E4%B8%80%E8%B5%B7holymoly?type=general",
+      "scheme": "snssdk1128://search/假期一起holymoly"
     },
     {
       "rank": 9,
       "topic": "昆明盘龙区发生4.3级地震",
-      "heat": 9136912,
+      "heat": 9016879,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -92,18 +92,8 @@
     },
     {
       "rank": 10,
-      "topic": "holymoly亚运金牌进行曲",
-      "heat": 8993443,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/holymoly%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2?type=general",
-      "scheme": "snssdk1128://search/holymoly亚运金牌进行曲"
-    },
-    {
-      "rank": 11,
       "topic": "用闪身步打开国庆假期",
-      "heat": 8980522,
+      "heat": 8989079,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -111,9 +101,9 @@
       "scheme": "snssdk1128://search/用闪身步打开国庆假期"
     },
     {
-      "rank": 12,
+      "rank": 11,
       "topic": "我在国庆旅游前线",
-      "heat": 8914967,
+      "heat": 8454415,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -121,9 +111,19 @@
       "scheme": "snssdk1128://search/我在国庆旅游前线"
     },
     {
+      "rank": 12,
+      "topic": "跳水天团带着10块金牌来报到了",
+      "heat": 8376030,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%B7%B3%E6%B0%B4%E5%A4%A9%E5%9B%A2%E5%B8%A6%E7%9D%8010%E5%9D%97%E9%87%91%E7%89%8C%E6%9D%A5%E6%8A%A5%E5%88%B0%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/跳水天团带着10块金牌来报到了"
+    },
+    {
       "rank": 13,
       "topic": "小龙虾的谣言别再信了",
-      "heat": 8892497,
+      "heat": 8096940,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,8 +132,18 @@
     },
     {
       "rank": 14,
+      "topic": "holymoly亚运金牌进行曲",
+      "heat": 7838813,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/holymoly%E4%BA%9A%E8%BF%90%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2?type=general",
+      "scheme": "snssdk1128://search/holymoly亚运金牌进行曲"
+    },
+    {
+      "rank": 15,
       "topic": "用这首牡丹亭打开国庆假期",
-      "heat": 8694550,
+      "heat": 7836841,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -141,19 +151,9 @@
       "scheme": "snssdk1128://search/用这首牡丹亭打开国庆假期"
     },
     {
-      "rank": 15,
-      "topic": "一年一度国庆出片大赛",
-      "heat": 8309159,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%9B%BD%E5%BA%86%E5%87%BA%E7%89%87%E5%A4%A7%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/一年一度国庆出片大赛"
-    },
-    {
       "rank": 16,
       "topic": "用中国人能飞献礼国庆",
-      "heat": 7842266,
+      "heat": 7798670,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -162,28 +162,28 @@
     },
     {
       "rank": 17,
-      "topic": "金牌进行曲传到亚运自行车队了",
-      "heat": 7815988,
+      "topic": "魅影神捕定档",
+      "heat": 7767972,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BC%A0%E5%88%B0%E4%BA%9A%E8%BF%90%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%98%9F%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/金牌进行曲传到亚运自行车队了"
+      "link": "https://www.douyin.com/search/%E9%AD%85%E5%BD%B1%E7%A5%9E%E6%8D%95%E5%AE%9A%E6%A1%A3?type=general",
+      "scheme": "snssdk1128://search/魅影神捕定档"
     },
     {
       "rank": 18,
-      "topic": "监控拍下云南地震瞬间",
-      "heat": 7785578,
+      "topic": "唱响桑田沧海迎国庆",
+      "heat": 7746028,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4?type=general",
-      "scheme": "snssdk1128://search/监控拍下云南地震瞬间"
+      "link": "https://www.douyin.com/search/%E5%94%B1%E5%93%8D%E6%A1%91%E7%94%B0%E6%B2%A7%E6%B5%B7%E8%BF%8E%E5%9B%BD%E5%BA%86?type=general",
+      "scheme": "snssdk1128://search/唱响桑田沧海迎国庆"
     },
     {
       "rank": 19,
       "topic": "GAI长沙演唱会",
-      "heat": 7745871,
+      "heat": 7738612,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -192,38 +192,18 @@
     },
     {
       "rank": 20,
-      "topic": "跳水天团带着10块金牌来报到了",
-      "heat": 7743654,
+      "topic": "金牌进行曲传到亚运自行车队了",
+      "heat": 7737475,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%B7%B3%E6%B0%B4%E5%A4%A9%E5%9B%A2%E5%B8%A6%E7%9D%8010%E5%9D%97%E9%87%91%E7%89%8C%E6%9D%A5%E6%8A%A5%E5%88%B0%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/跳水天团带着10块金牌来报到了"
+      "link": "https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BC%A0%E5%88%B0%E4%BA%9A%E8%BF%90%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%98%9F%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/金牌进行曲传到亚运自行车队了"
     },
     {
       "rank": 21,
-      "topic": "魅影神捕定档",
-      "heat": 7741392,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%AD%85%E5%BD%B1%E7%A5%9E%E6%8D%95%E5%AE%9A%E6%A1%A3?type=general",
-      "scheme": "snssdk1128://search/魅影神捕定档"
-    },
-    {
-      "rank": 22,
-      "topic": "唱响桑田沧海迎国庆",
-      "heat": 7739466,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%94%B1%E5%93%8D%E6%A1%91%E7%94%B0%E6%B2%A7%E6%B5%B7%E8%BF%8E%E5%9B%BD%E5%BA%86?type=general",
-      "scheme": "snssdk1128://search/唱响桑田沧海迎国庆"
-    },
-    {
-      "rank": 23,
       "topic": "男足1:2不敌韩国无缘亚运决赛",
-      "heat": 7738682,
+      "heat": 7729687,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -231,29 +211,9 @@
       "scheme": "snssdk1128://search/男足1:2不敌韩国无缘亚运决赛"
     },
     {
-      "rank": 24,
-      "topic": "我将奔向更好的远方",
-      "heat": 7732115,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%B0%86%E5%A5%94%E5%90%91%E6%9B%B4%E5%A5%BD%E7%9A%84%E8%BF%9C%E6%96%B9?type=general",
-      "scheme": "snssdk1128://search/我将奔向更好的远方"
-    },
-    {
-      "rank": 25,
-      "topic": "胡歌现身游本昌告别仪式",
-      "heat": 7720914,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%83%A1%E6%AD%8C%E7%8E%B0%E8%BA%AB%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%91%8A%E5%88%AB%E4%BB%AA%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/胡歌现身游本昌告别仪式"
-    },
-    {
-      "rank": 26,
+      "rank": 22,
       "topic": "穆欣月首位亚运电竞女子冠军",
-      "heat": 7719224,
+      "heat": 7725599,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -261,29 +221,29 @@
       "scheme": "snssdk1128://search/穆欣月首位亚运电竞女子冠军"
     },
     {
-      "rank": 27,
-      "topic": "公布一下我的国庆安排",
-      "heat": 7705959,
+      "rank": 23,
+      "topic": "长假严肃品鉴伦敦落地签",
+      "heat": 7724659,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%AC%E5%B8%83%E4%B8%80%E4%B8%8B%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%AE%89%E6%8E%92?type=general",
-      "scheme": "snssdk1128://search/公布一下我的国庆安排"
+      "link": "https://www.douyin.com/search/%E9%95%BF%E5%81%87%E4%B8%A5%E8%82%83%E5%93%81%E9%89%B4%E4%BC%A6%E6%95%A6%E8%90%BD%E5%9C%B0%E7%AD%BE?type=general",
+      "scheme": "snssdk1128://search/长假严肃品鉴伦敦落地签"
     },
     {
-      "rank": 28,
-      "topic": "奔赴大兴安岭治愈之秋",
-      "heat": 7702428,
+      "rank": 24,
+      "topic": "鞠婧祎张云龙完美预判我的国庆",
+      "heat": 7716434,
       "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E5%A5%94%E8%B5%B4%E5%A4%A7%E5%85%B4%E5%AE%89%E5%B2%AD%E6%B2%BB%E6%84%88%E4%B9%8B%E7%A7%8B?type=general",
-      "scheme": "snssdk1128://search/奔赴大兴安岭治愈之秋"
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%9E%A0%E5%A9%A7%E7%A5%8E%E5%BC%A0%E4%BA%91%E9%BE%99%E5%AE%8C%E7%BE%8E%E9%A2%84%E5%88%A4%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86?type=general",
+      "scheme": "snssdk1128://search/鞠婧祎张云龙完美预判我的国庆"
     },
     {
-      "rank": 29,
+      "rank": 25,
       "topic": "第35届飞天奖入围名单公布",
-      "heat": 7695407,
+      "heat": 7708311,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -291,15 +251,55 @@
       "scheme": "snssdk1128://search/第35届飞天奖入围名单公布"
     },
     {
-      "rank": 30,
-      "topic": "长假严肃品鉴伦敦落地签",
-      "heat": 7688368,
+      "rank": 26,
+      "topic": "公布一下我的国庆安排",
+      "heat": 7706156,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%95%BF%E5%81%87%E4%B8%A5%E8%82%83%E5%93%81%E9%89%B4%E4%BC%A6%E6%95%A6%E8%90%BD%E5%9C%B0%E7%AD%BE?type=general",
-      "scheme": "snssdk1128://search/长假严肃品鉴伦敦落地签"
+      "link": "https://www.douyin.com/search/%E5%85%AC%E5%B8%83%E4%B8%80%E4%B8%8B%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%AE%89%E6%8E%92?type=general",
+      "scheme": "snssdk1128://search/公布一下我的国庆安排"
+    },
+    {
+      "rank": 27,
+      "topic": "一年一度国庆出片大赛",
+      "heat": 7684774,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%9B%BD%E5%BA%86%E5%87%BA%E7%89%87%E5%A4%A7%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/一年一度国庆出片大赛"
+    },
+    {
+      "rank": 28,
+      "topic": "国庆假期逛买地图已解锁",
+      "heat": 7679302,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%80%9B%E4%B9%B0%E5%9C%B0%E5%9B%BE%E5%B7%B2%E8%A7%A3%E9%94%81?type=general",
+      "scheme": "snssdk1128://search/国庆假期逛买地图已解锁"
+    },
+    {
+      "rank": 29,
+      "topic": "监控拍下云南地震瞬间",
+      "heat": 7671188,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%9B%91%E6%8E%A7%E6%8B%8D%E4%B8%8B%E4%BA%91%E5%8D%97%E5%9C%B0%E9%9C%87%E7%9E%AC%E9%97%B4?type=general",
+      "scheme": "snssdk1128://search/监控拍下云南地震瞬间"
+    },
+    {
+      "rank": 30,
+      "topic": "陈赫天霸爆破对决开启",
+      "heat": 7669818,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%99%88%E8%B5%AB%E5%A4%A9%E9%9C%B8%E7%88%86%E7%A0%B4%E5%AF%B9%E5%86%B3%E5%BC%80%E5%90%AF?type=general",
+      "scheme": "snssdk1128://search/陈赫天霸爆破对决开启"
     }
   ],
-  "updateTime": "2026-10-01 01:23"
+  "updateTime": "2026-10-01 05:44"
 }
