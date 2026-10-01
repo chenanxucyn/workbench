@@ -2,18 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "天安门广场国庆升旗仪式",
-      "heat": 12129236,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/天安门广场国庆升旗仪式"
-    },
-    {
-      "rank": 2,
       "topic": "国庆节快乐",
-      "heat": 12069287,
+      "heat": 11675964,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,19 +11,9 @@
       "scheme": "snssdk1128://search/国庆节快乐"
     },
     {
-      "rank": 3,
-      "topic": "我国加快建设现代化水网",
-      "heat": 11783880,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%8E%B0%E4%BB%A3%E5%8C%96%E6%B0%B4%E7%BD%91?type=general",
-      "scheme": "snssdk1128://search/我国加快建设现代化水网"
-    },
-    {
-      "rank": 4,
+      "rank": 2,
       "topic": "国庆节文案",
-      "heat": 11334281,
+      "heat": 11533212,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -41,19 +21,29 @@
       "scheme": "snssdk1128://search/国庆节文案"
     },
     {
-      "rank": 5,
-      "topic": "我在这里给祖国庆生",
-      "heat": 10708862,
+      "rank": 3,
+      "topic": "一起祝新中国生日快乐",
+      "heat": 11262779,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%BB%99%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F?type=general",
-      "scheme": "snssdk1128://search/我在这里给祖国庆生"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E8%B5%B7%E7%A5%9D%E6%96%B0%E4%B8%AD%E5%9B%BD%E7%94%9F%E6%97%A5%E5%BF%AB%E4%B9%90?type=general",
+      "scheme": "snssdk1128://search/一起祝新中国生日快乐"
     },
     {
-      "rank": 6,
+      "rank": 4,
+      "topic": "小孩姐陈妤颉携三金一银来了",
+      "heat": 11193033,
+      "videos": 0,
+      "type": "母婴萌娃",
+      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%AD%A9%E5%A7%90%E9%99%88%E5%A6%A4%E9%A2%89%E6%90%BA%E4%B8%89%E9%87%91%E4%B8%80%E9%93%B6%E6%9D%A5%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/小孩姐陈妤颉携三金一银来了"
+    },
+    {
+      "rank": 5,
       "topic": "国庆一起合唱我和我的祖国",
-      "heat": 10428869,
+      "heat": 10497106,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,39 +51,19 @@
       "scheme": "snssdk1128://search/国庆一起合唱我和我的祖国"
     },
     {
+      "rank": 6,
+      "topic": "我们生在红旗下长在春风里",
+      "heat": 10406116,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E7%94%9F%E5%9C%A8%E7%BA%A2%E6%97%97%E4%B8%8B%E9%95%BF%E5%9C%A8%E6%98%A5%E9%A3%8E%E9%87%8C?type=general",
+      "scheme": "snssdk1128://search/我们生在红旗下长在春风里"
+    },
+    {
       "rank": 7,
-      "topic": "最好的祝福献给祖国",
-      "heat": 9299498,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9C%80%E5%A5%BD%E7%9A%84%E7%A5%9D%E7%A6%8F%E7%8C%AE%E7%BB%99%E7%A5%96%E5%9B%BD?type=general",
-      "scheme": "snssdk1128://search/最好的祝福献给祖国"
-    },
-    {
-      "rank": 8,
-      "topic": "金牌进行曲传到亚运自行车队了",
-      "heat": 9256275,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BC%A0%E5%88%B0%E4%BA%9A%E8%BF%90%E8%87%AA%E8%A1%8C%E8%BD%A6%E9%98%9F%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/金牌进行曲传到亚运自行车队了"
-    },
-    {
-      "rank": 9,
-      "topic": "用这首牡丹亭打开国庆假期",
-      "heat": 9110774,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8%E8%BF%99%E9%A6%96%E7%89%A1%E4%B8%B9%E4%BA%AD%E6%89%93%E5%BC%80%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F?type=general",
-      "scheme": "snssdk1128://search/用这首牡丹亭打开国庆假期"
-    },
-    {
-      "rank": 10,
       "topic": "假期一起holymoly",
-      "heat": 9099535,
+      "heat": 9289555,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -101,69 +71,139 @@
       "scheme": "snssdk1128://search/假期一起holymoly"
     },
     {
-      "rank": 11,
-      "topic": "国庆八一广场升旗打卡",
-      "heat": 8877399,
+      "rank": 8,
+      "topic": "天安门广场国庆升旗仪式",
+      "heat": 9251236,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%85%AB%E4%B8%80%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E6%89%93%E5%8D%A1?type=general",
-      "scheme": "snssdk1128://search/国庆八一广场升旗打卡"
+      "link": "https://www.douyin.com/search/%E5%A4%A9%E5%AE%89%E9%97%A8%E5%B9%BF%E5%9C%BA%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F?type=general",
+      "scheme": "snssdk1128://search/天安门广场国庆升旗仪式"
+    },
+    {
+      "rank": 9,
+      "topic": "纯过日子休假教程",
+      "heat": 9225349,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%BA%AF%E8%BF%87%E6%97%A5%E5%AD%90%E4%BC%91%E5%81%87%E6%95%99%E7%A8%8B?type=general",
+      "scheme": "snssdk1128://search/纯过日子休假教程"
+    },
+    {
+      "rank": 10,
+      "topic": "先辈的奔赴终有回响",
+      "heat": 9222131,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%85%88%E8%BE%88%E7%9A%84%E5%A5%94%E8%B5%B4%E7%BB%88%E6%9C%89%E5%9B%9E%E5%93%8D?type=general",
+      "scheme": "snssdk1128://search/先辈的奔赴终有回响"
+    },
+    {
+      "rank": 11,
+      "topic": "余红旧事两集两代人的爱情纠葛",
+      "heat": 9198905,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E4%BD%99%E7%BA%A2%E6%97%A7%E4%BA%8B%E4%B8%A4%E9%9B%86%E4%B8%A4%E4%BB%A3%E4%BA%BA%E7%9A%84%E7%88%B1%E6%83%85%E7%BA%A0%E8%91%9B?type=general",
+      "scheme": "snssdk1128://search/余红旧事两集两代人的爱情纠葛"
     },
     {
       "rank": 12,
-      "topic": "用中国人能飞献礼国庆",
-      "heat": 8786299,
+      "topic": "十一假期就看现发4先导片",
+      "heat": 9197445,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86?type=general",
-      "scheme": "snssdk1128://search/用中国人能飞献礼国庆"
+      "link": "https://www.douyin.com/search/%E5%8D%81%E4%B8%80%E5%81%87%E6%9C%9F%E5%B0%B1%E7%9C%8B%E7%8E%B0%E5%8F%914%E5%85%88%E5%AF%BC%E7%89%87?type=general",
+      "scheme": "snssdk1128://search/十一假期就看现发4先导片"
     },
     {
       "rank": 13,
-      "topic": "喝无醇啤酒开车不算酒驾系谣言",
-      "heat": 8253628,
+      "topic": "本周谣言鉴别",
+      "heat": 9103971,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%96%9D%E6%97%A0%E9%86%87%E5%95%A4%E9%85%92%E5%BC%80%E8%BD%A6%E4%B8%8D%E7%AE%97%E9%85%92%E9%A9%BE%E7%B3%BB%E8%B0%A3%E8%A8%80?type=general",
-      "scheme": "snssdk1128://search/喝无醇啤酒开车不算酒驾系谣言"
+      "link": "https://www.douyin.com/search/%E6%9C%AC%E5%91%A8%E8%B0%A3%E8%A8%80%E9%89%B4%E5%88%AB?type=general",
+      "scheme": "snssdk1128://search/本周谣言鉴别"
     },
     {
       "rank": 14,
-      "topic": "长长长假给祖国整点新技艺",
-      "heat": 7994296,
+      "topic": "我在这里给祖国庆生",
+      "heat": 9102549,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%95%BF%E9%95%BF%E9%95%BF%E5%81%87%E7%BB%99%E7%A5%96%E5%9B%BD%E6%95%B4%E7%82%B9%E6%96%B0%E6%8A%80%E8%89%BA?type=general",
-      "scheme": "snssdk1128://search/长长长假给祖国整点新技艺"
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E8%BF%99%E9%87%8C%E7%BB%99%E7%A5%96%E5%9B%BD%E5%BA%86%E7%94%9F?type=general",
+      "scheme": "snssdk1128://search/我在这里给祖国庆生"
     },
     {
       "rank": 15,
-      "topic": "穆欣月首位亚运电竞女子冠军",
-      "heat": 7794718,
+      "topic": "女子接力冠军朱俊颖抖音直播",
+      "heat": 9095129,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A9%86%E6%AC%A3%E6%9C%88%E9%A6%96%E4%BD%8D%E4%BA%9A%E8%BF%90%E7%94%B5%E7%AB%9E%E5%A5%B3%E5%AD%90%E5%86%A0%E5%86%9B?type=general",
-      "scheme": "snssdk1128://search/穆欣月首位亚运电竞女子冠军"
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E5%AD%90%E6%8E%A5%E5%8A%9B%E5%86%A0%E5%86%9B%E6%9C%B1%E4%BF%8A%E9%A2%96%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD?type=general",
+      "scheme": "snssdk1128://search/女子接力冠军朱俊颖抖音直播"
     },
     {
       "rank": 16,
-      "topic": "直击各地国庆升旗仪式",
-      "heat": 7745613,
+      "topic": "穆欣月用金牌进行曲告别亚运",
+      "heat": 9085409,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E5%90%84%E5%9C%B0%E5%9B%BD%E5%BA%86%E5%8D%87%E6%97%97%E4%BB%AA%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/直击各地国庆升旗仪式"
+      "link": "https://www.douyin.com/search/%E7%A9%86%E6%AC%A3%E6%9C%88%E7%94%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E5%91%8A%E5%88%AB%E4%BA%9A%E8%BF%90?type=general",
+      "scheme": "snssdk1128://search/穆欣月用金牌进行曲告别亚运"
     },
     {
       "rank": 17,
+      "topic": "国庆接力合唱我爱你中国",
+      "heat": 8918717,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%8E%A5%E5%8A%9B%E5%90%88%E5%94%B1%E6%88%91%E7%88%B1%E4%BD%A0%E4%B8%AD%E5%9B%BD?type=general",
+      "scheme": "snssdk1128://search/国庆接力合唱我爱你中国"
+    },
+    {
+      "rank": 18,
+      "topic": "抖音落日合唱派对国庆场开唱",
+      "heat": 8755443,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E8%90%BD%E6%97%A5%E5%90%88%E5%94%B1%E6%B4%BE%E5%AF%B9%E5%9B%BD%E5%BA%86%E5%9C%BA%E5%BC%80%E5%94%B1?type=general",
+      "scheme": "snssdk1128://search/抖音落日合唱派对国庆场开唱"
+    },
+    {
+      "rank": 19,
+      "topic": "华为Mate90定价5999起",
+      "heat": 8595894,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E4%B8%BAMate90%E5%AE%9A%E4%BB%B75999%E8%B5%B7?type=general",
+      "scheme": "snssdk1128://search/华为Mate90定价5999起"
+    },
+    {
+      "rank": 20,
+      "topic": "国庆秀出你家乡的颜色",
+      "heat": 8524451,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E7%A7%80%E5%87%BA%E4%BD%A0%E5%AE%B6%E4%B9%A1%E7%9A%84%E9%A2%9C%E8%89%B2?type=general",
+      "scheme": "snssdk1128://search/国庆秀出你家乡的颜色"
+    },
+    {
+      "rank": 21,
       "topic": "C罗宣布离开国家队集训营",
-      "heat": 7740466,
+      "heat": 8463642,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -171,9 +211,19 @@
       "scheme": "snssdk1128://search/C罗宣布离开国家队集训营"
     },
     {
-      "rank": 18,
+      "rank": 22,
+      "topic": "用中国人能飞献礼国庆",
+      "heat": 8051668,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%94%A8%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E%E7%8C%AE%E7%A4%BC%E5%9B%BD%E5%BA%86?type=general",
+      "scheme": "snssdk1128://search/用中国人能飞献礼国庆"
+    },
+    {
+      "rank": 23,
       "topic": "金牌进行曲迎来了陈芋汐",
-      "heat": 7737302,
+      "heat": 7901002,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -181,125 +231,75 @@
       "scheme": "snssdk1128://search/金牌进行曲迎来了陈芋汐"
     },
     {
-      "rank": 19,
-      "topic": "别人的国庆假期vs我的国庆假期",
-      "heat": 7736319,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%88%AB%E4%BA%BA%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9Fvs%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F?type=general",
-      "scheme": "snssdk1128://search/别人的国庆假期vs我的国庆假期"
-    },
-    {
-      "rank": 20,
-      "topic": "魅影神捕定档",
-      "heat": 7730215,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%AD%85%E5%BD%B1%E7%A5%9E%E6%8D%95%E5%AE%9A%E6%A1%A3?type=general",
-      "scheme": "snssdk1128://search/魅影神捕定档"
-    },
-    {
-      "rank": 21,
-      "topic": "GAI长沙演唱会",
-      "heat": 7721716,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/GAI%E9%95%BF%E6%B2%99%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/GAI长沙演唱会"
-    },
-    {
-      "rank": 22,
-      "topic": "成都天府广场升旗现场人山人海",
-      "heat": 7688304,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%90%E9%83%BD%E5%A4%A9%E5%BA%9C%E5%B9%BF%E5%9C%BA%E5%8D%87%E6%97%97%E7%8E%B0%E5%9C%BA%E4%BA%BA%E5%B1%B1%E4%BA%BA%E6%B5%B7?type=general",
-      "scheme": "snssdk1128://search/成都天府广场升旗现场人山人海"
-    },
-    {
-      "rank": 23,
-      "topic": "一年一度国庆出片大赛",
-      "heat": 7681724,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E5%B9%B4%E4%B8%80%E5%BA%A6%E5%9B%BD%E5%BA%86%E5%87%BA%E7%89%87%E5%A4%A7%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/一年一度国庆出片大赛"
-    },
-    {
       "rank": 24,
-      "topic": "对话“小孩姐”陈妤颉",
-      "heat": 7676655,
+      "topic": "第五人格中国队启动金牌进行曲了",
+      "heat": 7762351,
       "videos": 0,
-      "type": "母婴萌娃",
-      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
-      "link": "https://www.douyin.com/search/%E5%AF%B9%E8%AF%9D%E2%80%9C%E5%B0%8F%E5%AD%A9%E5%A7%90%E2%80%9D%E9%99%88%E5%A6%A4%E9%A2%89?type=general",
-      "scheme": "snssdk1128://search/对话“小孩姐”陈妤颉"
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%AC%AC%E4%BA%94%E4%BA%BA%E6%A0%BC%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%90%AF%E5%8A%A8%E9%87%91%E7%89%8C%E8%BF%9B%E8%A1%8C%E6%9B%B2%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/第五人格中国队启动金牌进行曲了"
     },
     {
       "rank": 25,
-      "topic": "美人余定档1009",
-      "heat": 7675133,
+      "topic": "电影什么意思夫妇喜剧人团建",
+      "heat": 7755632,
       "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BE%8E%E4%BA%BA%E4%BD%99%E5%AE%9A%E6%A1%A31009?type=general",
-      "scheme": "snssdk1128://search/美人余定档1009"
+      "type": "搞笑",
+      "insight": "搞笑整活最易破圈，节奏快门槛低，适合二创或 Reaction。",
+      "link": "https://www.douyin.com/search/%E7%94%B5%E5%BD%B1%E4%BB%80%E4%B9%88%E6%84%8F%E6%80%9D%E5%A4%AB%E5%A6%87%E5%96%9C%E5%89%A7%E4%BA%BA%E5%9B%A2%E5%BB%BA?type=general",
+      "scheme": "snssdk1128://search/电影什么意思夫妇喜剧人团建"
     },
     {
       "rank": 26,
-      "topic": "公布一下我的国庆安排",
-      "heat": 7659745,
+      "topic": "中国人能飞",
+      "heat": 7747495,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%AC%E5%B8%83%E4%B8%80%E4%B8%8B%E6%88%91%E7%9A%84%E5%9B%BD%E5%BA%86%E5%AE%89%E6%8E%92?type=general",
-      "scheme": "snssdk1128://search/公布一下我的国庆安排"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%BA%BA%E8%83%BD%E9%A3%9E?type=general",
+      "scheme": "snssdk1128://search/中国人能飞"
     },
     {
       "rank": 27,
-      "topic": "我在国庆旅游前线",
-      "heat": 7659380,
+      "topic": "今天是你的生日我的祖国",
+      "heat": 7736153,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E5%9B%BD%E5%BA%86%E6%97%85%E6%B8%B8%E5%89%8D%E7%BA%BF?type=general",
-      "scheme": "snssdk1128://search/我在国庆旅游前线"
+      "link": "https://www.douyin.com/search/%E4%BB%8A%E5%A4%A9%E6%98%AF%E4%BD%A0%E7%9A%84%E7%94%9F%E6%97%A5%E6%88%91%E7%9A%84%E7%A5%96%E5%9B%BD?type=general",
+      "scheme": "snssdk1128://search/今天是你的生日我的祖国"
     },
     {
       "rank": 28,
-      "topic": "游本昌孙女发布悼念长文",
-      "heat": 7659248,
+      "topic": "总要我看着你的眼睛说",
+      "heat": 7732221,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B8%B8%E6%9C%AC%E6%98%8C%E5%AD%99%E5%A5%B3%E5%8F%91%E5%B8%83%E6%82%BC%E5%BF%B5%E9%95%BF%E6%96%87?type=general",
-      "scheme": "snssdk1128://search/游本昌孙女发布悼念长文"
+      "link": "https://www.douyin.com/search/%E6%80%BB%E8%A6%81%E6%88%91%E7%9C%8B%E7%9D%80%E4%BD%A0%E7%9A%84%E7%9C%BC%E7%9D%9B%E8%AF%B4?type=general",
+      "scheme": "snssdk1128://search/总要我看着你的眼睛说"
     },
     {
       "rank": 29,
-      "topic": "长假严肃品鉴伦敦落地签",
-      "heat": 7658715,
+      "topic": "国庆仪式感从看升旗开始",
+      "heat": 7729010,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%95%BF%E5%81%87%E4%B8%A5%E8%82%83%E5%93%81%E9%89%B4%E4%BC%A6%E6%95%A6%E8%90%BD%E5%9C%B0%E7%AD%BE?type=general",
-      "scheme": "snssdk1128://search/长假严肃品鉴伦敦落地签"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E4%BB%AA%E5%BC%8F%E6%84%9F%E4%BB%8E%E7%9C%8B%E5%8D%87%E6%97%97%E5%BC%80%E5%A7%8B?type=general",
+      "scheme": "snssdk1128://search/国庆仪式感从看升旗开始"
     },
     {
       "rank": 30,
-      "topic": "国庆假期逛买地图已解锁",
-      "heat": 7657891,
+      "topic": "带小苹果阿姨去天安门看升旗",
+      "heat": 7719354,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E5%81%87%E6%9C%9F%E9%80%9B%E4%B9%B0%E5%9C%B0%E5%9B%BE%E5%B7%B2%E8%A7%A3%E9%94%81?type=general",
-      "scheme": "snssdk1128://search/国庆假期逛买地图已解锁"
+      "link": "https://www.douyin.com/search/%E5%B8%A6%E5%B0%8F%E8%8B%B9%E6%9E%9C%E9%98%BF%E5%A7%A8%E5%8E%BB%E5%A4%A9%E5%AE%89%E9%97%A8%E7%9C%8B%E5%8D%87%E6%97%97?type=general",
+      "scheme": "snssdk1128://search/带小苹果阿姨去天安门看升旗"
     }
   ],
-  "updateTime": "2026-10-01 11:30"
+  "updateTime": "2026-10-01 20:11"
 }
