@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "id": "ffeb63d28e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:40",
+      "title": "大宗商品综述：燃料价格大跌 铜价微升 金价走低",
+      "insight": "燃料价格大跌，此前七国集团（G7）示意将释放紧急储备。铜价周五微升，但录得单周下跌，中国工业领域…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6742886.shtml"
+    },
+    {
+      "id": "fffd49904d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:16",
+      "title": "纽约汇市：美元创一个月最大跌幅 就业数据疲软扰乱了利率预期",
+      "insight": "纽约汇市周五美元创下一个月来最大单日跌幅，此前一份报告显示，美国9月份新增就业人数低于预期，一度…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6870385.shtml"
+    },
+    {
+      "id": "ff371adb2d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:11",
+      "title": "美国股市：主要股指普涨 就业数据弱于预期缓解加息担忧",
+      "insight": "美国股市周五上涨，关键就业数据弱于预期，减轻了美联储在10月会议上需要加息的压力。 标普500指…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4270089.shtml"
+    },
+    {
+      "id": "ffe3c50f01",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:08",
+      "title": "10月3日外盘头条：沙特计划对胡塞武装发动攻势 科技公司推出萌系吉祥物 道明证券推迟美联储加息时点预期",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、七国集团将释放多达1亿桶柴油和石油储备以遏制…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6869356.shtml"
+    },
+    {
+      "id": "ffa46c46b0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:48",
+      "title": "原油：燃料价格大跌 七国集团计划释放战略储备",
+      "insight": "柴油价格大跌，此前七国集团（G7）释放信号称将释放紧急储备，以缓解能源成本飙升给消费者带来的部分…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6864565.shtml"
+    },
+    {
+      "id": "ff4742b86c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:46",
+      "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
+      "insight": "美国总统特朗普表示，如果韩国不签署投资阿拉斯加液化天然气管道项目的协议，他将“向他们收取更多费用…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1032951.shtml"
+    },
+    {
+      "id": "ff03612e49",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:45",
+      "title": "10月3日热门中概股多数下跌，网易跌2.82%，京东跌2.24%",
+      "insight": "上涨个股（按市值从高到低）：台积电涨2.96%，日月光半导体涨6.08%，联电涨4.20%，中华…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4260169.shtml"
+    },
+    {
+      "id": "ff5c049b74",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:27",
+      "title": "10月3日收盘：美股周五收涨 就业数据走弱提振市场",
+      "insight": "美国9月非农就业报告意外疲软，提振市场预期，认为美联储将在10月议息会议上按兵不动。 道琼斯工业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml"
+    },
+    {
+      "id": "ffdfa379c4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:21",
+      "title": "特朗普称美国不会实施柴油出口禁令",
+      "insight": "美国总统特朗普对媒体表示，他不会对柴油实施出口禁令。 “我们从来就没打算这么做，” 他说。",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1025069.shtml"
+    },
+    {
+      "id": "ffe30b3f4a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:20",
+      "title": "美国债市：美债回吐非农数据后涨幅 曲线中段领跌",
+      "insight": "美国国债日内下跌。中期美债领跌，此前疲软的非农就业报告一度推动美债上涨，但投资者随后逢高卖出，导…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1025003.shtml"
+    },
+    {
+      "id": "ff0f03b378",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 04:20",
+      "title": "重燃对AI云业务信心 野村上调阿里巴巴净利预估",
+      "insight": "野村上调对阿里巴巴2027财年经调整净利润预估7%，看好其电商业务盈利前景并重燃对该公司AI云的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4252274.shtml"
+    },
+    {
+      "id": "ff4a36b1a6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 03:32",
+      "title": "美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查",
+      "insight": "美国司法部不会就美联储大楼翻修项目成本超支问题对美联储前主席杰罗姆·鲍威尔重新启动刑事调查。 美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1007140.shtml"
+    },
+    {
+      "id": "ff7f9dcde8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-03 02:45",
+      "title": "美联储主席沃什淡化前瞻指引 核心副手讲话仍牵动市场预期",
+      "insight": "美联储主席凯文·沃什已承诺避免就利率走向向投资者发出明确信号。本周沃什的主要副手表明他们仍愿意有…",
+      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwrap4229603.shtml"
+    },
+    {
+      "id": "ff6dd1b2ff",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-03 02:05",
+      "title": "欧洲股市反弹 得益于债市压力缓解以及科技股上涨",
+      "insight": "欧洲股市周五反弹，得益于油价回落使得债券收益率上升带来的压力有所缓解，科技股表现领先。 斯托克欧…",
+      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwkur4334583.shtml"
+    },
+    {
+      "id": "ffa9e0eef8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-03 02:00",
+      "title": "七国集团将释放多达1亿桶柴油和石油储备以遏制价格上涨",
+      "insight": "在特朗普政府一周来不断施压要求遏制燃料价格上涨之后，七国集团（G7）及其合作伙伴周五决定将释放多…",
+      "link": "https://finance.sina.com.cn/world/2026-10-02/doc-initwent4411943.shtml"
+    },
+    {
+      "id": "ff7268edc3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 01:13",
+      "title": "隐私币ETF近一月大涨60%，跻身2026年表现最佳基金行列",
+      "insight": "灰度 Zcash ETF（代码 ZCSH）过去一个月涨幅超 60%，年内涨幅约 253%。市场重…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkut1085118.shtml"
+    },
+    {
+      "id": "fffbca28d1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 01:12",
+      "title": "美股本轮牛市迎来四周年",
+      "insight": "瑞银表示，10 月是本轮全球牛市的第四个年头，市场后续走向依旧向上。 瑞银瑞士高级金融市场顾问伯…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml"
+    },
+    {
       "id": "ff18524b2c",
       "source": "环球市场播报",
       "tag": "美股",
@@ -26,160 +179,7 @@
       "title": "报道：沙特计划对也门胡塞武装发动攻势",
       "insight": "据媒体援引未具名海湾地区和也门官员以及西方外交人士报道，沙特阿拉伯正计划对也门胡塞武装发动攻势。…",
       "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml"
-    },
-    {
-      "id": "ff7aff21d1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 00:46",
-      "title": "法国财政困局冲击债市 欧洲央行的噩梦场景日益逼近",
-      "insight": "随着法国国债收益率飙升，给欧洲央行带来了越来越大的被迫采取行动的压力，该行面临着被卷入法国债券市…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwenv1203970.shtml"
-    },
-    {
-      "id": "ff28e560d0",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 00:44",
-      "title": "疲软非农报告弱化美联储短期内加息的可能 美债收益率显著走低",
-      "insight": "债券交易员下调了对美联储本月加息的预期，此前美国劳动力市场显现疲软迹象。 美国9月新增就业人数低…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwent4430473.shtml"
-    },
-    {
-      "id": "ff64a20694",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 00:42",
-      "title": "欧洲债市动荡加剧 欧盟据悉担忧成员国寻求更多财政空间",
-      "insight": "一位欧盟官员表示，随着债券市场下跌，欧盟政策制定者越来越担心各国政府要求放宽预算约束。 因讨论敏…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwenz7069973.shtml"
-    },
-    {
-      "id": "ff94621c20",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 00:39",
-      "title": "美国航空推出现金 + 里程混合购票功能",
-      "insight": "核心要点美国航空很快将允许顾客使用现金 + AAdvantage 里程组合的方式预订机票。航司忠…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwenz7069227.shtml"
-    },
-    {
-      "id": "ff5594038f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 00:35",
-      "title": "脸书吹哨人弗朗西斯・豪根质疑AI企业能否实现行业自我监管",
-      "insight": "核心要点 脸书（Facebook）吹哨人弗朗西斯・豪根表示，AI 企业必须 “拿出担当、切实遵守…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwenv1200386.shtml"
-    },
-    {
-      "id": "ff7be5f60c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 00:07",
-      "title": "美国股市早盘温和走高 非农数据令加息预期降温",
-      "insight": "美国劳动力市场增幅显著放缓，市场猜测美联储无需很快被迫加息，债券收益率走低，推动美股早盘上扬。 …",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwenx5457358.shtml"
-    },
-    {
-      "id": "ffccaf5ba3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 00:07",
-      "title": "财长贝森特与美国国税局打击富人用来规避资本利得税的ETF策略",
-      "insight": "核心要点 美国财政部和国税局本周发布警示，矛头直指富豪投资者，以及协助他们利用 ETF 策略规避…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwenx5457154.shtml"
-    },
-    {
-      "id": "ff22776966",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 23:57",
-      "title": "债券抛售行情或将落幕的隐秘信号",
-      "insight": "周四美国债券市场企稳，TLT 债券 ETF 录得至少一个月以来最强日内反弹。与此同时，在期权市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenv1185683.shtml"
-    },
-    {
-      "id": "ffa9e0eef8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-02 23:52",
-      "title": "七国集团将释放多达1亿桶柴油和石油储备以遏制价格上涨",
-      "insight": "在特朗普政府施压要求遏制燃料价格上涨之际，七国集团（G7）及其合作伙伴将释放多达1亿桶紧急石油和…",
-      "link": "https://finance.sina.com.cn/world/2026-10-02/doc-initwent4411943.shtml"
-    },
-    {
-      "id": "ff092d7dfa",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 23:52",
-      "title": "科技公司推出萌系吉祥物，以缓解AI焦虑",
-      "insight": "AI公司正尝试发起一场新的“魅力攻势”：它们使用看起来像毛绒玩具般可爱的角色，试图让自己的技术显…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenx5453388.shtml"
-    },
-    {
-      "id": "ff6d17dbe8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-02 23:26",
-      "title": "道明证券推迟美联储加息时点预期 料下次行动在12月",
-      "insight": "道明证券调整了对美联储加息时点的预期，目前预计将在12月和明年3月加息，此前预计的时间分别为10…",
-      "link": "https://finance.sina.com.cn/world/2026-10-02/doc-initwent4402165.shtml"
-    },
-    {
-      "id": "ffa39829c9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-02 23:24",
-      "title": "美国就业增长逊于预期 企业招聘保持谨慎",
-      "insight": "美国9月份新增就业人数低于预期，薪资增速放缓，显示随着成本上升，雇主在招聘方面趋于谨慎。 美国劳…",
-      "link": "https://finance.sina.com.cn/world/2026-10-02/doc-initwenv1174215.shtml"
-    },
-    {
-      "id": "ffe5c60cb9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 23:19",
-      "title": "谷歌一直在追赶OpenAI与Anthropic，其全新旗舰模型真能跻身前沿梯队吗？",
-      "insight": "核心要点谷歌本周发布最新旗舰大模型 Gemini 4 Argon，希望在前沿 AI 赛道与 Op…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenz7051030.shtml"
-    },
-    {
-      "id": "ff242bc2fc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 23:14",
-      "title": "营收展望疲软叠加裁员计划公布，耐克股价大跌6%",
-      "insight": "核心要点耐克公布营收下滑，业绩指引不及投资者预期，股价应声下挫。公司今年已经两轮裁员，又公布将于…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwent4397905.shtml"
-    },
-    {
-      "id": "ffd3264b8f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 22:52",
-      "title": "福特险胜现代，保住美国市场第三大销量席位",
-      "insight": "核心要点福特第三季度轻型车销量同比下滑 6.6%，至 507395 辆。该季度福特以微弱优势守住…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenx5437965.shtml"
-    },
-    {
-      "id": "ff076564c3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 22:45",
-      "title": "高盛因客户提前投资SpaceX股份退出斩获巨额收益",
-      "insight": "高盛集团投行在承办SpaceX这场规模盛大的6月IPO时赚取巨额费用，而这笔上市相关的更大收益，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenv1154838.shtml"
-    },
-    {
-      "id": "ff7606e4f5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-02 22:37",
-      "title": "埃里森表示，派拉蒙与华纳兄弟探索合并后的新公司将命名为天空之舞（Skydance）",
-      "insight": "核心要点戴维・埃里森称，派拉蒙与华纳兄弟探索合并完成后，新集团将命名为 Skydance（天空之…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-02/doc-initwenz7037836.shtml"
     }
   ],
-  "updateTime": "2026-10-03 01:12"
+  "updateTime": "2026-10-03 05:40"
 }
