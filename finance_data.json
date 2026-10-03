@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "fffe245c4d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:43",
+      "title": "意大利和希腊寻求欧盟财政规则灵活性",
+      "insight": "意大利和希腊本周分别致信欧盟委员会，请求在欧盟财政规则下获得更多财政回旋空间。伊朗战争导致柴油和…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3940697.shtml"
+    },
+    {
+      "id": "ff80e6c367",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:38",
+      "title": "日本最大自动售货机制造商富士电机将制冷技术转用于数据中心冷却",
+      "insight": "日本最大自动售货机制造商富士电机利用其制冷技术，为耗电量巨大的人工智能数据中心开发出节能冷却系统…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqi6399001.shtml"
+    },
+    {
+      "id": "ff053cacf2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:30",
+      "title": "私募资本大举投资欧洲青年旅舍市场",
+      "insight": "过去18个月，博枫、阿波罗等全球私募资本巨头对欧洲青年旅舍行业进行重大投资，推动这一长期被机构投…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3934385.shtml"
+    },
+    {
+      "id": "ff4cfc6aec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:29",
+      "title": "纽约一写字楼租金创纪录 对冲基金Castle Hook年付最高2120万美元",
+      "insight": "纽约曼哈顿中城一座摩天大楼近日创下写字楼租金纪录，低调对冲基金Castle Hook Partn…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3934027.shtml"
+    },
+    {
+      "id": "ff70db9d95",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:27",
+      "title": "美国银行团体起诉货币监理署 指控其越权向加密公司发放信托牌照",
+      "insight": "美国独立社区银行家协会（ICBA）周五在联邦法院起诉美国货币监理署（OCC），指控该监管机构越权…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3933313.shtml"
+    },
+    {
+      "id": "ff8e258a49",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:25",
+      "title": "美国9月就业发布后比特币24小时内上涨超过2%",
+      "insight": "美国劳工部周五公布的非农就业报告显示，美国9月新增就业2.9万人，远低于市场预期的9万人；8月新…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3932715.shtml"
+    },
+    {
+      "id": "ff38cd76d6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 15:24",
+      "title": "特朗普拟任命克莱顿为人工智能事务负责人",
+      "insight": "据报道，美国总统特朗普可能任命前美国证券交易委员会主席杰伊·克莱顿为政府人工智能事务负责人。克莱…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqc0703492.shtml"
+    },
+    {
       "id": "ffb9e5c585",
       "source": "智通财经APP",
       "tag": "股市",
@@ -116,70 +179,7 @@
       "title": "大宗商品综述：燃料价格大跌 铜价微升 金价走低",
       "insight": "燃料价格大跌，此前七国集团（G7）示意将释放紧急储备。铜价周五微升，但录得单周下跌，中国工业领域…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6742886.shtml"
-    },
-    {
-      "id": "fffd49904d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:16",
-      "title": "纽约汇市：美元创一个月最大跌幅 就业数据疲软扰乱了利率预期",
-      "insight": "纽约汇市周五美元创下一个月来最大单日跌幅，此前一份报告显示，美国9月份新增就业人数低于预期，一度…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6870385.shtml"
-    },
-    {
-      "id": "ff371adb2d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:11",
-      "title": "美国股市：主要股指普涨 就业数据弱于预期缓解加息担忧",
-      "insight": "美国股市周五上涨，关键就业数据弱于预期，减轻了美联储在10月会议上需要加息的压力。 标普500指…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4270089.shtml"
-    },
-    {
-      "id": "ffe3c50f01",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:08",
-      "title": "10月3日外盘头条：沙特计划对胡塞武装发动攻势 科技公司推出萌系吉祥物 道明证券推迟美联储加息时点预期",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、七国集团将释放多达1亿桶柴油和石油储备以遏制…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6869356.shtml"
-    },
-    {
-      "id": "ffa46c46b0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:48",
-      "title": "原油：燃料价格大跌 七国集团计划释放战略储备",
-      "insight": "柴油价格大跌，此前七国集团（G7）释放信号称将释放紧急储备，以缓解能源成本飙升给消费者带来的部分…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrav6864565.shtml"
-    },
-    {
-      "id": "ff4742b86c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:46",
-      "title": "特朗普威胁韩国要求其投资阿拉斯加LNG管道项目",
-      "insight": "美国总统特朗普表示，如果韩国不签署投资阿拉斯加液化天然气管道项目的协议，他将“向他们收取更多费用…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1032951.shtml"
-    },
-    {
-      "id": "ff03612e49",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:45",
-      "title": "10月3日热门中概股多数下跌，网易跌2.82%，京东跌2.24%",
-      "insight": "上涨个股（按市值从高到低）：台积电涨2.96%，日月光半导体涨6.08%，联电涨4.20%，中华…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4260169.shtml"
-    },
-    {
-      "id": "ff5c049b74",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:27",
-      "title": "10月3日收盘：美股周五收涨 就业数据走弱提振市场",
-      "insight": "美国9月非农就业报告意外疲软，提振市场预期，认为美联储将在10月议息会议上按兵不动。 道琼斯工业…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml"
     }
   ],
-  "updateTime": "2026-10-03 11:14"
+  "updateTime": "2026-10-03 18:55"
 }
