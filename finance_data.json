@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ffe61e340f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 21:55",
+      "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
+      "insight": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimx4523185.shtml"
+    },
+    {
+      "id": "ff2bc9fc0f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 21:33",
+      "title": "韩国一储蓄银行遭黑客攻击，约4万客户数据泄露",
+      "insight": "韩国耶加兰储蓄银行（Yegaram Savings Bank）表示，9月30日，一名身份不明的黑…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimv0522961.shtml"
+    },
+    {
+      "id": "fffdf09242",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 21:32",
+      "title": "美国据悉将向维斯特拉公司提供42亿美元贷款，以提升核电产能",
+      "insight": "知情人士周六表示，美国将向维斯特拉公司（Vistra）提供约42亿美元贷款，以提升其核电发电量。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimx4517715.shtml"
+    },
+    {
+      "id": "ff270e25a3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 20:43",
+      "title": "贝森特自称是马斯克的超级粉丝",
+      "insight": "美国财长贝森特在周六播出的一次采访中自称是埃隆·马斯克的“超级粉丝”，并再次就马斯克在“政府效率…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityccv3853777.shtml"
+    },
+    {
+      "id": "ffed040de1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 20:41",
+      "title": "贝森特称本周伊朗不会有石油在海上运输",
+      "insight": "美国财长斯科特·贝森特表示，本周伊朗将没有任何石油在海上运输，也不会有相关收入；华盛顿方面正加大…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initycec6237363.shtml"
+    },
+    {
       "id": "fffe245c4d",
       "source": "环球市场播报",
       "tag": "美股",
@@ -64,6 +109,15 @@
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqc0703492.shtml"
     },
     {
+      "id": "ffe75d3fdf",
+      "source": "市场资讯",
+      "tag": "财经",
+      "time": "10-03 10:27",
+      "title": "美股要“通宵”了！12月起迈入23小时交易时代",
+      "insight": "来源：华尔街见闻 12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增…",
+      "link": "https://finance.sina.com.cn/roll/2026-10-03/doc-initxfyp6563990.shtml"
+    },
+    {
       "id": "ffb9e5c585",
       "source": "智通财经APP",
       "tag": "股市",
@@ -125,61 +179,7 @@
       "title": "高盛据悉助客户早期布局SpaceX 上市后斩获数亿美元奖励费",
       "insight": "高盛的银行家在6月操办SpaceX轰动市场的首次公开募股（IPO）时赚取了巨额费用，但与此次上市…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5154728.shtml"
-    },
-    {
-      "id": "ffb852d793",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 06:50",
-      "title": "海湾局势叠加全球变暖，北极航运热度飙升",
-      "insight": "通过北极航运的规模已达到创纪录水平。随着海冰融化，以及全球关键航运咽喉要道面临压力，船东正寻求替…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0945772.shtml"
-    },
-    {
-      "id": "ff54be3012",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 06:21",
-      "title": "10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期",
-      "insight": "市场 10月3日收盘：美股周五收涨 就业数据走弱提振市场 10月3日美股成交前20：英伟达股价周…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml"
-    },
-    {
-      "id": "ff1033f182",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 06:07",
-      "title": "10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期",
-      "insight": "周五美股成交额第2名英伟达收涨1.34%，成交317.84亿美元。 英伟达宣布，DGX SPAR…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml"
-    },
-    {
-      "id": "ff5d1f1537",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:50",
-      "title": "七国集团同意释放紧急储备后 特朗普称美国不会禁止柴油出口",
-      "insight": "美国总统唐纳德·特朗普表示，他不会禁止美国柴油出口。此前，七国集团（G7）及其合作伙伴同意释放部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0923128.shtml"
-    },
-    {
-      "id": "ff874f218b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:43",
-      "title": "巴西大选在即 美国和澳大利亚突然以安全关切为由暂停当地领事服务",
-      "insight": "在周日即将举行大选的巴西，美国和澳大利亚以“安全关切”为由暂停了当地的领事服务。 美国大使馆指示…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6743518.shtml"
-    },
-    {
-      "id": "ffeb63d28e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 05:40",
-      "title": "大宗商品综述：燃料价格大跌 铜价微升 金价走低",
-      "insight": "燃料价格大跌，此前七国集团（G7）示意将释放紧急储备。铜价周五微升，但录得单周下跌，中国工业领域…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6742886.shtml"
     }
   ],
-  "updateTime": "2026-10-03 18:55"
+  "updateTime": "2026-10-03 23:31"
 }
