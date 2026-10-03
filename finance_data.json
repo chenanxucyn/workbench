@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ff74ac5ae5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 03:34",
+      "title": "贝森特批评AI风险警告是危言耸听",
+      "insight": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-initytzr0408702.shtml"
+    },
+    {
+      "id": "fff70bd0c2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 03:30",
+      "title": "工资涨不过物价 美国人想尽各种办法维持消费",
+      "insight": "过去五个月里，美国物价上涨速度一直快于工资增速，这种现象本该促使消费者削减开支。但实际上，他们仍…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initytzv5949378.shtml"
+    },
+    {
+      "id": "ffe0129562",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 00:29",
+      "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
+      "insight": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptx6040261.shtml"
+    },
+    {
+      "id": "ff1ce920cc",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 00:27",
+      "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
+      "insight": "据知情人士透露，美国总统特朗普亲自指示预算局局长动用纳税人资金投放电视广告，宣传他本人及其执政成…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4434728.shtml"
+    },
+    {
+      "id": "ff163b9c6c",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 00:10",
+      "title": "台积电探讨与马斯克 Terafab 项目开展合作",
+      "insight": "半导体巨头台积电正考虑与埃隆・马斯克的 Terafab 项目开展合作，在美国建立先进的端到端半导…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml"
+    },
+    {
+      "id": "ff1b559e92",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 00:06",
+      "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升",
+      "insight": "苹果公司表示，计划为Mac用户推出新的隐私控制措施，并警告称，向包括AI智能体在内的第三方软件授…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptr3684201.shtml"
+    },
+    {
+      "id": "ff57dea968",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 00:03",
+      "title": "贝森特称国债收益率上升符合全球趋势 不必感到惊恐",
+      "insight": "尽管通胀担忧已推动一些基准收益率升至20多年来最高水平，但美国财长斯科特·贝森特表示，近期美国国…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml"
+    },
+    {
       "id": "ffe61e340f",
       "source": "环球市场播报",
       "tag": "美股",
@@ -116,70 +179,7 @@
       "title": "美股要“通宵”了！12月起迈入23小时交易时代",
       "insight": "来源：华尔街见闻 12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增…",
       "link": "https://finance.sina.com.cn/roll/2026-10-03/doc-initxfyp6563990.shtml"
-    },
-    {
-      "id": "ffb9e5c585",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "10-03 08:35",
-      "title": "G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀",
-      "insight": "美国总统唐纳德·特朗普表示，在七国集团及其合作伙伴同意释放部分应急燃料储备、以遏制价格飙升之后，…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml"
-    },
-    {
-      "id": "ff94ec7a61",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 07:01",
-      "title": "苹果确认iPhone 18 Pro Max存在AT&T网络故障 受影响用户需换机",
-      "insight": "苹果公司表示，近期升级至iPhone 18 Pro Max的美国电话电报公司（AT&amp;T）…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6761318.shtml"
-    },
-    {
-      "id": "ff20a78dc9",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "10-03 07:00",
-      "title": "美债收益率居高不下！高借贷成本持续冲击美国经济 AI投资热潮与实体经济表现分化加剧",
-      "insight": "持续数周的美国国债抛售潮令华尔街面临新的挑战。尽管周五公布的美国9月就业报告意外疲软，一度推动美…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157670.shtml"
-    },
-    {
-      "id": "ff2a7c9070",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "10-03 07:00",
-      "title": "日本央行加息仍难提振日元 对冲基金重新建立空头押注 美元多头仓位持续增加",
-      "insight": "尽管日本央行上个月如期加息，由于其政策立场未能达到市场预期的鹰派程度，加之美日利差仍然显著，日元…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkt6762636.shtml"
-    },
-    {
-      "id": "ff18cd38b4",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "10-03 07:00",
-      "title": "沃什淡化利率前瞻性指引 美联储两位高官讲话仍牵动市场 10月加息预期大幅降温",
-      "insight": "尽管美联储主席沃什已明确表示，不希望通过前瞻性指引向市场释放明确的利率路径信号，美联储两位高级官…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157646.shtml"
-    },
-    {
-      "id": "ff09a411f2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 06:59",
-      "title": "克利夫兰联储行长：美联储下次会前有时间权衡更多数据",
-      "insight": "克利夫兰联邦储备银行行长贝丝·哈马克表示，决策层在10月下旬再次召开议息会议之前有大量经济数据要…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkm4176517.shtml"
-    },
-    {
-      "id": "ff03624867",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 06:53",
-      "title": "高盛据悉助客户早期布局SpaceX 上市后斩获数亿美元奖励费",
-      "insight": "高盛的银行家在6月操办SpaceX轰动市场的首次公开募股（IPO）时赚取了巨额费用，但与此次上市…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5154728.shtml"
     }
   ],
-  "updateTime": "2026-10-03 23:31"
+  "updateTime": "2026-10-04 04:26"
 }
