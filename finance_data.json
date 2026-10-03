@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ffb9e5c585",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "10-03 08:35",
+      "title": "G7打响“油价降温战”!一亿桶石油储备释放叠加特朗普放弃禁运，全球通胀迎来关键减压阀",
+      "insight": "美国总统唐纳德·特朗普表示，在七国集团及其合作伙伴同意释放部分应急燃料储备、以遏制价格飙升之后，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-03/doc-initwzsp5057993.shtml"
+    },
+    {
+      "id": "ff94ec7a61",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 07:01",
+      "title": "苹果确认iPhone 18 Pro Max存在AT&T网络故障 受影响用户需换机",
+      "insight": "苹果公司表示，近期升级至iPhone 18 Pro Max的美国电话电报公司（AT&amp;T）…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6761318.shtml"
+    },
+    {
+      "id": "ff20a78dc9",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "10-03 07:00",
+      "title": "美债收益率居高不下！高借贷成本持续冲击美国经济 AI投资热潮与实体经济表现分化加剧",
+      "insight": "持续数周的美国国债抛售潮令华尔街面临新的挑战。尽管周五公布的美国9月就业报告意外疲软，一度推动美…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157670.shtml"
+    },
+    {
+      "id": "ff2a7c9070",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "10-03 07:00",
+      "title": "日本央行加息仍难提振日元 对冲基金重新建立空头押注 美元多头仓位持续增加",
+      "insight": "尽管日本央行上个月如期加息，由于其政策立场未能达到市场预期的鹰派程度，加之美日利差仍然显著，日元…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkt6762636.shtml"
+    },
+    {
+      "id": "ff18cd38b4",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "10-03 07:00",
+      "title": "沃什淡化利率前瞻性指引 美联储两位高官讲话仍牵动市场 10月加息预期大幅降温",
+      "insight": "尽管美联储主席沃什已明确表示，不希望通过前瞻性指引向市场释放明确的利率路径信号，美联储两位高级官…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-03/doc-initwvkr5157646.shtml"
+    },
+    {
+      "id": "ff09a411f2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 06:59",
+      "title": "克利夫兰联储行长：美联储下次会前有时间权衡更多数据",
+      "insight": "克利夫兰联邦储备银行行长贝丝·哈马克表示，决策层在10月下旬再次召开议息会议之前有大量经济数据要…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkm4176517.shtml"
+    },
+    {
+      "id": "ff03624867",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 06:53",
+      "title": "高盛据悉助客户早期布局SpaceX 上市后斩获数亿美元奖励费",
+      "insight": "高盛的银行家在6月操办SpaceX轰动市场的首次公开募股（IPO）时赚取了巨额费用，但与此次上市…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5154728.shtml"
+    },
+    {
+      "id": "ffb852d793",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 06:50",
+      "title": "海湾局势叠加全球变暖，北极航运热度飙升",
+      "insight": "通过北极航运的规模已达到创纪录水平。随着海冰融化，以及全球关键航运咽喉要道面临压力，船东正寻求替…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0945772.shtml"
+    },
+    {
+      "id": "ff54be3012",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 06:21",
+      "title": "10月3日隔夜要闻：美股收涨 燃料价格大跌 金价走低 美国就业增长逊于预期",
+      "insight": "市场 10月3日收盘：美股周五收涨 就业数据走弱提振市场 10月3日美股成交前20：英伟达股价周…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkr5147785.shtml"
+    },
+    {
+      "id": "ff1033f182",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 06:07",
+      "title": "10月3日美股成交前20：英伟达股价周五创下四个多月来的首个纪录新高 特斯拉第三季度交付量超预期",
+      "insight": "周五美股成交额第2名英伟达收涨1.34%，成交317.84亿美元。 英伟达宣布，DGX SPAR…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6749330.shtml"
+    },
+    {
+      "id": "ff5d1f1537",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:50",
+      "title": "七国集团同意释放紧急储备后 特朗普称美国不会禁止柴油出口",
+      "insight": "美国总统唐纳德·特朗普表示，他不会禁止美国柴油出口。此前，七国集团（G7）及其合作伙伴同意释放部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkp0923128.shtml"
+    },
+    {
+      "id": "ff874f218b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-03 05:43",
+      "title": "巴西大选在即 美国和澳大利亚突然以安全关切为由暂停当地领事服务",
+      "insight": "在周日即将举行大选的巴西，美国和澳大利亚以“安全关切”为由暂停了当地的领事服务。 美国大使馆指示…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwvkt6743518.shtml"
+    },
+    {
       "id": "ffeb63d28e",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "10月3日收盘：美股周五收涨 就业数据走弱提振市场",
       "insight": "美国9月非农就业报告意外疲软，提振市场预期，认为美联储将在10月议息会议上按兵不动。 道琼斯工业…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4254351.shtml"
-    },
-    {
-      "id": "ffdfa379c4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:21",
-      "title": "特朗普称美国不会实施柴油出口禁令",
-      "insight": "美国总统特朗普对媒体表示，他不会对柴油实施出口禁令。 “我们从来就没打算这么做，” 他说。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1025069.shtml"
-    },
-    {
-      "id": "ffe30b3f4a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:20",
-      "title": "美国债市：美债回吐非农数据后涨幅 曲线中段领跌",
-      "insight": "美国国债日内下跌。中期美债领跌，此前疲软的非农就业报告一度推动美债上涨，但投资者随后逢高卖出，导…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1025003.shtml"
-    },
-    {
-      "id": "ff0f03b378",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 04:20",
-      "title": "重燃对AI云业务信心 野村上调阿里巴巴净利预估",
-      "insight": "野村上调对阿里巴巴2027财年经调整净利润预估7%，看好其电商业务盈利前景并重燃对该公司AI云的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrap4252274.shtml"
-    },
-    {
-      "id": "ff4a36b1a6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 03:32",
-      "title": "美国司法部长称不会重启对前美联储主席鲍威尔的刑事调查",
-      "insight": "美国司法部不会就美联储大楼翻修项目成本超支问题对美联储前主席杰罗姆·鲍威尔重新启动刑事调查。 美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwrar1007140.shtml"
-    },
-    {
-      "id": "ff7f9dcde8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 02:45",
-      "title": "美联储主席沃什淡化前瞻指引 核心副手讲话仍牵动市场预期",
-      "insight": "美联储主席凯文·沃什已承诺避免就利率走向向投资者发出明确信号。本周沃什的主要副手表明他们仍愿意有…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwrap4229603.shtml"
-    },
-    {
-      "id": "ff6dd1b2ff",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 02:05",
-      "title": "欧洲股市反弹 得益于债市压力缓解以及科技股上涨",
-      "insight": "欧洲股市周五反弹，得益于油价回落使得债券收益率上升带来的压力有所缓解，科技股表现领先。 斯托克欧…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwkur4334583.shtml"
-    },
-    {
-      "id": "ffa9e0eef8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 02:00",
-      "title": "七国集团将释放多达1亿桶柴油和石油储备以遏制价格上涨",
-      "insight": "在特朗普政府一周来不断施压要求遏制燃料价格上涨之后，七国集团（G7）及其合作伙伴周五决定将释放多…",
-      "link": "https://finance.sina.com.cn/world/2026-10-02/doc-initwent4411943.shtml"
-    },
-    {
-      "id": "ff7268edc3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 01:13",
-      "title": "隐私币ETF近一月大涨60%，跻身2026年表现最佳基金行列",
-      "insight": "灰度 Zcash ETF（代码 ZCSH）过去一个月涨幅超 60%，年内涨幅约 253%。市场重…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkut1085118.shtml"
-    },
-    {
-      "id": "fffbca28d1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 01:12",
-      "title": "美股本轮牛市迎来四周年",
-      "insight": "瑞银表示，10 月是本轮全球牛市的第四个年头，市场后续走向依旧向上。 瑞银瑞士高级金融市场顾问伯…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkuv5341288.shtml"
-    },
-    {
-      "id": "ff18524b2c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 01:11",
-      "title": "百奥明公布庞贝病五年临床数据：运动功能具备持久获益",
-      "insight": "核心要点百奥明（BioMarin）的组合疗法可帮助晚发型庞贝病成人患者，在持续五年治疗期间维持步…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initwkux6945871.shtml"
-    },
-    {
-      "id": "ff6b9716ce",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 01:09",
-      "title": "欧洲债市：法国国债相对于德国国债的收益率溢价收窄",
-      "insight": "尽管欧洲债券周五上涨，但在对法国财政状况以及明年总统大选结果的担忧持续之际，基准法国10年期国债…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwkur4311107.shtml"
-    },
-    {
-      "id": "ff24b9d001",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-03 00:52",
-      "title": "报道：沙特计划对也门胡塞武装发动攻势",
-      "insight": "据媒体援引未具名海湾地区和也门官员以及西方外交人士报道，沙特阿拉伯正计划对也门胡塞武装发动攻势。…",
-      "link": "https://finance.sina.com.cn/world/2026-10-03/doc-initwkux6941476.shtml"
     }
   ],
-  "updateTime": "2026-10-03 05:40"
+  "updateTime": "2026-10-03 11:14"
 }
