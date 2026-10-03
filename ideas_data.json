@@ -2,18 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "当我在天津解放桥吹奏歌唱祖国",
-      "heat": 11766424,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A7%A3%E6%94%BE%E6%A1%A5%E5%90%B9%E5%A5%8F%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD?type=general",
-      "scheme": "snssdk1128://search/当我在天津解放桥吹奏歌唱祖国"
-    },
-    {
-      "rank": 2,
       "topic": "特朗普威胁韩国再不签费用翻倍",
-      "heat": 11340961,
+      "heat": 11990412,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,9 +11,19 @@
       "scheme": "snssdk1128://search/特朗普威胁韩国再不签费用翻倍"
     },
     {
+      "rank": 2,
+      "topic": "当我在天津解放桥吹奏歌唱祖国",
+      "heat": 11682821,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E5%9C%A8%E5%A4%A9%E6%B4%A5%E8%A7%A3%E6%94%BE%E6%A1%A5%E5%90%B9%E5%A5%8F%E6%AD%8C%E5%94%B1%E7%A5%96%E5%9B%BD?type=general",
+      "scheme": "snssdk1128://search/当我在天津解放桥吹奏歌唱祖国"
+    },
+    {
       "rank": 3,
       "topic": "解锁国庆文旅消费新趋势",
-      "heat": 11255499,
+      "heat": 11658911,
       "videos": 0,
       "type": "搞钱/吐槽",
       "insight": "职场/搞钱/吐槽类口播完播率高，借热点宣泄情绪+给方法，涨粉快。",
@@ -32,18 +32,8 @@
     },
     {
       "rank": 4,
-      "topic": "挑战0元搭车完成长途旅行",
-      "heat": 11044593,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8C%91%E6%88%980%E5%85%83%E6%90%AD%E8%BD%A6%E5%AE%8C%E6%88%90%E9%95%BF%E9%80%94%E6%97%85%E8%A1%8C?type=general",
-      "scheme": "snssdk1128://search/挑战0元搭车完成长途旅行"
-    },
-    {
-      "rank": 5,
       "topic": "中国男足获亚运铜牌",
-      "heat": 10486306,
+      "heat": 11564628,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,19 +41,29 @@
       "scheme": "snssdk1128://search/中国男足获亚运铜牌"
     },
     {
-      "rank": 6,
-      "topic": "晒出你拍的南昌烟花",
-      "heat": 10420323,
+      "rank": 5,
+      "topic": "韩媒：中国每天都是金牌日",
+      "heat": 10806439,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%99%92%E5%87%BA%E4%BD%A0%E6%8B%8D%E7%9A%84%E5%8D%97%E6%98%8C%E7%83%9F%E8%8A%B1?type=general",
-      "scheme": "snssdk1128://search/晒出你拍的南昌烟花"
+      "link": "https://www.douyin.com/search/%E9%9F%A9%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%98%AF%E9%87%91%E7%89%8C%E6%97%A5?type=general",
+      "scheme": "snssdk1128://search/韩媒：中国每天都是金牌日"
+    },
+    {
+      "rank": 6,
+      "topic": "挑战0元搭车完成长途旅行",
+      "heat": 10733833,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%8C%91%E6%88%980%E5%85%83%E6%90%AD%E8%BD%A6%E5%AE%8C%E6%88%90%E9%95%BF%E9%80%94%E6%97%85%E8%A1%8C?type=general",
+      "scheme": "snssdk1128://search/挑战0元搭车完成长途旅行"
     },
     {
       "rank": 7,
       "topic": "把秋天装进手帐里",
-      "heat": 9312286,
+      "heat": 9548790,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -73,7 +73,7 @@
     {
       "rank": 8,
       "topic": "俄罗斯导弹打击导致乌钢铁厂停产",
-      "heat": 9288726,
+      "heat": 9487726,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -83,7 +83,7 @@
     {
       "rank": 9,
       "topic": "苏超泰州3:4南通",
-      "heat": 9281235,
+      "heat": 9486958,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -92,38 +92,38 @@
     },
     {
       "rank": 10,
-      "topic": "韩媒：中国每天都是金牌日",
-      "heat": 9250595,
+      "topic": "在南宁逛吃烟火气早市",
+      "heat": 9410778,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%9F%A9%E5%AA%92%EF%BC%9A%E4%B8%AD%E5%9B%BD%E6%AF%8F%E5%A4%A9%E9%83%BD%E6%98%AF%E9%87%91%E7%89%8C%E6%97%A5?type=general",
-      "scheme": "snssdk1128://search/韩媒：中国每天都是金牌日"
+      "link": "https://www.douyin.com/search/%E5%9C%A8%E5%8D%97%E5%AE%81%E9%80%9B%E5%90%83%E7%83%9F%E7%81%AB%E6%B0%94%E6%97%A9%E5%B8%82?type=general",
+      "scheme": "snssdk1128://search/在南宁逛吃烟火气早市"
     },
     {
       "rank": 11,
-      "topic": "国庆来鹳雀楼签名打卡",
-      "heat": 9245531,
+      "topic": "这才是我要的落地签",
+      "heat": 9395124,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%9D%A5%E9%B9%B3%E9%9B%80%E6%A5%BC%E7%AD%BE%E5%90%8D%E6%89%93%E5%8D%A1?type=general",
-      "scheme": "snssdk1128://search/国庆来鹳雀楼签名打卡"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E6%89%8D%E6%98%AF%E6%88%91%E8%A6%81%E7%9A%84%E8%90%BD%E5%9C%B0%E7%AD%BE?type=general",
+      "scheme": "snssdk1128://search/这才是我要的落地签"
     },
     {
       "rank": 12,
-      "topic": "EDG发文道歉",
-      "heat": 9211751,
+      "topic": "中国队169金89银83铜收官",
+      "heat": 9093864,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/EDG%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89?type=general",
-      "scheme": "snssdk1128://search/EDG发文道歉"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98?type=general",
+      "scheme": "snssdk1128://search/中国队169金89银83铜收官"
     },
     {
       "rank": 13,
       "topic": "苏超徐州0:3无锡",
-      "heat": 9172551,
+      "heat": 9078885,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,18 +132,18 @@
     },
     {
       "rank": 14,
-      "topic": "李昊两扑点球",
-      "heat": 9109650,
+      "topic": "EDG发文道歉",
+      "heat": 9051517,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83?type=general",
-      "scheme": "snssdk1128://search/李昊两扑点球"
+      "link": "https://www.douyin.com/search/EDG%E5%8F%91%E6%96%87%E9%81%93%E6%AD%89?type=general",
+      "scheme": "snssdk1128://search/EDG发文道歉"
     },
     {
       "rank": 15,
       "topic": "“水猴子拖人下水淹死”系谣言",
-      "heat": 9026811,
+      "heat": 8909139,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -153,7 +153,7 @@
     {
       "rank": 16,
       "topic": "巴勒斯坦球员向国足道歉",
-      "heat": 8887265,
+      "heat": 8900879,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -162,18 +162,18 @@
     },
     {
       "rank": 17,
-      "topic": "国庆档观影repo",
-      "heat": 8739759,
+      "topic": "国庆我先玩一步了",
+      "heat": 8856094,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%A1%A3%E8%A7%82%E5%BD%B1repo?type=general",
-      "scheme": "snssdk1128://search/国庆档观影repo"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%88%91%E5%85%88%E7%8E%A9%E4%B8%80%E6%AD%A5%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/国庆我先玩一步了"
     },
     {
       "rank": 18,
       "topic": "王力宏合肥演唱会",
-      "heat": 8533228,
+      "heat": 8362003,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -183,7 +183,7 @@
     {
       "rank": 19,
       "topic": "黄霄雲全开麦唱响歌唱祖国",
-      "heat": 8474848,
+      "heat": 8352378,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -193,7 +193,7 @@
     {
       "rank": 20,
       "topic": "周杰伦青岛演唱会",
-      "heat": 8218107,
+      "heat": 8300043,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -202,18 +202,28 @@
     },
     {
       "rank": 21,
-      "topic": "用市井人家的炊烟笑语打开贵州",
-      "heat": 8217147,
+      "topic": "李昊两扑点球",
+      "heat": 8290702,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%A8%E5%B8%82%E4%BA%95%E4%BA%BA%E5%AE%B6%E7%9A%84%E7%82%8A%E7%83%9F%E7%AC%91%E8%AF%AD%E6%89%93%E5%BC%80%E8%B4%B5%E5%B7%9E?type=general",
-      "scheme": "snssdk1128://search/用市井人家的炊烟笑语打开贵州"
+      "link": "https://www.douyin.com/search/%E6%9D%8E%E6%98%8A%E4%B8%A4%E6%89%91%E7%82%B9%E7%90%83?type=general",
+      "scheme": "snssdk1128://search/李昊两扑点球"
     },
     {
       "rank": 22,
+      "topic": "国庆档观影repo",
+      "heat": 8145340,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%BA%86%E6%A1%A3%E8%A7%82%E5%BD%B1repo?type=general",
+      "scheme": "snssdk1128://search/国庆档观影repo"
+    },
+    {
+      "rank": 23,
       "topic": "VCTCN八连败结束上海冠军赛",
-      "heat": 8026442,
+      "heat": 7835416,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -221,69 +231,9 @@
       "scheme": "snssdk1128://search/VCTCN八连败结束上海冠军赛"
     },
     {
-      "rank": 23,
-      "topic": "我已加入国庆重庆夜景大军",
-      "heat": 7881850,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%B7%B2%E5%8A%A0%E5%85%A5%E5%9B%BD%E5%BA%86%E9%87%8D%E5%BA%86%E5%A4%9C%E6%99%AF%E5%A4%A7%E5%86%9B?type=general",
-      "scheme": "snssdk1128://search/我已加入国庆重庆夜景大军"
-    },
-    {
       "rank": 24,
-      "topic": "中国队169金89银83铜收官",
-      "heat": 7832229,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F169%E9%87%9189%E9%93%B683%E9%93%9C%E6%94%B6%E5%AE%98?type=general",
-      "scheme": "snssdk1128://search/中国队169金89银83铜收官"
-    },
-    {
-      "rank": 25,
-      "topic": "吴曦说亚运U23男足兑现了承诺",
-      "heat": 7815667,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%90%B4%E6%9B%A6%E8%AF%B4%E4%BA%9A%E8%BF%90U23%E7%94%B7%E8%B6%B3%E5%85%91%E7%8E%B0%E4%BA%86%E6%89%BF%E8%AF%BA?type=general",
-      "scheme": "snssdk1128://search/吴曦说亚运U23男足兑现了承诺"
-    },
-    {
-      "rank": 26,
-      "topic": "田曦薇 看得出她是公主",
-      "heat": 7813818,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%94%B0%E6%9B%A6%E8%96%87%20%E7%9C%8B%E5%BE%97%E5%87%BA%E5%A5%B9%E6%98%AF%E5%85%AC%E4%B8%BB?type=general",
-      "scheme": "snssdk1128://search/田曦薇 看得出她是公主"
-    },
-    {
-      "rank": 27,
-      "topic": "海上厨子休假回来秒变加班现场",
-      "heat": 7807920,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B5%B7%E4%B8%8A%E5%8E%A8%E5%AD%90%E4%BC%91%E5%81%87%E5%9B%9E%E6%9D%A5%E7%A7%92%E5%8F%98%E5%8A%A0%E7%8F%AD%E7%8E%B0%E5%9C%BA?type=general",
-      "scheme": "snssdk1128://search/海上厨子休假回来秒变加班现场"
-    },
-    {
-      "rank": 28,
-      "topic": "在南宁逛吃烟火气早市",
-      "heat": 7779734,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9C%A8%E5%8D%97%E5%AE%81%E9%80%9B%E5%90%83%E7%83%9F%E7%81%AB%E6%B0%94%E6%97%A9%E5%B8%82?type=general",
-      "scheme": "snssdk1128://search/在南宁逛吃烟火气早市"
-    },
-    {
-      "rank": 29,
       "topic": "陈泽圆梦吃上神仙拌饭了",
-      "heat": 7775037,
+      "heat": 7798267,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -291,15 +241,65 @@
       "scheme": "snssdk1128://search/陈泽圆梦吃上神仙拌饭了"
     },
     {
-      "rank": 30,
+      "rank": 25,
       "topic": "我在假期上大分",
-      "heat": 7763581,
+      "heat": 7791748,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
       "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E5%81%87%E6%9C%9F%E4%B8%8A%E5%A4%A7%E5%88%86?type=general",
       "scheme": "snssdk1128://search/我在假期上大分"
+    },
+    {
+      "rank": 26,
+      "topic": "海上厨子休假回来秒变加班现场",
+      "heat": 7762030,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%B5%B7%E4%B8%8A%E5%8E%A8%E5%AD%90%E4%BC%91%E5%81%87%E5%9B%9E%E6%9D%A5%E7%A7%92%E5%8F%98%E5%8A%A0%E7%8F%AD%E7%8E%B0%E5%9C%BA?type=general",
+      "scheme": "snssdk1128://search/海上厨子休假回来秒变加班现场"
+    },
+    {
+      "rank": 27,
+      "topic": "在拍一种很新的假期生活vlog",
+      "heat": 7754601,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9C%A8%E6%8B%8D%E4%B8%80%E7%A7%8D%E5%BE%88%E6%96%B0%E7%9A%84%E5%81%87%E6%9C%9F%E7%94%9F%E6%B4%BBvlog?type=general",
+      "scheme": "snssdk1128://search/在拍一种很新的假期生活vlog"
+    },
+    {
+      "rank": 28,
+      "topic": "杨超越这张照片梦回千禧年",
+      "heat": 7752037,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9D%A8%E8%B6%85%E8%B6%8A%E8%BF%99%E5%BC%A0%E7%85%A7%E7%89%87%E6%A2%A6%E5%9B%9E%E5%8D%83%E7%A6%A7%E5%B9%B4?type=general",
+      "scheme": "snssdk1128://search/杨超越这张照片梦回千禧年"
+    },
+    {
+      "rank": 29,
+      "topic": "云南赏秋治愈之旅",
+      "heat": 7745800,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E4%BA%91%E5%8D%97%E8%B5%8F%E7%A7%8B%E6%B2%BB%E6%84%88%E4%B9%8B%E6%97%85?type=general",
+      "scheme": "snssdk1128://search/云南赏秋治愈之旅"
+    },
+    {
+      "rank": 30,
+      "topic": "无可替代给白冰演爽了",
+      "heat": 7741182,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%97%A0%E5%8F%AF%E6%9B%BF%E4%BB%A3%E7%BB%99%E7%99%BD%E5%86%B0%E6%BC%94%E7%88%BD%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/无可替代给白冰演爽了"
     }
   ],
-  "updateTime": "2026-10-04 04:26"
+  "updateTime": "2026-10-04 07:27"
 }
