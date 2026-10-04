@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff74ac5ae5",
-      "source": "环球市场播报",
+      "id": "ff22b6e727",
+      "source": "BUG",
       "tag": "财经热点",
-      "time": "10-04 03:34",
-      "title": "贝森特批评AI风险警告是危言耸听",
-      "insight": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-initytzr0408702.shtml"
+      "time": "10-04 16:53",
+      "title": "“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”",
+      "insight": "文 | 《BUG》栏目 徐苑蕾 近日，“东方航空空姐下跪事件”相关话题多次登上热搜。东方航空发布…",
+      "link": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml"
     },
     {
-      "id": "fff70bd0c2",
+      "id": "ff691645b9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-04 03:30",
-      "title": "工资涨不过物价 美国人想尽各种办法维持消费",
-      "insight": "过去五个月里，美国物价上涨速度一直快于工资增速，这种现象本该促使消费者削减开支。但实际上，他们仍…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initytzv5949378.shtml"
+      "time": "10-04 15:42",
+      "title": "英国国家医疗服务体系20余家信托机构停用Palantir候诊工具",
+      "insight": "分析显示，英格兰超过20家国民保健制度信托机构已停止使用美国软件巨头Palantir的候诊名单工…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0328464.shtml"
     },
     {
-      "id": "ffe0129562",
+      "id": "ff6e628739",
       "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 15:38",
+      "title": "法国汽车制造商雷诺利用大规模制造经验进军无人机领域",
+      "insight": "法国汽车制造商雷诺正将其在大规模生产领域积累的经验应用于无人机生产，通过与法国国防电子企业泰雷兹…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0326172.shtml"
+    },
+    {
+      "id": "ff2af51bed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 15:33",
+      "title": "华尔街IPO热潮降温 需求疲软与估值担忧导致多宗上市暂停",
+      "insight": "近期，华尔街首次公开募股市场明显降温，投资者对新股需求疲软以及对高估值的担忧，令本被寄予厚望的上…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0323551.shtml"
+    },
+    {
+      "id": "ffb0481226",
+      "source": "新华社",
       "tag": "财经热点",
-      "time": "10-04 00:29",
-      "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
-      "insight": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptx6040261.shtml"
+      "time": "10-04 15:25",
+      "title": "商务部回应G20贸易部长会议：坚持原则 促谈促合",
+      "insight": "新华财经北京10月4日电（记者谢希瑶）商务部新闻发言人4日就二十国集团（G20）贸易部长会议及相…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0321184.shtml"
     },
     {
-      "id": "ff1ce920cc",
+      "id": "ffb31dcc1b",
       "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 15:21",
+      "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
+      "insight": "随着AI智能体从回答问题发展到真正花钱，投资者和科技巨头正竞相争夺对机器驱动商业活动背后金融网络…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml"
+    },
+    {
+      "id": "ff79949079",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 15:15",
+      "title": "美国加密货币行业9月招聘职位激增 申请量反而下降",
+      "insight": "今年9月，加密货币行业招聘职位发布量增至1241个，较7月增长两倍以上，但申请量降至约2万份，显…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3896418.shtml"
+    },
+    {
+      "id": "ffb4e16d0e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 15:08",
+      "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
+      "insight": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市，以资助其美国市场扩张和收购计划。该…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0438447.shtml"
+    },
+    {
+      "id": "fff21dabbe",
+      "source": "新浪科技",
       "tag": "财经热点",
-      "time": "10-04 00:27",
-      "title": "报道：特朗普指示动用纳税人资金投放颂扬其总统任期的广告",
-      "insight": "据知情人士透露，美国总统特朗普亲自指示预算局局长动用纳税人资金投放电视广告，宣传他本人及其执政成…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4434728.shtml"
+      "time": "10-04 14:57",
+      "title": "小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故",
+      "insight": "新浪科技讯 10月4日下午消息，昨日晚间，一乘客被小马智行无人驾驶车门夹住手指的视频流出，引发广…",
+      "link": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzvpm7205109.shtml"
     },
     {
-      "id": "ff163b9c6c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-04 00:10",
-      "title": "台积电探讨与马斯克 Terafab 项目开展合作",
-      "insight": "半导体巨头台积电正考虑与埃隆・马斯克的 Terafab 项目开展合作，在美国建立先进的端到端半导…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4427769.shtml"
-    },
-    {
-      "id": "ff1b559e92",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-04 00:06",
-      "title": "苹果将加强Mac隐私控制 警告AI智能体带来的风险上升",
-      "insight": "苹果公司表示，计划为Mac用户推出新的隐私控制措施，并警告称，向包括AI智能体在内的第三方软件授…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptr3684201.shtml"
-    },
-    {
-      "id": "ff57dea968",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-04 00:03",
-      "title": "贝森特称国债收益率上升符合全球趋势 不必感到惊恐",
-      "insight": "尽管通胀担忧已推动一些基准收益率升至20多年来最高水平，但美国财长斯科特·贝森特表示，近期美国国…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-inityptv4425599.shtml"
-    },
-    {
-      "id": "ffe61e340f",
+      "id": "fff0fe0bfc",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-03 21:55",
-      "title": "OpenAI安全部门员工辞职 呼吁对AI采取核电级别的防护措施",
-      "insight": "OpenAI一名专注于人工智能安全的员工已从公司离职，并警告称，顶尖人工智能公司在降低风险方面做…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimx4523185.shtml"
+      "time": "10-04 14:51",
+      "title": "SEC放行首批3倍杠杆加密ETP，比特币维持在8.5万美元附近",
+      "insight": "比特币周日维持在8.5万美元附近震荡，投资者正在评估美国监管层批准首批3倍杠杆加密交易所交易产品…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0429700.shtml"
     },
     {
-      "id": "ff2bc9fc0f",
+      "id": "ff1f6a7b1d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-03 21:33",
-      "title": "韩国一储蓄银行遭黑客攻击，约4万客户数据泄露",
-      "insight": "韩国耶加兰储蓄银行（Yegaram Savings Bank）表示，9月30日，一名身份不明的黑…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimv0522961.shtml"
+      "time": "10-04 14:49",
+      "title": "雷诺未来五年将在法国再投超100亿欧元，加码电动车和更低价车型",
+      "insight": "雷诺集团计划未来五年在法国投资超过100亿欧元，用于继续推进电动车生产，同时开发价格更低、更具可…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0428562.shtml"
     },
     {
-      "id": "fffdf09242",
+      "id": "ff0be2ffb0",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-03 21:32",
-      "title": "美国据悉将向维斯特拉公司提供42亿美元贷款，以提升核电产能",
-      "insight": "知情人士周六表示，美国将向维斯特拉公司（Vistra）提供约42亿美元贷款，以提升其核电发电量。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityimx4517715.shtml"
+      "time": "10-04 14:48",
+      "title": "美国人工智能“沙皇”组建“超级智能”特别工作组：120天评估AI风险与政府监管边界",
+      "insight": "特朗普政府组建新的人工智能特别工作组“Super Intelligence Force”，由国家…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3887865.shtml"
     },
     {
-      "id": "ff270e25a3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 20:43",
-      "title": "贝森特自称是马斯克的超级粉丝",
-      "insight": "美国财长贝森特在周六播出的一次采访中自称是埃隆·马斯克的“超级粉丝”，并再次就马斯克在“政府效率…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-inityccv3853777.shtml"
-    },
-    {
-      "id": "ffed040de1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 20:41",
-      "title": "贝森特称本周伊朗不会有石油在海上运输",
-      "insight": "美国财长斯科特·贝森特表示，本周伊朗将没有任何石油在海上运输，也不会有相关收入；华盛顿方面正加大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initycec6237363.shtml"
-    },
-    {
-      "id": "fffe245c4d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:43",
-      "title": "意大利和希腊寻求欧盟财政规则灵活性",
-      "insight": "意大利和希腊本周分别致信欧盟委员会，请求在欧盟财政规则下获得更多财政回旋空间。伊朗战争导致柴油和…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3940697.shtml"
-    },
-    {
-      "id": "ff80e6c367",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:38",
-      "title": "日本最大自动售货机制造商富士电机将制冷技术转用于数据中心冷却",
-      "insight": "日本最大自动售货机制造商富士电机利用其制冷技术，为耗电量巨大的人工智能数据中心开发出节能冷却系统…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqi6399001.shtml"
-    },
-    {
-      "id": "ff053cacf2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:30",
-      "title": "私募资本大举投资欧洲青年旅舍市场",
-      "insight": "过去18个月，博枫、阿波罗等全球私募资本巨头对欧洲青年旅舍行业进行重大投资，推动这一长期被机构投…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3934385.shtml"
-    },
-    {
-      "id": "ff4cfc6aec",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:29",
-      "title": "纽约一写字楼租金创纪录 对冲基金Castle Hook年付最高2120万美元",
-      "insight": "纽约曼哈顿中城一座摩天大楼近日创下写字楼租金纪录，低调对冲基金Castle Hook Partn…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3934027.shtml"
-    },
-    {
-      "id": "ff70db9d95",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:27",
-      "title": "美国银行团体起诉货币监理署 指控其越权向加密公司发放信托牌照",
-      "insight": "美国独立社区银行家协会（ICBA）周五在联邦法院起诉美国货币监理署（OCC），指控该监管机构越权…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3933313.shtml"
-    },
-    {
-      "id": "ff8e258a49",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:25",
-      "title": "美国9月就业发布后比特币24小时内上涨超过2%",
-      "insight": "美国劳工部周五公布的非农就业报告显示，美国9月新增就业2.9万人，远低于市场预期的9万人；8月新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxspz3932715.shtml"
-    },
-    {
-      "id": "ff38cd76d6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-03 15:24",
-      "title": "特朗普拟任命克莱顿为人工智能事务负责人",
-      "insight": "据报道，美国总统特朗普可能任命前美国证券交易委员会主席杰伊·克莱顿为政府人工智能事务负责人。克莱…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-03/doc-initxsqc0703492.shtml"
-    },
-    {
-      "id": "ffe75d3fdf",
+      "id": "ff5f55a43d",
       "source": "市场资讯",
       "tag": "财经",
-      "time": "10-03 10:27",
-      "title": "美股要“通宵”了！12月起迈入23小时交易时代",
-      "insight": "来源：华尔街见闻 12月6日起，纳斯达克（Nasdaq）、纽交所Arca等四大核心交易所将正式增…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-03/doc-initxfyp6563990.shtml"
+      "time": "10-04 14:44",
+      "title": "约满，限流！全国多处景区发布公告",
+      "insight": "来源：应急管理部 今天是国庆假期第4天 假期过半 你在哪里耍？ 不少热门景区人潮涌动 开启“人从…",
+      "link": "https://finance.sina.com.cn/roll/2026-10-04/doc-initzvpm7198768.shtml"
+    },
+    {
+      "id": "ff68061b0b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:44",
+      "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
+      "insight": "Truist Securities认为，Meta正在新兴AI Agent市场取得早期优势，但这种…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7197943.shtml"
+    },
+    {
+      "id": "ff5daa99ae",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:35",
+      "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
+      "insight": "OpenAI安全员工David Robinson宣布离职，并公开批评公司在快速推进前沿模型开发时…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5489757.shtml"
+    },
+    {
+      "id": "ff29e1fb93",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:30",
+      "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
+      "insight": "伊朗里亚尔周六继续大幅贬值，即使央行宣布通过国有银行向市场投放最多20亿美元外汇，也未能阻止汇率…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml"
+    },
+    {
+      "id": "ff828381b0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:27",
+      "title": "花旗解释家装股为何跑输：高利率压住需求，但长期维修逻辑仍在",
+      "insight": "花旗表示，美国2026年家装行业和相关股票持续跑输，主要受到利率、能源成本、住房可负担性以及地缘…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189236.shtml"
+    },
+    {
+      "id": "ffc7d8fdaa",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:27",
+      "title": "伊朗表示已准备好“既打又谈”",
+      "insight": "伊朗议会议长兼对美谈判首席代表穆罕默德·巴盖尔·加利巴夫称，伊朗的策略是“既不盲目乐观，也不畏惧…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189125.shtml"
+    },
+    {
+      "id": "ff5b44cc42",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:20",
+      "title": "胡塞武装称袭击利雅得附近沙特阿美设施，也门战事同步升级",
+      "insight": "也门胡塞武装称，其使用弹道导弹和无人机袭击了利雅得附近一处沙特阿美石油设施，并称袭击引发火灾。现…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7185053.shtml"
+    },
+    {
+      "id": "ff99592fc3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 14:18",
+      "title": "默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议",
+      "insight": "德国总理默茨周日抵达基辅，准备宣布新一轮对乌军事和能源援助，并推动德国与乌克兰敲定无人机、导弹及…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml"
     }
   ],
-  "updateTime": "2026-10-04 11:43"
+  "updateTime": "2026-10-04 19:37"
 }
