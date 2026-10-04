@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff032fabc3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 23:56",
+      "title": "环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温",
+      "insight": "在美国9月份就业数据疲软、法国金融市场压力急剧上升之后，美联储和欧洲央行决策者在本月会议上连续第…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassv3513119.shtml"
+    },
+    {
+      "id": "ff686024b2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 23:53",
+      "title": "软银集团孙正义罕见地就AI安全风险表达担忧 呼吁各国携手应对威胁",
+      "insight": "软银集团领导人孙正义是人工智能最坚定的信奉者之一，但即便是他也表示，随着机器正迅速获得更多能力，…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassx5117724.shtml"
+    },
+    {
+      "id": "ffab44fbf0",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-04 23:51",
+      "title": "沙特支持的也门部队发动全面攻势 试图夺回胡塞武装控制区",
+      "insight": "在伊朗支持的胡塞武装与沙特阿拉伯之间的冲突升级数周后，也门获国际承认的政府发起全面军事行动，试图…",
+      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassz6927704.shtml"
+    },
+    {
+      "id": "ff3e3ef714",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 22:46",
+      "title": "苹果新任CEO特努斯上任即亲掌设计，10月密集推新品对冲服务业务放缓",
+      "insight": "苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。此外，除了触摸屏和转向OL…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassy0134334.shtml"
+    },
+    {
+      "id": "ff5e560768",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-04 22:22",
+      "title": "OPEC+主要成员国同意11月维持产量目标不变",
+      "insight": "OPEC+主要成员国同意下个月维持产量配额不变，与此同时中东冲突继续导致该联盟相当大一部分石油生…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassv3493653.shtml"
+    },
+    {
+      "id": "ff11a7b068",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "10-04 22:05",
+      "title": "余承东回应误发“余总转发文案”：没想到工作备注比正文还抢镜",
+      "insight": "新浪科技讯 10月4日晚间消息，10月3日，华为常务董事、产品投资评审委员会主任、终端BG董事长…",
+      "link": "https://finance.sina.com.cn/tech/2026-10-04/doc-iniuanma0247722.shtml"
+    },
+    {
       "id": "ff22b6e727",
       "source": "BUG",
       "tag": "财经热点",
@@ -8,6 +62,15 @@
       "title": "“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”",
       "insight": "文 | 《BUG》栏目 徐苑蕾 近日，“东方航空空姐下跪事件”相关话题多次登上热搜。东方航空发布…",
       "link": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml"
+    },
+    {
+      "id": "fffbb2e165",
+      "source": "澎湃新闻",
+      "tag": "财经热点",
+      "time": "10-04 15:48",
+      "title": "“全世界都知道中国人放假了”！黄金周长假推动出入境游双向升温",
+      "insight": "在“请3休13”催生的“超长版黄金周”下，中国长假成了全球旅游旺季。多家在线旅游平台与旅行社披露…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0332342.shtml"
     },
     {
       "id": "ff691645b9",
@@ -116,70 +179,7 @@
       "title": "约满，限流！全国多处景区发布公告",
       "insight": "来源：应急管理部 今天是国庆假期第4天 假期过半 你在哪里耍？ 不少热门景区人潮涌动 开启“人从…",
       "link": "https://finance.sina.com.cn/roll/2026-10-04/doc-initzvpm7198768.shtml"
-    },
-    {
-      "id": "ff68061b0b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:44",
-      "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
-      "insight": "Truist Securities认为，Meta正在新兴AI Agent市场取得早期优势，但这种…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7197943.shtml"
-    },
-    {
-      "id": "ff5daa99ae",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:35",
-      "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
-      "insight": "OpenAI安全员工David Robinson宣布离职，并公开批评公司在快速推进前沿模型开发时…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5489757.shtml"
-    },
-    {
-      "id": "ff29e1fb93",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:30",
-      "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
-      "insight": "伊朗里亚尔周六继续大幅贬值，即使央行宣布通过国有银行向市场投放最多20亿美元外汇，也未能阻止汇率…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml"
-    },
-    {
-      "id": "ff828381b0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:27",
-      "title": "花旗解释家装股为何跑输：高利率压住需求，但长期维修逻辑仍在",
-      "insight": "花旗表示，美国2026年家装行业和相关股票持续跑输，主要受到利率、能源成本、住房可负担性以及地缘…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189236.shtml"
-    },
-    {
-      "id": "ffc7d8fdaa",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:27",
-      "title": "伊朗表示已准备好“既打又谈”",
-      "insight": "伊朗议会议长兼对美谈判首席代表穆罕默德·巴盖尔·加利巴夫称，伊朗的策略是“既不盲目乐观，也不畏惧…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189125.shtml"
-    },
-    {
-      "id": "ff5b44cc42",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:20",
-      "title": "胡塞武装称袭击利雅得附近沙特阿美设施，也门战事同步升级",
-      "insight": "也门胡塞武装称，其使用弹道导弹和无人机袭击了利雅得附近一处沙特阿美石油设施，并称袭击引发火灾。现…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7185053.shtml"
-    },
-    {
-      "id": "ff99592fc3",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:18",
-      "title": "默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议",
-      "insight": "德国总理默茨周日抵达基辅，准备宣布新一轮对乌军事和能源援助，并推动德国与乌克兰敲定无人机、导弹及…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml"
     }
   ],
-  "updateTime": "2026-10-04 19:37"
+  "updateTime": "2026-10-05 00:15"
 }
