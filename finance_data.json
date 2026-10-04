@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "id": "ff1aad4035",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-05 07:31",
+      "title": "三菱商事首席执行官警告日本股市牛市面临风险",
+      "insight": "日本最大贸易公司三菱商事首席执行官中西胜也近日警告，随着日本结束超低利率时代、债券收益率升至31…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp9783345.shtml"
+    },
+    {
+      "id": "ff136ba5f1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-05 07:28",
+      "title": "澳大利亚当局调查迪拜航空袭击者与该国的联系",
+      "insight": "上周一架从迪拜飞往特拉维夫的航班遭遇劫机未遂后，多国政府之间的相互指责不断升级。 澳大利亚当局正…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwm3084163.shtml"
+    },
+    {
+      "id": "ff3a3d2335",
+      "source": "智通财经APP",
+      "tag": "股市",
+      "time": "10-05 07:25",
+      "title": "开源证券：国产GPU“四小龙”解析",
+      "insight": "开源证券近日表示，国产GPU四小龙为摩尔线程（688795.SH）、沐曦（688802.SH）、…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-05/doc-iniucpwm3086602.shtml"
+    },
+    {
+      "id": "ffcc907c80",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-05 07:23",
+      "title": "施耐德电气接近以200亿美元收购工业软件集团PTC",
+      "insight": "这笔收购将成为这家法国企业集团史上规模最大的一笔交易，并增强其面向制造商的产品能力。 据知情人士…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-05/doc-iniucpwp4687672.shtml"
+    },
+    {
+      "id": "ff56228465",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 06:24",
+      "title": "报道：美国从英国空军基地撤回所有B-1轰炸机",
+      "insight": "美国官员周日披露，美国已将部署在英国费尔福德皇家空军基地（RAF Fairford）的全部 B‑…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqt6663621.shtml"
+    },
+    {
+      "id": "ffa5b67eca",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 06:19",
+      "title": "周末要闻：非农数据爆冷 G7联手降油价 特朗普宣布成立超级智能工作组",
+      "insight": "美国就业数据显著弱于预期，打压了美联储短期内加息的可能性。在特朗普政府施压之下，G7宣布联手释放…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqt6661390.shtml"
+    },
+    {
+      "id": "ff2622dda0",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 05:07",
+      "title": "沙特主导联军称将继续向也门政府提供支持 应对胡塞武装袭击",
+      "insight": "△多国联军发言人图尔基·马利基（资料图）当地时间10月4日，沙特阿拉伯主导的多国联军司令部发表声…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniuciqp3188923.shtml"
+    },
+    {
+      "id": "ffdc539cbb",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 05:00",
+      "title": "特朗普任命Clayton领导人工智能工作组 以应对安全担忧",
+      "insight": "在人工智能技术快速发展引发对其安全风险的担忧之际，美国总统唐纳德·特朗普宣布任命国家情报总监Ja…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqt6659001.shtml"
+    },
+    {
+      "id": "ffb8350f4f",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 04:30",
+      "title": "法国债市动荡勾起危机记忆 交易员高度警惕风险蔓延迹象",
+      "insight": "欧洲政府债券市场的抛售勾起人们对15年前债务危机的记忆之后，交易员正在高度警惕可能出现的危机蔓延…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqr9885786.shtml"
+    },
+    {
+      "id": "ff49effbc5",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 04:27",
+      "title": "美国撤回部署在英国的B-1轰炸机",
+      "insight": "△B-1轰炸机（资料图）当地时间10月4日，据美国方面消息，美国已将部署在英国皇家空军费尔福德基…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniucchv6761071.shtml"
+    },
+    {
+      "id": "ffdc71c4d3",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 04:11",
+      "title": "巴西投票站关闭 计票工作即将开始",
+      "insight": "巴西各投票站已于当地时间下午5点关闭，大选计票工作应很快开始。 巴西选民周日投票选举新一任总统，…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqr9884848.shtml"
+    },
+    {
+      "id": "ff95d854ab",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 03:15",
+      "title": "UKMTO称也门Al Mukha附近的油轮报告目击爆炸",
+      "insight": "英国海上贸易行动办公室（UKMTO）表示，10月4日收到报告称，也门Al Mukha以南60海里…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqt6657032.shtml"
+    },
+    {
+      "id": "ffe82428d5",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 03:14",
+      "title": "也门政府宣布启动行动以收复胡塞武装近期控制地区",
+      "insight": "转自：新华网 新华社科威特城10月4日电（记者尹炣）亚丁消息：也门总统领导委员会主席拉沙德·阿里…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniucchr3295689.shtml"
+    },
+    {
+      "id": "ff3ecc95d9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 03:00",
+      "title": "俄乌相互升级威胁 俄警告驻基辅外交人员面临致命风险",
+      "insight": "在乌克兰总统泽连斯基誓言将进一步加强对俄罗斯炼油厂的打击之后，俄罗斯表示，将加大对乌克兰基础设施…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuciqr9883912.shtml"
+    },
+    {
+      "id": "ff6fcd1c51",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 01:51",
+      "title": "消息人士称迪拜航空副驾驶原计划驾机撞向以机场航站楼",
+      "insight": "△以色列特拉维夫的本-古里安国际机场（资料图）据以色列方面当地时间10月4日消息称，9月30日在…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniuccht4909913.shtml"
+    },
+    {
+      "id": "ff461324d2",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 01:37",
+      "title": "伊朗石油部长辞职 伊朗国家石油公司CEO任代理部长",
+      "insight": "△帕克内贾德（资料图）当地时间4日，伊朗总统办公室官员表示，在接受石油部长帕克内贾德的辞呈后，伊…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniuawyt3408380.shtml"
+    },
+    {
       "id": "ff409ebce1",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -19,6 +163,15 @@
       "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuawyw0052960.shtml"
     },
     {
+      "id": "ff6c9454f8",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-05 00:53",
+      "title": "以总理下令对外国民航客机赴以安保工作进行彻底审查",
+      "insight": "△以总理内塔尼亚胡（资料图）当地时间10月4日晚间，以色列总理办公室通过社交账号发布声明称，以总…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-05/doc-iniuawyv5010447.shtml"
+    },
+    {
       "id": "ff032fabc3",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -26,160 +179,7 @@
       "title": "环球一周展望：美欧央行纪要料凸显通胀忧虑 惟加息紧迫性已降温",
       "insight": "在美国9月份就业数据疲软、法国金融市场压力急剧上升之后，美联储和欧洲央行决策者在本月会议上连续第…",
       "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassv3513119.shtml"
-    },
-    {
-      "id": "ff686024b2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-04 23:53",
-      "title": "软银集团孙正义罕见地就AI安全风险表达担忧 呼吁各国携手应对威胁",
-      "insight": "软银集团领导人孙正义是人工智能最坚定的信奉者之一，但即便是他也表示，随着机器正迅速获得更多能力，…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassx5117724.shtml"
-    },
-    {
-      "id": "ffab44fbf0",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-04 23:51",
-      "title": "沙特支持的也门部队发动全面攻势 试图夺回胡塞武装控制区",
-      "insight": "在伊朗支持的胡塞武装与沙特阿拉伯之间的冲突升级数周后，也门获国际承认的政府发起全面军事行动，试图…",
-      "link": "https://finance.sina.com.cn/world/2026-10-04/doc-iniuassz6927704.shtml"
-    },
-    {
-      "id": "ff3e3ef714",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 22:46",
-      "title": "苹果新任CEO特努斯上任即亲掌设计，10月密集推新品对冲服务业务放缓",
-      "insight": "苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。此外，除了触摸屏和转向OL…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassy0134334.shtml"
-    },
-    {
-      "id": "ff5e560768",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 22:22",
-      "title": "OPEC+主要成员国同意11月维持产量目标不变",
-      "insight": "OPEC+主要成员国同意下个月维持产量配额不变，与此同时中东冲突继续导致该联盟相当大一部分石油生…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassv3493653.shtml"
-    },
-    {
-      "id": "ff11a7b068",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "10-04 22:05",
-      "title": "余承东回应误发“余总转发文案”：没想到工作备注比正文还抢镜",
-      "insight": "新浪科技讯 10月4日晚间消息，10月3日，华为常务董事、产品投资评审委员会主任、终端BG董事长…",
-      "link": "https://finance.sina.com.cn/tech/2026-10-04/doc-iniuanma0247722.shtml"
-    },
-    {
-      "id": "ff22b6e727",
-      "source": "BUG",
-      "tag": "财经热点",
-      "time": "10-04 16:53",
-      "title": "“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”",
-      "insight": "文 | 《BUG》栏目 徐苑蕾 近日，“东方航空空姐下跪事件”相关话题多次登上热搜。东方航空发布…",
-      "link": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml"
-    },
-    {
-      "id": "fffbb2e165",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "10-04 15:48",
-      "title": "“全世界都知道中国人放假了”！黄金周长假推动出入境游双向升温",
-      "insight": "在“请3休13”催生的“超长版黄金周”下，中国长假成了全球旅游旺季。多家在线旅游平台与旅行社披露…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0332342.shtml"
-    },
-    {
-      "id": "ff691645b9",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:42",
-      "title": "英国国家医疗服务体系20余家信托机构停用Palantir候诊工具",
-      "insight": "分析显示，英格兰超过20家国民保健制度信托机构已停止使用美国软件巨头Palantir的候诊名单工…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0328464.shtml"
-    },
-    {
-      "id": "ff6e628739",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:38",
-      "title": "法国汽车制造商雷诺利用大规模制造经验进军无人机领域",
-      "insight": "法国汽车制造商雷诺正将其在大规模生产领域积累的经验应用于无人机生产，通过与法国国防电子企业泰雷兹…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0326172.shtml"
-    },
-    {
-      "id": "ff2af51bed",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:33",
-      "title": "华尔街IPO热潮降温 需求疲软与估值担忧导致多宗上市暂停",
-      "insight": "近期，华尔街首次公开募股市场明显降温，投资者对新股需求疲软以及对高估值的担忧，令本被寄予厚望的上…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0323551.shtml"
-    },
-    {
-      "id": "ffb0481226",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "10-04 15:25",
-      "title": "商务部回应G20贸易部长会议：坚持原则 促谈促合",
-      "insight": "新华财经北京10月4日电（记者谢希瑶）商务部新闻发言人4日就二十国集团（G20）贸易部长会议及相…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0321184.shtml"
-    },
-    {
-      "id": "ffb31dcc1b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:21",
-      "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "insight": "随着AI智能体从回答问题发展到真正花钱，投资者和科技巨头正竞相争夺对机器驱动商业活动背后金融网络…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml"
-    },
-    {
-      "id": "ff79949079",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:15",
-      "title": "美国加密货币行业9月招聘职位激增 申请量反而下降",
-      "insight": "今年9月，加密货币行业招聘职位发布量增至1241个，较7月增长两倍以上，但申请量降至约2万份，显…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3896418.shtml"
-    },
-    {
-      "id": "ffb4e16d0e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 15:08",
-      "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
-      "insight": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市，以资助其美国市场扩张和收购计划。该…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0438447.shtml"
-    },
-    {
-      "id": "fff21dabbe",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "10-04 14:57",
-      "title": "小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故",
-      "insight": "新浪科技讯 10月4日下午消息，昨日晚间，一乘客被小马智行无人驾驶车门夹住手指的视频流出，引发广…",
-      "link": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzvpm7205109.shtml"
-    },
-    {
-      "id": "fff0fe0bfc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:51",
-      "title": "SEC放行首批3倍杠杆加密ETP，比特币维持在8.5万美元附近",
-      "insight": "比特币周日维持在8.5万美元附近震荡，投资者正在评估美国监管层批准首批3倍杠杆加密交易所交易产品…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0429700.shtml"
-    },
-    {
-      "id": "ff1f6a7b1d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:49",
-      "title": "雷诺未来五年将在法国再投超100亿欧元，加码电动车和更低价车型",
-      "insight": "雷诺集团计划未来五年在法国投资超过100亿欧元，用于继续推进电动车生产，同时开发价格更低、更具可…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0428562.shtml"
     }
   ],
-  "updateTime": "2026-10-05 04:44"
+  "updateTime": "2026-10-05 07:45"
 }
