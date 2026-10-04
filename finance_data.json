@@ -1,6 +1,24 @@
 {
   "news": [
     {
+      "id": "ff409ebce1",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 01:08",
+      "title": "报道：沙特阿拉伯与阿联酋将协助扩充亚洲石油储备",
+      "insight": "日经新闻报道称，亚洲地区石油进口依存度高，但石油储备一直不足，沙特和阿联酋将协助该地区建立石油储…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuawyt3399142.shtml"
+    },
+    {
+      "id": "ff63ac1cc5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-05 01:07",
+      "title": "白宫国家经济委员会主任哈塞特：鲍威尔应该离开美联储理事会",
+      "insight": "美国总统唐纳德·特朗普的首席经济顾问呼吁美联储前主席杰罗姆·鲍威尔离开美联储理事会，此前美联储一…",
+      "link": "https://finance.sina.com.cn/world/2026-10-05/doc-iniuawyw0052960.shtml"
+    },
+    {
       "id": "ff032fabc3",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -161,25 +179,7 @@
       "title": "雷诺未来五年将在法国再投超100亿欧元，加码电动车和更低价车型",
       "insight": "雷诺集团计划未来五年在法国投资超过100亿欧元，用于继续推进电动车生产，同时开发价格更低、更具可…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0428562.shtml"
-    },
-    {
-      "id": "ff0be2ffb0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-04 14:48",
-      "title": "美国人工智能“沙皇”组建“超级智能”特别工作组：120天评估AI风险与政府监管边界",
-      "insight": "特朗普政府组建新的人工智能特别工作组“Super Intelligence Force”，由国家…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3887865.shtml"
-    },
-    {
-      "id": "ff5f55a43d",
-      "source": "市场资讯",
-      "tag": "财经",
-      "time": "10-04 14:44",
-      "title": "约满，限流！全国多处景区发布公告",
-      "insight": "来源：应急管理部 今天是国庆假期第4天 假期过半 你在哪里耍？ 不少热门景区人潮涌动 开启“人从…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-04/doc-initzvpm7198768.shtml"
     }
   ],
-  "updateTime": "2026-10-05 00:15"
+  "updateTime": "2026-10-05 04:44"
 }
