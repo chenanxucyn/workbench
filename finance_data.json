@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff7861e87e",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "10-09 17:50",
-      "title": "被立案调查将开展内部整顿？懂车帝回应：相关页面信息均为谣言，将采取法律措施维护权益",
-      "insight": "新浪科技讯 10月9日下午消息，尊界V800被曝测试中刹车踏板支架断裂一事发酵后，网络上流传一张…",
-      "link": "https://finance.sina.com.cn/tech/it/2026-10-09/doc-iniurmnk1119118.shtml"
-    },
-    {
-      "id": "ffa81c3d19",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "10-09 17:49",
-      "title": "懂车帝否认开展“内部整顿”",
-      "insight": "10月9日，有网传信息称，懂车帝内部发布公告：近期，因公司在市场竞争中存在的不正当竞争行为，已被…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-09/doc-iniurmnf6866868.shtml"
-    },
-    {
-      "id": "ffefd5a37b",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-09 17:46",
-      "title": "光大期货20261009热点追踪：甲醇继续大涨，哪些品种会受到波及？",
-      "insight": "光大期货20261009热点追踪：甲醇继续大涨，哪些品种会受到波及？",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-09/doc-iniurmnf6865396.shtml"
-    },
-    {
-      "id": "ff55bfd9c2",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-09 17:45",
-      "title": "光大期货1009热点追踪：甲醇继续大涨，哪些品种会受到波及？",
-      "insight": "光大期货1009热点追踪 甲醇继续大涨，哪些品种会受到波及？",
-      "link": "https://finance.sina.com.cn/money/future/2026-10-09/doc-iniurmnk1114972.shtml"
-    },
-    {
-      "id": "fff2f8eb7d",
+      "id": "ff25058353",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-09 17:44",
-      "title": "Anthropic、OpenAI等AI企业私下推演：灾难性AI事件发生后的情景",
-      "insight": "Anthropic、OpenAI以及其他AI公司的高管正在私下推演场景：一旦发生灾难性AI事件，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1114787.shtml"
+      "time": "10-10 01:09",
+      "title": "受内存、存储芯片短缺推高价格，游戏硬件销量跌至13年新低",
+      "insight": "全球内存与存储芯片短缺，正给游戏行业带来沉重打击。微软、任天堂与索尼均上调了自家游戏主机售价，以…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2656160.shtml"
     },
     {
-      "id": "ff7b59ed68",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-09 17:43",
-      "title": "三问尊界汽车踏板断裂事件：“高于标准”是否等于足够安全？“极端工况”是否成立？该不该召回？",
-      "insight": "10月8日，懂车帝发布测试视频称，三台尊界V800在进行100km/h-0紧急制动测试时，刹车踏…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-09/doc-iniurmnf6866410.shtml"
-    },
-    {
-      "id": "ff76ca766e",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:39",
-      "title": "日本将美国燃气电厂贷款上限提高至原来三倍 以扩大投资",
-      "insight": "日本国际协力银行将把美国天然气发电项目的最高贷款额度提高两倍以上。作为与白宫达成贸易协议的一环，…",
-      "link": "https://finance.sina.com.cn/world/2026-10-09/doc-iniurmnf6863017.shtml"
-    },
-    {
-      "id": "ff062e43ce",
+      "id": "ff31996fbf",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-09 17:38",
-      "title": "SpaceX公布新计划，或将向主流移动运营商发起挑战",
-      "insight": "SpaceX 的星链移动业务，或将从现有手机网络的补网角色，逐步转变为与美国传统无线运营商展开更…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnf6862748.shtml"
+      "time": "10-10 01:06",
+      "title": "SpaceX重磅出手挑战手机通信行业，美国电话电报、T‑Mobile、威瑞森股价遭遇重挫",
+      "insight": "埃隆・马斯克的 SpaceX 向无线通信行业释放了一个强烈信号：我们要在用户市场分一杯羹。 周四…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2655352.shtml"
     },
     {
-      "id": "ff3e776ca1",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:37",
-      "title": "印度：本月电厂煤炭供应增加",
-      "insight": "一份声明显示，10月迄今，火力发电厂的日均煤炭供应量较上月提升9%，库存消耗速度也有所放缓。 印…",
-      "link": "https://finance.sina.com.cn/world/2026-10-09/doc-iniurmnf6862311.shtml"
-    },
-    {
-      "id": "ff81a3cebb",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:37",
-      "title": "美国称与伊朗“谈判富有成效” 欧洲天然气价格回落",
-      "insight": "美国总统唐纳德·特朗普表示，11月中期选举前美国不会袭击伊朗，并提及美伊双方“谈判富有成效”，受…",
-      "link": "https://finance.sina.com.cn/world/2026-10-09/doc-iniurmnf6862068.shtml"
-    },
-    {
-      "id": "ff47e55c9a",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:35",
-      "title": "印尼削减差旅开支 能源成本挤压财政预算",
-      "insight": "受油价上涨、旗舰项目成本高企拖累财政预算影响，印尼在年末收紧政府开支，要求各部委及机构将未使用的…",
-      "link": "https://finance.sina.com.cn/world/2026-10-09/doc-iniurmnf6861004.shtml"
-    },
-    {
-      "id": "ff6537b606",
+      "id": "ff5459a297",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-09 17:32",
-      "title": "综述：奢侈品行业复苏多次遇挫 回暖仍需等待",
-      "insight": "头部奢侈品企业年末行情或将平淡，难现大涨，投资者要等到2027年才有可能看到行业回暖。 MSCI…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1103824.shtml"
+      "time": "10-10 01:04",
+      "title": "知名经济学家克鲁格曼警告法国或引发欧洲债务危机",
+      "insight": "诺贝尔经济学奖得主保罗·克鲁格曼警告称，法国不断恶化的公共财政正走在一条“不可持续的道路”上，有…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2655001.shtml"
     },
     {
-      "id": "ff9dd1b841",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-09 17:31",
-      "title": "被监管部门立案调查？懂车帝发声",
-      "insight": "来源：中国新闻周刊 一张以“懂车帝科技有限公司人力资源部”名义发布的内部整顿通知截图在网上流传，…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-09/doc-iniurmnf2909470.shtml"
-    },
-    {
-      "id": "ff4cc61da3",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "10-09 17:30",
-      "title": "懂车帝已被立案调查并内部整顿？公司回应：纯属谣言，将坚决维权",
-      "insight": "10月9日消息，今日，一张懂车帝《关于开展公司内部整顿工作的通知》的截图在网络上广泛流传。 截图…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-09/doc-iniurmnf6866073.shtml"
-    },
-    {
-      "id": "ffbcaa84d1",
+      "id": "ff19b025d0",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-09 17:30",
-      "title": "OpenAI年化营收接近500亿美元，低于此前多方报道数值",
-      "insight": "OpenAI 营收确实在增长，但增速不及部分报道的预期。 据知情人士透露，OpenAI 近期向投…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1102419.shtml"
+      "time": "10-10 01:04",
+      "title": "AI引发的“SaaS末日” 本应重创软件股，现实却截然相反",
+      "insight": "所谓 “SaaS 末日” 会把软件股一路杀到归零的说法，终究只是一场空想。 2026 年市场上被…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaka0971678.shtml"
     },
     {
-      "id": "ff197ef3ef",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:30",
-      "title": "机构：欧盟今冬或需削减7%天然气需求",
-      "insight": "能源经济与金融分析研究所（IEEFA）称，欧盟今冬天然气需求或需同比削减7%。当前储气库存偏低，…",
-      "link": "https://finance.sina.com.cn/world/2026-10-09/doc-iniurmnf6858719.shtml"
-    },
-    {
-      "id": "ff8571e164",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-09 17:30",
-      "title": "金价大幅反弹但空间有限 AI成绩拖累美经济增速预期",
-      "insight": "文章来源：汇通财经 周五（10月9日）亚欧时段，金价大幅反弹，主要受到美股下跌以及特朗普本月不对…",
-      "link": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-10-09/doc-iniurmnk1103600.shtml"
-    },
-    {
-      "id": "ff7cf0086f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-09 17:29",
-      "title": "香港交易所认为AI和采矿业两个板块主导IPO活动",
-      "insight": "据香港交易所市场主管余学勤，香港交易所将人工智能AI和采矿业视为推动首次公开招股（IPO）活动的…",
-      "link": "https://finance.sina.com.cn/tech/2026-10-09/doc-iniurmnk1101200.shtml"
-    },
-    {
-      "id": "ff3f98b2ba",
+      "id": "ffaea080e1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-09 17:29",
-      "title": "Waymo完成50亿美元债务融资",
-      "insight": "字母表（Alphabet）旗下自动驾驶网约车公司今年早些时候刚完成 160 亿美元股权融资。 A…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniurmnk1101066.shtml"
+      "time": "10-10 00:54",
+      "title": "欧洲债市：德国国债缩窄涨幅 受到油价上涨拖累",
+      "insight": "随着中东紧张局势加剧推动能源价格上涨，德国国债回吐部分涨幅。法国国债也缩减涨幅，但表现优于欧元区…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2652830.shtml"
     },
     {
-      "id": "ffed871713",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-09 17:24",
-      "title": "中青宝索赔时效剩九个月 此前股民二审胜诉",
-      "insight": "近日，备受关注的股民诉深圳中青宝互动网络股份有限公司（简称：中青宝，代码：300052）证券虚假…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-09/doc-iniurmnm7873941.shtml"
+      "id": "ffe4288788",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-10 00:51",
+      "title": "陷入困境的人造肉类先驱，能否真正实现 “超越”？",
+      "insight": "Beyond Meat（BYND）正推行一套新战略，希望跳出围绕植物基食品的两极化舆论漩涡：产品…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2652458.shtml"
+    },
+    {
+      "id": "ff2e162812",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-10 00:42",
+      "title": "大众汽车因业绩预告披露问题遭德国金融监管机构罚款130万美元",
+      "insight": "企业发言人表示大众接受该笔罚款大众汽车 2023 财年业绩预告显著高于市场预期。 德国金融监管机…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaka0964804.shtml"
+    },
+    {
+      "id": "ffaa4df08b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-10 00:41",
+      "title": "受伊赛亚斯飓风影响，英国石油关停墨西哥湾两座平台的生产作业",
+      "insight": "为应对伊赛亚斯飓风，英国石油（BP）宣布，已对位于墨西哥湾的纳基卡、雷马海上平台临时停产，撤走平…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusakc7736918.shtml"
+    },
+    {
+      "id": "ff0ebd0f94",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-10 00:40",
+      "title": "法国债券的风险高过意大利 收益率差达到欧元创立以来新高",
+      "insight": "投资者为持有法国国债、而非意大利国债所要求的补偿，已升至欧元创立以来的最高水平。 周五，两国基准…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2650325.shtml"
+    },
+    {
+      "id": "ff0183ef59",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-10 00:39",
+      "title": "一场全新的移动通信大战或将拉开帷幕",
+      "insight": "早上好。当下正处在一代人记忆里科技创新爆发最猛烈的时期，但有一个领域却一直相对波澜不惊。手机本身…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniusaix2650125.shtml"
+    },
+    {
+      "id": "ff6af3dd0e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:59",
+      "title": "摩根士丹利上调芝加哥期权交易所全球市场（Cboe）评级",
+      "insight": "摩根士丹利表示，随着 Cboe 与标普道琼斯指数公司（DJI）的合约完成续期，该公司股价大概率将…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix2637916.shtml"
+    },
+    {
+      "id": "ff42b7c11d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:53",
+      "title": "NBA总裁：联盟希望获取预测市场数据，以此侦测市场操纵行为",
+      "insight": "核心要点 NBA 总裁亚当・萧华表示，获取预测市场的数据，有助于联盟查处内幕交易行为。 就在此番…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix6591067.shtml"
+    },
+    {
+      "id": "ffb9769763",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:51",
+      "title": "白宫成立委员会调查美联储理事库克 要求其11月5日出席白宫听证",
+      "insight": "美国总统特朗普正在成立一个委员会，调查针对美联储理事丽莎·库克的房贷欺诈指控，并要求她必须出席白…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusakc7713013.shtml"
+    },
+    {
+      "id": "ff00df4a62",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:47",
+      "title": "特朗普组建委员会，调查美联储理事丽莎・库克的相关陈述",
+      "insight": "核心要点 白宫对外宣布，美国总统唐纳德・特朗普设立一个调查委员会，就美联储理事丽莎・库克涉嫌在抵…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix2635117.shtml"
+    },
+    {
+      "id": "ffc264f94f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:40",
+      "title": "美国人债务问题亮起警示红灯，大衰退以来未见的风险信号出现",
+      "insight": "核心要点 美联储周五发布的一份调查显示，截至 2025 年的三年周期内，贷款逾期家庭占比从上一轮…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix6587932.shtml"
+    },
+    {
+      "id": "ff2aae50ee",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:37",
+      "title": "华尔街大力推数据中心作为房地产重仓标的，但风险正在不断累积",
+      "insight": "核心要点华尔街主推什么？黑石及其他另类投资机构，正在把数据中心资产打包进公募与私募投资产品。行业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaka0934750.shtml"
+    },
+    {
+      "id": "ffc9a03aaf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:09",
+      "title": "NBA总裁：联盟希望获取预测市场数据以检测操纵行为",
+      "insight": "NBA总裁亚当·萧华周五表示，NBA希望获取预测市场数据，以便进行监管并发现内幕交易。 “不管它…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix6580388.shtml"
+    },
+    {
+      "id": "ffd4cf40da",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:03",
+      "title": "特朗普任命委员会调查美联储丽莎·库克的陈述",
+      "insight": "白宫周五宣布，美国总统特朗普正式设立了一个“调查委员会”，以调查有关美联储理事丽莎·库克就“一份…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaka0920941.shtml"
+    },
+    {
+      "id": "ff65684948",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 23:01",
+      "title": "科技股韧性令投资者费解，期权市场或许暗藏线索",
+      "insight": "越是刻意等待，意外反而越不会发生。这或许可以解释：在利率飙升、AI 板块饱受质疑的背景下，科技股…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaka0919922.shtml"
+    },
+    {
+      "id": "fffcd0ed5f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-09 22:57",
+      "title": "Blockchain.com寻求美国监管批准，拟开展预测市场与加密衍生品交易业务",
+      "insight": "核心要点Blockchain.com向 证实，已向美国商品期货交易委员会（CFTC）提交牌照申请…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-09/doc-iniusaix6576980.shtml"
     }
   ],
-  "updateTime": "2026-10-09 17:52"
+  "updateTime": "2026-10-10 01:49"
 }
