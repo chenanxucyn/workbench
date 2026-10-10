@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ff0909ca93",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-11 04:05",
+      "title": "英伟达正就收购Reflection AI或增加投资进行磋商",
+      "insight": "英伟达正与美国开放权重模型开发商Reflection AI进行初步谈判，讨论收购这家初创公司或进…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-11/doc-iniuurwt1953011.shtml"
+    },
+    {
+      "id": "ffada954a6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-11 03:50",
+      "title": "英伟达正洽谈收购Reflection AI",
+      "insight": "英伟达正洽谈收购美国初创公司Reflection AI，或深化对该公司的投资。Reflectio…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-11/doc-iniuurwt5894281.shtml"
+    },
+    {
+      "id": "ff6ea23098",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-11 03:49",
+      "title": "微软首席执行官Nadella呼吁针对先进人工智能建立“紧急制动”机制",
+      "insight": "微软首席执行官Satya Nadella表示，企业应将强大的人工智能模型视为潜在的内部威胁，要假…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-11/doc-iniuurwt5893533.shtml"
+    },
+    {
+      "id": "ffb246f843",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-11 03:48",
+      "title": "俄罗斯根据特朗普与普京的协议 部分解除柴油出口禁令",
+      "insight": "据俄罗斯政府声明，在总统弗拉基米尔·普京与美国总统唐纳德·特朗普达成协议后，俄罗斯部分解除柴油出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-11/doc-iniuurwx7399797.shtml"
+    },
+    {
+      "id": "ffe8863806",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-11 01:21",
+      "title": "沙特阿拉伯在利雅得机场遭袭击后暂停该机场运营",
+      "insight": "沙特阿拉伯表示，在遭到“敌方”袭击后，已暂停利雅得机场的运营。随着与也门胡塞武装的冲突升级，这是…",
+      "link": "https://finance.sina.com.cn/flashnews/2026-10-11/doc-iniuumqz7398279.shtml"
+    },
+    {
       "id": "ffd92b6494",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -134,52 +179,7 @@
       "title": "002077一纸公告，透露小米加码半导体封装？最新消息！",
       "insight": "A股公司一纸公告，“小米加码半导体封装”的市场预期快速升温。对此，10月10日，有接近小米集团的…",
       "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyzf7391949.shtml"
-    },
-    {
-      "id": "ff58809fce",
-      "source": "新京报",
-      "tag": "财经热点",
-      "time": "10-10 19:55",
-      "title": "今明两日多地雅思考试临时取消，客服回应",
-      "insight": "新京报记者 徐彦琳编辑 缪晨霞 校对 卢茜 “早上10：00的口语正准备出门呢，结果收到信息说雅…",
-      "link": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutyyz1994463.shtml"
-    },
-    {
-      "id": "ffeb049d22",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 19:53",
-      "title": "百亿担保危局未了，145亿身家“浙商”俞发祥再被立案",
-      "insight": "来源：野马财经 “祥源系” 3张上市底牌还在，筹码少一成。 九年前，赵薇没买成的万家文化，落到了…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyze0617416.shtml"
-    },
-    {
-      "id": "ff2a7d01f2",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "10-10 19:45",
-      "title": "发改委召开民企座谈会，推动重大项目尽早开工建设",
-      "insight": "记者 辛圆 据国家发展改革委官方微信公众号周六发布消息，发改委主任郑栅洁主持召开民营企业座谈会，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz1987443.shtml"
-    },
-    {
-      "id": "ff048c1eba",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 19:38",
-      "title": "圣诺生物实控人文永均被检方提起公诉！涉嫌集采串通投标，主动投案",
-      "insight": "来源：金融投资报 10月9日晚间，成都圣诺生物科技股份有限公司（股票简称：圣诺生物）公告称，公司…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyzf7364762.shtml"
-    },
-    {
-      "id": "ff7e9577fb",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-10 19:32",
-      "title": "A股大消息！证监会刚刚发布",
-      "insight": "来源：证监会发布 中国证监会召开资本市场和金融形势专家座谈会 10月10日，中国证监会党委书记、…",
-      "link": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutyzf7370854.shtml"
     }
   ],
-  "updateTime": "2026-10-11 00:44"
+  "updateTime": "2026-10-11 04:58"
 }
