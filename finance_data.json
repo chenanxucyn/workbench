@@ -1,6 +1,168 @@
 {
   "news": [
     {
+      "id": "ffd92b6494",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-11 00:09",
+      "title": "特朗普联手普京增加柴油供应 乌克兰与欧洲盟友强烈反对",
+      "insight": "为了在美国中期选举前遏制飙升的燃油价格，美国总统特朗普正与俄罗斯总统普京合作，让俄罗斯柴油供应进…",
+      "link": "https://finance.sina.com.cn/flashnews/2026-10-11/doc-iniuumqy0569709.shtml"
+    },
+    {
+      "id": "ff5675e939",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-10 22:17",
+      "title": "沙特利雅得机场频繁遭袭 我使馆发布领事提醒",
+      "insight": "当地时间10日，中国驻沙特大使馆发布领事提醒，内容如下： 利雅得哈立德国王机场发布公告称：提醒旅…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniuufhx5930809.shtml"
+    },
+    {
+      "id": "ff3644824b",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "10-10 22:10",
+      "title": "301636，宣布重要收购！切入散热赛道",
+      "insight": "泽润新能拟收购合创智造不低于51%股权。 泽润新能（301636）10月9日晚公告，公司于当日召…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-10-10/doc-iniuufhx1962788.shtml"
+    },
+    {
+      "id": "ff1bc220c4",
+      "source": "证券时报网",
+      "tag": "财经热点",
+      "time": "10-10 22:08",
+      "title": "国家电网与中国中车集团举行会谈",
+      "insight": "人民财讯10月10日电，10月10日，国家电网公司董事长、党组书记张智刚在公司总部与中国中车集团…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniuufia0603320.shtml"
+    },
+    {
+      "id": "ff2f4ef132",
+      "source": "每日经济新闻",
+      "tag": "财经",
+      "time": "10-10 21:58",
+      "title": "立讯精密遭美国337调查，涉及数据中心电源模块 公司：相关产品处于客户验证阶段",
+      "insight": "每经记者|王晶每经编辑|董兴生 10月10日，立讯精密（SZ002475）发布关于公司及控股子公…",
+      "link": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniuufhx5906297.shtml"
+    },
+    {
+      "id": "ff056445d4",
+      "source": "中国证券报",
+      "tag": "股市",
+      "time": "10-10 21:56",
+      "title": "立讯精密，紧急公告",
+      "insight": "10月10日晚，立讯精密公告称，近日，公司获悉，美国国际贸易委员会（以下简称“ITC”）于当地时…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniuufhx5907996.shtml"
+    },
+    {
+      "id": "ff46ec47d0",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-10 21:10",
+      "title": "一问到底丨最强厄尔尼诺来了，如何影响全球气候？",
+      "insight": "近日，“超强厄尔尼诺已形成”的话题冲上了热搜。记者从中国气象局国家气候中心了解到，一次“东部型超…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyzf7461267.shtml"
+    },
+    {
+      "id": "fff39d3f7a",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-10 20:59",
+      "title": "焦点访谈丨运输企业为超载能有多拼？花招多到想不到！",
+      "insight": "油罐车是封闭的罐体，竟然能超重58%！背后到底有什么猫腻？ 为追求更多利润，部分危货运输企业绞尽…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz5994997.shtml"
+    },
+    {
+      "id": "ff05b2e86b",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "10-10 20:45",
+      "title": "亚马逊云科技向姚基金捐赠100万美元现金及云+AI资源，姚明：有幸携手同行",
+      "insight": "新浪科技讯 10月10日晚间消息，亚马逊云科技宣布与北京姚基金公益基金会（简称“姚基金”）共同推…",
+      "link": "https://finance.sina.com.cn/tech/it/2026-10-10/doc-iniutyyz2027750.shtml"
+    },
+    {
+      "id": "ff08c44879",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "10-10 20:44",
+      "title": "被字节开除的田柯宇创业冲上热搜，项目投后估值2亿美元",
+      "insight": "界面新闻记者 | 宋佳楠 近日有媒体报道称，曾被字节跳动开除的田柯宇创办了自己的人工智能实验室，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz2028128.shtml"
+    },
+    {
+      "id": "ff081b4c3b",
+      "source": "21世纪经济报道",
+      "tag": "财经热点",
+      "time": "10-10 20:15",
+      "title": "最新！全国各地最低工资标准公布",
+      "insight": "近日，人社部网站发布全国各省、自治区、直辖市最低工资标准情况（截至2026年10月1日）。在月最…",
+      "link": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutyyz2020882.shtml"
+    },
+    {
+      "id": "ff12cdd417",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "10-10 20:12",
+      "title": "小米加码半导体封装？最新回应来了！",
+      "insight": "A股公司一纸公告，“小米加码半导体封装”的市场预期快速升温。对此，10月10日，有接近小米集团的…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyyz5962528.shtml"
+    },
+    {
+      "id": "ff01a7c3c6",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-10 20:08",
+      "title": "拟转让海南矿业5%股权，郭广昌再收缩“复星系”版图",
+      "insight": "来源：环球老虎财经app 10月9日晚间，“复星系”旗下复星高科拟以约9.01亿元转让海南矿业5…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyze0625773.shtml"
+    },
+    {
+      "id": "fff18ab556",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-10 20:08",
+      "title": "15.2亿“抢下”近半定增，大佬裘国根为何重仓押注思特威？",
+      "insight": "来源：环球老虎财经app 9月30日晚，思特威32亿元定增落槌，重阳投资四只产品合计出资15.2…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyyz5959297.shtml"
+    },
+    {
+      "id": "ffb18eb7b0",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "10-10 20:02",
+      "title": "002077一纸公告，透露小米加码半导体封装？最新消息！",
+      "insight": "A股公司一纸公告，“小米加码半导体封装”的市场预期快速升温。对此，10月10日，有接近小米集团的…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyzf7391949.shtml"
+    },
+    {
+      "id": "ff58809fce",
+      "source": "新京报",
+      "tag": "财经热点",
+      "time": "10-10 19:55",
+      "title": "今明两日多地雅思考试临时取消，客服回应",
+      "insight": "新京报记者 徐彦琳编辑 缪晨霞 校对 卢茜 “早上10：00的口语正准备出门呢，结果收到信息说雅…",
+      "link": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniutyyz1994463.shtml"
+    },
+    {
+      "id": "ffeb049d22",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-10 19:53",
+      "title": "百亿担保危局未了，145亿身家“浙商”俞发祥再被立案",
+      "insight": "来源：野马财经 “祥源系” 3张上市底牌还在，筹码少一成。 九年前，赵薇没买成的万家文化，落到了…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyze0617416.shtml"
+    },
+    {
+      "id": "ff2a7d01f2",
+      "source": "界面",
+      "tag": "财经热点",
+      "time": "10-10 19:45",
+      "title": "发改委召开民企座谈会，推动重大项目尽早开工建设",
+      "insight": "记者 辛圆 据国家发展改革委官方微信公众号周六发布消息，发改委主任郑栅洁主持召开民营企业座谈会，…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz1987443.shtml"
+    },
+    {
       "id": "ff048c1eba",
       "source": "市场资讯",
       "tag": "股市",
@@ -10,176 +172,14 @@
       "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyzf7364762.shtml"
     },
     {
-      "id": "ff1ac295ad",
-      "source": "中国证监会网站",
-      "tag": "财经热点",
-      "time": "10-10 19:12",
-      "title": "中国证监会召开资本市场和金融形势专家座谈会",
-      "insight": "10月10日，中国证监会党委书记、主席吴清在北京召开座谈会，与部分上市公司负责人、证券基金机构专…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniututc6051382.shtml"
-    },
-    {
-      "id": "ffca523652",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 19:04",
-      "title": "时代万恒紧急提醒",
-      "insight": "来源：富凯财经 富凯摘要 固态电池叙事挑战来临。 作者|辛思路 排版|十 一 10月9日盘后，连…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututi7463433.shtml"
-    },
-    {
-      "id": "ff92018b61",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "10-10 18:59",
-      "title": "传音控股港股IPO：“非洲之王”的定价之惑——AH折价仅三成余 存储涨价背后的增长压力待解",
-      "insight": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 2026年10月7日，全球新兴市场手机龙头…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-10-10/doc-iniututi7455223.shtml"
-    },
-    {
-      "id": "ff14de8067",
+      "id": "ff7e9577fb",
       "source": "市场资讯",
       "tag": "财经热点",
-      "time": "10-10 18:57",
-      "title": "四部门重磅发布！汽车禁止配备全隐藏式门把手，禁止夸大宣传",
-      "insight": "来源：华夏时报 10月10日，工业和信息化部等四部门联合发布了关于进一步加强汽车产品创新设计和研…",
-      "link": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniututi7460951.shtml"
-    },
-    {
-      "id": "ff5da51044",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-10 18:32",
-      "title": "5连板！002242紧急发声：与华为无战略合作",
-      "insight": "5连板九阳股份紧急发布股票交易异常波动公告，对传闻逐一澄清。 10月9日，九阳股份（002242…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututi7439655.shtml"
-    },
-    {
-      "id": "ff455eacd1",
-      "source": "BUG",
-      "tag": "财经热点",
-      "time": "10-10 18:21",
-      "title": "“只是升级，不是召回！” 尊界V800刹车部件升级方案或月底敲定，V680同步调整，有准车主退定被拒",
-      "insight": "文 | 《BUG》栏目 徐苑蕾 尊界V800被曝在测试中刹车踏板支架断裂一事持续发酵。此前，尊界…",
-      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-10/doc-iniututc6007764.shtml"
-    },
-    {
-      "id": "ff557dffd9",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "10-10 18:20",
-      "title": "双汇营收五连降、多高管年薪反而连涨！10年“掏空式”分红517亿元 “肥”了万隆家族、二代接棒陷毒猪肉风波",
-      "insight": "出品：新浪财经上市公司研究院 作者：cici 一家营收连续五年下滑的肉类巨头，高管薪酬却在逆势上…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-10-10/doc-iniututh0643564.shtml"
-    },
-    {
-      "id": "ff09dbcc11",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 18:05",
-      "title": "一半海水，一半火焰！中远海控的多空拉锯战",
-      "insight": "来源：市值风云 航运股的周期，很难猜透。 作者 |beyond 编辑 |小白 古希腊人认为，海洋…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututh0631746.shtml"
-    },
-    {
-      "id": "ff1762341b",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 18:05",
-      "title": "股息率7.5%？健康元：旧业务出清未竟，新增长尚需时间",
-      "insight": "来源：市值风云 远水难解近渴，业务结构切换节奏慢于市场预期。 作者 |木盒 编辑 |小白 8月2…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututc5998757.shtml"
-    },
-    {
-      "id": "ff2cae601c",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 17:30",
-      "title": "猪肉检出抗生素超标 38 倍！双汇领 1.29 亿罚单：从 \"瘦肉精\" 到 \"林可霉素\"",
-      "insight": "来源：滨海湾深圳公园 10月9日，河南双汇投资发展股份有限公司发布“关于诚恳接受行政处罚决定的公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututh0596094.shtml"
-    },
-    {
-      "id": "ff3ffb5dbc",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "10-10 17:29",
-      "title": "出口占比升至七成，奇瑞重整全球经营",
-      "insight": "界面新闻记者 | 王臻界面新闻编辑 | 周姝祺 近日，奇瑞汽车股份有限公司发布公告，重新任命国内…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniututc5972579.shtml"
-    },
-    {
-      "id": "ff9c13a18c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-10 17:22",
-      "title": "债市动荡让欧洲负债累累的国家开始考虑谨慎行事",
-      "insight": "欧洲政界开始显露出向无情的债券市场意志屈服的最初迹象。 过去几周，从伦敦到巴黎再到罗马，各国的预…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniututc5967376.shtml"
-    },
-    {
-      "id": "ff3be377b3",
-      "source": "界面",
-      "tag": "财经热点",
-      "time": "10-10 17:16",
-      "title": "李嘉诚家族加仓加拿大石油资产，268亿并购扩容油砂资源",
-      "insight": "近日，加拿大能源企业 Cenovus Energy 宣布达成最终协议，将收购本土石油公司 Ath…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniututc5965149.shtml"
-    },
-    {
-      "id": "ffc3e58de9",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 17:09",
-      "title": "910 头猪、货值才 170 万，双汇这张罚单为什么开到了 1.28 亿",
-      "insight": "来源：食安红绿灯 910 头猪、货值才 170 万，双汇这张罚单为什么开到了 1.28 亿 导语…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniututc2014634.shtml"
-    },
-    {
-      "id": "ff8caf714e",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-10 17:00",
-      "title": "受贿6050万余元 湖北省政协原副主席周先旺一审被判14年",
-      "insight": "2026年10月10日，河南省商丘市中级人民法院一审公开宣判湖北省政协原党组成员、副主席周先旺受…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutqmf2129233.shtml"
-    },
-    {
-      "id": "fffc4ba244",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 16:55",
-      "title": "*ST纳川（300198）被立案，投资者索赔分析",
-      "insight": "2026年10月9日，*ST纳川（300198）公告，公司收到证监会《立案告知书》，因2023年…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-10/doc-iniututc5957286.shtml"
-    },
-    {
-      "id": "ff5eb45430",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 16:55",
-      "title": "纳川科技涉嫌信披违法违规被立案 受损投资者可进行预登记索赔",
-      "insight": "根据最新消息，福建纳川管材科技股份有限公司（以下简称“纳川科技”）因涉嫌信披违法违规，被中国证监…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-10/doc-iniututc2001800.shtml"
-    },
-    {
-      "id": "ff3fa5d84a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 16:55",
-      "title": "泰永长征业绩预告披露失实，维权登记受理中",
-      "insight": "上海家语理律师事务所刘佳律师团队，现就泰永长征证券虚假陈述民事赔偿案件开展投资者索赔征集工作。受…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-10/doc-iniutqmf6086363.shtml"
-    },
-    {
-      "id": "ffcd51abf4",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-10 16:55",
-      "title": "劲拓股份财务核算失实被警示，受损股民可加入索赔",
-      "insight": "上海家语理律所刘佳律师团队表示，劲拓股份证券虚假陈述股民索赔征集仍在进行中。（刘佳律师专栏） 本…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-10-10/doc-iniutqmf2131452.shtml"
+      "time": "10-10 19:32",
+      "title": "A股大消息！证监会刚刚发布",
+      "insight": "来源：证监会发布 中国证监会召开资本市场和金融形势专家座谈会 10月10日，中国证监会党委书记、…",
+      "link": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutyzf7370854.shtml"
     }
   ],
-  "updateTime": "2026-10-10 19:42"
+  "updateTime": "2026-10-11 00:44"
 }
