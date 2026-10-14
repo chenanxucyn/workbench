@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff086b7e81",
+      "id": "ff0b181c70",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 04:24",
-      "title": "10月14日美股成交额前20：美光跌超3% 市场担忧存储芯片价格上涨周期见顶",
-      "insight": "周二美股成交额第1名美光收跌3.62%，成交270.92亿美元。 韩国本土市场上，SK海力士（0…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7243024.shtml"
+      "time": "10-14 08:03",
+      "title": "日韩股市开盘 韩国综指开盘上涨0.4%",
+      "insight": "日本日经指数开盘上涨0.2%，报67942.23点。韩国综合股价指数（KOSPI）开盘上涨0.4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcxxt8540196.shtml"
     },
     {
-      "id": "ff1dc419a5",
+      "id": "ffeb74e270",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-14 07:57",
+      "title": "中国民航信息网络获EARNEST Partners, LLC增持101.5万股 每股作价约8.89港元",
+      "insight": "香港联交所最新数据显示，10月8日，EARNEST Partners， LLC增持中国民航信息网…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-14/doc-inivcxxt8536091.shtml"
+    },
+    {
+      "id": "ff4ba6e998",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 04:08",
-      "title": "10月14日美股收盘：三大股指收低 存储芯片股承压",
-      "insight": "美股三大股指周二收跌，交易员消化了多家大型银行的财报，以及韩国股市隔夜大幅下跌对存储芯片股造成的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7229951.shtml"
+      "time": "10-14 07:56",
+      "title": "特朗普政府将动用国防生产法扩大德克萨斯州Delek炼油厂产能",
+      "insight": "美国副总统万斯当地时间周二表示，特朗普政府将动用冷战时期的《国防生产法》，以扩大德克萨斯州一家由…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcxxn0391493.shtml"
     },
     {
-      "id": "ffb6287659",
+      "id": "ffe27e2a7d",
+      "source": "股市直击",
+      "tag": "股市",
+      "time": "10-14 07:53",
+      "title": "股海导航_2026年10月14日_沪深股市公告与交易提示",
+      "insight": "【停牌】 无 【复牌】 002860星帅尔 002813 路畅科技 【业绩】 星宸科技（3015…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-14/doc-inivcxxr7803120.shtml"
+    },
+    {
+      "id": "ff7690e38e",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 04:00",
-      "title": "里士满联储行长：采取行动应对持续通胀是合理的",
-      "insight": "里士满联储行长汤姆·巴尔金表示，给美国价格带来压力的冲击显然在持续，并且针对这种动态采取行动是恰…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0450328.shtml"
+      "time": "10-14 07:46",
+      "title": "微软据悉讨论在Azure云业务部门削减至少20%成本",
+      "insight": "据知情人士透露，微软已讨论对其 Azure 云服务器租赁业务进行大幅成本削减。Azure 部门总…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcxxn0383814.shtml"
     },
     {
-      "id": "ff74e692a5",
+      "id": "ffed05e72c",
+      "source": "滚动播报",
+      "tag": "财经",
+      "time": "10-14 07:42",
+      "title": "美联储“三把手”：今年再加息一次，2027年无需加息",
+      "insight": "转自：财联社 财联社10月14日讯（编辑 卞纯）美联储“三把手”、纽约联储主席约翰·威廉姆斯周二…",
+      "link": "https://finance.sina.com.cn/roll/2026-10-14/doc-inivcxxn0383156.shtml"
+    },
+    {
+      "id": "ff813da22a",
+      "source": "滚动播报",
+      "tag": "外汇",
+      "time": "10-14 07:42",
+      "title": "三位美联储官员暗示通胀斗争未结束，威廉姆斯预计2027年无需加息",
+      "insight": "汇通财经APP讯——周二（10月13日），三位美联储官员释放信号，表明对抗通胀的斗争尚未结束。其…",
+      "link": "https://finance.sina.com.cn/money/forex/hbfx/2026-10-14/doc-inivcxxr7796182.shtml"
+    },
+    {
+      "id": "ffc8d5345f",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:58",
-      "title": "美国债市：国债长端领涨 纽约联储行长鸽派言论支撑短端",
-      "insight": "美国国债短端在美国交易时段午后反弹，推动2年期收益率回落至与前一日基本持平的水平。纽约联储行长威…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0449366.shtml"
+      "time": "10-14 07:35",
+      "title": "传奇投资者警告：美股面临2002年以来最具挑战性一年，严峻程度堪比互联网泡沫破裂时",
+      "insight": "美国传奇投资者保罗·都铎·琼斯（Paul Tudor Jones）警告称，美国股市即将迎来数十年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcxxn0373768.shtml"
     },
     {
-      "id": "ffe02d8299",
+      "id": "ffbe78f7a6",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:53",
-      "title": "美联储威廉姆斯：2027年可能无需加息 与交易员看法相左",
-      "insight": "美国纽约联储主席约翰·威廉姆斯周二表示，在今年再加息一次后，他认为2027年不会进一步加息。 “…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0445968.shtml"
+      "time": "10-14 07:28",
+      "title": "摩根大通CEO称严防“流氓智能体”渗入银行内部",
+      "insight": "根据摩根大通CEO杰米·戴蒙的说法，该银行的客户短期内恐怕还无法指望其个人AI智能体（AI ag…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrr7269039.shtml"
     },
     {
-      "id": "ff6e98aaaa",
+      "id": "ffd234d851",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-14 07:25",
+      "title": "美元指数站稳100，哪些品种“不稳了”？",
+      "insight": "来源：期货日报 9月美元指数走强，重返100关口上方。进入10月，美元指数延续高位运行。分析人士…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-inivctrt7919661.shtml"
+    },
+    {
+      "id": "ff6604eb4f",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-14 07:25",
+      "title": "突发！美以被曝商讨重启对伊军事行动！特朗普指责胡塞武装推高油价！马斯克或成中期选举最大金主",
+      "insight": "来源：期货日报 早上好！一起来看重要资讯。 美以被曝商讨重启对伊军事行动 当地时间10月13日，…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-14/doc-inivctrv8648249.shtml"
+    },
+    {
+      "id": "ffe5f420f2",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:45",
-      "title": "美债期货负凸性升至近20年高位 MOVE指数创立者警告“噩梦情景”",
-      "insight": "美债市场MOVE指数的创立者Harley Bassman警告称，债市一个鲜受关注的特征可能令抛售…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpiv7882683.shtml"
+      "time": "10-14 07:18",
+      "title": "OpenAI一名员工在公司机密会议室安装窃听设备被捕",
+      "insight": "OpenAI周二表示，在公司一间办公室内发现了一个隐蔽的“精密录音设备”，并利用自家的 AI 技…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrv8638281.shtml"
     },
     {
-      "id": "ff7b637768",
+      "id": "ffc6578c86",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:45",
-      "title": "Rosenberg：美股越来越像泡沫 多项指标极端程度从业40年来未见",
-      "insight": "David Rosenberg表示，美国股市越来越像一个泡沫，估值、杠杆和投资者仓位均处于其从业…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7213712.shtml"
+      "time": "10-14 07:13",
+      "title": "美联储理事库克称无法出席白宫11月5日听证 要求推迟至12月议息会议后",
+      "insight": "美联储理事丽莎·库克表示，她无法出席白宫11月5日举行的听证会，该听证会是美国总统唐纳德·特朗普…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0481406.shtml"
     },
     {
-      "id": "ff8e3fc7c2",
+      "id": "ff8948c9a4",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:18",
-      "title": "摩根大通禁止Muse、Instinct等外部AI代理直接访问账户",
-      "insight": "摩根大通首席执行官杰米·戴蒙周二表示，该行不会允许外部人工智能代理访问客户账户并代表客户操作，理…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpix8595987.shtml"
+      "time": "10-14 07:11",
+      "title": "美国银行调查显示创纪录比例投资者选择避开法国股票",
+      "insight": "根据美国银行的一项调查，随着法国的政治和财政压力给地区股市蒙上阴影，创纪录数量的投资者表示计划控…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrv8632752.shtml"
     },
     {
-      "id": "fffb9df082",
+      "id": "ff3b613928",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 03:16",
-      "title": "戴尔CEO：AI 需要保障措施和控制，政府应发挥作用",
-      "insight": "戴尔科技首席执行官迈克尔·戴尔表示，随着围绕这项快速发展的技术可能对人类构成威胁的争论持续激烈，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpiv7863326.shtml"
+      "time": "10-14 07:10",
+      "title": "沙特阿美总部据悉在胡塞武装导弹袭击期间遭击中",
+      "insight": "据知情人士透露，也门胡塞武装周二发动导弹袭击期间，沙特阿美位于沙特东部宰赫兰的总部遭击中，导致园…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0479012.shtml"
     },
     {
-      "id": "ff7700d099",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:52",
-      "title": "华尔街股票业务罕见跑赢固收 利率上升冲击债券交易",
-      "insight": "华尔街大行固定收益交易部门第三季度表现不佳，业绩被股票交易部门反超。 美国五大银行股票业务部门今…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0535179.shtml"
-    },
-    {
-      "id": "ff3291514f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:50",
-      "title": "纽约汇市：美元从三个月高点回落 油价和美债收益率走低",
-      "insight": "随着全球债市上涨推动收益率走低，加之油价下跌，美元从三个月高点回落。日元兑美元上涨，但表现逊于其…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7306202.shtml"
-    },
-    {
-      "id": "ff9d110fd3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:38",
-      "title": "伊朗要求英国提供费尔福德事件证据 威胁重新考虑两国关系",
-      "insight": "伊朗半官方的法尔斯通讯社援引伊朗外交部长助理报道，伊朗威胁称，除非英国尽快提供证据，证明德黑兰与…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8698430.shtml"
-    },
-    {
-      "id": "fff4f90ee4",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:34",
-      "title": "纽约联储行长预计明年无需加息 称通胀有望大幅放缓",
-      "insight": "纽约联储行长约翰·威廉姆斯表示，他仍认为今年年内再加息一次是合适的，但目前预计明年没有升息必要。…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0522302.shtml"
-    },
-    {
-      "id": "ff2fbed4f9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:25",
-      "title": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局",
-      "insight": "英伟达首席执行官黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元。巴…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8689596.shtml"
-    },
-    {
-      "id": "ff799da006",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:20",
-      "title": "高通：陪审团认定Arm违反许可协议",
-      "insight": "高通表示，陪审团认定Arm违反了与高通签订的架构许可协议，公司对此感到欣慰。 高通声明称，陪审团…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0511864.shtml"
-    },
-    {
-      "id": "ffd9b63ac9",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 02:18",
-      "title": "桥水创始人称美债熊市之路远未到头 部分传统买家需求减弱",
-      "insight": "亿万富豪投资者达利欧警告称，针对美国国债的抛售远未结束，在政府和企业发债激增之际，全球一些最大传…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8685180.shtml"
-    },
-    {
-      "id": "ffc98245f5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 01:34",
-      "title": "沙特拦截胡塞武装新一轮导弹袭击 特朗普对该组织发出隐晦威胁",
-      "insight": "沙特阿拉伯周二拦截了更多也门胡塞武装发射的导弹和无人机，双方之间的战斗几乎没有缓和迹象。 沙特联…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7249796.shtml"
-    },
-    {
-      "id": "ffa63d3359",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 01:30",
-      "title": "欧洲债市：德国国债小幅上涨 油价回落提供支撑",
-      "insight": "欧洲长期国债小幅上涨，受到油价回落支撑。德国国债在5年期国债拍卖需求平淡后收窄涨幅。 德国30年…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8650486.shtml"
-    },
-    {
-      "id": "ffe3a8d54b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-14 01:27",
-      "title": "高盛主经纪业务风生水起 股票交易只能靠后站",
-      "insight": "高盛集团面向对冲基金的融资业务季度收入首次超过了股票部门的交易额，因大型投资者在波动剧烈的市场中…",
-      "link": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7244877.shtml"
-    },
-    {
-      "id": "ffbc89f11d",
+      "id": "ff4d6a855c",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-14 01:07",
-      "title": "美银调查：10年期美债收益率升至5.9%，基金经理才会弃股投债",
-      "insight": "投资者要转为看好美债，收益率还需要进一步上行。 周二，10 年期美债收益率报 5.22%。AI …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivchzu0457649.shtml"
+      "time": "10-14 07:09",
+      "title": "摩根大通首次覆盖希音并给予“超配”评级 目标价50港元",
+      "insight": "摩根大通首次覆盖希音全球控股有限公司（Shein Global Holdings Ltd．）B类…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0478233.shtml"
+    },
+    {
+      "id": "ff5ab88302",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-14 06:55",
+      "title": "美国银行因反洗钱合规疏漏面临12亿美元罚款",
+      "insight": "美国银行因违反反洗钱及制裁规定被美国监管机构处以逾12.1亿美元罚款。监管机构称，该行为保护自身…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0466079.shtml"
+    },
+    {
+      "id": "ff906a80ea",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-14 06:51",
+      "title": "CFTC工作人员被要求撤回可疑石油交易分析 交易时点就在特朗普改口前",
+      "insight": "美国总统特朗普3月23日表示将推迟打击伊朗发电厂后，石油、股票等市场掀起一轮疯狂买卖。 交易员早…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0461354.shtml"
+    },
+    {
+      "id": "ff5062f8fe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-14 06:46",
+      "title": "白宫称已要求美国驻希腊大使辞职 涉行为不当指控",
+      "insight": "白宫表示，已要求美国驻希腊大使Kimberly Guilfoyle辞职，此前她被指控行为不当。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0457555.shtml"
+    },
+    {
+      "id": "fff8c5c673",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-14 06:45",
+      "title": "偷装录音设备被人工智能模型解析 OpenAI沙特籍员工遭FBI逮捕",
+      "insight": "OpenAI和美国司法部发表声明称，这家人工智能企业一名员工因被控在办公室偷装录音设备而遭逮捕。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivctrq0456473.shtml"
     }
   ],
-  "updateTime": "2026-10-14 04:27"
+  "updateTime": "2026-10-14 08:03"
 }
