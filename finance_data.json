@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff2bc8a5bf",
+      "id": "ff39ebfcf3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-15 15:36",
+      "title": "黄金牛市何时终结？系统性风险恐慌消退，利率重新占据主导",
+      "insight": "来源：华尔街见闻 黄金的长期牛市从不死于价格，而死于恐惧的消散。 瑞士私人银行嘉盛银行（Bank…",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-15/doc-inivhyaf7301498.shtml"
+    },
+    {
+      "id": "ff410cb0f8",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-15 10:39",
-      "title": "IMF预计亚洲经济增长放缓 AI热潮带来支撑也蕴含风险",
-      "insight": "国际货币基金组织（IMF）预计亚太地区经济增长将在今年和明年放缓，并警告称，能源价格上涨以及人工…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhieu4592739.shtml"
+      "time": "10-15 15:35",
+      "title": "法股相对欧洲市场表现创2010年以来最差",
+      "insight": "投资者要求法国股票相较欧洲其他市场同类股票大幅折价，以反映该国严峻的公共财政状况以及即将到来的总…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhyaq1351694.shtml"
     },
     {
-      "id": "ff202248b2",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:34",
-      "title": "中信建投期货：10月15日能化早报",
-      "insight": "橡胶：回调持续 周三，国产全乳胶19650元/吨，环比上日下跌250元/吨；泰国20号混合胶19…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1357592.shtml"
-    },
-    {
-      "id": "ffe9a7edc5",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:33",
-      "title": "中信建投期货：10月15日黑色系早报",
-      "insight": "钢材早报：期钢震荡偏弱，关注需求修复 市场信息： 1、 国家统计局公布数据显示，9月份中国CPI…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1356235.shtml"
-    },
-    {
-      "id": "ff1ade0aa0",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:28",
-      "title": "光大期货有色金属类日报10.15",
-      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1348204.shtml"
-    },
-    {
-      "id": "ff7029b864",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:28",
-      "title": "光大期货软商品类日报10.15",
-      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，贸…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhieu4574795.shtml"
-    },
-    {
-      "id": "ffc5a2c2de",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:27",
-      "title": "光大期货农产品类日报10.15",
-      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周三，CB…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiep7454011.shtml"
-    },
-    {
-      "id": "ff630fc323",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:26",
-      "title": "光大期货能源化工类日报10.15",
-      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周三油价内外…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiep7453390.shtml"
-    },
-    {
-      "id": "ff50f0f01a",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-15 10:25",
-      "title": "光大期货矿钢煤焦类日报10.15",
-      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhier8183903.shtml"
-    },
-    {
-      "id": "ff95bada4d",
+      "id": "ffed660cdf",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-15 10:21",
-      "title": "英伟达支持的AI药企Iambic通过美国IPO筹资1.5亿美元",
-      "insight": "一家临床阶段癌症药物制造商和技术公司Iambic Therapeutics Inc．将美国IPO…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhiew1336943.shtml"
+      "time": "10-15 15:34",
+      "title": "美国通胀推高全球利率，欧洲科技股遭重挫，阿斯麦跌超6%、英飞凌跌近9%",
+      "insight": "欧洲股市10月15日普遍下跌，延续隔夜美股及亚洲科技股的抛售行情。美国9月通胀数据超预期，推动1…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhyaf7299506.shtml"
     },
     {
-      "id": "ff4a9b5fa0",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 10:19",
-      "title": "恒瑞医药早盘涨逾3% 自研治疗AD药物SHR-3201注射液获批开展临床试验",
-      "insight": "恒瑞医药（01276）早盘涨逾3%，截至发稿，股价上涨2.54%，现报47.68港元，成交额54…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhier8176887.shtml"
-    },
-    {
-      "id": "ffe410417b",
+      "id": "ffb8c133ac",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "10-15 10:03",
-      "title": "2026年9月全国期货市场交易情况：成交量同比增长53.9%",
-      "insight": "中国期货业协会最新统计资料表明，以单边计算，9月全国期货交易市场成交量为1，189，741，52…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhiew1307378.shtml"
+      "time": "10-15 15:32",
+      "title": "收评|国内期货主力合约跌多涨少 沪银跌超5%",
+      "insight": "2026年10月15日，国内期货主力合约跌多涨少。沪银跌超5%，苹果跌近5%，多晶硅、甲醇跌超4…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-15/doc-inivhyaf7298397.shtml"
     },
     {
-      "id": "ffaadd4f4d",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:59",
-      "title": "国恩科技盘中反弹超13% 预计前三季度归母净利润最高同比增长78.84%",
-      "insight": "国恩科技（02768）盘中反弹超13%，截至发稿，股价上涨8.79%，现报29.20港元，成交额…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhier8159753.shtml"
-    },
-    {
-      "id": "ff73eff6c8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:55",
-      "title": "中国生物制药早盘上涨3% TQ-A3334及Bepirovirsen最新研究结果将于2026 AASLD公布",
-      "insight": "中国生物制药（01177）早盘上涨3%，截至发稿，股价上涨3%，现报5.32港元，成交额7004…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhier8156256.shtml"
-    },
-    {
-      "id": "fffb5ee1e4",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:53",
-      "title": "劲方医药-B盘中涨超8% GFH375/VS-7375多项国内及海外临床研究取得积极进展",
-      "insight": "劲方医药-B（02595）盘中涨超8%，截至发稿，股价回落现小涨1.82%，报26.82港元，成…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhiep7422940.shtml"
-    },
-    {
-      "id": "ffa351ca9b",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:50",
-      "title": "黑芝麻智能早盘涨超4% 公司与头部A股企业达成3亿元销售合同",
-      "insight": "黑芝麻智能（02533）早盘涨超4%，截至发稿，股价上涨4.22%，现报8.39港元，成交额41…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhieu4515125.shtml"
-    },
-    {
-      "id": "ff1ec79491",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:47",
-      "title": "真健康医疗盘中涨超17% 器官灌注系统完成六例基因编辑猪肝脏体外灌注支持治疗临床前实验",
-      "insight": "真健康医疗（02697）盘中涨超17%，截至发稿，股价上涨8.84%，现报71.45港元，成交额…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhier8149572.shtml"
-    },
-    {
-      "id": "ff1462c6fd",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:44",
-      "title": "兑吧早盘涨超32% AI短剧业务连续三个月盈利",
-      "insight": "兑吧（01753）早盘涨超32%。截至发稿，股价上涨32.58%，现报0.875港元，成交额16…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-15/doc-inivhieu4505111.shtml"
-    },
-    {
-      "id": "ff73a0bdb3",
+      "id": "ffe11265b9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-15 09:41",
-      "title": "澳大利亚9月失业率上升 促使交易员削减澳央行加息押注",
-      "insight": "澳大利亚9月失业率上升并且就业人数意外减少，显示劳动力市场可能正在降温，促使交易员削减对澳大利亚…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhiew1273899.shtml"
+      "time": "10-15 15:31",
+      "title": "石油巨头面临320亿美元难题：如何利用伊朗战争带来的意外之财",
+      "insight": "投资者热切关注，全球最大石油公司将如何利用能源价格飙升带来的额外现金 埃克森美孚（ExxonMo…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhyaq1346477.shtml"
     },
     {
-      "id": "ff41d4bd29",
+      "id": "ff1c6c6b6c",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-15 15:30",
+      "title": "长实集团：李嘉诚暂不打算公开露面回应",
+      "insight": "来源：南方都市报 近日，有网络消息称“李嘉诚已去世”，引发关注。 今天（10月15日），长实集团…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-15/doc-inivhyaf7298287.shtml"
+    },
+    {
+      "id": "ffbbd00bc9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-15 09:26",
-      "title": "美国CPI升温后 日本财务大臣再次发出外汇警告",
-      "insight": "在美国通胀数据升温导致日元兑美元触及本月低点后，日本财务大臣片山皋月警告投机者，如有必要，她准备…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhier8130356.shtml"
+      "time": "10-15 15:19",
+      "title": "特朗普第二任期内，美国民众平均实际工资零增长",
+      "insight": "美国劳工统计局周三发布的数据显示，自特朗普总统开启第二任期以来，美国人的平均实际工资没有实现增长…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtuq4690443.shtml"
     },
     {
-      "id": "ff62fe30af",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-15 09:26",
-      "title": "KEEP授出98.405万份受限制股份单位",
-      "insight": "KEEP（03650）发布公告，于2026年10月14日，公司根据首次公开发售后股份激励计划的条…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-15/doc-inivhiew1251168.shtml"
+      "id": "ff9d6d490f",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-15 15:14",
+      "title": "商务部：广交会第一期1.2万家企业集中展示前沿成果",
+      "insight": "在今天（15日）举行的商务部例行新闻发布会上，商务部新闻发言人何亚东介绍，第140届广交会第一期…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhtum8154002.shtml"
+    },
+    {
+      "id": "ff43a14236",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 15:11",
+      "title": "英国8月GDP环比增长0.1%超预期，工业生产回升，但消费和建筑业持续疲软",
+      "insight": "英国最新经济数据显示，2026年8月国内生产总值（GDP）环比增长0.1%，好于市场预期的下降0…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtuq4678953.shtml"
+    },
+    {
+      "id": "ff7525a5da",
+      "source": "新华社",
+      "tag": "财经热点",
+      "time": "10-15 15:10",
+      "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
+      "insight": "商务部发言人何亚东15日在例行发布会上回应对欧稀土出口许可的相关提问时表示，中方愿继续为对欧稀土…",
+      "link": "https://finance.sina.com.cn/china/2026-10-15/doc-inivhtus1458235.shtml"
+    },
+    {
+      "id": "ffae70449c",
+      "source": "滚动播报",
+      "tag": "外汇",
+      "time": "10-15 15:09",
+      "title": "伊朗战争第八个月，交易员押注高油价到2028，全球通胀压力飙升",
+      "insight": "汇通财经APP讯——石油市场最初将伊朗冲突视为短暂冲击，认为油价上涨后将重回长期看跌轨道。如今交…",
+      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-10-15/doc-inivhtus1450870.shtml"
+    },
+    {
+      "id": "ffce8786f3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 15:08",
+      "title": "莱茵河水位持续偏低影响航空燃油运输，汉莎航空要求飞往法兰克福的航班额外加油",
+      "insight": "德国汉莎航空已要求部分飞往法兰克福机场的航班在起飞机场额外加注航空燃油，以应对德国最大航空枢纽面…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtui7411891.shtml"
+    },
+    {
+      "id": "ff7525a5da",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-15 15:08",
+      "title": "商务部：中方将与欧方一道促进双方两用物项贸易发展",
+      "insight": "商务部发言人何亚东15日在例行发布会上回应对欧稀土出口许可的相关提问时表示，中方愿继续为对欧稀土…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhtus1453431.shtml"
+    },
+    {
+      "id": "ff6aac8ff5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 15:07",
+      "title": "特朗普新任新闻秘书：并非持证执业律师",
+      "insight": "凯蒂・扎卡利亚（Katie Zacharia）上任仅三天，就被质疑夸大自身资质。她自称是律师，特…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtuq4673684.shtml"
+    },
+    {
+      "id": "ff902aa246",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-15 15:05",
+      "title": "商务部：我国外商直接投资权益存量位居全球第二",
+      "insight": "记者从商务部15日举行的例行新闻发布会上获悉，近期，商务部会同相关部门汇总完成了2025年外商投…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-15/doc-inivhtum8143728.shtml"
+    },
+    {
+      "id": "ff10faae7c",
+      "source": "国家发改委网站",
+      "tag": "财经热点",
+      "time": "10-15 15:00",
+      "title": "10月15日国内成品油价格不作调整",
+      "insight": "9月24日国内成品油价格调整以来，中东地缘局势复杂多变，国际市场原油价格短暂回落后又出现较大幅度…",
+      "link": "https://finance.sina.com.cn/china/2026-10-15/doc-inivhyaf7295765.shtml"
+    },
+    {
+      "id": "ff8ebd1702",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 14:56",
+      "title": "瑞银集团考虑惊人之举：将总部迁出瑞士",
+      "insight": "在瑞银集团因大幅提高资本要求与瑞士政界公开交锋之际，已有潜在美国交易伙伴与其接洽 瑞士最后一家具…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtuq4658876.shtml"
+    },
+    {
+      "id": "ff1a96b741",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 14:54",
+      "title": "“木头姐”最新调仓曝光：增持CoreWeave近1470万美元，减持基因检测公司近1100万美元",
+      "insight": "“木头姐”凯茜·伍德（Cathie Wood）旗下ARK Invest公布10月14日交易记录，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtus1429640.shtml"
+    },
+    {
+      "id": "ff06eb6a62",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 14:50",
+      "title": "科技风暴席卷亚太！韩国KOSPI指数收盘暴跌7.57% 半导体巨头惨遭血洗",
+      "insight": "今日（2026年10月15日），韩国股市遭遇历史性的惨烈一天。受美国超预期通胀数据及全球AI芯片…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtus1425136.shtml"
+    },
+    {
+      "id": "ff94050d0e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-15 14:48",
+      "title": "Anthropic第三季度营收增长45%至168亿美元，连续两季实现调整后盈利，但增速放缓低于预期",
+      "insight": "人工智能公司Anthropic向投资者披露，第三季度营收环比增长约45%至168亿美元，连续第二…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-15/doc-inivhtui7397871.shtml"
     }
   ],
-  "updateTime": "2026-10-15 10:41"
+  "updateTime": "2026-10-15 15:53"
 }
