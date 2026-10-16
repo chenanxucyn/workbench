@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff5d9fd47f",
+      "id": "ff7990099d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:32",
+      "title": "百奥赛图-B早盘涨近4% 上半年模式动物业务表现亮眼",
+      "insight": "百奥赛图-B（02315）盘中涨超6%，截至发稿，股价上涨3.85%，现报52.55港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmv8276157.shtml"
+    },
+    {
+      "id": "ff6c7c2613",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-16 07:26",
-      "title": "40年来首次，肯德基美国门店将弃用百事，改为供应可口可乐饮品",
-      "insight": "肯德基（KFC）周四表示，其美国门店明年将弃用百事产品，转而供应可口可乐饮品。这是百胜餐饮集团（…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkncx8181419.shtml"
+      "time": "10-16 10:30",
+      "title": "韩国业绩领先的基金经理看好AI价值链中的非存储芯片股",
+      "insight": "韩国一位业绩领先的基金经理表示，一旦市场反弹，盈利前景看好的AI价值链零部件股可能跑赢大型存储芯…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivksmv8273019.shtml"
     },
     {
-      "id": "ffe8494ff9",
+      "id": "ff026a9672",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:30",
+      "title": "阿里巴巴-W盘中涨近4% 库克确认苹果智能接入阿里千问大模型",
+      "insight": "阿里巴巴-W（09988）盘中涨近4%。截至发稿，股价上涨2.73%，现报109.30港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmu1500092.shtml"
+    },
+    {
+      "id": "ff4368ab10",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:28",
+      "title": "太平洋航运盘中涨超5% 第三季度核心业务日均收入显著增长",
+      "insight": "太平洋航运（02343）盘中涨超5%，截至发稿，股价上涨4.28%，现报3.775港元，成交额5…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmp7771474.shtml"
+    },
+    {
+      "id": "ff953edf51",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-16 07:25",
-      "title": "美国商务部长卢特尼克令美墨贸易谈判前景再添不确定性",
-      "insight": "知情人士称，受商务部长霍华德・卢特尼克反对影响，美墨关税协议谈判陷入停滞，这已是他第二次插手破坏…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkncr7765593.shtml"
+      "time": "10-16 10:27",
+      "title": "韩国财政部：韩国经济和股市基本面依然稳健",
+      "insight": "韩国财政部称，尽管外部因素引发的波动有所加剧，韩国国内经济和股市基本面依然稳健。 该部周五表示，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivksmv8267871.shtml"
     },
     {
-      "id": "ff07564f1a",
+      "id": "ff547f623d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:25",
+      "title": "快手-W盘中涨超6% 版本迭代有望进一步巩固可灵商业化势能",
+      "insight": "快手-W（01024）盘中涨超6%，截至发稿，股价上涨3.92%，现报29.70港元，成交额6.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmu1493820.shtml"
+    },
+    {
+      "id": "ff683b0708",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:23",
+      "title": "劲方医药-B早盘涨逾5% 公司公布KRAS G12D抑制剂多项临床结果",
+      "insight": "劲方医药-B（02595）盘中涨超8%。截至发稿，股价上涨4.71%，现报28.46港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmm7036275.shtml"
+    },
+    {
+      "id": "ff57e92f95",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 10:21",
+      "title": "361度盘中涨近6% 主品牌产品第三季度零售额取得中单位数正增长",
+      "insight": "361度（01361）盘中涨近6%，截至发稿，股价上涨4.97%，现报4.855港元，成交额73…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmm7034546.shtml"
+    },
+    {
+      "id": "ff146c0f62",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-16 07:19",
-      "title": "法官驳回 Gemini 与 CFTC 撤销 500 万美元和解协议的申请",
-      "insight": "一名联邦法官驳回了美国金融监管机构与 Gemini 信托公司一项罕见的联合申请。该申请试图撤销拜…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvz8306894.shtml"
+      "time": "10-16 10:14",
+      "title": "视频|会飞的汽车来了！特斯拉演示Roadster空中翻滚",
+      "insight": "历经九年等待、累计数百万美元订金以及铺天盖地的宣传造势，特斯拉Roadster终于迎来发布。 北…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivksmp7760407.shtml"
     },
     {
-      "id": "ff1c12eb4b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 07:18",
-      "title": "黄仁勋谈移民问题，与特朗普唱反调",
-      "insight": "英伟达CEO黄仁勋在最近的一档播客节目中表示，美国必须保持其作为顶尖科技人才“磁石”的地位，即便…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7160724.shtml"
+      "id": "ff1dd4d736",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 09:55",
+      "title": "迈富时早盘涨超9% 前三季度AI应用业务收入同比大增114%",
+      "insight": "迈富时（02556）早盘涨超9%，截至发稿，股价上涨9.25%，现报47.46港元，成交额823…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmu1450231.shtml"
     },
     {
-      "id": "ff285abcf6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 07:13",
-      "title": "投资者考虑调降对Anthropic的IPO估值预期",
-      "insight": "据媒体报道，四位知情消息人士表示，在Anthropic披露最新财务信息后，其部分现有投资者及首次…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvt7888627.shtml"
+      "id": "ffe7b82a37",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 09:53",
+      "title": "中际旭创盘中涨超5% 拟注销近50亿元回购股份",
+      "insight": "中际旭创（03308）盘中涨超5%。截至发稿，股价上涨3.95%，现报815港元，成交额3.23…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmm7011278.shtml"
     },
     {
-      "id": "ff7254c039",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 07:12",
-      "title": "TCW将信用风险敞口降至30年来最低 警告CCC级借款人会最先撑不住",
-      "insight": "面对估值和风险蔓延方面的担忧，TCW规模1600亿美元的固定收益团队已将投资组合的信用风险敞口降…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvz8300191.shtml"
+      "id": "fffc57bbac",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 09:49",
+      "title": "江波龙盘中涨逾6% 预期前三季度归母净利润同比增长1864.55%至1990.84%",
+      "insight": "江波龙（09976）发盈喜后一度涨逾6%，截至发稿，股价回落微涨1.60%，现报152.50港元…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmm7008322.shtml"
     },
     {
-      "id": "ff8e87870f",
-      "source": "新浪财经",
-      "tag": "理财",
-      "time": "10-16 06:59",
-      "title": "旺季韧性+宏观支撑！钢价有望小幅探涨！",
-      "insight": "来源：中联钢信网 一 市场行情 昨日国内钢材市场整体呈现窄幅震荡、逐步企稳的运行格局，期货市场主…",
-      "link": "https://finance.sina.com.cn/money/future/wemedia/2026-10-16/doc-inivkfvy1519180.shtml"
-    },
-    {
-      "id": "ff8294a364",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:53",
-      "title": "10月16日隔夜要闻：谷歌突破量子计算核心资源瓶颈 美国房地产市场举步维艰 哈佛大学基金年度回报率达27%",
-      "insight": "市场 10月16日收盘：耐克涨超5% 科技以外板块拉动大盘收涨 10月16日美股成交额前20：C…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7143108.shtml"
-    },
-    {
-      "id": "ffa44f1678",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:52",
-      "title": "OpenAI广告收入或难以达标 大举招揽谷歌、Meta人才",
-      "insight": "今年，OpenAI与Anthropic不断推出新模型与工具，争夺开发者群体，在此过程中，它的广告…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7142070.shtml"
-    },
-    {
-      "id": "ff701ea910",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:44",
-      "title": "美国官员反驳泽连斯基 称特朗普未下令限制乌军使用星盾系统",
-      "insight": "一名美国高级官员称，总统唐纳德·特朗普并未下令对乌克兰使用SpaceX的星盾卫星技术施加任何限制…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7137558.shtml"
-    },
-    {
-      "id": "ffd04b77d8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:40",
-      "title": "大宗商品综述：布伦特与WTI走势分化 铜价三连跌 金价走高",
-      "insight": "布伦特周四走势震荡，有关释放紧急石油储备的新消息，帮助抵消了从霍尔木兹海峡到黑海供应风险不断上升…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvt7865844.shtml"
-    },
-    {
-      "id": "ffc67a4db8",
-      "source": "证券日报",
-      "tag": "财经热点",
-      "time": "10-16 06:38",
-      "title": "9月期货市场成交量走高",
-      "insight": "本报记者王宁 10月14日，中国期货业协会发布的数据显示，以单边计算，9月全国期货市场成交量为1…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivkfvz8268806.shtml"
-    },
-    {
-      "id": "ff316a9546",
-      "source": "证券日报",
-      "tag": "财经热点",
-      "time": "10-16 06:38",
-      "title": "今日视点：金融资源正加快适配经济发展需求",
-      "insight": "■李文 10月14日，中国人民银行发布2026年前三季度金融统计数据。总体来看，金融总量保持平稳…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivkfvz8268796.shtml"
-    },
-    {
-      "id": "ff9682c82d",
-      "source": "证券日报",
-      "tag": "财经热点",
-      "time": "10-16 06:38",
-      "title": "财富管理行业：150万亿元规模再出发",
-      "insight": "本报记者吴珊昌校宇杨洁 近年来，我国财富管理行业正经历深刻变革。尤其“十四五”以来，银行理财、公…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-16/doc-inivkfvt7864945.shtml"
-    },
-    {
-      "id": "ff07d43196",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:37",
-      "title": "哈佛捐赠基金规模跃升至创纪录的680亿美元 年度回报率达27%",
-      "insight": "哈佛大学捐赠基金规模跃升至680亿美元，创下纪录新高，对股票和风险投资的成功押注，其中包括持有S…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7132981.shtml"
-    },
-    {
-      "id": "ff3ffa0fa7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:37",
-      "title": "旧金山联储行长忧虑价格压力持续 警惕通胀预期上升",
-      "insight": "旧金山联储行长玛丽·戴利表示，她越来越担心通胀的持续性，也不再那么相信美联储可以等待反复出现的供…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7132463.shtml"
-    },
-    {
-      "id": "ff86264201",
+      "id": "ffa87b1718",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "10-16 06:36",
-      "title": "WTI独自大涨，这是要演给谁看？",
-      "insight": "来源：能源研发中心 后市观点 WTI的大涨估计会让特朗普头大。这样的表现仍像是在故意给其制造难题…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivkfvt7877820.shtml"
+      "time": "10-16 09:47",
+      "title": "华泰期货：锌现货升水走强，库存小幅回落",
+      "insight": "作者： 封帆 重要数据 现货方面：LME锌现货升水为48.50美元/吨。SMM上海锌现货价较前一…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmp7738262.shtml"
     },
     {
-      "id": "ffc2c9f70a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:30",
-      "title": "10月16日热门中概股多数上涨 台积电跌1.80%",
-      "insight": "10月16日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨1.96%。 上涨个股（按市值…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvz8261617.shtml"
+      "id": "ff548df079",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 09:47",
+      "title": "上海复旦盈喜后涨超12% 预期前三季度归母净利润同比增加约187.63%至248.18%",
+      "insight": "上海复旦（01385）发盈喜后涨超12%，截至发稿，股价上涨12.02%，现报24.60港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmv8209229.shtml"
     },
     {
-      "id": "ff7e8396e7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:04",
-      "title": "10月16日美股成交额前20：CoreWeave收涨5.94% 黄仁勋认为英伟达没有必要为其兜底",
-      "insight": "美股成交额第2名美光科技收涨1.87%，成交350.17亿美元。 第4名英伟达收跌1.84%，成…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvz8239539.shtml"
+      "id": "ff623ef78d",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-16 09:46",
+      "title": "华泰期货：燃料油单边价格高位震荡，市场结构维持偏强运行",
+      "insight": "作者： 康远宁 市场分析 上期所燃料油期货主力合约夜盘收跌1.36%，报5453元/吨；INE低…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmp7737191.shtml"
     },
     {
-      "id": "ff2a6b399a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-16 06:03",
-      "title": "美联储哈马克：接二连三的供应冲击可能引发通胀思维",
-      "insight": "克利夫兰联邦储备银行行长贝丝·哈马克表示，她担心接二连三的供应冲击可能会导致企业形成通胀思维，从…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-16/doc-inivkfvr7109492.shtml"
+      "id": "fffae4eb91",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-16 09:45",
+      "title": "金斯瑞生物早盘涨逾8% 阿斯利康加入“AI+制药”热潮",
+      "insight": "金斯瑞生物（01548）早盘涨逾8%，截至发稿，股价上涨7.53%，现报33.98港元，成交额3…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-16/doc-inivksmu1433838.shtml"
+    },
+    {
+      "id": "ff57b76530",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-16 09:44",
+      "title": "华泰期货：甲醇港口基差再度反弹",
+      "insight": "作者： 陈莉 甲醇观点 市场要闻与重要数据 内地方面：Q5500鄂尔多斯动力煤785元/吨（+0…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmm7004377.shtml"
+    },
+    {
+      "id": "ff79a52e43",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-16 09:44",
+      "title": "华泰期货：悲观情绪持续发酵，碳酸锂主力合约跌破10万元",
+      "insight": "作者： 师橙 市场分析 2026-10-15，碳酸锂主力合约2701开于99980元/吨，收于9…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmv8204445.shtml"
+    },
+    {
+      "id": "ff6ae39b42",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-16 09:41",
+      "title": "华泰期货：美国PPI数据大超预期 美伊局势出现升温信号",
+      "insight": "作者： 师橙 市场分析 经济数据方面，受能源价格飙升推动，美国9月PPI同比上涨6.3%，远超市…",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-10-16/doc-inivksmv8200162.shtml"
+    },
+    {
+      "id": "ff1b897534",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-16 09:34",
+      "title": "【油脂油料】马来10月棕榈油出口环比大增，NOPA9月大豆压榨下滑超预期",
+      "insight": "来源：中粮期货研究中心 榨利日期：根据DCE2026-10-16开盘价计算 10月15日，巴西大…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-16/doc-inivksmu1424926.shtml"
     }
   ],
-  "updateTime": "2026-10-16 07:29"
+  "updateTime": "2026-10-16 10:37"
 }
