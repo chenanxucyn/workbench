@@ -1,6 +1,159 @@
 {
   "news": [
     {
+      "id": "ff5a073a1b",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-17 09:48",
+      "title": "一线调研丨平均通航时间减半 流程图看“黄金水道”改革破局",
+      "insight": "推进市场设施高标准联通是打破地理阻碍、加快要素流动的基础前提，也是建设全国统一大市场的重要举措。…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnvkp7323853.shtml"
+    },
+    {
+      "id": "ff9aa6cca8",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "10-17 09:16",
+      "title": "001232，拟港股IPO",
+      "insight": "【导读】嘉立创正在筹划港股IPO，A股上市至今不足3个月 来源：中国基金报 中国基金报记者 邱德…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnvkm6568604.shtml"
+    },
+    {
+      "id": "ff7b6a5613",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-17 09:08",
+      "title": "苹果称首款折叠屏iPhone需求异常强劲 部分订单预计明年交付",
+      "insight": "苹果公司表示，对新款iPhone Duo的需求“堪称非同寻常”。此前，该产品周五开放预购仅几分钟…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvkp7293062.shtml"
+    },
+    {
+      "id": "ff6d1120f2",
+      "source": "酒业内参",
+      "tag": "财经热点",
+      "time": "10-17 09:05",
+      "title": "国窖1573、古井贡古20领涨 青花郎零售均价突破700元 飞天茅台小幅回落",
+      "insight": "新浪财经“酒价内参”过去24小时收集的数据显示，10月17日中国白酒业12大单品的终端零售均价七…",
+      "link": "https://finance.sina.com.cn/chanjing/jync/2026-10-17/doc-inivnvku1419407.shtml"
+    },
+    {
+      "id": "ff1eb6da9e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-17 09:05",
+      "title": "特斯拉跑车完成空中特技 引发与SpaceX合并猜想",
+      "insight": "特斯拉公司举办了备受期待、但一再延期的Roadster跑车发布活动，展示了一辆配备空气推进器、能…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvku1419220.shtml"
+    },
+    {
+      "id": "ff9889a709",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-17 09:00",
+      "title": "港股医药IPO“包盘”调查：新规发布2025年8月是一道分水岭",
+      "insight": "来源：野马财经 有关茶百道IPO涉嫌操纵的传闻持续发酵，一个并不常用的词“包盘”，迅速在投资者群…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-17/doc-inivnvkm6582243.shtml"
+    },
+    {
+      "id": "ffcb9fb116",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-17 08:55",
+      "title": "特朗普豁免《格雷厄姆法案》中多项对俄制裁、限制措施及关税",
+      "insight": "北京时间10月17日早间消息，美国总统唐纳德·特朗普豁免了一项法案中针对俄罗斯能源出口的高额关税…",
+      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnvkm6552060.shtml"
+    },
+    {
+      "id": "ffaee65f5b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-17 08:52",
+      "title": "Anthropic在最新一轮芯片融资中向黑石提供两位数收益率",
+      "insight": "Anthropic向黑石集团提供超10%的高收益率，为其最新芯片交易融资，凸显这家初创企业愿意承…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvkm6549846.shtml"
+    },
+    {
+      "id": "ffedcadccc",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "10-17 08:27",
+      "title": "抖音电商因“操纵舆论”等言论起诉京东员工，京东回应：法务部将支持员工提起反诉",
+      "insight": "来源：蓝鲸新闻 蓝鲸新闻10月17日讯一条朋友圈，让京东与抖音电商两大平台，在双十一前夕迎来正面…",
+      "link": "https://finance.sina.com.cn/chanjing/b/2026-10-17/doc-inivnvku1400455.shtml"
+    },
+    {
+      "id": "ff4ecb9175",
+      "source": "滚动播报",
+      "tag": "美股",
+      "time": "10-17 08:22",
+      "title": "英伟达市值，9天蒸发4万亿元",
+      "insight": "来源：蓝鲸财经 据财联社，近日，全球AI概念股持续遭到抛售。周五，英伟达延续跌势，股价下跌1.4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnvku1394304.shtml"
+    },
+    {
+      "id": "ff41e18553",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-17 08:19",
+      "title": "晨星：梅洛尼在意大利推行的财政紧缩政策或将延续",
+      "insight": "晨星DBRS称，即便意大利再度出现政治不稳，该国大概率仍将恪守欧盟预算纪律。 该机构周五发布声明…",
+      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnraw1506717.shtml"
+    },
+    {
+      "id": "ff0d091c9f",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "10-17 07:54",
+      "title": "REITs快报来了！本周80只录得环比上涨",
+      "insight": "【导读】中证REITs全收益指数周涨幅为1.29% 来源：中国基金报 中国基金报记者 曹雯璟 1…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnrax8255352.shtml"
+    },
+    {
+      "id": "ff81f6a506",
+      "source": "一财网",
+      "tag": "财经热点",
+      "time": "10-17 07:48",
+      "title": "美联储进入静默期前夕，沃什在曼谷的发言吐露“鸽心”？",
+      "insight": "10月17日，美联储进入沟通“静默期”。 此前，美联储主席沃什在曼谷出席国际货币基金组织（IMF…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnrax8250766.shtml"
+    },
+    {
+      "id": "ff48a341d4",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-17 07:47",
+      "title": "伊尔汗·奥马尔在新函件中反击住宅搜查",
+      "insight": "美国明尼苏达州民主党联邦众议员伊尔汗·奥马尔的律师周五晚间致函联邦检察官，质疑本周早些时候对其住…",
+      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnrap6637421.shtml"
+    },
+    {
+      "id": "fffabaa955",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-17 07:25",
+      "title": "特朗普在佐治亚州宣扬制造业增长 共和党瞄准奥索夫",
+      "insight": "美国总统唐纳德·特朗普宣扬其经济政策为佐治亚州带来制造业繁荣，试图在这个11月中期选举关键的联邦…",
+      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnraw1460055.shtml"
+    },
+    {
+      "id": "ffdb527a8b",
+      "source": "滚动播报",
+      "tag": "财经热点",
+      "time": "10-17 07:15",
+      "title": "上任一周，白宫新任新闻秘书被曝走人！特朗普亲自“劝退”",
+      "insight": "来源：国是直通车 美国白宫官员当地时间10月16日透露，新任白宫新闻秘书凯蒂·扎卡里亚实际上已被…",
+      "link": "https://finance.sina.com.cn/world/gjcj/2026-10-17/doc-inivnraw1457086.shtml"
+    },
+    {
+      "id": "ff96e4c429",
+      "source": "红星新闻",
+      "tag": "财经热点",
+      "time": "10-17 07:02",
+      "title": "暴雨、大风、强对流三预警齐发,中央气象台：今早至明天 北京、天津、山西、山东、河南、安徽等地有大到暴雨",
+      "insight": "原标题：暴雨、大风、强对流三预警齐发，中央气象台：今早至明天，北京、天津、山西、山东、河南、安徽…",
+      "link": "https://finance.sina.com.cn/china/gncj/2026-10-17/doc-inivnrap6625064.shtml"
+    },
+    {
       "id": "ff6ba8b789",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -26,160 +179,7 @@
       "title": "地缘冲突消息刺激 国际油价16日显著上涨",
       "insight": "受中东地区和俄乌冲突利空消息刺激，国际原油期货价格在16日早盘窄幅盘整，午间显著走高，收盘时国际…",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnrap6607448.shtml"
-    },
-    {
-      "id": "ffc4e9eae5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 06:28",
-      "title": "无视特朗普促和努力 俄罗斯和乌克兰继续相互打击",
-      "insight": "俄罗斯总统普京表示，俄军必须继续对乌克兰军工设施和物流枢纽实施大规模打击，而尽管美国总统特朗普呼…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnraw1416271.shtml"
-    },
-    {
-      "id": "ffdee42267",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 06:26",
-      "title": "比利时和加拿大加仓美债",
-      "insight": "外国持有的美国国债8月从2025年10月以来的最低水平回升，而加拿大和比利时的仓位增加是主要推动…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnraw1415479.shtml"
-    },
-    {
-      "id": "fff25113be",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 06:25",
-      "title": "大宗商品综述：布伦特大涨 铜价反弹 金价微跌",
-      "insight": "布伦特自5月以来首次触及每桶110美元，因为市场对供应很快得到缓解的期望减弱。风险偏好回升推动铜…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnrar7322898.shtml"
-    },
-    {
-      "id": "fff3e5e43e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-17 06:14",
-      "title": "Anthropic推介AI安全法案 将允许10亿美元损失、50人死伤时封锁模型",
-      "insight": "据三名了解相关行动、获准匿名讨论内部磋商的人士透露，人工智能巨头Anthropic的代表已经悄悄…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnraw1405146.shtml"
-    },
-    {
-      "id": "ff3e17224c",
-      "source": "滚动播报",
-      "tag": "财经",
-      "time": "10-17 06:10",
-      "title": "五部门发布风险提示！",
-      "insight": "来源：央视财经 当前，正处于求职招聘旺季，一些不法分子冒用央国企名义发布虚假招聘信息引流，打着“…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-17/doc-inivnraw1414199.shtml"
-    },
-    {
-      "id": "ffe4dab42d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 06:04",
-      "title": "芯片股暴跌重创多头 做空者却7天账面获利320亿美元",
-      "insight": "半导体股遭遇历史性暴跌，给那些敢于做空的投资者带来了丰厚收益。过去一年大部分时间里，半导体一直是…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkut7440229.shtml"
-    },
-    {
-      "id": "ff8fae8dac",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 06:02",
-      "title": "10月17日外盘头条：特朗普否认关停乌克兰卫星系统 美国2026财年联邦预算赤字达到1.99万亿美元",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普否认关停乌克兰卫星系统 乌方对此存疑 …",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkuy1526362.shtml"
-    },
-    {
-      "id": "ffa85d5313",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-17 05:56",
-      "title": "视频丨霍尔木兹海峡商船遇袭推高油价 美以密商打击伊朗预案",
-      "insight": "当地时间16日，伊朗称再有一艘违规油轮在霍尔木兹海峡东部海域起火。分析指出，近期霍尔木兹海峡商船…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnraw1400868.shtml"
-    },
-    {
-      "id": "ff582c18f2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 05:40",
-      "title": "穆迪将埃及信用评级上调至B3",
-      "insight": "穆迪将埃及的长期外债评级从Caa1上调至B3。 穆迪将埃及外国发行人评级从Caa1上调至B3。 …",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkuz8283990.shtml"
-    },
-    {
-      "id": "ff7b796441",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 05:31",
-      "title": "美国股市：标普500指数创6月以来最差单周表现 AI担忧重创芯片股",
-      "insight": "标普500指数周五下跌，并且录得6月以来最大单周跌幅。原油价格飙升重新引发通胀担忧，同时市场对人…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkut7422170.shtml"
-    },
-    {
-      "id": "ff43510a27",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-17 05:30",
-      "title": "首次突破、历史新高！一组数据感受中国经济澎湃动能",
-      "insight": "本周 多领域最新统计数据出炉 我国外贸增势强劲 140届广交会多项数据创历史新高 服务贸易亮点纷…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnkuz8277635.shtml"
-    },
-    {
-      "id": "ffd44b76c0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-17 05:27",
-      "title": "AWS CFO：AI基建投入热潮具备可持续性 投资回报周期不足三年",
-      "insight": "亚马逊云科技（AWS）首席财务官接受Axios采访时表示，AI基础设施与服务的支出热潮具备可持续…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivnkur6689195.shtml"
-    },
-    {
-      "id": "ff5ad5432c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 05:26",
-      "title": "黄仁勋谈AI市场震荡 “这一切都会过去”",
-      "insight": "对于人工智能股票最近一轮大跌，英伟达公司首席执行官黄仁勋表现出乐观态度，称这项技术带来的好处很快…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkuy1501797.shtml"
-    },
-    {
-      "id": "ff8337edad",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 05:25",
-      "title": "美国2026财年联邦预算赤字达到1.99万亿美元 净利息支出创纪录",
-      "insight": "美国2026财年联邦预算赤字扩大至接近2万亿美元，再次凸显政府庞大的借款需求，并使美国政府未来几…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkuy1500918.shtml"
-    },
-    {
-      "id": "ff04c001d2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 05:19",
-      "title": "美国债市：国债长端收跌 美国时段午后油价飙升",
-      "insight": "美国国债周五收盘涨跌不一，长端收益率日内走高，此前美国交易时段午后油价飙升，布伦特原油自5月以来…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkuz8268992.shtml"
-    },
-    {
-      "id": "ff5fc6169b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-17 04:56",
-      "title": "摩洛哥组成新政府",
-      "insight": "摩洛哥国王穆罕默德六世16日在首都拉巴特王宫主持新政府成员任命仪式，新任首相法蒂玛·宰赫拉·曼苏…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnkuz8260154.shtml"
-    },
-    {
-      "id": "ffe4d482b2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-17 04:55",
-      "title": "10月17日热门中概股多数下跌，台积电跌超2%",
-      "insight": "10月17日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.30%。 上涨个股（按市值…",
-      "link": "https://finance.sina.com.cn/world/2026-10-17/doc-inivnkur6670943.shtml"
     }
   ],
-  "updateTime": "2026-10-17 07:11"
+  "updateTime": "2026-10-17 10:29"
 }
