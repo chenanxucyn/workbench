@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "ff11a29fa6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-17 20:44",
+      "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
+      "insight": "马斯克在与传记作者沃尔特·艾萨克森的一次最新播客访谈中表示，曾由他领导的“DOGE”（政府效率部…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpwwi8120700.shtml"
+    },
+    {
       "id": "ff4603b99c",
       "source": "环球市场播报",
       "tag": "美股",
@@ -170,16 +179,7 @@
       "title": "厄瓜多尔一艘渔船疑似沉没 14名船员失踪",
       "insight": "当地时间10月16日，厄瓜多尔海军通报称，正持续在该国圣埃莱娜省附近海域搜救一艘疑似沉没渔船上的…",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivnzst8188630.shtml"
-    },
-    {
-      "id": "ff6c8c4546",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "10-17 10:18",
-      "title": "应届生涌向机器人秋招：年薪50万元成“白菜价”，正式offer不好拿",
-      "insight": "模型训练和核心算法岗位研发门槛较高，人才依然比较稀缺。 “秋招每天点开邮箱，跟开盲盒一样。”在找…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-17/doc-inivnvku1484181.shtml"
     }
   ],
-  "updateTime": "2026-10-17 20:36"
+  "updateTime": "2026-10-18 01:40"
 }
