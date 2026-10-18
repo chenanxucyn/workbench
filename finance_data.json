@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ff30cfb7b7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 06:32",
+      "title": "10月19日周末要闻：特朗普称正斡旋俄乌和平谈判 欧洲多国爆发示威活动 欧元兑主要货币下跌",
+      "insight": "市场 10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivswyz6357485.shtml"
+    },
+    {
+      "id": "ffd6b0c24b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-19 05:38",
+      "title": "欧洲多地爆发大规模抗议后，欧元兑主要货币下跌",
+      "insight": "亚洲早盘交易时段，受欧洲周末大范围抗议活动以及俄乌冲突升级影响，欧元兑G10集团货币走低。 欧元…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivswyx7641896.shtml"
+    },
+    {
+      "id": "ff04bc5c0b",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-19 05:25",
+      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火",
+      "insight": "当地时间19日凌晨，伊朗伊斯兰革命卫队海军宣布，一艘违规油轮在霍尔木兹海峡南部触雷，导致机舱爆炸…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivswyx7637505.shtml"
+    },
+    {
+      "id": "ff60412795",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-19 05:23",
+      "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
+      "insight": "今天将举办两场重要发布会 聚焦国民经济运行 与推进科技兴商有关情况⬇️ 国务院新闻办公室将于10…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivswyx7632833.shtml"
+    },
+    {
+      "id": "ff0de512ee",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-19 04:47",
+      "title": "特朗普发文：正斡旋俄乌和平谈判，批评泽连斯基不愿停战",
+      "insight": "特朗普发文表示，他关于俄罗斯的相关决策思路很明确。他正在斡旋俄乌战争的和平谈判，不愿采取任何鲁莽…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivswyx7611099.shtml"
+    },
+    {
       "id": "fff0ed20d8",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -134,52 +179,7 @@
       "title": "威胜控股于10月16日斥资306.09万港元回购25万股",
       "insight": "威胜控股（03393）发布公告，于2026年10月16日该公司斥资306.09万港元回购25万股…",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7788254.shtml"
-    },
-    {
-      "id": "ffeaf83c49",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:10",
-      "title": "卓越教育集团于10月16日斥资22.72万港元回购9.5万股",
-      "insight": "卓越教育集团（03978）发布公告，于2026年10月16日斥资22.72万港元回购9.5万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvh1015202.shtml"
-    },
-    {
-      "id": "ffa1857d49",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:09",
-      "title": "石药集团授出合共7808.5万股受限制股份",
-      "insight": "石药集团（01093）发布公告，于2026年10月16日，公司根据2026年股份奖励计划向集团2…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvp7257249.shtml"
-    },
-    {
-      "id": "ff789cf16a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:08",
-      "title": "创科实业于10月16日斥资约719.29万港元回购5.5万股",
-      "insight": "创科实业（00669）发布公告，于2026年10月16日该公司斥资约719.29万港元回购5.5…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvh1014233.shtml"
-    },
-    {
-      "id": "ffd7dcac42",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:08",
-      "title": "中裕能源于10月16日斥资107.74万港元回购40万股",
-      "insight": "中裕能源（03633）发布公告，于2026年10月16日斥资107.74万港元回购40万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7786313.shtml"
-    },
-    {
-      "id": "ffcbdc5a9a",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:07",
-      "title": "恒鼎实业第三季度生产原煤88.9万吨 同比减少32%",
-      "insight": "恒鼎实业（01393）发布2026年第三季度主要经营数据，生产原煤88.9万吨，同比减少32%；…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6524531.shtml"
     }
   ],
-  "updateTime": "2026-10-19 03:56"
+  "updateTime": "2026-10-19 06:41"
 }

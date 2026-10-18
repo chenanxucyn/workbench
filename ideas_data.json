@@ -2,18 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "LOUD战胜VIT夺冠",
-      "heat": 12117794,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0?type=general",
-      "scheme": "snssdk1128://search/LOUD战胜VIT夺冠"
-    },
-    {
-      "rank": 2,
       "topic": "美日将投入6万兵力军演",
-      "heat": 11311173,
+      "heat": 12109283,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,9 +11,19 @@
       "scheme": "snssdk1128://search/美日将投入6万兵力军演"
     },
     {
+      "rank": 2,
+      "topic": "俄圣彼得堡石油码头遭乌袭击",
+      "heat": 11645384,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BF%84%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%A0%81%E5%A4%B4%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB?type=general",
+      "scheme": "snssdk1128://search/俄圣彼得堡石油码头遭乌袭击"
+    },
+    {
       "rank": 3,
       "topic": "广交会万品联通海内外",
-      "heat": 11093253,
+      "heat": 11388222,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -33,7 +33,7 @@
     {
       "rank": 4,
       "topic": "第一次见到虎跳峡时的震撼",
-      "heat": 11059306,
+      "heat": 11309854,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -42,18 +42,18 @@
     },
     {
       "rank": 5,
-      "topic": "俄圣彼得堡石油码头遭乌袭击",
-      "heat": 10468064,
+      "topic": "LOUD战胜VIT夺冠",
+      "heat": 10733187,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BF%84%E5%9C%A3%E5%BD%BC%E5%BE%97%E5%A0%A1%E7%9F%B3%E6%B2%B9%E7%A0%81%E5%A4%B4%E9%81%AD%E4%B9%8C%E8%A2%AD%E5%87%BB?type=general",
-      "scheme": "snssdk1128://search/俄圣彼得堡石油码头遭乌袭击"
+      "link": "https://www.douyin.com/search/LOUD%E6%88%98%E8%83%9CVIT%E5%A4%BA%E5%86%A0?type=general",
+      "scheme": "snssdk1128://search/LOUD战胜VIT夺冠"
     },
     {
       "rank": 6,
       "topic": "这才是中国功夫的魅力",
-      "heat": 10410721,
+      "heat": 10721769,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -63,7 +63,7 @@
     {
       "rank": 7,
       "topic": "利兹联1:1曼联",
-      "heat": 9303827,
+      "heat": 9415580,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -73,7 +73,7 @@
     {
       "rank": 8,
       "topic": "那个熟悉的童年伙伴又见面了",
-      "heat": 9172334,
+      "heat": 9340839,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -82,38 +82,8 @@
     },
     {
       "rank": 9,
-      "topic": "西安已进入大宽面时代",
-      "heat": 9100760,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A5%BF%E5%AE%89%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%AE%BD%E9%9D%A2%E6%97%B6%E4%BB%A3?type=general",
-      "scheme": "snssdk1128://search/西安已进入大宽面时代"
-    },
-    {
-      "rank": 10,
-      "topic": "辽宁男篮拿下新赛季开门红",
-      "heat": 9062875,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%8B%BF%E4%B8%8B%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E9%97%A8%E7%BA%A2?type=general",
-      "scheme": "snssdk1128://search/辽宁男篮拿下新赛季开门红"
-    },
-    {
-      "rank": 11,
-      "topic": "无畏契约上海冠军赛现场太夯了",
-      "heat": 8933624,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%8A%E6%B5%B7%E5%86%A0%E5%86%9B%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/无畏契约上海冠军赛现场太夯了"
-    },
-    {
-      "rank": 12,
       "topic": "长春动植物园游客表演杂技太夯了",
-      "heat": 8735263,
+      "heat": 9307545,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -121,19 +91,49 @@
       "scheme": "snssdk1128://search/长春动植物园游客表演杂技太夯了"
     },
     {
-      "rank": 13,
-      "topic": "法国爆发大规模骚乱",
-      "heat": 8704540,
+      "rank": 10,
+      "topic": "用拼豆打开中式美学",
+      "heat": 9237380,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1?type=general",
-      "scheme": "snssdk1128://search/法国爆发大规模骚乱"
+      "link": "https://www.douyin.com/search/%E7%94%A8%E6%8B%BC%E8%B1%86%E6%89%93%E5%BC%80%E4%B8%AD%E5%BC%8F%E7%BE%8E%E5%AD%A6?type=general",
+      "scheme": "snssdk1128://search/用拼豆打开中式美学"
+    },
+    {
+      "rank": 11,
+      "topic": "西安已进入大宽面时代",
+      "heat": 9090710,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%A5%BF%E5%AE%89%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%A4%A7%E5%AE%BD%E9%9D%A2%E6%97%B6%E4%BB%A3?type=general",
+      "scheme": "snssdk1128://search/西安已进入大宽面时代"
+    },
+    {
+      "rank": 12,
+      "topic": "辽宁男篮拿下新赛季开门红",
+      "heat": 9047082,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E6%8B%BF%E4%B8%8B%E6%96%B0%E8%B5%9B%E5%AD%A3%E5%BC%80%E9%97%A8%E7%BA%A2?type=general",
+      "scheme": "snssdk1128://search/辽宁男篮拿下新赛季开门红"
+    },
+    {
+      "rank": 13,
+      "topic": "无畏契约上海冠军赛现场太夯了",
+      "heat": 9003601,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%97%A0%E7%95%8F%E5%A5%91%E7%BA%A6%E4%B8%8A%E6%B5%B7%E5%86%A0%E5%86%9B%E8%B5%9B%E7%8E%B0%E5%9C%BA%E5%A4%AA%E5%A4%AF%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/无畏契约上海冠军赛现场太夯了"
     },
     {
       "rank": 14,
       "topic": "当心“代缴采暖费”陷阱",
-      "heat": 8702697,
+      "heat": 8923082,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -143,7 +143,7 @@
     {
       "rank": 15,
       "topic": "梅艳芳骨灰疑被寺庙人员盗走",
-      "heat": 8578997,
+      "heat": 8284149,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -152,18 +152,8 @@
     },
     {
       "rank": 16,
-      "topic": "张雪机车年度第三",
-      "heat": 8577565,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%A0%E9%9B%AA%E6%9C%BA%E8%BD%A6%E5%B9%B4%E5%BA%A6%E7%AC%AC%E4%B8%89?type=general",
-      "scheme": "snssdk1128://search/张雪机车年度第三"
-    },
-    {
-      "rank": 17,
       "topic": "嫁金钗5步区分魏娆君黛",
-      "heat": 8497642,
+      "heat": 7951462,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -171,59 +161,19 @@
       "scheme": "snssdk1128://search/嫁金钗5步区分魏娆君黛"
     },
     {
+      "rank": 17,
+      "topic": "法国爆发大规模骚乱",
+      "heat": 7936003,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%B3%95%E5%9B%BD%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E9%AA%9A%E4%B9%B1?type=general",
+      "scheme": "snssdk1128://search/法国爆发大规模骚乱"
+    },
+    {
       "rank": 18,
-      "topic": "新疆阿达西回应烤馕走红",
-      "heat": 8457848,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E9%98%BF%E8%BE%BE%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%83%A4%E9%A6%95%E8%B5%B0%E7%BA%A2?type=general",
-      "scheme": "snssdk1128://search/新疆阿达西回应烤馕走红"
-    },
-    {
-      "rank": 19,
-      "topic": "鹿晗同款特效已严肃跟拍",
-      "heat": 8437502,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%B9%BF%E6%99%97%E5%90%8C%E6%AC%BE%E7%89%B9%E6%95%88%E5%B7%B2%E4%B8%A5%E8%82%83%E8%B7%9F%E6%8B%8D?type=general",
-      "scheme": "snssdk1128://search/鹿晗同款特效已严肃跟拍"
-    },
-    {
-      "rank": 20,
-      "topic": "谁懂共鸣之战朵莉亚开大的救赎感",
-      "heat": 8322394,
-      "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%85%B1%E9%B8%A3%E4%B9%8B%E6%88%98%E6%9C%B5%E8%8E%89%E4%BA%9A%E5%BC%80%E5%A4%A7%E7%9A%84%E6%95%91%E8%B5%8E%E6%84%9F?type=general",
-      "scheme": "snssdk1128://search/谁懂共鸣之战朵莉亚开大的救赎感"
-    },
-    {
-      "rank": 21,
-      "topic": "四川男篮终结47连败",
-      "heat": 8243093,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%9B%E5%B7%9D%E7%94%B7%E7%AF%AE%E7%BB%88%E7%BB%9347%E8%BF%9E%E8%B4%A5?type=general",
-      "scheme": "snssdk1128://search/四川男篮终结47连败"
-    },
-    {
-      "rank": 22,
-      "topic": "燕云全新主题区域未央城正式开启",
-      "heat": 8208222,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%85%A8%E6%96%B0%E4%B8%BB%E9%A2%98%E5%8C%BA%E5%9F%9F%E6%9C%AA%E5%A4%AE%E5%9F%8E%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF?type=general",
-      "scheme": "snssdk1128://search/燕云全新主题区域未央城正式开启"
-    },
-    {
-      "rank": 23,
       "topic": "二郎显圣真君敦煌舞挑战",
-      "heat": 8139090,
+      "heat": 7929349,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -231,9 +181,69 @@
       "scheme": "snssdk1128://search/二郎显圣真君敦煌舞挑战"
     },
     {
+      "rank": 19,
+      "topic": "新疆阿达西回应烤馕走红",
+      "heat": 7877261,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%96%B0%E7%96%86%E9%98%BF%E8%BE%BE%E8%A5%BF%E5%9B%9E%E5%BA%94%E7%83%A4%E9%A6%95%E8%B5%B0%E7%BA%A2?type=general",
+      "scheme": "snssdk1128://search/新疆阿达西回应烤馕走红"
+    },
+    {
+      "rank": 20,
+      "topic": "乐评人眼中的在梅边",
+      "heat": 7799904,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B9%90%E8%AF%84%E4%BA%BA%E7%9C%BC%E4%B8%AD%E7%9A%84%E5%9C%A8%E6%A2%85%E8%BE%B9?type=general",
+      "scheme": "snssdk1128://search/乐评人眼中的在梅边"
+    },
+    {
+      "rank": 21,
+      "topic": "谁懂共鸣之战朵莉亚开大的救赎感",
+      "heat": 7787031,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E8%B0%81%E6%87%82%E5%85%B1%E9%B8%A3%E4%B9%8B%E6%88%98%E6%9C%B5%E8%8E%89%E4%BA%9A%E5%BC%80%E5%A4%A7%E7%9A%84%E6%95%91%E8%B5%8E%E6%84%9F?type=general",
+      "scheme": "snssdk1128://search/谁懂共鸣之战朵莉亚开大的救赎感"
+    },
+    {
+      "rank": 22,
+      "topic": "辽宁男篮主帅：已重整旗鼓",
+      "heat": 7785386,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%BE%BD%E5%AE%81%E7%94%B7%E7%AF%AE%E4%B8%BB%E5%B8%85%EF%BC%9A%E5%B7%B2%E9%87%8D%E6%95%B4%E6%97%97%E9%BC%93?type=general",
+      "scheme": "snssdk1128://search/辽宁男篮主帅：已重整旗鼓"
+    },
+    {
+      "rank": 23,
+      "topic": "WNBA总决赛G1女武神险胜梦想队",
+      "heat": 7775509,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/WNBA%E6%80%BB%E5%86%B3%E8%B5%9BG1%E5%A5%B3%E6%AD%A6%E7%A5%9E%E9%99%A9%E8%83%9C%E6%A2%A6%E6%83%B3%E9%98%9F?type=general",
+      "scheme": "snssdk1128://search/WNBA总决赛G1女武神险胜梦想队"
+    },
+    {
       "rank": 24,
+      "topic": "看玉簟秋无法保持苹果肌扁平",
+      "heat": 7751612,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%9C%8B%E7%8E%89%E7%B0%9F%E7%A7%8B%E6%97%A0%E6%B3%95%E4%BF%9D%E6%8C%81%E8%8B%B9%E6%9E%9C%E8%82%8C%E6%89%81%E5%B9%B3?type=general",
+      "scheme": "snssdk1128://search/看玉簟秋无法保持苹果肌扁平"
+    },
+    {
+      "rank": 25,
       "topic": "嫁金钗田曦薇扇巴掌转场",
-      "heat": 8083146,
+      "heat": 7745533,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -241,39 +251,29 @@
       "scheme": "snssdk1128://search/嫁金钗田曦薇扇巴掌转场"
     },
     {
-      "rank": 25,
-      "topic": "我们都被困在这寂寞的夜晚手势舞",
-      "heat": 8049937,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E9%83%BD%E8%A2%AB%E5%9B%B0%E5%9C%A8%E8%BF%99%E5%AF%82%E5%AF%9E%E7%9A%84%E5%A4%9C%E6%99%9A%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "scheme": "snssdk1128://search/我们都被困在这寂寞的夜晚手势舞"
-    },
-    {
       "rank": 26,
-      "topic": "王力宏郑州演唱会",
-      "heat": 8021920,
+      "topic": "燕云全新主题区域未央城正式开启",
+      "heat": 7743498,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%8A%9B%E5%AE%8F%E9%83%91%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/王力宏郑州演唱会"
+      "link": "https://www.douyin.com/search/%E7%87%95%E4%BA%91%E5%85%A8%E6%96%B0%E4%B8%BB%E9%A2%98%E5%8C%BA%E5%9F%9F%E6%9C%AA%E5%A4%AE%E5%9F%8E%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%90%AF?type=general",
+      "scheme": "snssdk1128://search/燕云全新主题区域未央城正式开启"
     },
     {
       "rank": 27,
-      "topic": "广西政协原副主席黄日波被查",
-      "heat": 7972464,
+      "topic": "美人余何润东精神控制妻子",
+      "heat": 7740673,
       "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B9%BF%E8%A5%BF%E6%94%BF%E5%8D%8F%E5%8E%9F%E5%89%AF%E4%B8%BB%E5%B8%AD%E9%BB%84%E6%97%A5%E6%B3%A2%E8%A2%AB%E6%9F%A5?type=general",
-      "scheme": "snssdk1128://search/广西政协原副主席黄日波被查"
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E7%BE%8E%E4%BA%BA%E4%BD%99%E4%BD%95%E6%B6%A6%E4%B8%9C%E7%B2%BE%E7%A5%9E%E6%8E%A7%E5%88%B6%E5%A6%BB%E5%AD%90?type=general",
+      "scheme": "snssdk1128://search/美人余何润东精神控制妻子"
     },
     {
       "rank": 28,
       "topic": "王嘉尔世巡再官宣六城",
-      "heat": 7901970,
+      "heat": 7740183,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -282,18 +282,18 @@
     },
     {
       "rank": 29,
-      "topic": "恋与深空银翼杀手联动",
-      "heat": 7862471,
+      "topic": "嫁金钗君黛智商堪比夏冬春",
+      "heat": 7735337,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%81%8B%E4%B8%8E%E6%B7%B1%E7%A9%BA%E9%93%B6%E7%BF%BC%E6%9D%80%E6%89%8B%E8%81%94%E5%8A%A8?type=general",
-      "scheme": "snssdk1128://search/恋与深空银翼杀手联动"
+      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%90%9B%E9%BB%9B%E6%99%BA%E5%95%86%E5%A0%AA%E6%AF%94%E5%A4%8F%E5%86%AC%E6%98%A5?type=general",
+      "scheme": "snssdk1128://search/嫁金钗君黛智商堪比夏冬春"
     },
     {
       "rank": 30,
       "topic": "尚公主孟子义李昀锐共进退",
-      "heat": 7840243,
+      "heat": 7728365,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -301,5 +301,5 @@
       "scheme": "snssdk1128://search/尚公主孟子义李昀锐共进退"
     }
   ],
-  "updateTime": "2026-10-19 03:56"
+  "updateTime": "2026-10-19 06:41"
 }
