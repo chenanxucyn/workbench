@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "id": "ffb5cefbc7",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-18 23:24",
+      "title": "泽连斯基称与美方代表讨论下一步外交行动",
+      "insight": "乌克兰总统泽连斯基18日表示，他已与美国总统特使威特科夫和库什纳通话，讨论乌美团队在美国佛罗里达…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivsnma0916599.shtml"
+    },
+    {
+      "id": "ffb2c47d33",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-18 22:55",
+      "title": "俄副总理：俄柴油将在签署合同后15-20天进入美市场",
+      "insight": "10月18日，分管能源工作的俄罗斯副总理诺瓦克表示，俄罗斯柴油燃料将在合同签署后15至20天内进…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshcf7795823.shtml"
+    },
+    {
+      "id": "ff712c6ec7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-18 22:46",
+      "title": "韩国财长：半导体市场“至少到明年”将保持稳健",
+      "insight": "韩国副总理兼财政经济部长官李炯日周六表示，半导体繁荣将至少持续到2027年。 “目前，我们的看法…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivshce1011370.shtml"
+    },
+    {
+      "id": "ff763bc651",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-18 22:38",
+      "title": "欧洲多国爆发示威活动 法国2000多人被捕",
+      "insight": "法国、意大利、葡萄牙、比利时等欧洲多国17日爆发示威活动，抗议生活成本高企、公共服务不足、教育资…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivsnmc7665103.shtml"
+    },
+    {
+      "id": "ff7e84bfae",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-18 22:28",
+      "title": "海关总署发布风险警示：SWISSE部分产品被检出铅超标",
+      "insight": "近日，海关总署进出口食品安全局关注到澳大利亚药品管理局（TGA）发布通告称，2批次“SWISSE…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshcm7224823.shtml"
+    },
+    {
+      "id": "ff3324e007",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "10-18 22:24",
+      "title": "牛股突发！002667，第一大股东变更！上周五股价跌停",
+      "insight": "又有A股，第一大股东变更。 10月18日晚间，*ST威领（002667）公告称，在10月13日的…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7220452.shtml"
+    },
+    {
+      "id": "ffd1b35430",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-18 22:06",
+      "title": "伊朗：若美国恢复袭击 已有“新作战计划”",
+      "insight": "伊朗一名高级安全官员周日警告称，德黑兰已准备好应对美国和以色列任何再次袭击的新回应计划；与此同时…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivshcf7756548.shtml"
+    },
+    {
+      "id": "ffcb6364fe",
+      "source": "中国证券报",
+      "tag": "财经热点",
+      "time": "10-18 21:41",
+      "title": "周末利好！多家A股公司出手",
+      "insight": "10月18日晚，包括格科微、澜起科技、中科曙光、海光信息和生益科技等多家上市公司发布回购相关公告…",
+      "link": "https://finance.sina.com.cn/china/2026-10-18/doc-inivshci6465601.shtml"
+    },
+    {
+      "id": "ffdbfffbb6",
+      "source": "每日经济新闻",
+      "tag": "股市",
+      "time": "10-18 21:26",
+      "title": "603517、603838，将“摘帽”！明日停牌",
+      "insight": "10月18日，ST绝味公告称，自10月20日起复牌并撤销其他风险警示；*ST四通此前公告，自10…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7199069.shtml"
+    },
+    {
+      "id": "ff64ef5e68",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-18 21:11",
+      "title": "韩国监狱人满为患 获假释囚犯人数骤增",
+      "insight": "韩国政府发布的最新数据显示，由于监狱收容能力不足，今年1月至8月，600多名囚犯在所判刑期实际执…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshci6478297.shtml"
+    },
+    {
+      "id": "ff5147c63d",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-18 21:03",
+      "title": "600392，稀土大动作！",
+      "insight": "来源：中国基金报 【导读】盛和资源拟联手中国稀土集团子公司，实现稀土冶炼分离业务股权合作 中国基…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7173596.shtml"
+    },
+    {
       "id": "ff83cfbdbe",
       "source": "新浪科技",
       "tag": "财经热点",
@@ -80,106 +179,7 @@
       "title": "碧桂园服务于10月16日耗资约154.33万港元回购30万股",
       "insight": "碧桂园服务（06098）公布，2026年10月16日耗资约154.33万港元回购30万股股份。",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7784402.shtml"
-    },
-    {
-      "id": "ff4a8dd7a0",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:04",
-      "title": "华能国际电力股份完成发行20亿元中期票据",
-      "insight": "华能国际电力股份（00902）公布，公司已于近日完成了华能国际电力股份有限公司2026年度第十二…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvp7254319.shtml"
-    },
-    {
-      "id": "ffc3ce32b8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:04",
-      "title": "世茂集团前9个月累计合约销售总额约105.03 亿元 同比减少45.35%",
-      "insight": "世茂集团（00813）发布公告，截至2026年9月30日止9个月，本集团的累计合约销售总额约为人…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvh1010767.shtml"
-    },
-    {
-      "id": "ff3f186c94",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:03",
-      "title": "粤海置地发盈喜 预计前三季度股东应占溢利不少于2.40亿港元同比扭亏为盈",
-      "insight": "粤海置地（00124）发布公告，预期本集团截至2026年9月30日止九个月将录得未经审核归属于本…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvp7253288.shtml"
-    },
-    {
-      "id": "ff82c2d0e4",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:02",
-      "title": "首程控股于10月16日斥资约142.86万港元回购115万股",
-      "insight": "首程控股（00697）发布公告，于2026年10月16日该公司斥资约142.86万港元回购115…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6521124.shtml"
-    },
-    {
-      "id": "ff01dc70da",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:01",
-      "title": "威高股份于10月16日斥资46.96万港元回购14万股",
-      "insight": "威高股份（01066）发布公告，于2026年10月16日，该公司斥资46.96万港元回购14万股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6520907.shtml"
-    },
-    {
-      "id": "ffa795ea56",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:00",
-      "title": "美因基因于10月16日斥资约63.43万港元回购8.82万股",
-      "insight": "美因基因（06667）发布公告，于2026年10月16日该公司斥资约63.43万港元回购8.82…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6520527.shtml"
-    },
-    {
-      "id": "ff8e0dcd8d",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:00",
-      "title": "中远海运港口拟挂牌出售青岛港董家口矿石码头25%股权",
-      "insight": "中远海运港口（01199）公布，公司的全资附属公司上海中远海运港口投资有限公司连同贯星投资有限公…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvh1007718.shtml"
-    },
-    {
-      "id": "ffb5911f89",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 19:59",
-      "title": "渣打集团于10月15日斥资838.55万英镑回购39.61万股",
-      "insight": "渣打集团（02888）发布公告，于2026年10月15日，该公司斥资838.55万英镑回购39.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvh1007130.shtml"
-    },
-    {
-      "id": "ffc2c928cc",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 19:58",
-      "title": "新鸿基公司于10月16日斥资27.3万港元回购7万股",
-      "insight": "新鸿基公司（00086）发布公告，于2026年10月16日斥资27.3万港元回购7万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6519357.shtml"
-    },
-    {
-      "id": "ffe31664f8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 19:57",
-      "title": "融创服务于10月16日斥资35.67万港元回购50万股",
-      "insight": "融创服务（01516）发布公告，于2026年10月16日斥资35.67万港元回购50万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6519044.shtml"
-    },
-    {
-      "id": "ffca896a6e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 19:53",
-      "title": "和铂医药-B于10月16日斥资314.94万港元回购30万股",
-      "insight": "和铂医药-B（02142）发布公告，于2026年10月16日，该公司斥资314.94万港元回购3…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7775812.shtml"
     }
   ],
-  "updateTime": "2026-10-18 20:54"
+  "updateTime": "2026-10-19 01:42"
 }
