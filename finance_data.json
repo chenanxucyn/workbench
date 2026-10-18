@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ffe2e9f32b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-18 09:55",
+      "title": "韩国财长：半导体市场景气至少维持至明年",
+      "insight": "韩国财政部长李炯日周六表示，半导体行业繁荣将至少延续至 2027 年。 李炯日在曼谷出席国际货币…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivrert7843032.shtml"
+    },
+    {
+      "id": "ff9f97666b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-18 08:50",
+      "title": "委内瑞拉预计未来五年石油领域将获得近760亿美元投资",
+      "insight": "委内瑞拉代总统德尔西・罗德里格斯周六表示，该国预计未来五年油气行业将吸引近760亿美元投资，委内…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivqyip6845183.shtml"
+    },
+    {
+      "id": "ff9fc2ae3a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-18 08:09",
+      "title": "AI融资风暴来袭，亚洲AI明星企业风险凸显",
+      "insight": "美国科技股持续遭抛售，暴露了亚洲AI产业链新的风险点：不断走高的融资成本，或将掐断维持AI繁荣所…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivqyip6816868.shtml"
+    },
+    {
+      "id": "ff9c22c89a",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-18 07:52",
+      "title": "国信证券：科技筹码出清，走到哪一步了？",
+      "insight": "来源：智通财经网 国信证券发布研究报告称，科技抛压扰动市场行情走势，较高点杠杆资金、偏股公募、短…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivqyim6080041.shtml"
+    },
+    {
       "id": "ff76bc87cb",
       "source": "央视",
       "tag": "财经热点",
@@ -143,43 +179,7 @@
       "title": "马斯克称AI和机器人是解决美国国债问题唯一途径",
       "insight": "马斯克在与传记作者沃尔特·艾萨克森的一次最新播客访谈中表示，曾由他领导的“DOGE”（政府效率部…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpwwi8120700.shtml"
-    },
-    {
-      "id": "ff4603b99c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-17 19:49",
-      "title": "Anthropic联合创始人：人工智能或推动美国经济规模到2030年达到44万亿美元",
-      "insight": "Anthropic联合创始人杰克·克拉克（Jack Clark）周六表示，人工智能能力的迅速提升…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpwwi8076046.shtml"
-    },
-    {
-      "id": "ffbe39d3c4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-17 18:22",
-      "title": "美国大型银行股创下2008年以来最长周度连跌",
-      "insight": "美国大型银行股录得2008年全球金融危机以来最长周度连跌，最新季度财报不足以提振投资者对这一低迷…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpsqc7127448.shtml"
-    },
-    {
-      "id": "ff461e4ad8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-17 16:24",
-      "title": "欧洲央行行长拉加德：债券抛售拖累经济增长并将抑制通胀",
-      "insight": "欧洲央行行长拉加德周六表示，债券市场的抛售正导致欧元区借贷成本上升，拖累经济增长，并最终抑制通胀…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpnhn1397952.shtml"
-    },
-    {
-      "id": "ff2e23dcfc",
-      "source": "中国新闻网",
-      "tag": "财经热点",
-      "time": "10-17 14:20",
-      "title": "庞兴海同志逝世",
-      "insight": "黑龙江牡丹江市军队离退休干部休养所17日发布讣告： 中国共产党党员，原23军67师201团政治处…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpfyq1423989.shtml"
     }
   ],
-  "updateTime": "2026-10-18 06:48"
+  "updateTime": "2026-10-18 10:29"
 }
