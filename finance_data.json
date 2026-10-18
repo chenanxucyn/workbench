@@ -1,6 +1,15 @@
 {
   "news": [
     {
+      "id": "fff0ed20d8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-19 02:23",
+      "title": "泽连斯基：特朗普正逼迫乌克兰向俄罗斯投降",
+      "insight": "乌克兰总统泽连斯基指责特朗普试图向基辅施压，迫使其向俄罗斯投降，这场与美国总统之间持续一周的争执…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivsssz7657716.shtml"
+    },
+    {
       "id": "ffb5cefbc7",
       "source": "央视",
       "tag": "财经热点",
@@ -170,16 +179,7 @@
       "title": "恒鼎实业第三季度生产原煤88.9万吨 同比减少32%",
       "insight": "恒鼎实业（01393）发布2026年第三季度主要经营数据，生产原煤88.9万吨，同比减少32%；…",
       "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvm6524531.shtml"
-    },
-    {
-      "id": "ff98e32894",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-18 20:05",
-      "title": "碧桂园服务于10月16日耗资约154.33万港元回购30万股",
-      "insight": "碧桂园服务（06098）公布，2026年10月16日耗资约154.33万港元回购30万股股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7784402.shtml"
     }
   ],
-  "updateTime": "2026-10-19 01:42"
+  "updateTime": "2026-10-19 03:56"
 }
