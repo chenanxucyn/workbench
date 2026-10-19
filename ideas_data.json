@@ -2,8 +2,18 @@
   "ideas": [
     {
       "rank": 1,
+      "topic": "中国队夺拜仁青年杯冠军",
+      "heat": 11769360,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%98%9F%E5%A4%BA%E6%8B%9C%E4%BB%81%E9%9D%92%E5%B9%B4%E6%9D%AF%E5%86%A0%E5%86%9B?type=general",
+      "scheme": "snssdk1128://search/中国队夺拜仁青年杯冠军"
+    },
+    {
+      "rank": 2,
       "topic": "南北吃蟹大不同",
-      "heat": 11978889,
+      "heat": 11382587,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -11,19 +21,9 @@
       "scheme": "snssdk1128://search/南北吃蟹大不同"
     },
     {
-      "rank": 2,
-      "topic": "我关注的中国设计师都在抖音大秀",
-      "heat": 11286570,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%83%BD%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%A4%A7%E7%A7%80?type=general",
-      "scheme": "snssdk1128://search/我关注的中国设计师都在抖音大秀"
-    },
-    {
       "rank": 3,
       "topic": "何以中国当惊世界殊",
-      "heat": 11192652,
+      "heat": 11372570,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -32,18 +32,28 @@
     },
     {
       "rank": 4,
-      "topic": "比冬天先来的是阿勒泰的回忆",
-      "heat": 11108328,
+      "topic": "嫁金钗晋江式演技模仿",
+      "heat": 11288024,
       "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E6%AF%94%E5%86%AC%E5%A4%A9%E5%85%88%E6%9D%A5%E7%9A%84%E6%98%AF%E9%98%BF%E5%8B%92%E6%B3%B0%E7%9A%84%E5%9B%9E%E5%BF%86?type=general",
-      "scheme": "snssdk1128://search/比冬天先来的是阿勒泰的回忆"
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%99%8B%E6%B1%9F%E5%BC%8F%E6%BC%94%E6%8A%80%E6%A8%A1%E4%BB%BF?type=general",
+      "scheme": "snssdk1128://search/嫁金钗晋江式演技模仿"
     },
     {
       "rank": 5,
+      "topic": "S16瑞士轮首轮抽签结果",
+      "heat": 10546434,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C?type=general",
+      "scheme": "snssdk1128://search/S16瑞士轮首轮抽签结果"
+    },
+    {
+      "rank": 6,
       "topic": "非遗陶瓷有点东西",
-      "heat": 10550106,
+      "heat": 10545328,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -51,19 +61,19 @@
       "scheme": "snssdk1128://search/非遗陶瓷有点东西"
     },
     {
-      "rank": 6,
-      "topic": "天黑了该我在乐园上场了",
-      "heat": 10546760,
+      "rank": 7,
+      "topic": "我关注的中国设计师都在抖音大秀",
+      "heat": 9431852,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A4%A9%E9%BB%91%E4%BA%86%E8%AF%A5%E6%88%91%E5%9C%A8%E4%B9%90%E5%9B%AD%E4%B8%8A%E5%9C%BA%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/天黑了该我在乐园上场了"
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%85%B3%E6%B3%A8%E7%9A%84%E4%B8%AD%E5%9B%BD%E8%AE%BE%E8%AE%A1%E5%B8%88%E9%83%BD%E5%9C%A8%E6%8A%96%E9%9F%B3%E5%A4%A7%E7%A7%80?type=general",
+      "scheme": "snssdk1128://search/我关注的中国设计师都在抖音大秀"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "topic": "张雪机车冲击水上漂吉尼斯纪录",
-      "heat": 9435170,
+      "heat": 9408549,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,19 +81,9 @@
       "scheme": "snssdk1128://search/张雪机车冲击水上漂吉尼斯纪录"
     },
     {
-      "rank": 8,
-      "topic": "社保基金会原副理事长王文灵被双开",
-      "heat": 9280680,
-      "videos": 0,
-      "type": "搞钱/吐槽",
-      "insight": "职场/搞钱/吐槽类口播完播率高，借热点宣泄情绪+给方法，涨粉快。",
-      "link": "https://www.douyin.com/search/%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E7%90%86%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%96%87%E7%81%B5%E8%A2%AB%E5%8F%8C%E5%BC%80?type=general",
-      "scheme": "snssdk1128://search/社保基金会原副理事长王文灵被双开"
-    },
-    {
       "rank": 9,
       "topic": "法国多地抗议引发骚乱",
-      "heat": 9243268,
+      "heat": 9401914,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -93,7 +93,7 @@
     {
       "rank": 10,
       "topic": "2026维密大秀",
-      "heat": 9170940,
+      "heat": 9346254,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -102,28 +102,28 @@
     },
     {
       "rank": 11,
-      "topic": "S16瑞士轮首轮抽签结果",
-      "heat": 9094365,
+      "topic": "一口气梳理维秘大秀造型看点",
+      "heat": 9333141,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/S16%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E6%8A%BD%E7%AD%BE%E7%BB%93%E6%9E%9C?type=general",
-      "scheme": "snssdk1128://search/S16瑞士轮首轮抽签结果"
+      "link": "https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E6%A2%B3%E7%90%86%E7%BB%B4%E7%A7%98%E5%A4%A7%E7%A7%80%E9%80%A0%E5%9E%8B%E7%9C%8B%E7%82%B9?type=general",
+      "scheme": "snssdk1128://search/一口气梳理维秘大秀造型看点"
     },
     {
       "rank": 12,
-      "topic": "前三季度我国GDP同比增长4.6% ​",
-      "heat": 9092035,
+      "topic": "天黑了该我在乐园上场了",
+      "heat": 9219254,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%89%8D%E4%B8%89%E5%AD%A3%E5%BA%A6%E6%88%91%E5%9B%BDGDP%E5%90%8C%E6%AF%94%E5%A2%9E%E9%95%BF4.6%25%20%E2%80%8B?type=general",
-      "scheme": "snssdk1128://search/前三季度我国GDP同比增长4.6% ​"
+      "link": "https://www.douyin.com/search/%E5%A4%A9%E9%BB%91%E4%BA%86%E8%AF%A5%E6%88%91%E5%9C%A8%E4%B9%90%E5%9B%AD%E4%B8%8A%E5%9C%BA%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/天黑了该我在乐园上场了"
     },
     {
       "rank": 13,
       "topic": "重庆一车辆从高架坠落系谣言",
-      "heat": 8921917,
+      "heat": 9174242,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,78 +132,8 @@
     },
     {
       "rank": 14,
-      "topic": "妲己配音大赛",
-      "heat": 8817860,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A6%B2%E5%B7%B1%E9%85%8D%E9%9F%B3%E5%A4%A7%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/妲己配音大赛"
-    },
-    {
-      "rank": 15,
-      "topic": "马斯克将送美国儿童SpaceX股票",
-      "heat": 8374415,
-      "videos": 0,
-      "type": "母婴萌娃",
-      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
-      "link": "https://www.douyin.com/search/%E9%A9%AC%E6%96%AF%E5%85%8B%E5%B0%86%E9%80%81%E7%BE%8E%E5%9B%BD%E5%84%BF%E7%AB%A5SpaceX%E8%82%A1%E7%A5%A8?type=general",
-      "scheme": "snssdk1128://search/马斯克将送美国儿童SpaceX股票"
-    },
-    {
-      "rank": 16,
-      "topic": "嫁金钗抖音直播",
-      "heat": 8343661,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E6%8A%96%E9%9F%B3%E7%9B%B4%E6%92%AD?type=general",
-      "scheme": "snssdk1128://search/嫁金钗抖音直播"
-    },
-    {
-      "rank": 17,
-      "topic": "一口气梳理维秘大秀造型看点",
-      "heat": 8343418,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%80%E5%8F%A3%E6%B0%94%E6%A2%B3%E7%90%86%E7%BB%B4%E7%A7%98%E5%A4%A7%E7%A7%80%E9%80%A0%E5%9E%8B%E7%9C%8B%E7%82%B9?type=general",
-      "scheme": "snssdk1128://search/一口气梳理维秘大秀造型看点"
-    },
-    {
-      "rank": 18,
-      "topic": "VCTCN八支合作队伍官宣",
-      "heat": 8207290,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/VCTCN%E5%85%AB%E6%94%AF%E5%90%88%E4%BD%9C%E9%98%9F%E4%BC%8D%E5%AE%98%E5%AE%A3?type=general",
-      "scheme": "snssdk1128://search/VCTCN八支合作队伍官宣"
-    },
-    {
-      "rank": 19,
-      "topic": "就像第一次问你爱不爱",
-      "heat": 7966992,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%B1%E5%83%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%AE%E4%BD%A0%E7%88%B1%E4%B8%8D%E7%88%B1?type=general",
-      "scheme": "snssdk1128://search/就像第一次问你爱不爱"
-    },
-    {
-      "rank": 20,
-      "topic": "嫁金钗田曦薇演我买金饰",
-      "heat": 7868454,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%94%B0%E6%9B%A6%E8%96%87%E6%BC%94%E6%88%91%E4%B9%B0%E9%87%91%E9%A5%B0?type=general",
-      "scheme": "snssdk1128://search/嫁金钗田曦薇演我买金饰"
-    },
-    {
-      "rank": 21,
       "topic": "四川绵阳市北川县发生4.1级地震",
-      "heat": 7842129,
+      "heat": 8992984,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -211,9 +141,69 @@
       "scheme": "snssdk1128://search/四川绵阳市北川县发生4.1级地震"
     },
     {
-      "rank": 22,
+      "rank": 15,
+      "topic": "妲己配音大赛",
+      "heat": 8822433,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%A6%B2%E5%B7%B1%E9%85%8D%E9%9F%B3%E5%A4%A7%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/妲己配音大赛"
+    },
+    {
+      "rank": 16,
+      "topic": "马克龙称骚乱根源是波斯湾冲突",
+      "heat": 8682359,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%A9%AC%E5%85%8B%E9%BE%99%E7%A7%B0%E9%AA%9A%E4%B9%B1%E6%A0%B9%E6%BA%90%E6%98%AF%E6%B3%A2%E6%96%AF%E6%B9%BE%E5%86%B2%E7%AA%81?type=general",
+      "scheme": "snssdk1128://search/马克龙称骚乱根源是波斯湾冲突"
+    },
+    {
+      "rank": 17,
+      "topic": "莫斯科大学回应学生身披旭日旗",
+      "heat": 8243892,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%8E%AB%E6%96%AF%E7%A7%91%E5%A4%A7%E5%AD%A6%E5%9B%9E%E5%BA%94%E5%AD%A6%E7%94%9F%E8%BA%AB%E6%8A%AB%E6%97%AD%E6%97%A5%E6%97%97?type=general",
+      "scheme": "snssdk1128://search/莫斯科大学回应学生身披旭日旗"
+    },
+    {
+      "rank": 18,
+      "topic": "社保基金会原副理事长王文灵被双开",
+      "heat": 8159099,
+      "videos": 0,
+      "type": "搞钱/吐槽",
+      "insight": "职场/搞钱/吐槽类口播完播率高，借热点宣泄情绪+给方法，涨粉快。",
+      "link": "https://www.douyin.com/search/%E7%A4%BE%E4%BF%9D%E5%9F%BA%E9%87%91%E4%BC%9A%E5%8E%9F%E5%89%AF%E7%90%86%E4%BA%8B%E9%95%BF%E7%8E%8B%E6%96%87%E7%81%B5%E8%A2%AB%E5%8F%8C%E5%BC%80?type=general",
+      "scheme": "snssdk1128://search/社保基金会原副理事长王文灵被双开"
+    },
+    {
+      "rank": 19,
+      "topic": "嫁金钗热度破万",
+      "heat": 8077010,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87?type=general",
+      "scheme": "snssdk1128://search/嫁金钗热度破万"
+    },
+    {
+      "rank": 20,
+      "topic": "在秋天给自己画一幅肖像",
+      "heat": 7846838,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9C%A8%E7%A7%8B%E5%A4%A9%E7%BB%99%E8%87%AA%E5%B7%B1%E7%94%BB%E4%B8%80%E5%B9%85%E8%82%96%E5%83%8F?type=general",
+      "scheme": "snssdk1128://search/在秋天给自己画一幅肖像"
+    },
+    {
+      "rank": 21,
       "topic": "iPhone Duo成电子茅台",
-      "heat": 7794940,
+      "heat": 7822827,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -221,9 +211,9 @@
       "scheme": "snssdk1128://search/iPhone Duo成电子茅台"
     },
     {
-      "rank": 23,
+      "rank": 22,
       "topic": "奚梦瑶维密鎏金翅膀惊艳全场",
-      "heat": 7757405,
+      "heat": 7815195,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -231,19 +221,29 @@
       "scheme": "snssdk1128://search/奚梦瑶维密鎏金翅膀惊艳全场"
     },
     {
-      "rank": 24,
-      "topic": "被维密大秀上的设计美到失语",
-      "heat": 7756660,
+      "rank": 23,
+      "topic": "曼城或被巨额扣分确保降级",
+      "heat": 7812379,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A2%AB%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E4%B8%8A%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BE%8E%E5%88%B0%E5%A4%B1%E8%AF%AD?type=general",
-      "scheme": "snssdk1128://search/被维密大秀上的设计美到失语"
+      "link": "https://www.douyin.com/search/%E6%9B%BC%E5%9F%8E%E6%88%96%E8%A2%AB%E5%B7%A8%E9%A2%9D%E6%89%A3%E5%88%86%E7%A1%AE%E4%BF%9D%E9%99%8D%E7%BA%A7?type=general",
+      "scheme": "snssdk1128://search/曼城或被巨额扣分确保降级"
+    },
+    {
+      "rank": 24,
+      "topic": "嫁金钗韩辽是气疯了还是心动了",
+      "heat": 7797467,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E9%9F%A9%E8%BE%BD%E6%98%AF%E6%B0%94%E7%96%AF%E4%BA%86%E8%BF%98%E6%98%AF%E5%BF%83%E5%8A%A8%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/嫁金钗韩辽是气疯了还是心动了"
     },
     {
       "rank": 25,
       "topic": "三角洲S12新赛季超前爆料",
-      "heat": 7755114,
+      "heat": 7781889,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -252,38 +252,38 @@
     },
     {
       "rank": 26,
-      "topic": "单依纯一跤摔到维密秀",
-      "heat": 7752586,
+      "topic": "被维密大秀上的设计美到失语",
+      "heat": 7770690,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8D%95%E4%BE%9D%E7%BA%AF%E4%B8%80%E8%B7%A4%E6%91%94%E5%88%B0%E7%BB%B4%E5%AF%86%E7%A7%80?type=general",
-      "scheme": "snssdk1128://search/单依纯一跤摔到维密秀"
+      "link": "https://www.douyin.com/search/%E8%A2%AB%E7%BB%B4%E5%AF%86%E5%A4%A7%E7%A7%80%E4%B8%8A%E7%9A%84%E8%AE%BE%E8%AE%A1%E7%BE%8E%E5%88%B0%E5%A4%B1%E8%AF%AD?type=general",
+      "scheme": "snssdk1128://search/被维密大秀上的设计美到失语"
     },
     {
       "rank": 27,
-      "topic": "实测Deepseek v4.1动画效果",
-      "heat": 7739923,
+      "topic": "第39届金鸡奖提名名单公布",
+      "heat": 7758403,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AE%9E%E6%B5%8BDeepseek%20v4.1%E5%8A%A8%E7%94%BB%E6%95%88%E6%9E%9C?type=general",
-      "scheme": "snssdk1128://search/实测Deepseek v4.1动画效果"
+      "link": "https://www.douyin.com/search/%E7%AC%AC39%E5%B1%8A%E9%87%91%E9%B8%A1%E5%A5%96%E6%8F%90%E5%90%8D%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83?type=general",
+      "scheme": "snssdk1128://search/第39届金鸡奖提名名单公布"
     },
     {
       "rank": 28,
-      "topic": "嫁金钗热度破万",
-      "heat": 7734206,
+      "topic": "就像第一次问你爱不爱",
+      "heat": 7756544,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%83%AD%E5%BA%A6%E7%A0%B4%E4%B8%87?type=general",
-      "scheme": "snssdk1128://search/嫁金钗热度破万"
+      "link": "https://www.douyin.com/search/%E5%B0%B1%E5%83%8F%E7%AC%AC%E4%B8%80%E6%AC%A1%E9%97%AE%E4%BD%A0%E7%88%B1%E4%B8%8D%E7%88%B1?type=general",
+      "scheme": "snssdk1128://search/就像第一次问你爱不爱"
     },
     {
       "rank": 29,
       "topic": "五官还原挑战玩了不烧心",
-      "heat": 7728406,
+      "heat": 7724277,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -292,14 +292,14 @@
     },
     {
       "rank": 30,
-      "topic": "TXT新专概念预告",
-      "heat": 7722445,
+      "topic": "繁荣主义穿搭回归",
+      "heat": 7709989,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/TXT%E6%96%B0%E4%B8%93%E6%A6%82%E5%BF%B5%E9%A2%84%E5%91%8A?type=general",
-      "scheme": "snssdk1128://search/TXT新专概念预告"
+      "link": "https://www.douyin.com/search/%E7%B9%81%E8%8D%A3%E4%B8%BB%E4%B9%89%E7%A9%BF%E6%90%AD%E5%9B%9E%E5%BD%92?type=general",
+      "scheme": "snssdk1128://search/繁荣主义穿搭回归"
     }
   ],
-  "updateTime": "2026-10-20 00:04"
+  "updateTime": "2026-10-20 05:54"
 }

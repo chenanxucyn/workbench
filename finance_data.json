@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff5991e8d3",
+      "id": "ff3d17da7a",
       "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:51",
-      "title": "纽约证交所延长部分期权交易时段 涉及英伟达、阿里巴巴等证券",
-      "insight": "纽约证券交易所（NYSE）对部分NYSE American期权延长交易时段，首批符合条件的标的证…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7762985.shtml"
-    },
-    {
-      "id": "ff40525fae",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:50",
-      "title": "土耳其基金危机余波未平 市场监管机构负责人以“健康原因”为由辞职",
-      "insight": "土耳其资本市场监管机构负责人Mahmut Sutcu周一辞职。此前一场基金危机扰乱了该国市场，并…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0989927.shtml"
-    },
-    {
-      "id": "fffdb22bd5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:44",
-      "title": "Anthropic是今年大型IPO的最后一大希望",
-      "insight": "进入2026年时，投资者曾对一系列新IPO的前景感到兴奋，包括SpaceX、Anthropic和…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6125340.shtml"
-    },
-    {
-      "id": "fff37e812e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:36",
-      "title": "汇丰开始为资产管理业务寻找新任首席执行官",
-      "insight": "汇丰控股已开始为旗下资产管理业务寻找新任首席执行官，以接替Nicolas Moreau。 该行代…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0974898.shtml"
-    },
-    {
-      "id": "ff527e7e02",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:35",
-      "title": "特朗普经济顾问哈塞特：通胀仍需关注 尊重美联储独立性",
-      "insight": "白宫国家经济委员会主任凯文·哈塞特表示，牛肉和鸡蛋等商品价格在下降，但9月消费者价格数据显示，整…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6118042.shtml"
-    },
-    {
-      "id": "ff0ff3ffec",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:29",
-      "title": "Lombard Odier认为美国增长前景将推动美元进一步走强",
-      "insight": "随着美国经济增长更加强劲，以及市场对美联储独立性的担忧缓解，美元前景有所改善，Lombard O…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7740001.shtml"
-    },
-    {
-      "id": "ff02ae003f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:13",
-      "title": "民调：勒庞将在法国大选首轮投票中取胜 得票率至少31%",
-      "insight": "Cluster 17为《观点》杂志进行的一项投票意向调查显示，法国极右翼领导人玛丽娜·勒庞将在总…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0951207.shtml"
-    },
-    {
-      "id": "ffdd1221d4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 23:09",
-      "title": "胡塞武装持续袭击 沙特取消旗舰投资大会线下参会安排",
-      "insight": "沙特已排除今年以线下形式举办其旗舰投资大会，持续不断的胡塞武装袭击扰乱了前往沙特的交通，打击了利…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurki6828321.shtml"
-    },
-    {
-      "id": "fffa50d70a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 22:59",
-      "title": "美国国防部首席技术官：考虑投资微电子企业",
-      "insight": "美国国防部首席技术官Emil Michael在接受采访时表示，五角大楼正在“关注微电子企业”，以…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6087938.shtml"
-    },
-    {
-      "id": "ffa5bb79bd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 22:58",
-      "title": "伊朗外长：针对里海地区伊朗和俄罗斯船只的袭击令人深感关切",
-      "insight": "伊朗外交部长阿巴斯·阿拉格齐表示，针对里海地区伊朗和俄罗斯船只的袭击，以及对当地“港口基础设施”…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0936564.shtml"
-    },
-    {
-      "id": "ffc340ac79",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 22:55",
-      "title": "瑞银重申麦当劳买入评级，目标价320美元：美国同店销售预计下滑，但2027年有望重拾增长",
-      "insight": "瑞银于10月19日重申对麦当劳（McDonald‘s）的“买入”评级及320美元目标价，看好公司…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0934629.shtml"
-    },
-    {
-      "id": "ffbae7be5c",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "10-19 22:46",
-      "title": "300081公告：原董事长被采取刑事强制措施，对主要子公司产生重大影响",
-      "insight": "ST恒信（300081）10月19日晚间公告称，公司10月16日晚从公安司法机关获悉，公司原董事…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurki6811011.shtml"
-    },
-    {
-      "id": "ff0142406c",
-      "source": "央视",
       "tag": "财经热点",
-      "time": "10-19 22:44",
-      "title": "俄外长：破坏全球能源稳定的是欧盟和美国",
-      "insight": "10月19日，俄罗斯外交部发布消息，俄外长拉夫罗夫与伊朗外长阿拉格齐在德黑兰举行双边会谈。拉夫罗…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivurkc7704976.shtml"
+      "time": "10-20 05:46",
+      "title": "10月20日外盘头条：法国局势动荡冲击欧洲市场 沙特推迟旗舰投资大会 苹果官宣10月28日发布新品",
+      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、法国局势动荡拖累欧洲股市下跌 焦点转向企业财…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivvhfx5925859.shtml"
     },
     {
-      "id": "ffb77b1b9e",
+      "id": "ff0afd2d89",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 05:32",
+      "title": "美国股市：芯片股反弹提振大盘 AI盈利前景吸引逢低买盘",
+      "insight": "芯片股反弹提振美国股市，随着投资者押注AI投资热潮将继续支撑企业盈利，逢低买盘涌现。 纳斯达克1…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivvhfz6649959.shtml"
+    },
+    {
+      "id": "ff46bdc2d2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 05:06",
+      "title": "美国能源部长赖特：俄罗斯柴油尚未投放市场",
+      "insight": "美国能源部长克里斯·赖特称，俄罗斯柴油尚未投放市场。 赖特在接受福克斯新闻采访时发表上述言论。 …",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivvhfz6635950.shtml"
+    },
+    {
+      "id": "ffcacc2a5d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 05:03",
+      "title": "原油：布伦特在五个月高点附近震荡 关注中东风险和柴油协议疑虑",
+      "insight": "原油在五个月高位附近震荡，中东战事再度升温引发供应风险，推动油价上涨，但技术阻力限制了涨势。 布…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivvhfu0784309.shtml"
+    },
+    {
+      "id": "ff0336f2e5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 04:49",
+      "title": "10月20日热门中概股涨跌不一，台积电涨1.84%",
+      "insight": "10月20日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.27%。 上涨个股（按市值…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivvhfv7544451.shtml"
+    },
+    {
+      "id": "ffdc2264f1",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 04:29",
+      "title": "10月20日收盘：美股涨跌互现 科技股领涨 市场聚焦特斯拉与Meta财报",
+      "insight": "周一，美股涨跌互现，科技板块反弹领涨，投资者正关注本周晚些时候特斯拉和Meta的财报。 道指跌3…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxw0887698.shtml"
+    },
+    {
+      "id": "ff178d9543",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 04:12",
+      "title": "美国债市：国债小幅走低 油价上涨与风险偏好回升带来压力",
+      "insight": "美债期货在美国交易时段小幅走低，此前伊朗表示为维护安全“别无选择”，只能对霍尔木兹海峡行使主权，…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxx7652386.shtml"
+    },
+    {
+      "id": "ffdce0b3f8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 04:09",
+      "title": "Nscale与Anthropic据悉洽谈约450亿美元云算力大单",
+      "insight": "知情人士称，AI云计算公司Nscale正在洽谈向Anthropic出售算力，潜在交易价值约450…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxx7650825.shtml"
+    },
+    {
+      "id": "ff9de78dea",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 04:03",
+      "title": "胡塞武装持续袭击 沙特将旗舰投资大会推迟至2027年",
+      "insight": "随着胡塞武装持续发动袭击，沙特阿拉伯已将其旗舰会议推迟至明年举行，这打击了利雅得吸引外国资本并将…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivuzxz6001091.shtml"
+    },
+    {
+      "id": "ff27c0d854",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 22:44",
-      "title": "AI智能体推动CPU需求复苏，TD Cowen重申AMD买入评级，目标价675美元",
-      "insight": "TD Cowen于10月19日重申对超威半导体（AMD）的“买入”评级及675美元目标价，认为自…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0923234.shtml"
+      "time": "10-20 02:54",
+      "title": "苹果宣布将于10月28日举行产品发布活动，分析师预计将推出触屏笔记本电脑",
+      "insight": "苹果宣布将于10月28日举行产品发布活动，并于周一向媒体和分析师发出邀请，活动名为“Apple …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuzyc6707434.shtml"
     },
     {
-      "id": "ffeea6ce61",
+      "id": "ff713b1e30",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 22:42",
-      "title": "美国住宅建筑商信心降至14年低点 销售持续疲软",
-      "insight": "美国住宅建筑商信心本月跌至14年来最低水平，抵押贷款利率超过7%、劳动力短缺以及高企的供应成本持…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0921358.shtml"
+      "time": "10-20 02:51",
+      "title": "德国总理默茨警告称欧洲低估了俄罗斯的威胁",
+      "insight": "德国总理默茨警告称，不应对俄罗斯构成的危险掉以轻心。他表示，俄罗斯总统弗拉基米尔·普京不仅要击败…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuzxw0846892.shtml"
     },
     {
-      "id": "ffe7311f2b",
+      "id": "ff13d0b9c3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 22:42",
-      "title": "胡塞武装袭击不断 沙特计划推迟投资大会线下活动",
-      "insight": "三位知情人士透露，针对沙特机场的袭击事件不断升级，沙特计划推迟其被称作“沙漠达沃斯”的投资大会线…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7693360.shtml"
+      "time": "10-20 02:49",
+      "title": "美国宣布价值约120亿美元中亚协议",
+      "insight": "美国宣布约120亿美元的协议，以进一步扩大在资源丰富的中亚地区的影响力。 特朗普政府一直寻求扩大…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuzxz5974379.shtml"
     },
     {
-      "id": "ffef7eba81",
+      "id": "ffeb374825",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 22:22",
-      "title": "Anthropic据报准备发布推理能力优于同侪的新模型",
-      "insight": "据报道，Anthropic正准备发布一款新模型，其推理和直觉能力优于目前市面上的模型。 这款尚未…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6060787.shtml"
+      "time": "10-20 02:46",
+      "title": "美国能源部长：受制裁油轮可经审批运输合法原油",
+      "insight": "美国能源部长赖特表示，特朗普政府正允许受制裁油轮通过一套审批程序，转而合法运输原油。 赖特表示，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuzxx7616830.shtml"
     },
     {
-      "id": "ff0590e71d",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-19 22:20",
-      "title": "600293，重大资产重组！明日复牌",
-      "insight": "来源：中国基金报 【导读】三峡新材拟收购锂电池电解液公司赛纬电子100%股权，切入新能源材料赛道…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurki6794091.shtml"
-    },
-    {
-      "id": "fff44221c5",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "10-19 22:14",
-      "title": "002415，冯柳减仓，裘国根加仓",
-      "insight": "对于科技板块的机会与风险，私募间的分歧愈演愈烈。 据海康威视（002415）近日发布的三季报，截…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurka0901771.shtml"
-    },
-    {
-      "id": "ffd2e96d8e",
+      "id": "ffd1d7dd3d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 22:14",
-      "title": "哈塞特称通胀似乎又“需要下些功夫”应对",
-      "insight": "白宫国家经济委员会主任凯文·哈塞特在接受采访时表示，从此前三个月的数据来看，通胀似乎“完全得到控…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurki6787162.shtml"
+      "time": "10-20 01:43",
+      "title": "高盛：对冲基金以至少十年来最快速度减持科技股",
+      "insight": "高盛主经纪商业务部门的数据显示，对冲基金以至少十年来最快速度减持科技股。 截至10月15日的五个…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvrz7712548.shtml"
+    },
+    {
+      "id": "fffcc167e0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 01:33",
+      "title": "创始人内斗持续 Two Sigma高管Seth Platt拟离职",
+      "insight": "Two Sigma Investments的Seth Platt计划离开这家量化对冲基金。Two…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvry0934974.shtml"
+    },
+    {
+      "id": "ff406f4816",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 01:17",
+      "title": "私募股权“退出难”催生新招 高盛等投行试水常青续存基金",
+      "insight": "高盛和Evercore正在向投资者摸底一种可能帮助私募股权公司将资产持有时间大幅延长的基金策略。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvry0927126.shtml"
+    },
+    {
+      "id": "ffb6233ab6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 00:55",
+      "title": "欧洲债市：法国国债领跌全球债市 10年期法德利差走阔10个基点",
+      "insight": "基准法国10年期国债收益率上涨13个基点，至4.94%，为9月份以来最大升幅，推动法国与德国国债…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvsf6774813.shtml"
+    },
+    {
+      "id": "ff30335fc3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 00:41",
+      "title": "伊朗称为维护安全“别无选择” 只能对霍尔木兹海峡行使主权",
+      "insight": "伊朗第一副总统Mohammad Reza Aref周一在塔吉克斯坦与俄罗斯总理米舒斯京会晤时表示…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvrz7672858.shtml"
+    },
+    {
+      "id": "ffcb667e2b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 00:39",
+      "title": "苹果宣布10月28日举行发布会 将推出触控屏MacBook Pro",
+      "insight": "苹果周一确认，将于10月28日举行新品发布会，届时计划推出公司首款触屏MacBook。 这场主题…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvry0898756.shtml"
+    },
+    {
+      "id": "ff2554f944",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 00:30",
+      "title": "法国局势动荡拖累欧洲股市下跌 焦点转向企业财报",
+      "insight": "欧洲股市下跌，此前法国在周末有关生活成本的抗议演变成暴力事件。投资者同时等待本周密集公布的企业财…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivuvsc6027792.shtml"
     }
   ],
-  "updateTime": "2026-10-20 00:04"
+  "updateTime": "2026-10-20 05:54"
 }
