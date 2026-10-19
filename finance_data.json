@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff1fe91db6",
+      "id": "ff5991e8d3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 16:14",
-      "title": "马斯克承诺明年赠给“美国每个孩子”1股SpaceX股份",
-      "insight": "埃隆·马斯克表示，明年他将把自己持有的SpaceX股份赠予“美国每个孩子”一股。 他补充道：“这…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynp6185178.shtml"
+      "time": "10-19 23:51",
+      "title": "纽约证交所延长部分期权交易时段 涉及英伟达、阿里巴巴等证券",
+      "insight": "纽约证券交易所（NYSE）对部分NYSE American期权延长交易时段，首批符合条件的标的证…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7762985.shtml"
     },
     {
-      "id": "ff9c8145ec",
-      "source": "界面",
+      "id": "ff40525fae",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:50",
+      "title": "土耳其基金危机余波未平 市场监管机构负责人以“健康原因”为由辞职",
+      "insight": "土耳其资本市场监管机构负责人Mahmut Sutcu周一辞职。此前一场基金危机扰乱了该国市场，并…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0989927.shtml"
+    },
+    {
+      "id": "fffdb22bd5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:44",
+      "title": "Anthropic是今年大型IPO的最后一大希望",
+      "insight": "进入2026年时，投资者曾对一系列新IPO的前景感到兴奋，包括SpaceX、Anthropic和…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6125340.shtml"
+    },
+    {
+      "id": "fff37e812e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:36",
+      "title": "汇丰开始为资产管理业务寻找新任首席执行官",
+      "insight": "汇丰控股已开始为旗下资产管理业务寻找新任首席执行官，以接替Nicolas Moreau。 该行代…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0974898.shtml"
+    },
+    {
+      "id": "ff527e7e02",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:35",
+      "title": "特朗普经济顾问哈塞特：通胀仍需关注 尊重美联储独立性",
+      "insight": "白宫国家经济委员会主任凯文·哈塞特表示，牛肉和鸡蛋等商品价格在下降，但9月消费者价格数据显示，整…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6118042.shtml"
+    },
+    {
+      "id": "ff0ff3ffec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:29",
+      "title": "Lombard Odier认为美国增长前景将推动美元进一步走强",
+      "insight": "随着美国经济增长更加强劲，以及市场对美联储独立性的担忧缓解，美元前景有所改善，Lombard O…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7740001.shtml"
+    },
+    {
+      "id": "ff02ae003f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:13",
+      "title": "民调：勒庞将在法国大选首轮投票中取胜 得票率至少31%",
+      "insight": "Cluster 17为《观点》杂志进行的一项投票意向调查显示，法国极右翼领导人玛丽娜·勒庞将在总…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0951207.shtml"
+    },
+    {
+      "id": "ffdd1221d4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 23:09",
+      "title": "胡塞武装持续袭击 沙特取消旗舰投资大会线下参会安排",
+      "insight": "沙特已排除今年以线下形式举办其旗舰投资大会，持续不断的胡塞武装袭击扰乱了前往沙特的交通，打击了利…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurki6828321.shtml"
+    },
+    {
+      "id": "fffa50d70a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 22:59",
+      "title": "美国国防部首席技术官：考虑投资微电子企业",
+      "insight": "美国国防部首席技术官Emil Michael在接受采访时表示，五角大楼正在“关注微电子企业”，以…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6087938.shtml"
+    },
+    {
+      "id": "ffa5bb79bd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 22:58",
+      "title": "伊朗外长：针对里海地区伊朗和俄罗斯船只的袭击令人深感关切",
+      "insight": "伊朗外交部长阿巴斯·阿拉格齐表示，针对里海地区伊朗和俄罗斯船只的袭击，以及对当地“港口基础设施”…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0936564.shtml"
+    },
+    {
+      "id": "ffc340ac79",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-19 22:55",
+      "title": "瑞银重申麦当劳买入评级，目标价320美元：美国同店销售预计下滑，但2027年有望重拾增长",
+      "insight": "瑞银于10月19日重申对麦当劳（McDonald‘s）的“买入”评级及320美元目标价，看好公司…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0934629.shtml"
+    },
+    {
+      "id": "ffbae7be5c",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "10-19 22:46",
+      "title": "300081公告：原董事长被采取刑事强制措施，对主要子公司产生重大影响",
+      "insight": "ST恒信（300081）10月19日晚间公告称，公司10月16日晚从公安司法机关获悉，公司原董事…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurki6811011.shtml"
+    },
+    {
+      "id": "ff0142406c",
+      "source": "央视",
       "tag": "财经热点",
-      "time": "10-19 16:13",
-      "title": "将连续四个周五密集发新品，苹果或现罕见“上新潮”",
-      "insight": "界面新闻记者 | 宋佳楠 当行业还在热议iPhone Duo一机难求时，苹果正在筹备更多的新品发…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivtynp6184399.shtml"
+      "time": "10-19 22:44",
+      "title": "俄外长：破坏全球能源稳定的是欧盟和美国",
+      "insight": "10月19日，俄罗斯外交部发布消息，俄外长拉夫罗夫与伊朗外长阿拉格齐在德黑兰举行双边会谈。拉夫罗…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivurkc7704976.shtml"
     },
     {
-      "id": "ff08b22f35",
+      "id": "ffb77b1b9e",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 16:12",
-      "title": "Anthropic宣布拨出5%股份设立公益基金，估值每上涨50%可追加2%，IPO估值预期降至1.5万亿美元",
-      "insight": "人工智能公司Anthropic于10月18日宣布，将拿出公司5%的股份设立公共利益基金（Publ…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynk0921313.shtml"
+      "time": "10-19 22:44",
+      "title": "AI智能体推动CPU需求复苏，TD Cowen重申AMD买入评级，目标价675美元",
+      "insight": "TD Cowen于10月19日重申对超威半导体（AMD）的“买入”评级及675美元目标价，认为自…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0923234.shtml"
     },
     {
-      "id": "ff808d4eee",
+      "id": "ffeea6ce61",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 15:48",
-      "title": "AI热潮推动CPU需求复苏：英特尔与AMD股价年内双双暴涨逾140%，但盈利能力差距明显",
-      "insight": "人工智能基础设施投资正从GPU芯片扩展至CPU处理器，为英特尔（Intel）和超威半导体（AMD…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynp6163396.shtml"
+      "time": "10-19 22:42",
+      "title": "美国住宅建筑商信心降至14年低点 销售持续疲软",
+      "insight": "美国住宅建筑商信心本月跌至14年来最低水平，抵押贷款利率超过7%、劳动力短缺以及高企的供应成本持…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurka0921358.shtml"
     },
     {
-      "id": "ffbc9ac7bd",
+      "id": "ffe7311f2b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 15:48",
-      "title": "AI股抛售潮过后 美股有望反弹",
-      "insight": "去年4月以来，纳斯达克100指数上周创下最大单周跌幅，周一该指数期货上涨1.3%。 美国股市周一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynm7658726.shtml"
+      "time": "10-19 22:42",
+      "title": "胡塞武装袭击不断 沙特计划推迟投资大会线下活动",
+      "insight": "三位知情人士透露，针对沙特机场的袭击事件不断升级，沙特计划推迟其被称作“沙漠达沃斯”的投资大会线…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkc7693360.shtml"
     },
     {
-      "id": "ff2798f211",
+      "id": "ffef7eba81",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 15:48",
-      "title": "木头姐看多韩存储芯片：韩股下跌源于程序化交易，韩国半导体板块已进入买入区间",
-      "insight": "“韩国股市的外资抛售，并非基本面恶化导致的离场。程序化交易带来的影响更大。” 方舟投资CEO、“…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynp6163053.shtml"
+      "time": "10-19 22:22",
+      "title": "Anthropic据报准备发布推理能力优于同侪的新模型",
+      "insight": "据报道，Anthropic正准备发布一款新模型，其推理和直觉能力优于目前市面上的模型。 这款尚未…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurkf6060787.shtml"
     },
     {
-      "id": "ffacdb7600",
+      "id": "ff0590e71d",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-19 22:20",
+      "title": "600293，重大资产重组！明日复牌",
+      "insight": "来源：中国基金报 【导读】三峡新材拟收购锂电池电解液公司赛纬电子100%股权，切入新能源材料赛道…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurki6794091.shtml"
+    },
+    {
+      "id": "fff44221c5",
+      "source": "上海证券报",
+      "tag": "股市",
+      "time": "10-19 22:14",
+      "title": "002415，冯柳减仓，裘国根加仓",
+      "insight": "对于科技板块的机会与风险，私募间的分歧愈演愈烈。 据海康威视（002415）近日发布的三季报，截…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-19/doc-inivurka0901771.shtml"
+    },
+    {
+      "id": "ffd2e96d8e",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-19 15:45",
-      "title": "德意志银行拟于2027年将加密资产托管业务拓展至亚洲",
-      "insight": "该服务初期将支持比特币、以太坊以及USDC、EURC和EURAU等稳定币，由银行负责管理客户的数…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynk0881298.shtml"
-    },
-    {
-      "id": "ff9b0f1c54",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 15:41",
-      "title": "下一轮AI竞赛的胜负或由华尔街决定",
-      "insight": "人工智能产业的竞争正在从芯片性能、模型能力转向资本获取能力。今年8月，英伟达联合阿波罗、贝莱德、…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynp6156907.shtml"
-    },
-    {
-      "id": "ff2cac140c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:41",
-      "title": "港华智慧能源根据以股代息安排发行110.3万股",
-      "insight": "港华智慧能源（01083）发布公告，于2026年10月16日根据有关截至2026年6月30日止六…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynp6156540.shtml"
-    },
-    {
-      "id": "ff8f097056",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 15:41",
-      "title": "量化交易巨头Two Sigma创始人陷入与妻子以及合伙人的激烈斗争",
-      "insight": "约翰·奥弗德克正试图避免与妻子围绕7.23亿美元离婚和解方案的争执，影响他与Two Sigma联…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynm7647681.shtml"
-    },
-    {
-      "id": "fff6e89b0f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:40",
-      "title": "太美医疗科技于10月16日耗资约26.36万港元回购6万股",
-      "insight": "太美医疗科技（02576）公布，2026年10月16日耗资约26.36万港元回购6万股股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynk0874034.shtml"
-    },
-    {
-      "id": "fff81e6c0c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:39",
-      "title": "深演智能因股份拆细而发行8.16亿股",
-      "insight": "深演智能（02723）发布公告，于2026年10月16日，该公司因股份拆细而发行8.16亿股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynr6886287.shtml"
-    },
-    {
-      "id": "ff92760ed3",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:38",
-      "title": "英诺赛科：受托人根据股份奖励计划购买225.11万股",
-      "insight": "英诺赛科（02577）发布公告，自2026年7月8日至2026年10月16日该计划的受托人已根据…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynp6153821.shtml"
-    },
-    {
-      "id": "ff63a9018e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:37",
-      "title": "小米集团-W于10月16日斥资约5077.01万港元回购190万股",
-      "insight": "小米集团-W（01810）发布公告，于2026年10月16日该公司斥资约5077.01万港元回购…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynm7642388.shtml"
-    },
-    {
-      "id": "ffee4da9ca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 15:37",
-      "title": "一边推广AI写作，一边清理AI水文，领英被模板帖拖入用户流失危机",
-      "insight": "今年，枯燥乏味的AI生成帖文让领英成了网络上诸多段子的调侃对象。平台已经清晰收到大量用户投诉：大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynm7641832.shtml"
-    },
-    {
-      "id": "ff326110df",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:37",
-      "title": "思考乐教育：受托人根据股份奖励计划购买8.6万股股份",
-      "insight": "思考乐教育（01769）公布，于2026年10月16日，根据股份奖励计划规则及信托契据， 受托人…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynk0868731.shtml"
-    },
-    {
-      "id": "ff8b56cfe8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:36",
-      "title": "至源控股于10月16日斥资190.76万港元回购341万股",
-      "insight": "至源控股（00990）发布公告，于2026年10月16日斥资190.76万港元回购341万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynm7639915.shtml"
-    },
-    {
-      "id": "ff99337999",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:34",
-      "title": "奈雪的茶于10月16日斥资约69.99万港元回购100万股",
-      "insight": "奈雪的茶（02150）发布公告，于2026年10月16日该公司斥资约69.99万港元回购100万…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynm7637590.shtml"
-    },
-    {
-      "id": "ff2998bb8e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-19 15:33",
-      "title": "极兔速递-W于10月16日耗资约1584.43万港元回购171万股",
-      "insight": "极兔速递-W（01519）公布，2026年10月16日耗资约1584.43万港元回购171万股股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtynr6881036.shtml"
-    },
-    {
-      "id": "ff5a350480",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 15:31",
-      "title": "戴尔年内暴涨259%，巴克莱却下调评级：AI服务器收入翻倍，但增长可能主要来自内存涨价",
-      "insight": "巴克莱近日将戴尔科技（Dell Technologies）评级从“增持”下调至“中性”，并将目标…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivtynr6878947.shtml"
+      "time": "10-19 22:14",
+      "title": "哈塞特称通胀似乎又“需要下些功夫”应对",
+      "insight": "白宫国家经济委员会主任凯文·哈塞特在接受采访时表示，从此前三个月的数据来看，通胀似乎“完全得到控…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivurki6787162.shtml"
     }
   ],
-  "updateTime": "2026-10-19 16:21"
+  "updateTime": "2026-10-20 00:04"
 }
