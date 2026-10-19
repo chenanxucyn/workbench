@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff30cfb7b7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-19 06:32",
-      "title": "10月19日周末要闻：特朗普称正斡旋俄乌和平谈判 欧洲多国爆发示威活动 欧元兑主要货币下跌",
-      "insight": "市场 10月17日美股收盘：三大指数收跌 纳指跌超2% 科技股全线走低 CoreWeave重挫近…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-19/doc-inivswyz6357485.shtml"
-    },
-    {
-      "id": "ffd6b0c24b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-19 05:38",
-      "title": "欧洲多地爆发大规模抗议后，欧元兑主要货币下跌",
-      "insight": "亚洲早盘交易时段，受欧洲周末大范围抗议活动以及俄乌冲突升级影响，欧元兑G10集团货币走低。 欧元…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivswyx7641896.shtml"
-    },
-    {
-      "id": "ff04bc5c0b",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-19 05:25",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡南部触雷爆炸起火",
-      "insight": "当地时间19日凌晨，伊朗伊斯兰革命卫队海军宣布，一艘违规油轮在霍尔木兹海峡南部触雷，导致机舱爆炸…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivswyx7637505.shtml"
-    },
-    {
-      "id": "ff60412795",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-19 05:23",
-      "title": "事关国民经济运行与科技兴商 今天举办两场重要发布会",
-      "insight": "今天将举办两场重要发布会 聚焦国民经济运行 与推进科技兴商有关情况⬇️ 国务院新闻办公室将于10…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-19/doc-inivswyx7632833.shtml"
-    },
-    {
-      "id": "ff0de512ee",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-19 04:47",
-      "title": "特朗普发文：正斡旋俄乌和平谈判，批评泽连斯基不愿停战",
-      "insight": "特朗普发文表示，他关于俄罗斯的相关决策思路很明确。他正在斡旋俄乌战争的和平谈判，不愿采取任何鲁莽…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivswyx7611099.shtml"
-    },
-    {
-      "id": "fff0ed20d8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-19 02:23",
-      "title": "泽连斯基：特朗普正逼迫乌克兰向俄罗斯投降",
-      "insight": "乌克兰总统泽连斯基指责特朗普试图向基辅施压，迫使其向俄罗斯投降，这场与美国总统之间持续一周的争执…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-19/doc-inivsssz7657716.shtml"
-    },
-    {
-      "id": "ffb5cefbc7",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-18 23:24",
-      "title": "泽连斯基称与美方代表讨论下一步外交行动",
-      "insight": "乌克兰总统泽连斯基18日表示，他已与美国总统特使威特科夫和库什纳通话，讨论乌美团队在美国佛罗里达…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivsnma0916599.shtml"
-    },
-    {
-      "id": "ffb2c47d33",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-18 22:55",
-      "title": "俄副总理：俄柴油将在签署合同后15-20天进入美市场",
-      "insight": "10月18日，分管能源工作的俄罗斯副总理诺瓦克表示，俄罗斯柴油燃料将在合同签署后15至20天内进…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshcf7795823.shtml"
-    },
-    {
-      "id": "ff712c6ec7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-18 22:46",
-      "title": "韩国财长：半导体市场“至少到明年”将保持稳健",
-      "insight": "韩国副总理兼财政经济部长官李炯日周六表示，半导体繁荣将至少持续到2027年。 “目前，我们的看法…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivshce1011370.shtml"
-    },
-    {
-      "id": "ff763bc651",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-18 22:38",
-      "title": "欧洲多国爆发示威活动 法国2000多人被捕",
-      "insight": "法国、意大利、葡萄牙、比利时等欧洲多国17日爆发示威活动，抗议生活成本高企、公共服务不足、教育资…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivsnmc7665103.shtml"
-    },
-    {
-      "id": "ff7e84bfae",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-18 22:28",
-      "title": "海关总署发布风险警示：SWISSE部分产品被检出铅超标",
-      "insight": "近日，海关总署进出口食品安全局关注到澳大利亚药品管理局（TGA）发布通告称，2批次“SWISSE…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshcm7224823.shtml"
-    },
-    {
-      "id": "ff3324e007",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "10-18 22:24",
-      "title": "牛股突发！002667，第一大股东变更！上周五股价跌停",
-      "insight": "又有A股，第一大股东变更。 10月18日晚间，*ST威领（002667）公告称，在10月13日的…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7220452.shtml"
-    },
-    {
-      "id": "ffd1b35430",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-18 22:06",
-      "title": "伊朗：若美国恢复袭击 已有“新作战计划”",
-      "insight": "伊朗一名高级安全官员周日警告称，德黑兰已准备好应对美国和以色列任何再次袭击的新回应计划；与此同时…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivshcf7756548.shtml"
-    },
-    {
-      "id": "ffcb6364fe",
-      "source": "中国证券报",
-      "tag": "财经热点",
-      "time": "10-18 21:41",
-      "title": "周末利好！多家A股公司出手",
-      "insight": "10月18日晚，包括格科微、澜起科技、中科曙光、海光信息和生益科技等多家上市公司发布回购相关公告…",
-      "link": "https://finance.sina.com.cn/china/2026-10-18/doc-inivshci6465601.shtml"
-    },
-    {
-      "id": "ffdbfffbb6",
-      "source": "每日经济新闻",
-      "tag": "股市",
-      "time": "10-18 21:26",
-      "title": "603517、603838，将“摘帽”！明日停牌",
-      "insight": "10月18日，ST绝味公告称，自10月20日起复牌并撤销其他风险警示；*ST四通此前公告，自10…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7199069.shtml"
-    },
-    {
-      "id": "ff64ef5e68",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-18 21:11",
-      "title": "韩国监狱人满为患 获假释囚犯人数骤增",
-      "insight": "韩国政府发布的最新数据显示，由于监狱收容能力不足，今年1月至8月，600多名囚犯在所判刑期实际执…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivshci6478297.shtml"
-    },
-    {
-      "id": "ff5147c63d",
+      "id": "ff36c6febf",
       "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:43",
+      "title": "华泰期货：供应压力逐步释放，豆粕价格震荡运行",
+      "insight": "作者： 薛钧元 粕类市场要闻与重要数据 期货方面，上周末收盘豆粕2701合约3281元/吨，环比…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwv6911127.shtml"
+    },
+    {
+      "id": "ff38aa1349",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:40",
+      "title": "华泰期货：橡胶成本松动，但原料干扰因素仍存",
+      "insight": "作者： 陈莉 市场要闻与重要数据 原料与价差：泰国胶水89.00泰铢/公斤（+0.00），泰国杯…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwr7547012.shtml"
+    },
+    {
+      "id": "fffabfd1ff",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "10-18 21:03",
-      "title": "600392，稀土大动作！",
-      "insight": "来源：中国基金报 【导读】盛和资源拟联手中国稀土集团子公司，实现稀土冶炼分离业务股权合作 中国基…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-18/doc-inivshcm7173596.shtml"
+      "time": "10-19 10:39",
+      "title": "思索技术IPO：代工毛利率比主要终端客户还高 外购成品与外协加工成本占比高 第二大供应商是前子公司",
+      "insight": "出品：新浪财经上市公司研究院 作者：IPO再融资组/图灵 近日，东莞市思索技术股份有限公司（下称…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-10-19/doc-inivtpwr7545589.shtml"
     },
     {
-      "id": "ff83cfbdbe",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "10-18 20:48",
-      "title": "乐道汽车携手户外运动产业大会，总裁沈斐：参与城市体育是品牌使命的自然延伸",
-      "insight": "新浪科技讯 10月18日晚间消息，近日，乐道汽车成为2026中国户外运动产业大会官方赞助商，乐道…",
-      "link": "https://finance.sina.com.cn/tob/2026-10-18/doc-inivshce0924140.shtml"
+      "id": "ffa8eb2c63",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:39",
+      "title": "华泰期货：苹果期价大幅回落，红枣盘面延续弱势",
+      "insight": "作者： 白旭宇 苹果观点 市场要闻与重要数据 期货方面，本周苹果2701合约收盘5998元/吨，…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwq0772372.shtml"
     },
     {
-      "id": "ffd937104c",
+      "id": "ff26e52254",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:35",
+      "title": "华泰期货：产能需待出清，玻碱震荡偏弱",
+      "insight": "作者： 邢亚文 市场分析 玻璃方面，本周玻璃主力合约延续偏弱运行，现货市场节后采购积极性一般，价…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwq0765752.shtml"
+    },
+    {
+      "id": "ff67db7572",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:33",
+      "title": "华泰期货：三大机构继续下调全球石油需求增长",
+      "insight": "作者： 康远宁 市场分析 本月三大机构主要是继续下修2026年需求增长预估，同时数据显示9月中东…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwq0763628.shtml"
+    },
+    {
+      "id": "ffe2d0d825",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:32",
+      "title": "华泰期货：美国通胀数据超预期 贵金属震荡企稳",
+      "insight": "作者： 师橙 市场要闻与重要数据 宏观面 2026-10-16当周，贵金属价格基本企稳。地缘方面…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtpwr7533218.shtml"
+    },
+    {
+      "id": "ff4732d585",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 10:08",
+      "title": "中信建投期货：10月19日能化早报",
+      "insight": "PX： 供需面供增需减。中国行业负荷环比增加0.4pct至78.1%，处于五年同期偏低水平，亚洲…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtiqt7629430.shtml"
+    },
+    {
+      "id": "ff1e3ef789",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "10-18 20:11",
-      "title": "药师帮于10月16日耗资约153.12万港元回购45.8万股",
-      "insight": "药师帮（09885）公布，2026年10月16日耗资约153.12万港元回购45.8万股股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7788838.shtml"
+      "time": "10-19 10:04",
+      "title": "心泰医疗于10月16日耗资约66.11万港元回购5万股",
+      "insight": "心泰医疗（02291）公布，2026年10月16日耗资约66.11万港元回购5万股股份。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqx7002102.shtml"
     },
     {
-      "id": "ff2ee3f0aa",
+      "id": "ff01efc169",
       "source": "新浪港股",
       "tag": "股市",
-      "time": "10-18 20:10",
-      "title": "威胜控股于10月16日斥资306.09万港元回购25万股",
-      "insight": "威胜控股（03393）发布公告，于2026年10月16日该公司斥资306.09万港元回购25万股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-18/doc-inivrzvi7788254.shtml"
+      "time": "10-19 10:03",
+      "title": "第七大道于10月16日耗资12.844万港元回购13万股",
+      "insight": "第七大道（00797）公布，2026年10月16日耗资12.844万港元回购13万股股份。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6269911.shtml"
+    },
+    {
+      "id": "ffd0d07abc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 10:03",
+      "title": "百融智能-W10月16日斥资127.7万港元回购23.2万股",
+      "insight": "百融智能-W（06608）发布公告，于2026年10月16日斥资127.7万港元回购23.2万股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqs0848152.shtml"
+    },
+    {
+      "id": "fff75bfc9f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 10:02",
+      "title": "知乎-W于10月15日斥资约17.19万美元回购约14.84万股",
+      "insight": "知乎-W（02390）发布公告，于2026年10月15日该公司斥资约17.19万美元回购约14.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6268174.shtml"
+    },
+    {
+      "id": "ff8a289311",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 10:01",
+      "title": "达力普控股于10月16日斥资167.34万港元回购54.4万股",
+      "insight": "达力普控股（01921）发布公告，于2026年10月16日，该公司斥资167.34万港元回购54…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6267586.shtml"
+    },
+    {
+      "id": "ffdb1a7cca",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:52",
+      "title": "海吉亚医疗于10月16日斥资约99.83万港元回购10.64万股",
+      "insight": "海吉亚医疗（06078）发布公告，于2026年10月16日该公司斥资约99.83万港元回购10.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6258796.shtml"
+    },
+    {
+      "id": "ff220c5e8f",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:52",
+      "title": "贝壳-W于10月15日耗资约250万美元回购42.34万股",
+      "insight": "贝壳-W（02423）公布，2026年10月15日耗资约250万美元回购42.34万股股份。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqs0831849.shtml"
+    },
+    {
+      "id": "ffefb9540b",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:51",
+      "title": "极智嘉-W于10月16日斥资约273.73万港元回购45万股",
+      "insight": "极智嘉-W（02590）发布公告，于2026年10月16日该公司斥资约273.73万港元回购45…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6257164.shtml"
+    },
+    {
+      "id": "ffc7b63cb3",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:50",
+      "title": "华润饮料于10月16日斥资176.76万港元回购24.6万股",
+      "insight": "华润饮料（02460）发布公告，于2026年10月16日斥资176.76万港元回购24.6万股。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqt7602154.shtml"
+    },
+    {
+      "id": "ffbff3b905",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:49",
+      "title": "融信中国前9个月总合约销售额约为18.8亿元 同比减少37.33%",
+      "insight": "融信中国（03301）发布公告，截至2026年9月止一个月，（i）本集团总合约销售额约为人民币1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqt7601342.shtml"
+    },
+    {
+      "id": "ff69bc5abb",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-19 09:49",
+      "title": "景旺电子董事长提议回购5000万至1亿元A股股份",
+      "insight": "景旺电子（03228）公布，基于对公司未来持续发展的信心和对公司价值的认可，为增强投资者信心，维…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-19/doc-inivtiqv6255191.shtml"
+    },
+    {
+      "id": "ff2e64737e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-19 09:00",
+      "title": "开盘|国内期货主力合约涨多跌少 燃料油涨超5%",
+      "insight": "2026年10月19日，早盘开盘，国内期货主力合约涨多跌少，燃料油涨超5%，低硫燃料油（LU）涨…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-19/doc-inivtiqt7531605.shtml"
     }
   ],
-  "updateTime": "2026-10-19 06:41"
+  "updateTime": "2026-10-19 10:43"
 }
