@@ -1,6 +1,177 @@
 {
   "news": [
     {
+      "id": "ff3ad17063",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 01:37",
+      "title": "城堡证券考虑扩大固定收益业务版图 称目前存在一些空白",
+      "insight": "城堡证券考虑扩大固定收益业务，以填补总裁Jim Esposito认为公司目前存在的一些业务空白。…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewz5603263.shtml"
+    },
+    {
+      "id": "ffa59ff2aa",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 01:35",
+      "title": "伊朗高官：美国须采取建立信任的措施 否则德黑兰不会与华府谈判",
+      "insight": "据伊朗伊斯兰共和国通讯社（IRNA）报道，伊朗最高国家安全委员会秘书Mohsen Rezaee表…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewx7655321.shtml"
+    },
+    {
+      "id": "ffa1a999e0",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 00:17",
+      "title": "CFA三级考试通过率降至47% 低于历史平均水平",
+      "insight": "特许金融分析师（CFA）三级考试通过率继续低于过去十年的平均水平。 CFA协会周二表示，8月三级…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivwyqz7734540.shtml"
+    },
+    {
+      "id": "ff7f2298bb",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 00:16",
+      "title": "美银启动永续债发行 为数日内第二笔发债交易",
+      "insight": "美国银行启动数日内第二笔投资级债券发行，在上周募资80亿美元后，将发行永续债。 知情人士称，这批…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivwyrf6419459.shtml"
+    },
+    {
+      "id": "ffd50f4e1b",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 00:16",
+      "title": "称赞马克龙经济团队一流 贝森特料法国债市动荡不会外溢",
+      "insight": "美国财政部长斯科特·贝森特表示，他不认为收益率飙升引发财政状况之忧的法国债券市场会对外产生溢出效…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivwyqz7733851.shtml"
+    },
+    {
+      "id": "ff3f539214",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-21 00:11",
+      "title": "欧洲债市：德国国债上涨 伊朗谈判消息引发市场波动",
+      "insight": "德国国债上涨，法国国债相对德国国债的收益率溢价有所收窄。此前一则未经证实的报道称，卡塔尔和巴基斯…",
+      "link": "https://finance.sina.com.cn/world/2026-10-21/doc-inivwyrc5685100.shtml"
+    },
+    {
+      "id": "ff214811cf",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 23:19",
+      "title": "卡塔尔和巴基斯坦据报提出新方案以推动结束伊朗战争 布伦特原油跌3%",
+      "insight": "一则未经证实的报道称，卡塔尔和巴基斯坦提出了一项新方案，试图重启谈判以结束伊朗战争，布伦特原油价…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivwyrc5651665.shtml"
+    },
+    {
+      "id": "ff81e51751",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-20 23:17",
+      "title": "法国国债风险指标徘徊高位 相对德债收益率溢价一度突破150基点",
+      "insight": "衡量法国债券风险的一项指标周二突破关键水平。 10年期法国国债相对同期限德国国债的收益率溢价突破…",
+      "link": "https://finance.sina.com.cn/world/2026-10-20/doc-inivwyqz7688630.shtml"
+    },
+    {
+      "id": "ffe29173be",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 23:01",
+      "title": "交易员认为SpaceX财报发布后股价将继续上涨 看涨合约成交活跃",
+      "insight": "对SpaceX而言，过去三个月动作不断。 该公司以创纪录的速度将四名宇航员送往国际空间站、拓展移…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwyqz7676589.shtml"
+    },
+    {
+      "id": "ff62597131",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:56",
+      "title": "彭博美元指数跌至近三周低点 布伦特原油走低",
+      "insight": "随着布伦特原油价格周二下跌约3%，彭博美元现货指数下跌0.4%，至9月30日以来最低水平。 G-…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwyqz7672539.shtml"
+    },
+    {
+      "id": "ffb82a4d6a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:47",
+      "title": "贝森特：美国拟明后年处理“两房”所有权结构",
+      "insight": "美国财政部长贝森特表示，特朗普政府将在明年或后年“处理”房利美和房地美的所有权结构问题。贝森特表…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia1023798.shtml"
+    },
+    {
+      "id": "ff88ddd28d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:39",
+      "title": "SpaceX财报前瞻：华尔街押注首次季度盈利，即便大超预期也不意味着股价大涨",
+      "insight": "北京时间10月21日凌晨，马斯克旗下太空探索技术公司SpaceX将公布2026年第三季度财报。这…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7788695.shtml"
+    },
+    {
+      "id": "ff908c0635",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:37",
+      "title": "美国9月二手房签约量环比下降7.3% 预估中值为下降0.5%",
+      "insight": "美国全国房地产经纪人协会（NAR）公布的二手房签约量指数9月环比下降7.3%，预估中值为下降0.…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia1014335.shtml"
+    },
+    {
+      "id": "ffb0a63c6f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:37",
+      "title": "美国新屋开工数降至四个月低点 为疫情以来最疲弱水平之一",
+      "insight": "美国9月新屋开工数下降至疫情以来最疲弱水平之一，独栋住宅建筑许可也出现下滑，凸显房地产市场持续低…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6488002.shtml"
+    },
+    {
+      "id": "ff385e1f17",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:22",
+      "title": "消息称Anthropic正与云计算服务商Nscale洽谈第二笔数百亿美元交易",
+      "insight": "据知情人士消息，Anthropic正与英国新兴云计算服务商Nscale洽谈第二笔价值数百亿美元的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7773592.shtml"
+    },
+    {
+      "id": "ff0e0b1ae5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:21",
+      "title": "美国9月二手房签约量指数降至纪录低点 利率高企打压购房需求",
+      "insight": "美国9月二手房签约量降至纪录低点，高企的按揭贷款利率继续压制购房需求。 美国全国房地产经纪人协会…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7772500.shtml"
+    },
+    {
+      "id": "ff842903af",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-20 22:21",
+      "title": "2连板603626，暂缓高溢价收购！",
+      "insight": "来源：中国基金报 【导读】2连板科森科技宣布，暂缓推进收购展固科技53.26%股权事项 中国基金…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuif5748903.shtml"
+    },
+    {
+      "id": "ff090cb87e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:12",
+      "title": "有望超越司美格鲁肽 诺和诺德新减肥药实现成年女性受试者平均减重25%",
+      "insight": "诺和诺德周二公布，在一项三期临床试验后的新增分析中，其新一代减重药CagriSema在成年女性受…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7765455.shtml"
+    },
+    {
+      "id": "ff8f6780d0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-20 22:01",
+      "title": "LG家电自研AI半导体搭载量两年增10倍 深耕家电技术生态",
+      "insight": "LG电子正在快速扩大自研半导体在家电产品上的搭载规模。 公司不断提升自研芯片的装机量，并依托设备…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6463865.shtml"
+    },
+    {
       "id": "ff882bafd3",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,178 +179,7 @@
       "title": "LG电子CEO：冷却技术为AI数据中心竞争力核心",
       "insight": "LG电子CEO柳在哲在哲将冷却技术列为AI数据中心竞争力的核心。其逻辑是：减少用于冷却的电力，就…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuif5717749.shtml"
-    },
-    {
-      "id": "ff0f6230fe",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 21:35",
-      "title": "贝森特：由于其他地区的问题 看到资金流入美国债券",
-      "insight": "美国财政部长斯科特·贝森特在2Way上表示：“这并不是我们预先计划的，但我们确实看到，资金正在从…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia0956410.shtml"
-    },
-    {
-      "id": "fff2935466",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 21:32",
-      "title": "开盘：纳指下跌 美光科技、闪迪均跌约3%",
-      "insight": "纳斯达克综合指数周二开票下跌。美股前一交易日整体走高，但AI相关个股再度遭遇抛售。 这个科技权重…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6442597.shtml"
-    },
-    {
-      "id": "ff956546ee",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 21:24",
-      "title": "三星8纳米再延续一代：8LPU+年内推出，主攻汽车与边缘AI芯片",
-      "insight": "三星晶圆代工业务要把问世已超过8年的8纳米工艺再延续一代。外界解读认为，此举意在高效盘活现有成熟…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6437131.shtml"
-    },
-    {
-      "id": "ff993178f4",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-20 21:21",
-      "title": "二连板涨停后，603626宣布：暂缓重要收购！",
-      "insight": "上交所曾向公司发出问询函，要求公司说明此次交易的必要性。 股价连续2个交易日涨停后，科森科技（6…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuif5705636.shtml"
-    },
-    {
-      "id": "ffecd6ef29",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-20 21:10",
-      "title": "百亿A股公司，筹划赴港上市！",
-      "insight": "来源：资本秘闻 10月20日晚间，奥士康披露公告称，公司拟发行境外上市外资股（H股）股票并申请在…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuii6434167.shtml"
-    },
-    {
-      "id": "ff1c4d0243",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:57",
-      "title": "ADP：截至10月3日的四周 美国私营部门就业人数平均每周增加18500人",
-      "insight": "ADP Research和斯坦福数字经济实验室的初步估算显示，截至10月3日的四周内，美国私营部…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6418652.shtml"
-    },
-    {
-      "id": "ffc7a4427a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:56",
-      "title": "机构：维持亚马逊跑赢大盘评级 AWS短期增长高于预期",
-      "insight": "蒙特利尔银行资本市场（BMO Capital）维持亚马逊跑赢大盘评级，目标价380美元。该目标价…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuif5685951.shtml"
-    },
-    {
-      "id": "ffd9a6ebdb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:55",
-      "title": "美国股指期货走低 AI相关忧虑重返市场",
-      "insight": "人工智能交易的反弹势头受挫。韩国一家数据中心公司上市表现惨淡，再度引发市场对AI支出热潮能否持续…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia0917871.shtml"
-    },
-    {
-      "id": "ff4c5a62d6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:49",
-      "title": "苹果为iPhone Duo新增美国本土钛金属供应商，当前供货持续紧张",
-      "insight": "苹果正在为新款折叠机型iPhone Duo新增一家美国钛金属供应商，同时扩大iPhone 18 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6411929.shtml"
-    },
-    {
-      "id": "ff4a5d2de7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:46",
-      "title": "法国骚乱期间 路易威登、爱马仕等奢侈品零售商遭洗劫",
-      "insight": "法国当局正采取措施，阻止被盗奢侈品通过Vinted、亚马逊和eBay等网络平台转售。 上周六，在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia0907854.shtml"
-    },
-    {
-      "id": "ff16a4d164",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "10-20 20:42",
-      "title": "688525，年薪近千万高管，辞任核心技术人员",
-      "insight": "董事、副总经理王灿职务有了新变动。 拿着近千万年薪、获授155万股，却选择离任公司核心技术人员。…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuii6407873.shtml"
-    },
-    {
-      "id": "ffa55dae6f",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-20 20:40",
-      "title": "两连板科森科技，暂缓推进收购事项！",
-      "insight": "来源：资本秘闻 10月20日晚间，科森科技披露公告称，公司暂缓推进购买惠州展固科技有限公司（以下…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuic7678431.shtml"
-    },
-    {
-      "id": "ff59cc48b5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:36",
-      "title": "盘前：美股存储股下挫 CoreWeave跌逾4%上周暴跌超25%",
-      "insight": "周二美股期货涨跌分化。美股前一交易日整体收涨，但AI相关标的再度遭遇抛售。 截至发稿，标普500…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia0896675.shtml"
-    },
-    {
-      "id": "ff210a46a8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:36",
-      "title": "随着投资者对预算案的担忧缓解 英国国债市场表现追赶其他国家",
-      "insight": "伊朗战争爆发初期，英国国债遭受严重冲击，但此后表现优于七国集团其他经济体的国债，交易员的担忧焦点…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuic7669040.shtml"
-    },
-    {
-      "id": "ff77bca622",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:29",
-      "title": "鲁比奥抵达印度 美印将围绕能源、贸易等展开会谈",
-      "insight": "美国国务卿马尔科·鲁比奥于周二抵达印度，此行旨在深化双边贸易关系，并会见印度两位极具影响力的商界…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwpze1019749.shtml"
-    },
-    {
-      "id": "ffe1d14e57",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-20 20:22",
-      "title": "“神秘”房东拦住“微创系”四大港股公司！",
-      "insight": "来源 | 野马财经 “房东”的生意不止房租。 作者 | 于婞 编辑 | 高岩 “微创医疗（085…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwpze1019043.shtml"
-    },
-    {
-      "id": "ff3dc0c8c8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 20:19",
-      "title": "机构重申对Meta强力买入评级 看好公司基本面",
-      "insight": "雷蒙德·詹姆斯（Raymond James）重申对Meta强力买入评级，目标价维持860美元。该…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwpzi5789977.shtml"
-    },
-    {
-      "id": "ff6dcd5fac",
-      "source": "新浪证券",
-      "tag": "股市",
-      "time": "10-20 19:56",
-      "title": "大昌科技IPO：研发费用连降却称不断加大投入 两名董事去年被约谈却称无自律监管措施 中银证券保荐质量待考",
-      "insight": "出品：新浪财经上市公司研究院 作者：IPO再融资组/图灵 近期，尊界供应商安徽大昌科技股份有限公…",
-      "link": "https://finance.sina.com.cn/stock/observe/2026-10-20/doc-inivwpze0985160.shtml"
-    },
-    {
-      "id": "ffe3ec9637",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-20 19:55",
-      "title": "奈飞财报发布前夕 机构下调其目标价但维持跑赢大盘评级",
-      "insight": "蒙特利尔银行资本市场将奈飞目标价由135美元下调至125美元，但维持跑赢大盘评级。该股当前股价6…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwpzf7756897.shtml"
     }
   ],
-  "updateTime": "2026-10-20 22:00"
+  "updateTime": "2026-10-21 02:51"
 }
