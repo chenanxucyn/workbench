@@ -2,18 +2,8 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "国台办回应张凌赫赴台交流被拒",
-      "heat": 11018529,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0%E4%BA%A4%E6%B5%81%E8%A2%AB%E6%8B%92?type=general",
-      "scheme": "snssdk1128://search/国台办回应张凌赫赴台交流被拒"
-    },
-    {
-      "rank": 2,
       "topic": "解放军台海开展军事行动",
-      "heat": 10975672,
+      "heat": 11985581,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,9 +11,19 @@
       "scheme": "snssdk1128://search/解放军台海开展军事行动"
     },
     {
+      "rank": 2,
+      "topic": "台风蔷琵正向我国方向靠近",
+      "heat": 11422379,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%90%91%E6%88%91%E5%9B%BD%E6%96%B9%E5%90%91%E9%9D%A0%E8%BF%91?type=general",
+      "scheme": "snssdk1128://search/台风蔷琵正向我国方向靠近"
+    },
+    {
       "rank": 3,
       "topic": "长征文物资源家底基本摸清",
-      "heat": 10929421,
+      "heat": 11326313,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -32,28 +32,38 @@
     },
     {
       "rank": 4,
-      "topic": "台风蔷琵正向我国方向靠近",
-      "heat": 10777401,
+      "topic": "欧冠皇马4:1莱比锡",
+      "heat": 11307097,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E6%AD%A3%E5%90%91%E6%88%91%E5%9B%BD%E6%96%B9%E5%90%91%E9%9D%A0%E8%BF%91?type=general",
-      "scheme": "snssdk1128://search/台风蔷琵正向我国方向靠近"
+      "link": "https://www.douyin.com/search/%E6%AC%A7%E5%86%A0%E7%9A%87%E9%A9%AC4%3A1%E8%8E%B1%E6%AF%94%E9%94%A1?type=general",
+      "scheme": "snssdk1128://search/欧冠皇马4:1莱比锡"
     },
     {
       "rank": 5,
-      "topic": "台艺人唐禹哲涉兵役案宣判",
-      "heat": 9822052,
+      "topic": "日美大规模军演真正目标是什么",
+      "heat": 10396487,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%B0%E8%89%BA%E4%BA%BA%E5%94%90%E7%A6%B9%E5%93%B2%E6%B6%89%E5%85%B5%E5%BD%B9%E6%A1%88%E5%AE%A3%E5%88%A4?type=general",
-      "scheme": "snssdk1128://search/台艺人唐禹哲涉兵役案宣判"
+      "link": "https://www.douyin.com/search/%E6%97%A5%E7%BE%8E%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%86%9B%E6%BC%94%E7%9C%9F%E6%AD%A3%E7%9B%AE%E6%A0%87%E6%98%AF%E4%BB%80%E4%B9%88?type=general",
+      "scheme": "snssdk1128://search/日美大规模军演真正目标是什么"
     },
     {
       "rank": 6,
+      "topic": "全国已开始进入赏秋模式",
+      "heat": 10395092,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%BF%9B%E5%85%A5%E8%B5%8F%E7%A7%8B%E6%A8%A1%E5%BC%8F?type=general",
+      "scheme": "snssdk1128://search/全国已开始进入赏秋模式"
+    },
+    {
+      "rank": 7,
       "topic": "2026VCTCN晋升赛开赛",
-      "heat": 9763701,
+      "heat": 9266366,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -61,9 +71,9 @@
       "scheme": "snssdk1128://search/2026VCTCN晋升赛开赛"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "topic": "全民进入学知识不烧心时代",
-      "heat": 8509693,
+      "heat": 9206468,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,19 +81,9 @@
       "scheme": "snssdk1128://search/全民进入学知识不烧心时代"
     },
     {
-      "rank": 8,
-      "topic": "当东北人假装南方人",
-      "heat": 8484604,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BD%93%E4%B8%9C%E5%8C%97%E4%BA%BA%E5%81%87%E8%A3%85%E5%8D%97%E6%96%B9%E4%BA%BA?type=general",
-      "scheme": "snssdk1128://search/当东北人假装南方人"
-    },
-    {
       "rank": 9,
       "topic": "李昌钰灵骨跨洋回归祖国",
-      "heat": 8343402,
+      "heat": 9106172,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -93,7 +93,7 @@
     {
       "rank": 10,
       "topic": "赛博朋克边缘行者2剧情评析",
-      "heat": 8334301,
+      "heat": 8711763,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -102,28 +102,28 @@
     },
     {
       "rank": 11,
-      "topic": "iPhone Duo深度评测",
-      "heat": 8078774,
+      "topic": "乡村里的拼豆店也有存在的意义",
+      "heat": 8563616,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/iPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B?type=general",
-      "scheme": "snssdk1128://search/iPhone Duo深度评测"
+      "link": "https://www.douyin.com/search/%E4%B9%A1%E6%9D%91%E9%87%8C%E7%9A%84%E6%8B%BC%E8%B1%86%E5%BA%97%E4%B9%9F%E6%9C%89%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89?type=general",
+      "scheme": "snssdk1128://search/乡村里的拼豆店也有存在的意义"
     },
     {
       "rank": 12,
-      "topic": "NBA揭幕战76人击败尼克斯",
-      "heat": 7836025,
+      "topic": "小城良方小西门开门了",
+      "heat": 8113736,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/NBA%E6%8F%AD%E5%B9%95%E6%88%9876%E4%BA%BA%E5%87%BB%E8%B4%A5%E5%B0%BC%E5%85%8B%E6%96%AF?type=general",
-      "scheme": "snssdk1128://search/NBA揭幕战76人击败尼克斯"
+      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%B0%8F%E8%A5%BF%E9%97%A8%E5%BC%80%E9%97%A8%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/小城良方小西门开门了"
     },
     {
       "rank": 13,
       "topic": "五部门发布骗局风险提示",
-      "heat": 7826920,
+      "heat": 7776943,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,18 +132,18 @@
     },
     {
       "rank": 14,
-      "topic": "乡村里的拼豆店也有存在的意义",
-      "heat": 7824689,
+      "topic": "我是艺术家我陪你拍这个",
+      "heat": 7766316,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B9%A1%E6%9D%91%E9%87%8C%E7%9A%84%E6%8B%BC%E8%B1%86%E5%BA%97%E4%B9%9F%E6%9C%89%E5%AD%98%E5%9C%A8%E7%9A%84%E6%84%8F%E4%B9%89?type=general",
-      "scheme": "snssdk1128://search/乡村里的拼豆店也有存在的意义"
+      "link": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%88%91%E9%99%AA%E4%BD%A0%E6%8B%8D%E8%BF%99%E4%B8%AA?type=general",
+      "scheme": "snssdk1128://search/我是艺术家我陪你拍这个"
     },
     {
       "rank": 15,
       "topic": "各大乐园已经开始抢人模式",
-      "heat": 7815892,
+      "heat": 7750179,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -152,28 +152,28 @@
     },
     {
       "rank": 16,
-      "topic": "我是艺术家我陪你拍这个",
-      "heat": 7811149,
+      "topic": "iPhone Duo深度评测",
+      "heat": 7738237,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E6%98%AF%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%88%91%E9%99%AA%E4%BD%A0%E6%8B%8D%E8%BF%99%E4%B8%AA?type=general",
-      "scheme": "snssdk1128://search/我是艺术家我陪你拍这个"
+      "link": "https://www.douyin.com/search/iPhone%20Duo%E6%B7%B1%E5%BA%A6%E8%AF%84%E6%B5%8B?type=general",
+      "scheme": "snssdk1128://search/iPhone Duo深度评测"
     },
     {
       "rank": 17,
-      "topic": "嫁金钗养母才是彻底的坏",
-      "heat": 7807763,
+      "topic": "中国闪身步让老外集体交作业",
+      "heat": 7731145,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E5%85%BB%E6%AF%8D%E6%89%8D%E6%98%AF%E5%BD%BB%E5%BA%95%E7%9A%84%E5%9D%8F?type=general",
-      "scheme": "snssdk1128://search/嫁金钗养母才是彻底的坏"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E9%97%AA%E8%BA%AB%E6%AD%A5%E8%AE%A9%E8%80%81%E5%A4%96%E9%9B%86%E4%BD%93%E4%BA%A4%E4%BD%9C%E4%B8%9A?type=general",
+      "scheme": "snssdk1128://search/中国闪身步让老外集体交作业"
     },
     {
       "rank": 18,
       "topic": "冬天第一串车厘子糖葫芦",
-      "heat": 7806141,
+      "heat": 7728299,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -182,48 +182,38 @@
     },
     {
       "rank": 19,
-      "topic": "全国已开始进入赏秋模式",
-      "heat": 7801723,
+      "topic": "这碗新米我可以连吃三天",
+      "heat": 7722850,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%A8%E5%9B%BD%E5%B7%B2%E5%BC%80%E5%A7%8B%E8%BF%9B%E5%85%A5%E8%B5%8F%E7%A7%8B%E6%A8%A1%E5%BC%8F?type=general",
-      "scheme": "snssdk1128://search/全国已开始进入赏秋模式"
+      "link": "https://www.douyin.com/search/%E8%BF%99%E7%A2%97%E6%96%B0%E7%B1%B3%E6%88%91%E5%8F%AF%E4%BB%A5%E8%BF%9E%E5%90%83%E4%B8%89%E5%A4%A9?type=general",
+      "scheme": "snssdk1128://search/这碗新米我可以连吃三天"
     },
     {
       "rank": 20,
-      "topic": "被无情画硬控8秒",
-      "heat": 7800285,
+      "topic": "姜乘澜素雅妆容教程",
+      "heat": 7721180,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%A2%AB%E6%97%A0%E6%83%85%E7%94%BB%E7%A1%AC%E6%8E%A78%E7%A7%92?type=general",
-      "scheme": "snssdk1128://search/被无情画硬控8秒"
+      "link": "https://www.douyin.com/search/%E5%A7%9C%E4%B9%98%E6%BE%9C%E7%B4%A0%E9%9B%85%E5%A6%86%E5%AE%B9%E6%95%99%E7%A8%8B?type=general",
+      "scheme": "snssdk1128://search/姜乘澜素雅妆容教程"
     },
     {
       "rank": 21,
-      "topic": "秋冬显腿细靴子测评",
-      "heat": 7785960,
+      "topic": "国台办回应张凌赫赴台交流被拒",
+      "heat": 7720691,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E6%98%BE%E8%85%BF%E7%BB%86%E9%9D%B4%E5%AD%90%E6%B5%8B%E8%AF%84?type=general",
-      "scheme": "snssdk1128://search/秋冬显腿细靴子测评"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E5%BC%A0%E5%87%8C%E8%B5%AB%E8%B5%B4%E5%8F%B0%E4%BA%A4%E6%B5%81%E8%A2%AB%E6%8B%92?type=general",
+      "scheme": "snssdk1128://search/国台办回应张凌赫赴台交流被拒"
     },
     {
       "rank": 22,
-      "topic": "小城良方小西门开门了",
-      "heat": 7772869,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%8F%E5%9F%8E%E8%89%AF%E6%96%B9%E5%B0%8F%E8%A5%BF%E9%97%A8%E5%BC%80%E9%97%A8%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/小城良方小西门开门了"
-    },
-    {
-      "rank": 23,
       "topic": "瞬移滑镜慢动作挑战",
-      "heat": 7769120,
+      "heat": 7716197,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -231,19 +221,29 @@
       "scheme": "snssdk1128://search/瞬移滑镜慢动作挑战"
     },
     {
-      "rank": 24,
-      "topic": "进入面要多吃面要多见时代",
-      "heat": 7755586,
+      "rank": 23,
+      "topic": "直击骚乱后的巴黎",
+      "heat": 7713466,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%BF%9B%E5%85%A5%E9%9D%A2%E8%A6%81%E5%A4%9A%E5%90%83%E9%9D%A2%E8%A6%81%E5%A4%9A%E8%A7%81%E6%97%B6%E4%BB%A3?type=general",
-      "scheme": "snssdk1128://search/进入面要多吃面要多见时代"
+      "link": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E9%AA%9A%E4%B9%B1%E5%90%8E%E7%9A%84%E5%B7%B4%E9%BB%8E?type=general",
+      "scheme": "snssdk1128://search/直击骚乱后的巴黎"
+    },
+    {
+      "rank": 24,
+      "topic": "秋冬显腿细靴子测评",
+      "heat": 7686508,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E6%98%BE%E8%85%BF%E7%BB%86%E9%9D%B4%E5%AD%90%E6%B5%8B%E8%AF%84?type=general",
+      "scheme": "snssdk1128://search/秋冬显腿细靴子测评"
     },
     {
       "rank": 25,
       "topic": "以为每天都会说晚安",
-      "heat": 7750170,
+      "heat": 7680244,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -253,7 +253,7 @@
     {
       "rank": 26,
       "topic": "是不是我不够成熟",
-      "heat": 7743723,
+      "heat": 7678546,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -262,28 +262,18 @@
     },
     {
       "rank": 27,
-      "topic": "直击骚乱后的巴黎",
-      "heat": 7727731,
+      "topic": "offer8医学生季开播",
+      "heat": 7673991,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9B%B4%E5%87%BB%E9%AA%9A%E4%B9%B1%E5%90%8E%E7%9A%84%E5%B7%B4%E9%BB%8E?type=general",
-      "scheme": "snssdk1128://search/直击骚乱后的巴黎"
+      "link": "https://www.douyin.com/search/offer8%E5%8C%BB%E5%AD%A6%E7%94%9F%E5%AD%A3%E5%BC%80%E6%92%AD?type=general",
+      "scheme": "snssdk1128://search/offer8医学生季开播"
     },
     {
       "rank": 28,
-      "topic": "我们再也推不开对方了",
-      "heat": 7726478,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E5%86%8D%E4%B9%9F%E6%8E%A8%E4%B8%8D%E5%BC%80%E5%AF%B9%E6%96%B9%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/我们再也推不开对方了"
-    },
-    {
-      "rank": 29,
       "topic": "看到肖战的刘铮亮就不烧心了",
-      "heat": 7725138,
+      "heat": 7673018,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -291,9 +281,19 @@
       "scheme": "snssdk1128://search/看到肖战的刘铮亮就不烧心了"
     },
     {
+      "rank": 29,
+      "topic": "明扬承包了offer8整季笑点",
+      "heat": 7672640,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%98%8E%E6%89%AC%E6%89%BF%E5%8C%85%E4%BA%86offer8%E6%95%B4%E5%AD%A3%E7%AC%91%E7%82%B9?type=general",
+      "scheme": "snssdk1128://search/明扬承包了offer8整季笑点"
+    },
+    {
       "rank": 30,
       "topic": "小城良方病人没钱不愿意治病",
-      "heat": 7718532,
+      "heat": 7669417,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -301,5 +301,5 @@
       "scheme": "snssdk1128://search/小城良方病人没钱不愿意治病"
     }
   ],
-  "updateTime": "2026-10-22 03:03"
+  "updateTime": "2026-10-22 07:51"
 }
