@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff7d9efe30",
+      "id": "ffb4c98cfe",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-21 22:11",
-      "title": "美债买家格局生变：“慢钱”影响力渐退 更加挑剔的“快钱”崛起",
-      "insight": "美国国债遭遇抛售，推动基准收益率升至数十年来高位，美国政府发现自己越来越依赖那些只有在价格合适时…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqh8099909.shtml"
+      "time": "10-22 02:29",
+      "title": "收益率飙升冲击信贷市场 欧美企业本月逾50亿美元融资计划推迟",
+      "insight": "随着投资者对利率、通胀以及人工智能的担忧加剧，本月欧美企业已推迟逾50亿美元的发债和贷款交易。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivzqcz6001980.shtml"
     },
     {
-      "id": "ff32f69b72",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "10-21 22:09",
-      "title": "科技成果转化怎么干，两办重磅文件划重点",
-      "insight": "如何加速科技成果从“纸”变“钱”。 将实验室成果转化应用，是创新生态中的重要环节。 10月21日…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-21/doc-inivzcqf6095441.shtml"
-    },
-    {
-      "id": "ffab06a0db",
+      "id": "ffdc4a7931",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-21 22:02",
-      "title": "马克龙称外国领导人借法国骚乱谋求政治目的 暗指特朗普和内塔尼亚胡",
-      "insight": "法国总统埃马纽埃尔·马克龙表示，该国近期的骚乱正被外国用于政治目的，并指责一些外国领导人不喜欢法…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqh8090316.shtml"
+      "time": "10-22 02:26",
+      "title": "Anthropic任命哈佛大学教授加入其长期利益信托基金",
+      "insight": "Anthropic周三宣布，已任命实验物理学家Christopher Stubbs加入其长期利益…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivzqcz5999891.shtml"
     },
     {
-      "id": "fff540b6c5",
+      "id": "fff6a149a8",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-21 21:50",
-      "title": "法国10年期国债收益率升至5% 创2002年以来最高 法德利差扩大",
-      "insight": "随着能源价格上涨进一步加剧市场对法国财政前景的担忧，法国基准国债收益率自2002年以来首次升至5…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqk4852491.shtml"
+      "time": "10-22 01:35",
+      "title": "SpaceX债券下跌 市场担忧其进一步举债令信用风险指标恶化",
+      "insight": "SpaceX债券周三下跌，此前该公司公布的业绩超出分析师预期，但同时表示正大举投资，暗示未来可能…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwe8123271.shtml"
     },
     {
-      "id": "ff26ed7c3a",
+      "id": "ff936f67d1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 01:28",
+      "title": "20年期美国国债招标认购需求不及预期 中标收益率创纪录高位",
+      "insight": "美国财政部续发行的130亿美元20年期国债中标收益率为5.469%，创该期限国债2020年恢复发…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwh4890212.shtml"
+    },
+    {
+      "id": "ffdb84c6b8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 01:25",
+      "title": "Meta因新墨西哥州剑桥分析案被罚250亿美元",
+      "insight": "周三，美股新墨西哥州法院下令Meta支付250亿美元罚款，该案是一起数据隐私诉讼，源于十多年前该…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwe8115869.shtml"
+    },
+    {
+      "id": "ffda3aa02d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 01:19",
+      "title": "欧洲债市：法国10年期国债收益率触及5% 英国长期国债上涨",
+      "insight": "法国10年期国债收益率自2002年以来首次触及5%，与同期限德国国债的收益率差扩大至近160个基…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwe8112136.shtml"
+    },
+    {
+      "id": "ff80b35cd6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 00:59",
+      "title": "SpaceX发布财报后 Meta和特斯拉多头信心得到提振",
+      "insight": "SpaceX在财报后大幅上涨，这给即将于周三下午发布财报的Meta和特斯拉多头带来了希望。 周三…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwh4870198.shtml"
+    },
+    {
+      "id": "ff0f43f459",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 00:35",
+      "title": "企业财报提振欧洲股市 家乐福因法国骚乱影响重挫",
+      "insight": "欧洲股市周三上涨，投资者评估一系列的企业财报。家乐福在警告法国社会动荡可能冲击其盈利后，该公司股…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwc6061637.shtml"
+    },
+    {
+      "id": "ff596523ec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 00:06",
+      "title": "伊朗议长卡利巴夫与最高领袖穆杰塔巴会晤 讨论军事和经济战最新进展",
+      "insight": "伊朗议会议长卡利巴夫与最高领袖穆杰塔巴·哈梅内伊会晤，讨论军事和经济战的最新进展。 声明称，会谈…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-inivziwc6042487.shtml"
+    },
+    {
+      "id": "ffa4e5174b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 23:48",
+      "title": "日本寿险公司拟增加购债 为该国国债市场提供支撑",
+      "insight": "日本寿险公司释放信号称，将在本财年下半年维持或增加对国内债券的购买，这可能为即将进行的日本国债拍…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqf6160828.shtml"
+    },
+    {
+      "id": "fffffec6c7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 23:47",
+      "title": "普京：俄罗斯准备好与美国和乌克兰举行新一轮和平谈判",
+      "insight": "克里姆林宫表示，俄罗斯总统普京表示，该国准备好恢复与美国和乌克兰就潜在和平协议举行三方谈判。 克…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqk4947284.shtml"
+    },
+    {
+      "id": "ffc6fdf1cf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 23:27",
+      "title": "eBay将裁员9%，这是该公司今年第二轮裁员",
+      "insight": "eBay发言人证实，该公司将裁减约9%的员工，此举旨在精简运营并聚焦于增长最快的领域。此次裁员将…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqh8159810.shtml"
+    },
+    {
+      "id": "ffb414c421",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-21 21:45",
-      "title": "账面千万现金，半年营收仅34万：中山证券为何对这家“躺平”子公司动手？",
-      "insight": "來源：券业雷达．行家 账面千万现金，半年营收仅34万：中山证券为何对这家“躺平”子公司动手？ 在…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivzcqf6081352.shtml"
-    },
-    {
-      "id": "ffab93d6a7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 21:34",
-      "title": "开盘：美股走高 SpaceX股价大涨8% 特斯拉涨超3%",
-      "insight": "美股周三开盘走高，交易员正在消化新一轮财报。 标普500指数上涨0.3%，纳斯达克综合指数涨0.…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhk8194912.shtml"
-    },
-    {
-      "id": "ffc9e863eb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 21:19",
-      "title": "伊朗要求美国解除海上封锁 并展示通过外交途径结束战争的诚意",
-      "insight": "伊朗表示，美国必须解除海上封锁，并展现出通过外交手段结束战争的诚意。双方谈判陷入僵局、威胁言论不…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhk8182300.shtml"
-    },
-    {
-      "id": "ffac1d83ba",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 21:12",
-      "title": "OpenAI将ChatGPT广告业务拓展至26个新国家，加速收入多元化布局",
-      "insight": "OpenAI于周三宣布，将在另外26个国家上线ChatGPT广告，这是该公司持续壮大尚处起步阶段…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhf5450090.shtml"
-    },
-    {
-      "id": "ff3dc1eb2c",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-21 20:57",
-      "title": "300301，重整投资方案获通过！半导体大佬拟入局",
-      "insight": "ST长方重整投资方案获债权人通过，半导体大佬祝昌华拟入局。 ST长方（300301）10月21日…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-10-21/doc-inivyxhf5439084.shtml"
-    },
-    {
-      "id": "ffd018fa7f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:51",
-      "title": "报道：俄罗斯关注挪威和芬兰在乌克兰谈判中能发挥多大的建设性作用",
-      "insight": "据报道，克里姆林宫发言人Dmitry Peskov表示，俄罗斯将观察挪威和芬兰作为解决乌克兰战争…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhk8154748.shtml"
-    },
-    {
-      "id": "ff10779093",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:42",
-      "title": "英伟达CEO黄仁勋敦促欧洲推动各个行业采用AI",
-      "insight": "英伟达首席执行官黄仁勋敦促欧洲加快采用人工智能，并对AI前景保持乐观，尽管部分投资者对支撑这项技…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhk8144769.shtml"
-    },
-    {
-      "id": "ff799fa735",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:38",
-      "title": "中东石油出口回升至战前水平",
-      "insight": "由于航运公司选择替代航线，绕开霍尔木兹海峡等冲突中的关键航道，中东石油出口量已经回升至战前水平。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhn4912748.shtml"
-    },
-    {
-      "id": "ff2011a7b5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:33",
-      "title": "OpenAI将AI模型接入谷歌云，进一步摆脱对微软的依赖",
-      "insight": "OpenAI将通过谷歌云向开发者开放其人工智能模型，而两家公司多年来一直互为竞争对手。 对Ope…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhf5417924.shtml"
-    },
-    {
-      "id": "ff18ae1f42",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:28",
-      "title": "欧盟议员警告：马斯克旗下SpaceX的扩张计划或将对欧洲构成“危险”",
-      "insight": "一名欧盟资深议员表示，欧盟在修订电信法规时，必须避免新规变相让埃隆・马斯克的SpaceX得以掌控…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhi6145901.shtml"
-    },
-    {
-      "id": "ff21799e26",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-21 20:21",
-      "title": "传统眼镜业务抵消智能眼镜增长放缓影响，依视路陆逊梯卡股价大涨",
-      "insight": "雷朋（Ray-Ban）眼镜制造商依视路陆逊梯卡（EssilorLuxottica）周三股价大涨1…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhn4893940.shtml"
-    },
-    {
-      "id": "ff56220061",
-      "source": "界面",
       "tag": "财经热点",
-      "time": "10-21 20:17",
-      "title": "泡泡玛特五日跌超13% ，段永平表示会再加仓",
-      "insight": "近日，泡泡玛特股价持续回调，知名投资人段永平再次发声，称还会再买入部分泡泡玛特股票。 有网友在雪…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-21/doc-inivyxhf5406229.shtml"
+      "time": "10-21 23:05",
+      "title": "中国取得可持续发展耀眼成就，《2026上海ESG发展报告》发布",
+      "insight": "“2026可持续全球领导者大会”于10月20日-22日在上海召开。《践行可持续发展之路——202…",
+      "link": "https://finance.sina.com.cn/china/2026-10-21/doc-inivzcqk4916933.shtml"
     },
     {
-      "id": "ff3930bd54",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-21 20:03",
-      "title": "隆基绿能70亿转债触发回售，“光伏龙头”拒绝低价转股！",
-      "insight": "来源：债市观察 作者| 刘银平  一只可转债的结局只有两种：变成股票，或者到期还钱。隆基绿能（6…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivyxhn4885646.shtml"
-    },
-    {
-      "id": "ffcd0e8a9b",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "10-21 19:51",
-      "title": "净利暴增23倍，400亿龙头股价却跌超10%",
-      "insight": "记者丨张赛男 编辑丨郑世凤 一份营收增四成、净利润暴增23倍的三季报，换来的却是股价超10%的大…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivyxhn4868867.shtml"
-    },
-    {
-      "id": "fff48c0255",
-      "source": "21世纪经济报道",
-      "tag": "股市",
-      "time": "10-21 19:51",
-      "title": "宁德时代，单日市值蒸发超1400亿元",
-      "insight": "记者丨费心懿 编辑丨包芳鸣，曾静娇，强燕 10月21日，宁德时代AH股大跌。 宁德时代A股大跌超…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivyxhi6118961.shtml"
-    },
-    {
-      "id": "ffdba80568",
+      "id": "ffad5758ba",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-21 19:38",
-      "title": "华硕准备出货搭载英伟达HGX Rubin NVL8的服务器系统",
-      "insight": "华硕今日宣布，基于英伟达HGX Rubin NVL8打造的全新华硕服务器系统将于2026年第四季…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivyxhf5374838.shtml"
+      "time": "10-21 22:44",
+      "title": "黄仁勋柏林演讲实录：参考人形机器人、AI工厂、CUDA-X、自动驾驶、物理AI、医疗智能体多点发布",
+      "insight": "英伟达CEO黄仁勋在2026柏林GTC发表主旨演讲。柏林GTC大会为期三天，同期在不远处的柏林S…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqk4899797.shtml"
+    },
+    {
+      "id": "ff36925403",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 22:32",
+      "title": "英飞凌与英伟达合作 面向数据中心研发电源转换方案",
+      "insight": "英飞凌在公告中称，正深化和英伟达的合作，共同开发基于氮化镓的中间母线转换器方案，适配800伏直流…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqf6111160.shtml"
+    },
+    {
+      "id": "ff0a76b16b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 22:32",
+      "title": "高盛、摩根大通和摩根士丹利主导AI股票热潮，它们的优势何在",
+      "insight": "受全球人工智能股票热潮、资本规则放松以及对对冲基金放贷增加推动，华尔街大型银行在股票交易方面已经…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqf6110869.shtml"
+    },
+    {
+      "id": "fff66223ee",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 22:31",
+      "title": "三星电机将向英伟达供应ABF载板",
+      "insight": "三星电机已与英伟达签订具备约束力的多年供货协议，为AI处理器与高速网络交换机提供ABF封装载板，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqf6110271.shtml"
+    },
+    {
+      "id": "ffc4d22e3b",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-21 22:28",
+      "title": "泡泡玛特遭遇4连跌：股价跌破130港元 市值跌至1729亿港元 去年辉煌难复制",
+      "insight": "来源：雷递 雷递网 乐天 10月21日 在上周四市值跌破2000亿港元后，泡泡玛特（股票代码：“…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-21/doc-inivzcqh8133674.shtml"
+    },
+    {
+      "id": "ffe73a3666",
+      "source": "证券时报网",
+      "tag": "股市",
+      "time": "10-21 22:28",
+      "title": "13天8板九阳股份：对深思考的投资持股比例较低",
+      "insight": "人民财讯10月21日电，13天8板九阳股份（002242）10月21日发布股票交易异常波动公告称…",
+      "link": "https://finance.sina.com.cn/stock/marketresearch/2026-10-21/doc-inivzcqf6108786.shtml"
+    },
+    {
+      "id": "ff0124c584",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-21 22:22",
+      "title": "克里姆林宫称欧盟和基辅提出的新方案对实现和平几乎没有价值",
+      "insight": "据报道，克里姆林宫助手Yuri Ushakov表示，美国特使史蒂夫·威特科夫向俄罗斯总统普京介绍…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivzcqh8108718.shtml"
     }
   ],
-  "updateTime": "2026-10-21 22:16"
+  "updateTime": "2026-10-22 03:03"
 }
