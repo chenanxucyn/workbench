@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff12a8aeda",
-      "source": "新浪港股",
+      "id": "ffcdcbbfe8",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-22 22:08",
+      "title": "编程语言PHP严重漏洞引发全球紧急修复 多地网站暂时下线",
+      "insight": "围绕一种广泛使用的编程语言PHP所曝出的漏洞，全球网站加紧更新并采取防护措施的行动进入第二天。研…",
+      "link": "https://finance.sina.com.cn/world/2026-10-22/doc-iniwchpc5209421.shtml"
+    },
+    {
+      "id": "ffc5fb9d8f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 22:04",
+      "title": "SK海力士正就iHBM量产对接供应链厂商",
+      "insight": "SK海力士已经启动和供应链厂商磋商，为可降低高带宽内存（HBM）发热的下一代技术iHBM落地、量…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpf5937711.shtml"
+    },
+    {
+      "id": "ffcf13c072",
+      "source": "上海证券报",
       "tag": "股市",
-      "time": "10-22 16:08",
-      "title": "港股收评：恒指跌3.03% 科指大跌5.03% 科网股普跌 锂电池股下挫 宁德时代跌超7%",
-      "insight": "10月22日消息，港股三大指数低开低走，恒科指盘中相继跌破3900点、3800点关口，创2024…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-22/doc-iniwavxm5873588.shtml"
+      "time": "10-22 21:50",
+      "title": "又一例！港股上市公司，借钱给创始人",
+      "insight": "港股上市公司借钱给创始人，再现新的案例。 10月21日晚间，速腾聚创公告称，其间接全资附属公司深…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-22/doc-iniwchph8252958.shtml"
     },
     {
-      "id": "ff608b215c",
+      "id": "ff8b9fd9b9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-22 16:03",
-      "title": "智库预警：韩国未来应对基金2028年增收规模或缩水100万亿韩元",
-      "insight": "一份分析报告警示，韩国政府拟设立的未来应对基金所依托的超收税收，在2028年或将减少超100万亿…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxn8093590.shtml"
+      "time": "10-22 21:41",
+      "title": "壳牌与埃克森美孚英国化工合资企业挂牌出售 价值80亿美元",
+      "insight": "壳牌参股的一家英国化工企业正寻求以80亿美元的估值出售。这家能源巨头持续剥离非核心业务板块，重新…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk5006340.shtml"
     },
     {
-      "id": "ffdb3970b5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:58",
-      "title": "韩国央行行长：核心通胀2028年有望接近2%目标",
-      "insight": "韩国央行行长申铉松22日表示，明年核心通胀率仍将高于央行目标水平，预计到2028年才会逼近2%的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxi5131089.shtml"
-    },
-    {
-      "id": "ff7989d051",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:54",
-      "title": "爱马仕：中东等市场环境承压，成衣配饰销售下滑",
-      "insight": "高端奢侈品牌爱马仕公布财报，成衣及配饰品类收入下滑，品牌将原因归咎于中东等核心市场面临充满挑战的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxn8079953.shtml"
-    },
-    {
-      "id": "ffa40e4d57",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:53",
-      "title": "传媒大亨预测SpaceX将与派拉蒙达成百亿美元合作 星链切入好莱坞内容分发赛道",
-      "insight": "传媒大亨John Malone周三表示，埃隆·马斯克旗下SpaceX有可能和派拉蒙天舞达成一笔数…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxm5858467.shtml"
-    },
-    {
-      "id": "ffd14a49c0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:51",
-      "title": "燃油价格上涨 美国西南航空下调2026年盈利预期",
-      "insight": "美国西南航空（Southwest Airlines）成为本月第三家因燃油价格上涨而下调2026年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwavxm5856611.shtml"
-    },
-    {
-      "id": "ffcd528e01",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:48",
-      "title": "三星工会提议放宽亏损芯片部门奖金扣罚规则",
-      "insight": "三星电子最大工会计划将放宽芯片业务亏损事业部奖金惩罚机制，列为明年薪资与集体谈判的议题。工会已向…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrm5253368.shtml"
-    },
-    {
-      "id": "ffaa675c88",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:44",
-      "title": "亚马逊封锁AI智能体之际 沃尔玛敞开大门欢迎",
-      "insight": "沃尔玛周三宣布推出自有的Agent Gateway（智能体网关），用于管理交易，并推出其他面向人…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrq8195488.shtml"
-    },
-    {
-      "id": "ff5bc1b5ec",
-      "source": "界面",
+      "id": "ffaea90b4a",
+      "source": "证券日报",
       "tag": "财经热点",
-      "time": "10-22 15:44",
-      "title": "eBay再裁员上千人，为年内第二次精简团队",
-      "insight": "当地时间10月21日，美国电子商务平台eBay对媒体表示，将裁员约1000-1100个岗位，约占…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrm5251338.shtml"
+      "time": "10-22 21:40",
+      "title": "港股公司尝高美涉嫌操纵股价转板 香港证监会启动法律程序",
+      "insight": "本报记者 毛艺融 10月22日，香港证监会发文称就GEM（香港创业板）上市公司尝高美集团有限公司…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwchpf5933532.shtml"
     },
     {
-      "id": "ff069b917c",
-      "source": "证券时报网",
-      "tag": "财经热点",
-      "time": "10-22 15:40",
-      "title": "商务部：我国境外企业2025年实现收入3.8万亿美元",
-      "insight": "人民财讯10月22日电，10月22日，商务部对外投资和经济合作司司长赵春峰在国新办新闻发布会上表…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrm5245232.shtml"
-    },
-    {
-      "id": "ff616583fd",
+      "id": "ff93f3f8eb",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-22 15:39",
-      "title": "日本最大工会组织计划在明年“春斗”中寻求6%加薪，到2030年将工资提高15%",
-      "insight": "日本最大的工会组织Rengo周四公布了针对2027年年度劳资谈判的薪资谈判方针，提出了以加薪6%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrp5975131.shtml"
+      "time": "10-22 21:33",
+      "title": "开盘：纳指跌1.5% AI担忧升温 特斯拉、Meta等拖累指数",
+      "insight": "美股周四开盘下跌，Meta、特斯拉等大盘巨头拖累指数，市场对AI交易行情的担忧升温；与此同时，地…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk4997568.shtml"
     },
     {
-      "id": "fff268931d",
+      "id": "ffe2111df9",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-22 15:38",
-      "title": "消息人士：苹果本月将在韩国上线AI版Siri",
-      "insight": "业内消息人士周三透露，苹果计划于本月在韩国地区推出搭载生成式AI的新版Siri，韩国用户很快就能…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrm5242855.shtml"
+      "time": "10-22 21:29",
+      "title": "SpaceX：下一个伯克希尔，还是一盘乱局？",
+      "insight": "马斯克试图合并SpaceX与特斯拉，这笔交易或许对马斯克本人有利，但对股东而言——尤其是特斯拉股…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchph8220452.shtml"
     },
     {
-      "id": "ff7a8b31ba",
+      "id": "ffddb42104",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-22 15:38",
-      "title": "高盛维持英伟达买入评级 目标价300美元 GTC巩固AI乐观预期",
-      "insight": "在英伟达CEO黄仁勋柏林GTC大会主旨演讲结束后，高盛重申买入评级，目标价300美元。 分析师J…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrq8185062.shtml"
+      "time": "10-22 21:28",
+      "title": "AI支出计划引发担忧 Meta信用风险指标升至新高",
+      "insight": "Meta Platforms Inc．表示，公司未来与各类租赁和合同相关的支出承诺约为8，250…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchph8219299.shtml"
     },
     {
-      "id": "ff99f24c26",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:36",
-      "title": "亚马逊警告：人工智能发现的新型网络安全漏洞正遭到“大规模利用”",
-      "insight": "研究人员利用OpenAI和谷歌的模型，在全球绝大多数网站使用的软件中发现了严重漏洞。 亚马逊警告…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrm5240841.shtml"
+      "id": "ff7e74f223",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "10-22 21:24",
+      "title": "300221，董事会与“牛散”股东矛盾升级！双方回应→",
+      "insight": "银禧科技打出“诉讼牌”。 10月21日晚间，彭朝晖通过银禧科技（300221）的公告得知自己成为…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-22/doc-iniwchpk4991564.shtml"
     },
     {
-      "id": "ffe178cb14",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:30",
-      "title": "巴克莱加码应用AI，计划裁员5000人",
-      "insight": "英国巴克莱银行计划今年裁员5000人。随着该行在全业务线推广人工智能，开发岗位将成为裁员重灾区。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrm5235727.shtml"
-    },
-    {
-      "id": "ff86d01ed7",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-22 15:27",
-      "title": "我国对外投资存量连续9年保持世界前三",
-      "insight": "记者22日从国务院新闻办公室举行的“开局起步‘十五五’”系列主题新闻发布会上了解到，截至2025…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwarrm5234651.shtml"
-    },
-    {
-      "id": "ff54acc09e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-22 15:26",
-      "title": "SK海力士旗下Solidigm拟纳斯达克IPO 韩议员称上市之日将是韩股末日",
-      "insight": "SK海力士因其美国曾孙级子公司Solidigm的双重上市计划陷入争议。韩国金融监督院院长李灿珍罕…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwarrm5231016.shtml"
-    },
-    {
-      "id": "ff0857ae84",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "10-22 15:24",
-      "title": "外交部回应欧盟警告：中国在北极活动符合国际法",
-      "insight": "【#中国在北极的活动符合国际法#】#外交部回应欧盟警告#10月22日，外交部发言人毛宁主持例行记…",
-      "link": "https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrq8164443.shtml"
-    },
-    {
-      "id": "ff7f9509f7",
-      "source": "北京日报客户端",
-      "tag": "财经热点",
-      "time": "10-22 15:21",
-      "title": "外交部：台湾问题上没有灰色地带 菲方应实际行动恪守一个中国原则",
-      "insight": "#台湾问题上没有灰色地带#【#菲方应实际行动恪守一个中国原则#】10月22日，外交部发言人毛宁主…",
-      "link": "https://finance.sina.com.cn/china/2026-10-22/doc-iniwarrs4933999.shtml"
-    },
-    {
-      "id": "fff4c83139",
+      "id": "ff458c53cf",
       "source": "市场资讯",
-      "tag": "期货",
-      "time": "10-22 15:20",
-      "title": "光大期货：1022热点追踪：新低伴随缩量，期指何时企稳？",
-      "insight": "周四A 股低开后持续走弱，指数重心不断下探，主要宽基指数刷新阶段低点，其中双创板块调整幅度更大，…",
-      "link": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-10-22/doc-iniwarrq8158161.shtml"
+      "tag": "股市",
+      "time": "10-22 21:16",
+      "title": "152家企，港股“上市申请失效”",
+      "insight": "来源：智通财经网 港股IPO市场在经历阶段性活跃后，部分项目开始显现出调整迹象。从上市申请失效，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-22/doc-iniwchpc5172854.shtml"
+    },
+    {
+      "id": "ffb4abd86f",
+      "source": "证券时报",
+      "tag": "财经热点",
+      "time": "10-22 21:03",
+      "title": "000333，已回购1.38亿股，将全部注销！多家A股龙头也出手！",
+      "insight": "宁德时代单日回购近5亿元；美的集团（000333）大额回购持续推进，累计超112亿元。 近期，A…",
+      "link": "https://finance.sina.com.cn/wm/2026-10-22/doc-iniwchpf5891303.shtml"
+    },
+    {
+      "id": "ffa8c96cf1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:46",
+      "title": "美国首次申领失业救济人数降至三个月低点",
+      "insight": "美国上周首次申请失业救济人数降至三个月低点，显示劳动力市场保持稳定。 美国劳工部周四公布的数据显…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk4949430.shtml"
+    },
+    {
+      "id": "ff840b529a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:36",
+      "title": "法国发现全球首例沙门达病毒感染人类病例",
+      "insight": "法国发现全球首例沙门达病毒（Shamonda virus）人类感染病例，这种病毒此前被认为只感染…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchph8166941.shtml"
+    },
+    {
+      "id": "fff99e7376",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:35",
+      "title": "估值更具吸引力 贝莱德全球首席投资策略师称公司寻求重新布局AI交易",
+      "insight": "贝莱德全球首席投资策略师Wei Li表示，随着股票估值普遍变得更具吸引力，贝莱德正寻求重新布局A…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchph8165974.shtml"
+    },
+    {
+      "id": "ff7c2ab638",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:23",
+      "title": "Prada营收小幅增长 中东市场疲软",
+      "insight": "Prada第三季度营收按可比口径增长1%，美洲市场的强劲需求被中东中国市场的疲软表现所削弱。 P…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk4927546.shtml"
+    },
+    {
+      "id": "ff5af68ec0",
+      "source": "21世纪经济报道",
+      "tag": "财经热点",
+      "time": "10-22 20:11",
+      "title": "昔日“彩电一哥”，明日退市",
+      "insight": "据21财经雷达，10月22日，昔日“彩电一哥*ST康佳A公告，公司A股和B股将于10月23日摘牌…",
+      "link": "https://finance.sina.com.cn/wm/2026-10-22/doc-iniwcaff5246113.shtml"
+    },
+    {
+      "id": "fff36774ea",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-22 20:11",
+      "title": "300767，重大资产重组",
+      "insight": "来源：中国基金报 【导读】震安科技（证券代码：300767）拟以现金收购三维机电不低于51%股权…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwcafi5971747.shtml"
+    },
+    {
+      "id": "ffe1fa2830",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:03",
+      "title": "宝洁财报超预期：洗护及家居产品拉动营收增4%",
+      "insight": "宝洁周四公布季度业绩，在洗衣液、家居护理产品需求增长带动下，盈利和营收双双超出分析师预期。公司盘…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwcafn5035733.shtml"
+    },
+    {
+      "id": "ffebc2d512",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-22 20:00",
+      "title": "避险情绪推动日元跑赢主要货币 分析师警告勿过度解读",
+      "insight": "随着全球股市遭遇抛售、避险情绪升温，日元周四跑赢所有主要货币。交易员和策略师指出，日本国内资金流…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwcafi5958258.shtml"
+    },
+    {
+      "id": "fff51690f1",
+      "source": "21世纪经济报道",
+      "tag": "股市",
+      "time": "10-22 19:53",
+      "title": "5连板牛股紧急澄清：尚未量产",
+      "insight": "记者丨池伟嘉 编辑丨李燕娜 10月22日，沪深两市三大指数低开，全天呈现震荡走弱走势。截至收盘，…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-22/doc-iniwcafk8260997.shtml"
     }
   ],
-  "updateTime": "2026-10-22 16:11"
+  "updateTime": "2026-10-22 22:16"
 }
