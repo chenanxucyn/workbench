@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ffa81cacc2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 03:53",
+      "title": "大众计划在佐治亚新建奥迪工厂",
+      "insight": "一名美国官员透露，大众集团将在佐治亚州为奥迪品牌新建一座工厂，同时扩建南卡罗来纳州现有设施。 这…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkmrh0213942.shtml"
+    },
+    {
+      "id": "fff936801e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 03:51",
+      "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
+      "insight": "美国总统特朗普曾表示中东战争将在几周内结束，然而，这场战争如今已进入第八个月，而且看起来势将进一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkmre3436349.shtml"
+    },
+    {
+      "id": "ff329229b2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 02:40",
+      "title": "马斯克：商业版星链严禁用于进攻性无人机作战，乌军方曾违规使用",
+      "insight": "马斯克发文称，星链作为民用商业服务，绝不允许、也绝不应当被用于操控进攻性无人机实施杀戮行动。星盾…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3552145.shtml"
+    },
+    {
+      "id": "ffc05de481",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 02:25",
+      "title": "金属交易商迎来丰厚红利，连续第二年斩获创纪录利润",
+      "insight": "金属交易行业连续第二年迎来火爆行情，交易商赚取数十亿美元，多家头部贸易企业创下利润新高。托克集团…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3549447.shtml"
+    },
+    {
+      "id": "ff3bcad6d2",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 02:22",
+      "title": "伊朗航司外汇供给中断，机票涨价约40%",
+      "insight": "伊朗航空协会秘书长马吉德·阿赫拉吉周六称，受运营成本上涨、外汇短缺影响，伊朗机票价格上涨约40%…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0326184.shtml"
+    },
+    {
+      "id": "ff3ca838d5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 01:52",
+      "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
+      "insight": "以色列总理内塔尼亚胡提出，可以借助加密货币规避以色列可能遭遇的金融制裁，该想法遭到以色列央行的严…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0320147.shtml"
+    },
+    {
+      "id": "ffe780b1f8",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 01:44",
+      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
+      "insight": "俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间1…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmri6938884.shtml"
+    },
+    {
       "id": "ff289daa65",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,6 +71,24 @@
       "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
       "insight": "胡塞武装发布声明称，他们袭击了沙特阿拉伯延布和拉比格的能源设施，以及该国的东西输油管道。 胡塞武…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkfih3534319.shtml"
+    },
+    {
+      "id": "ffedc56fb0",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 00:54",
+      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
+      "insight": "也门胡塞武装24日表示，该组织使用导弹和无人机对沙特境内多处机场、石油设施及一处军事基地发动了7…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfik0307871.shtml"
+    },
+    {
+      "id": "ff1866da05",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 00:07",
+      "title": "法国示威活动致多地文化场所临时关闭",
+      "insight": "当地时间24日，法国举行新一轮全国性抗议示威活动，多地文化场所当天被迫临时关闭。 法国文化部此前…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfip3826008.shtml"
     },
     {
       "id": "ff3a7aaacf",
@@ -98,88 +179,7 @@
       "title": "中央气象台：全球天气公报（2026年10月24日）",
       "insight": "来源：中央气象台网站 一、全球天气实况 1．日本泰国等地有强降水 过去24小时（10月23日00…",
       "link": "https://finance.sina.com.cn/money/future/hyxh/2026-10-24/doc-iniwikcq1243698.shtml"
-    },
-    {
-      "id": "ffab2afb1b",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 15:40",
-      "title": "绿色动力驶向全球：潍柴的技术创新与可持续发展之路",
-      "insight": "随着中国“双碳”目标持续推进，绿色低碳已成为许多产业的重要发展方向。其中，装备制造业广泛服务于物…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikcs1959763.shtml"
-    },
-    {
-      "id": "ff733217e3",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 15:15",
-      "title": "2026可持续全球领导者大会·北大光华分论坛在沪举行 共探碳中和系统变革的落地路径",
-      "insight": "10月21日下午，2026可持续全球领导者大会·北大光华分论坛在上海黄浦滨江·里滩文化中心举行。…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwicvs1352388.shtml"
-    },
-    {
-      "id": "ff031c6fcc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-24 15:14",
-      "title": "瑞士股市成为市场AI恐慌下的避风港",
-      "insight": "瑞士市场指数跟踪该国20只流动性最好的大盘股，本月累计上涨4.6%；而欧元区对标指数欧洲斯托克5…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwicvn8068652.shtml"
-    },
-    {
-      "id": "ffe6d22ac4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-24 09:33",
-      "title": "英国承诺出资1亿英镑设立生物安全实验室 OpenAI、Anthropic参与合作",
-      "insight": "英国宣布出资1亿英镑（折合1.34亿美元）建设AI生物安全实验室，由OpenAI、Anthrop…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwhtfy2247230.shtml"
-    },
-    {
-      "id": "ffefa8558b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 06:55",
-      "title": "10月24日隔夜要闻：美股三大指数收跌 油价大涨 金价下跌 特朗普称可能对伊发动一次小规模“史诗怒火”行动",
-      "insight": "市场 10月24日收盘：美股三大指数收跌 道指跌超600点 布油创4月以来新高 市场抛售范围扩大…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhnya2334385.shtml"
-    },
-    {
-      "id": "ffc7f7255b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 06:53",
-      "title": "报道：美国将部分外交人员及其家属撤离中东驻地",
-      "insight": "据多名知情人士透露，随着地区局势升级的威胁迫近，美国正匆忙从多个中东驻地撤离部分外交官及其家属。…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhnxy1602777.shtml"
-    },
-    {
-      "id": "ff605a74f4",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-24 06:21",
-      "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
-      "insight": "转自：新华网 新华社哈瓦那/华盛顿10月23日电（记者蒋彪 黄强）针对美方所谓“顺道解决古巴”言…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1724593.shtml"
-    },
-    {
-      "id": "ffa3de1d36",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 06:11",
-      "title": "大宗商品综述：油价大涨 铜价收窄周跌幅 金价下跌",
-      "insight": "布伦特原油本周收于4月份以来最高水平，因为沙特阿拉伯遭到的袭击愈演愈烈，加剧了此前已因美伊战争而…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8286322.shtml"
-    },
-    {
-      "id": "ff04b3d39b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 06:07",
-      "title": "CFTC：对冲基金削减日元空头 增持澳元多头",
-      "insight": "美国商品期货交易委员会（CFTC）周五公布的数据显示，截至10月20日当周，对冲基金削减日元空头…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2448937.shtml"
     }
   ],
-  "updateTime": "2026-10-25 01:44"
+  "updateTime": "2026-10-25 04:02"
 }
