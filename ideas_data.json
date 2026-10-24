@@ -3,7 +3,7 @@
     {
       "rank": 1,
       "topic": "西藏7.0级地震已致16死76伤",
-      "heat": 11921830,
+      "heat": 11938961,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -12,8 +12,28 @@
     },
     {
       "rank": 2,
+      "topic": "LPL瑞士轮首轮全败",
+      "heat": 11470505,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/LPL%E7%91%9E%E5%A3%AB%E8%BD%AE%E9%A6%96%E8%BD%AE%E5%85%A8%E8%B4%A5?type=general",
+      "scheme": "snssdk1128://search/LPL瑞士轮首轮全败"
+    },
+    {
+      "rank": 3,
+      "topic": "西藏克服难点开展地震救援",
+      "heat": 11204925,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%A5%BF%E8%97%8F%E5%85%8B%E6%9C%8D%E9%9A%BE%E7%82%B9%E5%BC%80%E5%B1%95%E5%9C%B0%E9%9C%87%E6%95%91%E6%8F%B4?type=general",
+      "scheme": "snssdk1128://search/西藏克服难点开展地震救援"
+    },
+    {
+      "rank": 4,
       "topic": "国内黄金克价跌破860元",
-      "heat": 11838025,
+      "heat": 11180513,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -21,19 +41,9 @@
       "scheme": "snssdk1128://search/国内黄金克价跌破860元"
     },
     {
-      "rank": 3,
-      "topic": "中国创新指数增长6.4%",
-      "heat": 11745512,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E5%88%9B%E6%96%B0%E6%8C%87%E6%95%B0%E5%A2%9E%E9%95%BF6.4%25?type=general",
-      "scheme": "snssdk1128://search/中国创新指数增长6.4%"
-    },
-    {
-      "rank": 4,
+      "rank": 5,
       "topic": "美军公开两种太空杀器",
-      "heat": 11338975,
+      "heat": 10610481,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -41,29 +51,9 @@
       "scheme": "snssdk1128://search/美军公开两种太空杀器"
     },
     {
-      "rank": 5,
-      "topic": "MKOI战胜BLG",
-      "heat": 10716496,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/MKOI%E6%88%98%E8%83%9CBLG?type=general",
-      "scheme": "snssdk1128://search/MKOI战胜BLG"
-    },
-    {
       "rank": 6,
-      "topic": "GEN战胜IG",
-      "heat": 10684817,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CIG?type=general",
-      "scheme": "snssdk1128://search/GEN战胜IG"
-    },
-    {
-      "rank": 7,
       "topic": "秦岭半山红叶半山雪",
-      "heat": 9432280,
+      "heat": 10473194,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -71,89 +61,19 @@
       "scheme": "snssdk1128://search/秦岭半山红叶半山雪"
     },
     {
+      "rank": 7,
+      "topic": "MKOI战胜BLG",
+      "heat": 9315330,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/MKOI%E6%88%98%E8%83%9CBLG?type=general",
+      "scheme": "snssdk1128://search/MKOI战胜BLG"
+    },
+    {
       "rank": 8,
-      "topic": "HLE战胜TES",
-      "heat": 9430653,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/HLE%E6%88%98%E8%83%9CTES?type=general",
-      "scheme": "snssdk1128://search/HLE战胜TES"
-    },
-    {
-      "rank": 9,
-      "topic": "秋日收藏小赛",
-      "heat": 9382170,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E6%94%B6%E8%97%8F%E5%B0%8F%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/秋日收藏小赛"
-    },
-    {
-      "rank": 10,
-      "topic": "毛茸茸治愈一切",
-      "heat": 9187473,
-      "videos": 0,
-      "type": "情感共鸣",
-      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
-      "link": "https://www.douyin.com/search/%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%B8%80%E5%88%87?type=general",
-      "scheme": "snssdk1128://search/毛茸茸治愈一切"
-    },
-    {
-      "rank": 11,
-      "topic": "如何看待高性价比人生指南火了",
-      "heat": 9182149,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E4%BA%BA%E7%94%9F%E6%8C%87%E5%8D%97%E7%81%AB%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/如何看待高性价比人生指南火了"
-    },
-    {
-      "rank": 12,
-      "topic": "原神7.2版本前瞻",
-      "heat": 9154137,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
-      "scheme": "snssdk1128://search/原神7.2版本前瞻"
-    },
-    {
-      "rank": 13,
-      "topic": "警惕西藏7.0级地震相关不实信息",
-      "heat": 9120383,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E8%AD%A6%E6%83%95%E8%A5%BF%E8%97%8F7.0%E7%BA%A7%E5%9C%B0%E9%9C%87%E7%9B%B8%E5%85%B3%E4%B8%8D%E5%AE%9E%E4%BF%A1%E6%81%AF?type=general",
-      "scheme": "snssdk1128://search/警惕西藏7.0级地震相关不实信息"
-    },
-    {
-      "rank": 14,
-      "topic": "采暖费能找人打折代缴系骗局",
-      "heat": 9043334,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%87%87%E6%9A%96%E8%B4%B9%E8%83%BD%E6%89%BE%E4%BA%BA%E6%89%93%E6%8A%98%E4%BB%A3%E7%BC%B4%E7%B3%BB%E9%AA%97%E5%B1%80?type=general",
-      "scheme": "snssdk1128://search/采暖费能找人打折代缴系骗局"
-    },
-    {
-      "rank": 15,
-      "topic": "台风蔷琵实时路径",
-      "heat": 8956846,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
-      "scheme": "snssdk1128://search/台风蔷琵实时路径"
-    },
-    {
-      "rank": 16,
       "topic": "骑行四千五百公里赴赛里木湖",
-      "heat": 8861796,
+      "heat": 9279366,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -161,49 +81,89 @@
       "scheme": "snssdk1128://search/骑行四千五百公里赴赛里木湖"
     },
     {
+      "rank": 9,
+      "topic": "KC战胜AL",
+      "heat": 9239619,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/KC%E6%88%98%E8%83%9CAL?type=general",
+      "scheme": "snssdk1128://search/KC战胜AL"
+    },
+    {
+      "rank": 10,
+      "topic": "树说中国",
+      "heat": 9198883,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%A0%91%E8%AF%B4%E4%B8%AD%E5%9B%BD?type=general",
+      "scheme": "snssdk1128://search/树说中国"
+    },
+    {
+      "rank": 11,
+      "topic": "秋日收藏小赛",
+      "heat": 9185926,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%A7%8B%E6%97%A5%E6%94%B6%E8%97%8F%E5%B0%8F%E8%B5%9B?type=general",
+      "scheme": "snssdk1128://search/秋日收藏小赛"
+    },
+    {
+      "rank": 12,
+      "topic": "毛茸茸治愈一切",
+      "heat": 9156018,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E6%AF%9B%E8%8C%B8%E8%8C%B8%E6%B2%BB%E6%84%88%E4%B8%80%E5%88%87?type=general",
+      "scheme": "snssdk1128://search/毛茸茸治愈一切"
+    },
+    {
+      "rank": 13,
+      "topic": "南水北调中线可约票钓鱼吗",
+      "heat": 9054079,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8D%97%E6%B0%B4%E5%8C%97%E8%B0%83%E4%B8%AD%E7%BA%BF%E5%8F%AF%E7%BA%A6%E7%A5%A8%E9%92%93%E9%B1%BC%E5%90%97?type=general",
+      "scheme": "snssdk1128://search/南水北调中线可约票钓鱼吗"
+    },
+    {
+      "rank": 14,
+      "topic": "HLE战胜TES",
+      "heat": 9023747,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/HLE%E6%88%98%E8%83%9CTES?type=general",
+      "scheme": "snssdk1128://search/HLE战胜TES"
+    },
+    {
+      "rank": 15,
+      "topic": "原神7.2版本前瞻",
+      "heat": 8946278,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8E%9F%E7%A5%9E7.2%E7%89%88%E6%9C%AC%E5%89%8D%E7%9E%BB?type=general",
+      "scheme": "snssdk1128://search/原神7.2版本前瞻"
+    },
+    {
+      "rank": 16,
+      "topic": "如何看待高性价比人生指南火了",
+      "heat": 8884517,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%A6%82%E4%BD%95%E7%9C%8B%E5%BE%85%E9%AB%98%E6%80%A7%E4%BB%B7%E6%AF%94%E4%BA%BA%E7%94%9F%E6%8C%87%E5%8D%97%E7%81%AB%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/如何看待高性价比人生指南火了"
+    },
+    {
       "rank": 17,
-      "topic": "亲手捏个角色放主页",
-      "heat": 8858207,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BA%B2%E6%89%8B%E6%8D%8F%E4%B8%AA%E8%A7%92%E8%89%B2%E6%94%BE%E4%B8%BB%E9%A1%B5?type=general",
-      "scheme": "snssdk1128://search/亲手捏个角色放主页"
-    },
-    {
-      "rank": 18,
-      "topic": "现货黄金跌破4000美元",
-      "heat": 8397610,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83?type=general",
-      "scheme": "snssdk1128://search/现货黄金跌破4000美元"
-    },
-    {
-      "rank": 19,
-      "topic": "76人114:106击败骑士",
-      "heat": 7971062,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/76%E4%BA%BA114%3A106%E5%87%BB%E8%B4%A5%E9%AA%91%E5%A3%AB?type=general",
-      "scheme": "snssdk1128://search/76人114:106击败骑士"
-    },
-    {
-      "rank": 20,
-      "topic": "尚公主开播",
-      "heat": 7950317,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%BC%80%E6%92%AD?type=general",
-      "scheme": "snssdk1128://search/尚公主开播"
-    },
-    {
-      "rank": 21,
       "topic": "网友拍到绝美火箭云",
-      "heat": 7810098,
+      "heat": 8526255,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -211,29 +171,79 @@
       "scheme": "snssdk1128://search/网友拍到绝美火箭云"
     },
     {
-      "rank": 22,
-      "topic": "我的秋冬通勤穿搭分享",
-      "heat": 7800532,
+      "rank": 18,
+      "topic": "GEN战胜IG",
+      "heat": 8036974,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E7%A7%8B%E5%86%AC%E9%80%9A%E5%8B%A4%E7%A9%BF%E6%90%AD%E5%88%86%E4%BA%AB?type=general",
-      "scheme": "snssdk1128://search/我的秋冬通勤穿搭分享"
+      "link": "https://www.douyin.com/search/GEN%E6%88%98%E8%83%9CIG?type=general",
+      "scheme": "snssdk1128://search/GEN战胜IG"
+    },
+    {
+      "rank": 19,
+      "topic": "亲手捏个角色放主页",
+      "heat": 7810836,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%BA%B2%E6%89%8B%E6%8D%8F%E4%B8%AA%E8%A7%92%E8%89%B2%E6%94%BE%E4%B8%BB%E9%A1%B5?type=general",
+      "scheme": "snssdk1128://search/亲手捏个角色放主页"
+    },
+    {
+      "rank": 20,
+      "topic": "现货黄金跌破4000美元",
+      "heat": 7807192,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%8E%B0%E8%B4%A7%E9%BB%84%E9%87%91%E8%B7%8C%E7%A0%B44000%E7%BE%8E%E5%85%83?type=general",
+      "scheme": "snssdk1128://search/现货黄金跌破4000美元"
+    },
+    {
+      "rank": 21,
+      "topic": "台风蔷琵实时路径",
+      "heat": 7801856,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E5%AE%9E%E6%97%B6%E8%B7%AF%E5%BE%84?type=general",
+      "scheme": "snssdk1128://search/台风蔷琵实时路径"
+    },
+    {
+      "rank": 22,
+      "topic": "白宫称俄乌同意局部暂时停火",
+      "heat": 7791355,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%99%BD%E5%AE%AB%E7%A7%B0%E4%BF%84%E4%B9%8C%E5%90%8C%E6%84%8F%E5%B1%80%E9%83%A8%E6%9A%82%E6%97%B6%E5%81%9C%E7%81%AB?type=general",
+      "scheme": "snssdk1128://search/白宫称俄乌同意局部暂时停火"
     },
     {
       "rank": 23,
-      "topic": "台风蔷琵逼近华东沿海",
-      "heat": 7782749,
+      "topic": "泽连斯基称停火是乌方最大让步",
+      "heat": 7766606,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%8F%B0%E9%A3%8E%E8%94%B7%E7%90%B5%E9%80%BC%E8%BF%91%E5%8D%8E%E4%B8%9C%E6%B2%BF%E6%B5%B7?type=general",
-      "scheme": "snssdk1128://search/台风蔷琵逼近华东沿海"
+      "link": "https://www.douyin.com/search/%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA%E7%A7%B0%E5%81%9C%E7%81%AB%E6%98%AF%E4%B9%8C%E6%96%B9%E6%9C%80%E5%A4%A7%E8%AE%A9%E6%AD%A5?type=general",
+      "scheme": "snssdk1128://search/泽连斯基称停火是乌方最大让步"
     },
     {
       "rank": 24,
+      "topic": "白鹿神之九秒来了",
+      "heat": 7747465,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%99%BD%E9%B9%BF%E7%A5%9E%E4%B9%8B%E4%B9%9D%E7%A7%92%E6%9D%A5%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/白鹿神之九秒来了"
+    },
+    {
+      "rank": 25,
       "topic": "刘亦菲连续三年VOGUE红毯压轴",
-      "heat": 7777531,
+      "heat": 7743454,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -241,9 +251,9 @@
       "scheme": "snssdk1128://search/刘亦菲连续三年VOGUE红毯压轴"
     },
     {
-      "rank": 25,
+      "rank": 26,
       "topic": "迪丽热巴VOGUE盛典",
-      "heat": 7752306,
+      "heat": 7727259,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -251,19 +261,19 @@
       "scheme": "snssdk1128://search/迪丽热巴VOGUE盛典"
     },
     {
-      "rank": 26,
-      "topic": "当我用上iPhone Duo后",
-      "heat": 7744619,
+      "rank": 27,
+      "topic": "尚公主开播",
+      "heat": 7707270,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BD%93%E6%88%91%E7%94%A8%E4%B8%8AiPhone%20Duo%E5%90%8E?type=general",
-      "scheme": "snssdk1128://search/当我用上iPhone Duo后"
+      "link": "https://www.douyin.com/search/%E5%B0%9A%E5%85%AC%E4%B8%BB%E5%BC%80%E6%92%AD?type=general",
+      "scheme": "snssdk1128://search/尚公主开播"
     },
     {
-      "rank": 27,
+      "rank": 28,
       "topic": "嫁金钗大伯母王一楠演技大赏",
-      "heat": 7731990,
+      "heat": 7703631,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -271,9 +281,9 @@
       "scheme": "snssdk1128://search/嫁金钗大伯母王一楠演技大赏"
     },
     {
-      "rank": 28,
+      "rank": 29,
       "topic": "绝区零三挽昼合体夯爆了",
-      "heat": 7720499,
+      "heat": 7695860,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -281,25 +291,15 @@
       "scheme": "snssdk1128://search/绝区零三挽昼合体夯爆了"
     },
     {
-      "rank": 29,
+      "rank": 30,
       "topic": "Vogue时尚之力盛会",
-      "heat": 7710802,
+      "heat": 7695786,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
       "link": "https://www.douyin.com/search/Vogue%E6%97%B6%E5%B0%9A%E4%B9%8B%E5%8A%9B%E7%9B%9B%E4%BC%9A?type=general",
       "scheme": "snssdk1128://search/Vogue时尚之力盛会"
-    },
-    {
-      "rank": 30,
-      "topic": "iPhone Duo正式开售",
-      "heat": 7699270,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/iPhone%20Duo%E6%AD%A3%E5%BC%8F%E5%BC%80%E5%94%AE?type=general",
-      "scheme": "snssdk1128://search/iPhone Duo正式开售"
     }
   ],
-  "updateTime": "2026-10-24 07:42"
+  "updateTime": "2026-10-24 10:48"
 }
