@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "ff7d3b5cec",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "10-24 18:11",
+      "title": "南方区域电力市场转入正式运行",
+      "insight": "10月24日消息，我国首个区域电力市场——南方区域电力市场今天转入正式运行。历经一年多极端工况实…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiqmh7907000.shtml"
+    },
+    {
+      "id": "ffdfd6ece5",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "10-24 17:44",
+      "title": "“X女下海赚外快”？ 哈啰顺风车被曝涉黄！订单现疑似招嫖信息，官方紧急排查，高管曾称“七年没亏钱”",
+      "insight": "《“X女下海赚外快”？ 哈啰顺风车被曝涉黄！订单现疑似招嫖信息，官方紧急排查，高管曾称“七年没亏…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikcq1264147.shtml"
+    },
+    {
+      "id": "ff07913eea",
+      "source": "新浪财经",
+      "tag": "财经热点",
+      "time": "10-24 17:43",
+      "title": "“吃完两瓶了，天塌了！” 山姆紧急下架“好健康”牡蛎精！消费者不满“仅退款”，10倍索赔成立吗？",
+      "insight": "文 | 《BUG》栏目 马世雯 近日，山姆紧急下架“好健康”牌牡蛎精胶囊。同时向会员发布召回部分…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikck8019248.shtml"
+    },
+    {
+      "id": "ffacdd9969",
+      "source": "一财网",
+      "tag": "财经热点",
+      "time": "10-24 16:48",
+      "title": "七平台联合倡议推动新就业形态人员参保医保：责任明确化，骑手司机盼落地",
+      "insight": "继《新就业形态劳动者权益保障办法（征求意见稿）》发布后，新就业形态劳动者的权益保障迎来新进展。 …",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwikck7993017.shtml"
+    },
+    {
+      "id": "ffc8ab5a1f",
+      "source": "新浪财经",
+      "tag": "理财",
+      "time": "10-24 16:30",
+      "title": "中央气象台：全球天气公报（2026年10月24日）",
+      "insight": "来源：中央气象台网站 一、全球天气实况 1．日本泰国等地有强降水 过去24小时（10月23日00…",
+      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-10-24/doc-iniwikcq1243698.shtml"
+    },
+    {
       "id": "ffab2afb1b",
       "source": "市场资讯",
       "tag": "财经热点",
@@ -134,52 +179,7 @@
       "title": "古巴外长驳斥美方所谓“顺道解决古巴”言论",
       "insight": "△古巴外长罗德里格斯（资料图）针对美方所谓“顺道解决古巴”言论，古巴外长罗德里格斯23日驳斥说，…",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1701634.shtml"
-    },
-    {
-      "id": "ff3490057f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:21",
-      "title": "观点综述：中期选举前宜押注美债涨、做空美元 避险情绪或延至11月中",
-      "insight": "富国策略师建议，在11月3日中期选举前押注美国久期资产上涨，并做空美元。美国银行策略师Micha…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2422304.shtml"
-    },
-    {
-      "id": "ff590e3cab",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:18",
-      "title": "CFTC：对冲基金欧元空头押注升至2020年3月以来最高",
-      "insight": "对冲基金对欧元的看空押注增至2020年3月以来最高水平，法国政治动荡冲击欧洲市场，并给欧元带来压…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8241537.shtml"
-    },
-    {
-      "id": "ff465bc567",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:15",
-      "title": "纽约汇市：美元随AI担忧消退而持稳 澳元料创4月份以来最大周涨幅",
-      "insight": "对AI主题交易的担忧消退，美元窄幅震荡，而油价上涨引发通胀担忧。澳元迈向4月份以来最大单周涨幅。…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8238200.shtml"
-    },
-    {
-      "id": "ff26b4cae2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:10",
-      "title": "穆迪完成审查后未对法国采取任何评级行动",
-      "insight": "穆迪已完成对法国信用评级的审查，未采取任何评级行动。 表示近期上调该国Aa3评级的可能性不大，该…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8233175.shtml"
-    },
-    {
-      "id": "ff419828c2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:06",
-      "title": "特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国",
-      "insight": "一艘装载柴油的油轮驶离俄罗斯普里莫尔斯克港，并间歇性地将纽约显示为目的地，这可能是俄罗斯总统普京…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1682591.shtml"
     }
   ],
-  "updateTime": "2026-10-24 15:47"
+  "updateTime": "2026-10-24 21:01"
 }
