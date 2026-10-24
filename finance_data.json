@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "ffab2afb1b",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 15:40",
+      "title": "绿色动力驶向全球：潍柴的技术创新与可持续发展之路",
+      "insight": "随着中国“双碳”目标持续推进，绿色低碳已成为许多产业的重要发展方向。其中，装备制造业广泛服务于物…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikcs1959763.shtml"
+    },
+    {
+      "id": "ff733217e3",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 15:15",
+      "title": "2026可持续全球领导者大会·北大光华分论坛在沪举行 共探碳中和系统变革的落地路径",
+      "insight": "10月21日下午，2026可持续全球领导者大会·北大光华分论坛在上海黄浦滨江·里滩文化中心举行。…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwicvs1352388.shtml"
+    },
+    {
+      "id": "ff031c6fcc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-24 15:14",
+      "title": "瑞士股市成为市场AI恐慌下的避风港",
+      "insight": "瑞士市场指数跟踪该国20只流动性最好的大盘股，本月累计上涨4.6%；而欧元区对标指数欧洲斯托克5…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwicvn8068652.shtml"
+    },
+    {
       "id": "ffe6d22ac4",
       "source": "环球市场播报",
       "tag": "美股",
@@ -152,34 +179,7 @@
       "title": "特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国",
       "insight": "一艘装载柴油的油轮驶离俄罗斯普里莫尔斯克港，并间歇性地将纽约显示为目的地，这可能是俄罗斯总统普京…",
       "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1682591.shtml"
-    },
-    {
-      "id": "ffe938fd6c",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:03",
-      "title": "共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税",
-      "insight": "特朗普政府准备扩大对加拿大产品的关税豁免范围，而此举可能有助于提升共和党参议员苏珊·柯林斯在缅因…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8226106.shtml"
-    },
-    {
-      "id": "ff30bd271f",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-24 04:57",
-      "title": "土埃巴沙四国外长：以色列的占领行为是地区动荡根源",
-      "insight": "当地时间10月23日晚，土耳其、埃及、巴基斯坦和沙特阿拉伯四国外长在伊斯坦布尔举行会议后发表联合…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2416138.shtml"
-    },
-    {
-      "id": "ffb1bd0b1d",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 04:53",
-      "title": "10月24日热门中概股涨跌不一，台积电涨1.49%，阿里巴巴跌超2%",
-      "insight": "10月24日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.84%。 上涨个股（按市值…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8218959.shtml"
     }
   ],
-  "updateTime": "2026-10-24 10:48"
+  "updateTime": "2026-10-24 15:47"
 }
