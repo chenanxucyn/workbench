@@ -1,6 +1,51 @@
 {
   "news": [
     {
+      "id": "fff88f2e97",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 05:37",
+      "title": "伊朗否认以霍尔木兹海峡换解除封锁的报道，称系\"谎言与幻想\"",
+      "insight": "知情人士称，伊朗未向巴基斯坦调停人提出任何新方案，并拒绝所谓以重新开放霍尔木兹海峡换取美国解除海…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3325699.shtml"
+    },
+    {
+      "id": "ffffd42539",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 05:35",
+      "title": "民调显示：博尔索纳罗与卢拉进入决胜轮前一日支持率持平",
+      "insight": "根据BTG Pactual/Nexus民调，博尔索纳罗支持率为50.5%，卢拉为49.5%，差距…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3325294.shtml"
+    },
+    {
+      "id": "ffea3d6447",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 05:30",
+      "title": "特朗普：暂未考虑赦免下属官员，但坚称自己拥有赦免权",
+      "insight": "美国总统特朗普表示，他尚未考虑通过赦免来保护政府下层官员免受未来国会调查之扰，但明确称自己有权这…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3324512.shtml"
+    },
+    {
+      "id": "ffbfd46475",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 05:28",
+      "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
+      "insight": "当地时间24日晚，沙特首都利雅得哈立德国王国际机场发布公告称，将于25日部分恢复机场的国内和国际…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkrxf6832908.shtml"
+    },
+    {
+      "id": "ffeceb5210",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-25 04:34",
+      "title": "特朗普称与马斯克谈过乌克兰局势",
+      "insight": "特朗普表示，他已与SpaceX创始人马斯克就乌克兰局势进行了交流。 特朗普拒绝透露与马斯克谈话的…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkmre3445545.shtml"
+    },
+    {
       "id": "ffa81cacc2",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -17,6 +62,24 @@
       "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
       "insight": "美国总统特朗普曾表示中东战争将在几周内结束，然而，这场战争如今已进入第八个月，而且看起来势将进一…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkmre3436349.shtml"
+    },
+    {
+      "id": "ff533728b5",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 03:31",
+      "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
+      "insight": "当地时间10月24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmre3451013.shtml"
+    },
+    {
+      "id": "ffbaf535a7",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-25 03:22",
+      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
+      "insight": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmri6948867.shtml"
     },
     {
       "id": "ff329229b2",
@@ -116,70 +179,7 @@
       "title": "全世界都没看透的可口可乐真相",
       "insight": "般若之眼 你有没有想过，也许韩国、阿根廷、印度、约旦或者我们中国，也都有一种很好喝的饮料，但为啥…",
       "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwiutt4046028.shtml"
-    },
-    {
-      "id": "ff50f3a697",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 21:47",
-      "title": "泡泡玛特的宿命：一代人有一代人的“拉布布”",
-      "insight": "般若之眼 上几代人玩的鼻烟壶、遛鸟、盘串、集邮，这一代人抽盲盒、追拉布布。它们的共性本质可以一句…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3715488.shtml"
-    },
-    {
-      "id": "ff241887ef",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 21:45",
-      "title": "美国：这个我是真没卡住! 中国第三代半导体全面崛起! 拿下 90% 市场!",
-      "insight": "杨哥商业说 问AI·碳化硅侧翼赛道为何不受顶级光刻机制约？ 一台两吨重的电动车在国道上以 120…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3715604.shtml"
-    },
-    {
-      "id": "ff7d3b5cec",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "10-24 18:11",
-      "title": "南方区域电力市场转入正式运行",
-      "insight": "10月24日消息，我国首个区域电力市场——南方区域电力市场今天转入正式运行。历经一年多极端工况实…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiqmh7907000.shtml"
-    },
-    {
-      "id": "ffdfd6ece5",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "10-24 17:44",
-      "title": "“X女下海赚外快”？ 哈啰顺风车被曝涉黄！订单现疑似招嫖信息，官方紧急排查，高管曾称“七年没亏钱”",
-      "insight": "《“X女下海赚外快”？ 哈啰顺风车被曝涉黄！订单现疑似招嫖信息，官方紧急排查，高管曾称“七年没亏…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikcq1264147.shtml"
-    },
-    {
-      "id": "ff07913eea",
-      "source": "新浪财经",
-      "tag": "财经热点",
-      "time": "10-24 17:43",
-      "title": "“吃完两瓶了，天塌了！” 山姆紧急下架“好健康”牡蛎精！消费者不满“仅退款”，10倍索赔成立吗？",
-      "insight": "文 | 《BUG》栏目 马世雯 近日，山姆紧急下架“好健康”牌牡蛎精胶囊。同时向会员发布召回部分…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwikck8019248.shtml"
-    },
-    {
-      "id": "ffacdd9969",
-      "source": "一财网",
-      "tag": "财经热点",
-      "time": "10-24 16:48",
-      "title": "七平台联合倡议推动新就业形态人员参保医保：责任明确化，骑手司机盼落地",
-      "insight": "继《新就业形态劳动者权益保障办法（征求意见稿）》发布后，新就业形态劳动者的权益保障迎来新进展。 …",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwikck7993017.shtml"
-    },
-    {
-      "id": "ffc8ab5a1f",
-      "source": "新浪财经",
-      "tag": "理财",
-      "time": "10-24 16:30",
-      "title": "中央气象台：全球天气公报（2026年10月24日）",
-      "insight": "来源：中央气象台网站 一、全球天气实况 1．日本泰国等地有强降水 过去24小时（10月23日00…",
-      "link": "https://finance.sina.com.cn/money/future/hyxh/2026-10-24/doc-iniwikcq1243698.shtml"
     }
   ],
-  "updateTime": "2026-10-25 04:02"
+  "updateTime": "2026-10-25 06:48"
 }
