@@ -1,6 +1,60 @@
 {
   "news": [
     {
+      "id": "ff289daa65",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 01:15",
+      "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
+      "insight": "胡塞武装发布声明称，他们袭击了沙特阿拉伯延布和拉比格的能源设施，以及该国的东西输油管道。 胡塞武…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkfih3534319.shtml"
+    },
+    {
+      "id": "ff3a7aaacf",
+      "source": "市场资讯",
+      "tag": "美股",
+      "time": "10-24 22:43",
+      "title": "分析：SpaceX大幅上调Q4资本开支指引，AI算力采购规模大增",
+      "insight": "当地时间10月20日，SpaceX发布2026年第三季度财报，报告期内，该公司营收为145.8亿…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwiyzk3609815.shtml"
+    },
+    {
+      "id": "ff44699d51",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 21:55",
+      "title": "夏春：注册制改邀请制弊大于利",
+      "insight": "夏春财经智识 近日有传闻，某新质生产力赛道龙头企业的上市在监管系统内部被定性为一次“发行事故”：…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3719861.shtml"
+    },
+    {
+      "id": "fffd92db3f",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 21:48",
+      "title": "全世界都没看透的可口可乐真相",
+      "insight": "般若之眼 你有没有想过，也许韩国、阿根廷、印度、约旦或者我们中国，也都有一种很好喝的饮料，但为啥…",
+      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwiutt4046028.shtml"
+    },
+    {
+      "id": "ff50f3a697",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 21:47",
+      "title": "泡泡玛特的宿命：一代人有一代人的“拉布布”",
+      "insight": "般若之眼 上几代人玩的鼻烟壶、遛鸟、盘串、集邮，这一代人抽盲盒、追拉布布。它们的共性本质可以一句…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3715488.shtml"
+    },
+    {
+      "id": "ff241887ef",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-24 21:45",
+      "title": "美国：这个我是真没卡住! 中国第三代半导体全面崛起! 拿下 90% 市场!",
+      "insight": "杨哥商业说 问AI·碳化硅侧翼赛道为何不受顶级光刻机制约？ 一台两吨重的电动车在国道上以 120…",
+      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3715604.shtml"
+    },
+    {
       "id": "ff7d3b5cec",
       "source": "新浪财经",
       "tag": "财经热点",
@@ -125,61 +179,7 @@
       "title": "CFTC：对冲基金削减日元空头 增持澳元多头",
       "insight": "美国商品期货交易委员会（CFTC）周五公布的数据显示，截至10月20日当周，对冲基金削减日元空头…",
       "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2448937.shtml"
-    },
-    {
-      "id": "ff26c3b4e8",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 06:06",
-      "title": "法国获得喘息之机 穆迪未下调其信用评级",
-      "insight": "法国躲过一劫，穆迪未下调该国信用评级，让这个饱受债券收益率飙升、政治僵局和街头抗议困扰的国家获得…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1716659.shtml"
-    },
-    {
-      "id": "ff7283b848",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:54",
-      "title": "10月24日外盘头条：俄乌同意奥列什基停火 特朗普拟豁免更多加拿大产品关税 美国将氦列入关键材料清单",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、俄乌同意奥列什基停火，泽连斯基称11月举行新…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhry5046368.shtml"
-    },
-    {
-      "id": "ff669d9d39",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-24 05:48",
-      "title": "俄乌同意奥列什基停火，泽连斯基称11月举行新一轮和平会谈",
-      "insight": "乌克兰和俄罗斯周五表示，双方已同意在俄罗斯占领的乌克兰城镇奥列什基实现停火，该停火由美国第一夫人…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2440163.shtml"
-    },
-    {
-      "id": "ff57ad25c4",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-24 05:43",
-      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降",
-      "insight": "英国海上贸易行动办公室23日通报，一艘油轮在驶出霍尔木兹海峡途中遭不明发射物击中，随后继续驶往下…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhrw8274402.shtml"
-    },
-    {
-      "id": "ff8bd36b78",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-24 05:33",
-      "title": "以色列总理有关应对国际制裁言论引发国内担忧",
-      "insight": "△以色列总理内塔尼亚胡（资料图）以色列总理内塔尼亚胡23日表示，他已下令为以色列可能面临的国际经…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1712855.shtml"
-    },
-    {
-      "id": "ffa18c4420",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-24 05:28",
-      "title": "古巴外长驳斥美方所谓“顺道解决古巴”言论",
-      "insight": "△古巴外长罗德里格斯（资料图）针对美方所谓“顺道解决古巴”言论，古巴外长罗德里格斯23日驳斥说，…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1701634.shtml"
     }
   ],
-  "updateTime": "2026-10-24 21:01"
+  "updateTime": "2026-10-25 01:44"
 }
