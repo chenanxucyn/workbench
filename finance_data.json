@@ -1,6 +1,123 @@
 {
   "news": [
     {
+      "id": "ff244f8328",
+      "source": "证券日报",
+      "tag": "财经热点",
+      "time": "10-26 06:43",
+      "title": "国际现货黄金跌破4000美元/盎司关口",
+      "insight": "本报记者孟珂 10月23日，国际现货黄金价格跌破每盎司4000美元关口，为7月以来首次失守。截至…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnzcz9288329.shtml"
+    },
+    {
+      "id": "ff8d4d431a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-26 06:31",
+      "title": "Anthropic旗下Claude绕过付费墙获取佐治亚州选民数据",
+      "insight": "Anthropic公司的Claude模型在未经人类授权的情况下获取了佐治亚州公开选民数据。 An…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnzcz9285666.shtml"
+    },
+    {
+      "id": "ff13e751ed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 06:16",
+      "title": "10月26日周末要闻：乌美俄11月举行会谈 油价下跌 武契奇承认败选",
+      "insight": "市场 10月24日收盘：美股三大指数收跌 道指跌超600点 10月24日热门中概股涨跌不一，台积…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnuwi2645092.shtml"
+    },
+    {
+      "id": "ffec954b7b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 06:07",
+      "title": "原油从六个月高点小幅回落 交易员评估伊朗风险",
+      "insight": "原油从六个月高点小幅回落，尽管美国总统唐纳德·特朗普表示准备重启对伊朗的打击。 布伦特原油价格低…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnuwa2632266.shtml"
+    },
+    {
+      "id": "ff4332113e",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-26 06:07",
+      "title": "原油从六个月高点小幅回落，交易员评估伊朗风险",
+      "insight": "原油从六个月高点小幅回落。 布伦特原油价格低于每桶116美元，上周涨幅超6%，WTI原油接近每桶…",
+      "link": "https://finance.sina.com.cn/7x24/2026-10-26/doc-iniwnuwc9409238.shtml"
+    },
+    {
+      "id": "ffc3c188a8",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-26 05:04",
+      "title": "塞尔维亚“学生名单-学生获胜”宣布议会选举获胜",
+      "insight": "由塞尔维亚学生团体推动的“学生名单-学生获胜”25日宣布，在当天举行的议会选举中获胜。 塞尔维亚…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnuwc9399985.shtml"
+    },
+    {
+      "id": "ff1cab2748",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-26 04:47",
+      "title": "武契奇承认败选：预计“学生名单-学生获胜”将赢得塞议会选举",
+      "insight": "当地时间10月25日晚，塞尔维亚前总统武契奇在塞尔维亚前进党竞选总部发表讲话，判断由其领衔的“亚…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnuwf5856976.shtml"
+    },
+    {
+      "id": "ffd91c429a",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-26 04:44",
+      "title": "武契奇承认前进党在塞议会选举中败选",
+      "insight": "塞尔维亚前总统武契奇当地时间25日承认，由塞尔维亚前进党主导的“亚历山大·武契奇-团结的塞尔维亚…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnuwa2614889.shtml"
+    },
+    {
+      "id": "ffabff9bc0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 04:41",
+      "title": "巴西法院将全国范围内的大选投票时间延长两小时",
+      "insight": "巴西最高法院将周日大选的全国投票时间延长至晚上7点。此前，总统卢拉和挑战者弗拉维奥·博索纳罗分别…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnuwc9389517.shtml"
+    },
+    {
+      "id": "ff13e08071",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 04:03",
+      "title": "博索纳罗要求在巴西两个州延长投票时间",
+      "insight": "巴西参议员弗拉维奥·博索纳罗的竞选团队以天气状况为由要求延长在巴西的米纳斯吉拉斯州和南里奥格兰德…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnuwi2623785.shtml"
+    },
+    {
+      "id": "ffd0031a62",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 03:33",
+      "title": "观点：美国民主党中期选举版图扩大 共和党“红墙”告急",
+      "insight": "在2026年中期选举周期开始的时候，共和党人把参议院选区划分视为他们最大的优势之一。结果却并非如…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnqqm2751572.shtml"
+    },
+    {
+      "id": "fffdf15841",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "10-26 02:49",
+      "title": "泽连斯基：乌美俄拟于11月举行三方技术层级工作会谈",
+      "insight": "当地时间10月25日，乌克兰总统泽连斯基证实，美国、俄罗斯、乌克兰计划于11月举行三方技术层级工…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-10-26/doc-iniwnqqm2749645.shtml"
+    },
+    {
+      "id": "ff4fd341a8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-26 02:47",
+      "title": "巴西总统卢拉：竞选团队将要求延长投票时间",
+      "insight": "巴西总统卢拉表示，由于选举日公共交通运力有限，他的竞选团队将要求延长投票时间。卢拉周日向记者谈到…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-26/doc-iniwnqqf9499589.shtml"
+    },
+    {
       "id": "ff69832658",
       "source": "环球市场播报",
       "tag": "美股",
@@ -62,124 +179,7 @@
       "title": "明起停牌！600621，控股股东拟变更",
       "insight": "华鑫股份明起停牌。 华鑫股份（600621）10月25日晚间公告，因公司控股股东上海仪电（集团）…",
       "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwncyp6167925.shtml"
-    },
-    {
-      "id": "ff6908524b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 21:38",
-      "title": "消息：伊朗并未通过巴基斯坦向美国提交新方案",
-      "insight": "一名知情人士称，有关伊朗提议以重新开放霍尔木兹海峡换取美国解除海上封锁的报道“虚假且纯属幻想”。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwncyk2872683.shtml"
-    },
-    {
-      "id": "ff5dcced76",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 21:36",
-      "title": "阿布扎比王储本周将访问渥太华 两国关系持续深化",
-      "insight": "根据周日发表的一份声明，阿布扎比王储谢赫·哈立德·本·穆罕默德·阿勒纳哈扬（Sheikh Kha…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwncyr2944121.shtml"
-    },
-    {
-      "id": "ff98ac8f5c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 21:18",
-      "title": "沙特股市因胡塞武装持续袭击而重挫",
-      "insight": "由于与胡塞武装的冲突未见缓和迹象，且美国正准备升级对伊朗的战争，沙特全股指数（Tadawul A…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwncym9643652.shtml"
-    },
-    {
-      "id": "ff029c255e",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-25 20:35",
-      "title": "明日复牌！301314，重大资产重组",
-      "insight": "来源：中国基金报 【导读】科瑞思拟实施重大资产重组，计划自10月26日开市起复牌 中国基金报记者…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsp9754324.shtml"
-    },
-    {
-      "id": "ffab1daa04",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-25 20:00",
-      "title": "现上市后三季报首亏、市值缩水超12亿元，东贝集团业绩、股价双承压",
-      "insight": "来源：资本秘闻 东贝集团（601956）出现上市后三季报首亏。10月24日，东贝集团（60195…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3160207.shtml"
-    },
-    {
-      "id": "ff78c79190",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 19:40",
-      "title": "埃及基准股指收于六个月来最低水平",
-      "insight": "在周日的交易中，埃及EGX30指数下跌3.6%，收于49，234.35点，创下自4月9日以来的最…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmxsr6266989.shtml"
-    },
-    {
-      "id": "ffd6d34dc1",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-25 19:22",
-      "title": "上交所：将罗博特科(03757.HK)调入港股通标的",
-      "insight": "10月23日，上交所发布公告称，根据《上海证券交易所沪港通业务实施办法》的有关规定，沪港通下港股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-25/doc-iniwmxsn2950148.shtml"
-    },
-    {
-      "id": "ff440c8a02",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "10-25 19:15",
-      "title": "301314，重大资产重组方案公布！明天复牌",
-      "insight": "科瑞思拟购买宏钢光电100%股份，明起复牌。 科瑞思（301314）10月25日披露预案，拟通过…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsp9719078.shtml"
-    },
-    {
-      "id": "ffce796310",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-25 18:59",
-      "title": "大动作！600025，重要收购",
-      "insight": "来源：中国基金报 中国基金报记者 刘墨 10月25日晚间，华能水电（600025）公告称，拟以8…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsr6257801.shtml"
-    },
-    {
-      "id": "ff4d342388",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 18:37",
-      "title": "Borr Drilling钻井平台在加蓬近海沉没，5人失踪",
-      "insight": "Borr Drilling公司表示，10月24日，其Prospector 5号钻井平台在加蓬近海…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmtkr9831014.shtml"
-    },
-    {
-      "id": "ffb4f10701",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "10-25 18:29",
-      "title": "千亿A股公司，抛87亿元并购！",
-      "insight": "来源：资本秘闻 10月25日，华能水电披露公告称，公司拟以现金方式收购控股股东中国华能集团有限公…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3157949.shtml"
-    },
-    {
-      "id": "ff6da56d83",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "10-25 17:41",
-      "title": "斥资87亿元！600025，宣布重要收购！",
-      "insight": "华能水电拟87.01亿元收购控股股东所持HNYL公司100%股权。 华能水电（600025）10…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3141694.shtml"
-    },
-    {
-      "id": "ff21a12393",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "10-25 17:40",
-      "title": "31省份去年平均工资出炉",
-      "insight": "从平均工资来看，非私营单位中，12个省份超过12万元。根据国家统计局发布的数据，2025年，全国…",
-      "link": "https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmtkt6364931.shtml"
     }
   ],
-  "updateTime": "2026-10-26 02:00"
+  "updateTime": "2026-10-26 06:57"
 }
