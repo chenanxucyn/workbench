@@ -1,6 +1,87 @@
 {
   "news": [
     {
+      "id": "ffd30bcbd9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 15:29",
+      "title": "以色列大选日限制巴勒斯坦人员出入境",
+      "insight": "以色列国防军发布通告称，以色列将于 10 月 27 日大选当天，禁止约旦河西岸巴勒斯坦务工人员出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpax3236858.shtml"
+    },
+    {
+      "id": "ffc682b11a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 15:00",
+      "title": "iPhone Duo未能通过JerryRigEverything粉尘耐用性测试",
+      "insight": "苹果iPhone Duo没能通过JerryRigEverything最新一轮耐用测试。该机虽具备…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451672.shtml"
+    },
+    {
+      "id": "ff88797746",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 14:59",
+      "title": "韩国二季度经常账户盈余超德日之和，半导体出口拉动顺差大增",
+      "insight": "韩国二季度经常账户盈余规模，超过德国、日本这两大全球制造业强国的盈余总和。半导体出口热潮推高贸易…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451385.shtml"
+    },
+    {
+      "id": "ff5ef624ab",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 14:37",
+      "title": "孙正义计划在马来西亚投资500亿美元 押注AI、数据中心",
+      "insight": "马来西亚总理称，软银集团孙正义选定马来西亚多地，计划投入500亿美元科技投资，这笔资金将加快这位…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpas3053918.shtml"
+    },
+    {
+      "id": "ffc1388132",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 13:38",
+      "title": "苹果计划优化iPhone Duo外屏Safari布局",
+      "insight": "苹果正考虑对iPhone Duo的Safari浏览器做出调整，让网页能够占用更多外屏显示区域，不…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhux6558838.shtml"
+    },
+    {
+      "id": "ffb8423c26",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 13:24",
+      "title": "SK海力士三季报即将出炉，股东回报与投资资金成核心看点",
+      "insight": "SK海力士定于28日举行的三季度财报电话会，将披露实际盈利规模以及存储芯片价格展望。韩亚证券、M…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhuu3150087.shtml"
+    },
+    {
+      "id": "ff3ebb4d02",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 12:07",
+      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸",
+      "insight": "当地时间周六，桂格燕麦（Quaker Oats）当地工厂疑似发生爆炸并引发火灾。该工厂是企业宣称…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhuz3313952.shtml"
+    },
+    {
+      "id": "ffe4792ef7",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 11:18",
+      "title": "OpenAI降价抢单成效显著 多家Anthropic客户编码业务“倒戈”",
+      "insight": "OpenAI压低报价与Anthropic竞争的策略已经初见成效。 人力资源软件公司Ripplin…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanw3213693.shtml"
+    },
+    {
+      "id": "ff146771d8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 11:05",
+      "title": "杠杆ETF新规落地后 韩国散户首次月度净买入押注反弹",
+      "insight": "韩国散户投资者自7月底监管收紧投资规则以来首次实现单月净买入单一个股杠杆ETF。韩国股市大跌之际…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanz6647345.shtml"
+    },
+    {
       "id": "ff574b29d5",
       "source": "环球市场播报",
       "tag": "美股",
@@ -98,88 +179,7 @@
       "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
       "insight": "美国总统特朗普曾表示中东战争将在几周内结束，然而，这场战争如今已进入第八个月，而且看起来势将进一…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkmre3436349.shtml"
-    },
-    {
-      "id": "ff533728b5",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 03:31",
-      "title": "美司法部要求加州官员核查选民身份 不配合者或将遭审查",
-      "insight": "当地时间10月24日，央视记者获悉，美国司法部已向加利福尼亚州全部58个县的选举官员发函，要求其…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmre3451013.shtml"
-    },
-    {
-      "id": "ffbaf535a7",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 03:22",
-      "title": "伊拉克民兵武装：美军机一个月内171次侵犯伊领空",
-      "insight": "伊拉克民兵武装“伊斯兰抵抗组织”24日发表声明称，9月30日至10月23日，共监测到美国战斗机和…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmri6948867.shtml"
-    },
-    {
-      "id": "ff329229b2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 02:40",
-      "title": "马斯克：商业版星链严禁用于进攻性无人机作战，乌军方曾违规使用",
-      "insight": "马斯克发文称，星链作为民用商业服务，绝不允许、也绝不应当被用于操控进攻性无人机实施杀戮行动。星盾…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3552145.shtml"
-    },
-    {
-      "id": "ffc05de481",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 02:25",
-      "title": "金属交易商迎来丰厚红利，连续第二年斩获创纪录利润",
-      "insight": "金属交易行业连续第二年迎来火爆行情，交易商赚取数十亿美元，多家头部贸易企业创下利润新高。托克集团…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfih3549447.shtml"
-    },
-    {
-      "id": "ff3bcad6d2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 02:22",
-      "title": "伊朗航司外汇供给中断，机票涨价约40%",
-      "insight": "伊朗航空协会秘书长马吉德·阿赫拉吉周六称，受运营成本上涨、外汇短缺影响，伊朗机票价格上涨约40%…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0326184.shtml"
-    },
-    {
-      "id": "ff3ca838d5",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 01:52",
-      "title": "以色列央行驳斥内塔尼亚胡利用加密货币规避制裁的提议",
-      "insight": "以色列总理内塔尼亚胡提出，可以借助加密货币规避以色列可能遭遇的金融制裁，该想法遭到以色列央行的严…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkfik0320147.shtml"
-    },
-    {
-      "id": "ffe780b1f8",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 01:44",
-      "title": "俄官员：“尚难判断”局部停火是否影响乌克兰问题谈判",
-      "insight": "俄罗斯联邦武装力量总参谋长瓦列里·格拉西莫夫23日宣布，俄军将在赫尔松方向停火，并从莫斯科时间1…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkmri6938884.shtml"
-    },
-    {
-      "id": "ff289daa65",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 01:15",
-      "title": "胡塞武装：袭击了沙特能源设施和利雅得机场",
-      "insight": "胡塞武装发布声明称，他们袭击了沙特阿拉伯延布和拉比格的能源设施，以及该国的东西输油管道。 胡塞武…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkfih3534319.shtml"
-    },
-    {
-      "id": "ffedc56fb0",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 00:54",
-      "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
-      "insight": "也门胡塞武装24日表示，该组织使用导弹和无人机对沙特境内多处机场、石油设施及一处军事基地发动了7…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfik0307871.shtml"
     }
   ],
-  "updateTime": "2026-10-25 10:40"
+  "updateTime": "2026-10-25 15:59"
 }
