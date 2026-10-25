@@ -1,6 +1,42 @@
 {
   "news": [
     {
+      "id": "ff574b29d5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 10:09",
+      "title": "SK集团会长崔泰源纽约牛排店合影流出 外界关注美国投资布局",
+      "insight": "有关SK集团会长崔泰源现身纽约一家牛排馆的照片流传开来，引发市场对集团美国投资计划的关注。照片拍…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanx9955716.shtml"
+    },
+    {
+      "id": "ff45948b4a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 09:52",
+      "title": "韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元",
+      "insight": "韩国芯片企业三星电子与SK海力士将于下周发布第三季度财报，人工智能存储芯片的旺盛需求有望推动两家…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml"
+    },
+    {
+      "id": "ff282de814",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 09:29",
+      "title": "三星电子会长李在镕近日出访阿联酋 业内关注新增数据中心订单可能性",
+      "insight": "三星电子会长李在镕已前往阿联酋。该地区目前处于近乎战时的地缘紧张环境，分析师称，此行将推动三星集…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkwfc6750638.shtml"
+    },
+    {
+      "id": "fff67a3ab5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 08:46",
+      "title": "奥巴马为中期选举造势 抨击特朗普对伊战争、翻修白宫",
+      "insight": "美国前总统奥巴马周六在俄亥俄州一场中期选举造势集会上猛烈抨击特朗普与共和党，这是距离选举日不足两…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkwfc6736962.shtml"
+    },
+    {
       "id": "fff88f2e97",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -143,43 +179,7 @@
       "title": "也门胡塞武装称对沙特机场和石油设施等目标发动袭击",
       "insight": "也门胡塞武装24日表示，该组织使用导弹和无人机对沙特境内多处机场、石油设施及一处军事基地发动了7…",
       "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfik0307871.shtml"
-    },
-    {
-      "id": "ff1866da05",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 00:07",
-      "title": "法国示威活动致多地文化场所临时关闭",
-      "insight": "当地时间24日，法国举行新一轮全国性抗议示威活动，多地文化场所当天被迫临时关闭。 法国文化部此前…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkfip3826008.shtml"
-    },
-    {
-      "id": "ff3a7aaacf",
-      "source": "市场资讯",
-      "tag": "美股",
-      "time": "10-24 22:43",
-      "title": "分析：SpaceX大幅上调Q4资本开支指引，AI算力采购规模大增",
-      "insight": "当地时间10月20日，SpaceX发布2026年第三季度财报，报告期内，该公司营收为145.8亿…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwiyzk3609815.shtml"
-    },
-    {
-      "id": "ff44699d51",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 21:55",
-      "title": "夏春：注册制改邀请制弊大于利",
-      "insight": "夏春财经智识 近日有传闻，某新质生产力赛道龙头企业的上市在监管系统内部被定性为一次“发行事故”：…",
-      "link": "https://finance.sina.com.cn/china/2026-10-24/doc-iniwiutn3719861.shtml"
-    },
-    {
-      "id": "fffd92db3f",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-24 21:48",
-      "title": "全世界都没看透的可口可乐真相",
-      "insight": "般若之眼 你有没有想过，也许韩国、阿根廷、印度、约旦或者我们中国，也都有一种很好喝的饮料，但为啥…",
-      "link": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwiutt4046028.shtml"
     }
   ],
-  "updateTime": "2026-10-25 06:48"
+  "updateTime": "2026-10-25 10:40"
 }
