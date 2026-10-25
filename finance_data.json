@@ -1,6 +1,123 @@
 {
   "news": [
     {
+      "id": "ff98ac8f5c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 21:18",
+      "title": "沙特股市因胡塞武装持续袭击而重挫",
+      "insight": "由于与胡塞武装的冲突未见缓和迹象，且美国正准备升级对伊朗的战争，沙特全股指数（Tadawul A…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwncym9643652.shtml"
+    },
+    {
+      "id": "ff029c255e",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 20:35",
+      "title": "明日复牌！301314，重大资产重组",
+      "insight": "来源：中国基金报 【导读】科瑞思拟实施重大资产重组，计划自10月26日开市起复牌 中国基金报记者…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsp9754324.shtml"
+    },
+    {
+      "id": "ffab1daa04",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 20:00",
+      "title": "现上市后三季报首亏、市值缩水超12亿元，东贝集团业绩、股价双承压",
+      "insight": "来源：资本秘闻 东贝集团（601956）出现上市后三季报首亏。10月24日，东贝集团（60195…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3160207.shtml"
+    },
+    {
+      "id": "ff78c79190",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 19:40",
+      "title": "埃及基准股指收于六个月来最低水平",
+      "insight": "在周日的交易中，埃及EGX30指数下跌3.6%，收于49，234.35点，创下自4月9日以来的最…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmxsr6266989.shtml"
+    },
+    {
+      "id": "ffd6d34dc1",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "10-25 19:22",
+      "title": "上交所：将罗博特科(03757.HK)调入港股通标的",
+      "insight": "10月23日，上交所发布公告称，根据《上海证券交易所沪港通业务实施办法》的有关规定，沪港通下港股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-25/doc-iniwmxsn2950148.shtml"
+    },
+    {
+      "id": "ff440c8a02",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "10-25 19:15",
+      "title": "301314，重大资产重组方案公布！明天复牌",
+      "insight": "科瑞思拟购买宏钢光电100%股份，明起复牌。 科瑞思（301314）10月25日披露预案，拟通过…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsp9719078.shtml"
+    },
+    {
+      "id": "ffce796310",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 18:59",
+      "title": "大动作！600025，重要收购",
+      "insight": "来源：中国基金报 中国基金报记者 刘墨 10月25日晚间，华能水电（600025）公告称，拟以8…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmxsr6257801.shtml"
+    },
+    {
+      "id": "ff4d342388",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 18:37",
+      "title": "Borr Drilling钻井平台在加蓬近海沉没，5人失踪",
+      "insight": "Borr Drilling公司表示，10月24日，其Prospector 5号钻井平台在加蓬近海…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmtkr9831014.shtml"
+    },
+    {
+      "id": "ffb4f10701",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 18:29",
+      "title": "千亿A股公司，抛87亿元并购！",
+      "insight": "来源：资本秘闻 10月25日，华能水电披露公告称，公司拟以现金方式收购控股股东中国华能集团有限公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3157949.shtml"
+    },
+    {
+      "id": "ff6da56d83",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "10-25 17:41",
+      "title": "斥资87亿元！600025，宣布重要收购！",
+      "insight": "华能水电拟87.01亿元收购控股股东所持HNYL公司100%股权。 华能水电（600025）10…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkv3141694.shtml"
+    },
+    {
+      "id": "ff21a12393",
+      "source": "一财网",
+      "tag": "财经",
+      "time": "10-25 17:40",
+      "title": "31省份去年平均工资出炉",
+      "insight": "从平均工资来看，非私营单位中，12个省份超过12万元。根据国家统计局发布的数据，2025年，全国…",
+      "link": "https://finance.sina.com.cn/roll/2026-10-25/doc-iniwmtkt6364931.shtml"
+    },
+    {
+      "id": "ff3bb5120f",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 17:23",
+      "title": "宇树科技绝地反击",
+      "insight": "来源：富凯财经 宇树科技不是本周（10月19日至25日）涨幅最大的个股，但无疑是关注度最高的个股…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkr9790059.shtml"
+    },
+    {
+      "id": "ff7cfdc4ad",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-25 16:47",
+      "title": "高盛将韩国Kospi指数12个月目标价下调25% 因对人工智能交易担忧加剧",
+      "insight": "随着市场对人工智能交易的担忧加剧，高盛集团策略师将韩国Kospi指数的目标位下调25%。这是该行…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmtkr9771143.shtml"
+    },
+    {
       "id": "ffd30bcbd9",
       "source": "环球市场播报",
       "tag": "美股",
@@ -17,6 +134,24 @@
       "title": "iPhone Duo未能通过JerryRigEverything粉尘耐用性测试",
       "insight": "苹果iPhone Duo没能通过JerryRigEverything最新一轮耐用测试。该机虽具备…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmpav6451672.shtml"
+    },
+    {
+      "id": "ffd96ee648",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 15:00",
+      "title": "华大智造：减亏之后，拐点该看哪三个信号",
+      "insight": "来源：证券之星 华大智造（688114）大概是科创板中最让人纠结的一类标的：技术底子足够硬，赛道…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkq2991582.shtml"
+    },
+    {
+      "id": "ff7e522d70",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-25 15:00",
+      "title": "尚太科技涨停“B面”：外协加工抬升成本，利息费用挤压利润",
+      "insight": "来源：证券之星 连续两日回调后，10月23日，尚太科技（001301.SZ）低开高走，早盘开盘触…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-25/doc-iniwmtkq2993155.shtml"
     },
     {
       "id": "ff88797746",
@@ -44,142 +179,7 @@
       "title": "苹果计划优化iPhone Duo外屏Safari布局",
       "insight": "苹果正考虑对iPhone Duo的Safari浏览器做出调整，让网页能够占用更多外屏显示区域，不…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhux6558838.shtml"
-    },
-    {
-      "id": "ffb8423c26",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 13:24",
-      "title": "SK海力士三季报即将出炉，股东回报与投资资金成核心看点",
-      "insight": "SK海力士定于28日举行的三季度财报电话会，将披露实际盈利规模以及存储芯片价格展望。韩亚证券、M…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhuu3150087.shtml"
-    },
-    {
-      "id": "ff3ebb4d02",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 12:07",
-      "title": "全球最大的燕麦加工厂起火 疑似发生爆炸",
-      "insight": "当地时间周六，桂格燕麦（Quaker Oats）当地工厂疑似发生爆炸并引发火灾。该工厂是企业宣称…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmhuz3313952.shtml"
-    },
-    {
-      "id": "ffe4792ef7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 11:18",
-      "title": "OpenAI降价抢单成效显著 多家Anthropic客户编码业务“倒戈”",
-      "insight": "OpenAI压低报价与Anthropic竞争的策略已经初见成效。 人力资源软件公司Ripplin…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanw3213693.shtml"
-    },
-    {
-      "id": "ff146771d8",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 11:05",
-      "title": "杠杆ETF新规落地后 韩国散户首次月度净买入押注反弹",
-      "insight": "韩国散户投资者自7月底监管收紧投资规则以来首次实现单月净买入单一个股杠杆ETF。韩国股市大跌之际…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanz6647345.shtml"
-    },
-    {
-      "id": "ff574b29d5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 10:09",
-      "title": "SK集团会长崔泰源纽约牛排店合影流出 外界关注美国投资布局",
-      "insight": "有关SK集团会长崔泰源现身纽约一家牛排馆的照片流传开来，引发市场对集团美国投资计划的关注。照片拍…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmanx9955716.shtml"
-    },
-    {
-      "id": "ff45948b4a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 09:52",
-      "title": "韩国存储双雄即将公布第三季度财报 合计营业利润有望达185万亿韩元",
-      "insight": "韩国芯片企业三星电子与SK海力士将于下周发布第三季度财报，人工智能存储芯片的旺盛需求有望推动两家…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwmapc3403465.shtml"
-    },
-    {
-      "id": "ff282de814",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 09:29",
-      "title": "三星电子会长李在镕近日出访阿联酋 业内关注新增数据中心订单可能性",
-      "insight": "三星电子会长李在镕已前往阿联酋。该地区目前处于近乎战时的地缘紧张环境，分析师称，此行将推动三星集…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkwfc6750638.shtml"
-    },
-    {
-      "id": "fff67a3ab5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 08:46",
-      "title": "奥巴马为中期选举造势 抨击特朗普对伊战争、翻修白宫",
-      "insight": "美国前总统奥巴马周六在俄亥俄州一场中期选举造势集会上猛烈抨击特朗普与共和党，这是距离选举日不足两…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkwfc6736962.shtml"
-    },
-    {
-      "id": "fff88f2e97",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 05:37",
-      "title": "伊朗否认以霍尔木兹海峡换解除封锁的报道，称系\"谎言与幻想\"",
-      "insight": "知情人士称，伊朗未向巴基斯坦调停人提出任何新方案，并拒绝所谓以重新开放霍尔木兹海峡换取美国解除海…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3325699.shtml"
-    },
-    {
-      "id": "ffffd42539",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 05:35",
-      "title": "民调显示：博尔索纳罗与卢拉进入决胜轮前一日支持率持平",
-      "insight": "根据BTG Pactual/Nexus民调，博尔索纳罗支持率为50.5%，卢拉为49.5%，差距…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3325294.shtml"
-    },
-    {
-      "id": "ffea3d6447",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 05:30",
-      "title": "特朗普：暂未考虑赦免下属官员，但坚称自己拥有赦免权",
-      "insight": "美国总统特朗普表示，他尚未考虑通过赦免来保护政府下层官员免受未来国会调查之扰，但明确称自己有权这…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkrxa3324512.shtml"
-    },
-    {
-      "id": "ffbfd46475",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-25 05:28",
-      "title": "沙特首都利雅得国际机场将于25日部分恢复运营",
-      "insight": "当地时间24日晚，沙特首都利雅得哈立德国王国际机场发布公告称，将于25日部分恢复机场的国内和国际…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-25/doc-iniwkrxf6832908.shtml"
-    },
-    {
-      "id": "ffeceb5210",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 04:34",
-      "title": "特朗普称与马斯克谈过乌克兰局势",
-      "insight": "特朗普表示，他已与SpaceX创始人马斯克就乌克兰局势进行了交流。 特朗普拒绝透露与马斯克谈话的…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkmre3445545.shtml"
-    },
-    {
-      "id": "ffa81cacc2",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-25 03:53",
-      "title": "大众计划在佐治亚新建奥迪工厂",
-      "insight": "一名美国官员透露，大众集团将在佐治亚州为奥迪品牌新建一座工厂，同时扩建南卡罗来纳州现有设施。 这…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-25/doc-iniwkmrh0213942.shtml"
-    },
-    {
-      "id": "fff936801e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-25 03:51",
-      "title": "美国和以色列迎来关键选举 中东局势再度逼近危险关口",
-      "insight": "美国总统特朗普曾表示中东战争将在几周内结束，然而，这场战争如今已进入第八个月，而且看起来势将进一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-25/doc-iniwkmre3436349.shtml"
     }
   ],
-  "updateTime": "2026-10-25 15:59"
+  "updateTime": "2026-10-25 21:28"
 }
