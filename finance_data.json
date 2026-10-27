@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff876c3306",
+      "id": "ffefc9d2c5",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 11:12",
+      "title": "天齐锂业绩后涨超3% 前三季度归母净利润同比增超30倍",
+      "insight": "天齐锂业（09696）绩后涨超3%，截至发稿，股价上涨2.5%，现报24.56港元，成交额453…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsx4755816.shtml"
+    },
+    {
+      "id": "ffd3b9559e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 11:08",
+      "title": "ASMPT早盘涨逾4% 花旗将其纳入30天上行催化剂观察名单",
+      "insight": "ASMPT（00522）盘中涨超5%。截至发稿，股价上涨3.82%，现报122.30港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsx4754258.shtml"
+    },
+    {
+      "id": "ff15c62c54",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 11:05",
+      "title": "大金重工盘中一度涨超6% 董事会主席提议回购H股不超总数10%",
+      "insight": "大金重工（01081）盘中一度涨超6%，截至发稿，股价上涨3.65%，现报23.84港元，成交额…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsz1529883.shtml"
+    },
+    {
+      "id": "ff48598129",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 11:03",
+      "title": "中国人寿早盘涨近3% 近日拟向控股股东出售所持养老险公司33.73%股权",
+      "insight": "中国人寿（02628）早盘涨近3%，截至发稿，股价上涨2.74%，现报23.96港元，成交额6.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsz1528587.shtml"
+    },
+    {
+      "id": "ffd40c9ebc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 11:01",
+      "title": "美格智能盘中涨超5% 第三季度归母净利润同比增长179.34%",
+      "insight": "美格智能（03268）盘中涨超5%，截至发稿，股价上涨1.84%，现报16.08港元，成交额13…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsv8900438.shtml"
+    },
+    {
+      "id": "ff2b78d329",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "10-27 10:59",
+      "title": "光大期货：10月27日有色金属日报",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-27/doc-iniwrqsv8898779.shtml"
+    },
+    {
+      "id": "fff13e1f09",
+      "source": "市场资讯",
+      "tag": "期货",
+      "time": "10-27 10:57",
+      "title": "光大期货：10月27日软商品日报",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 原糖方面，巴…",
+      "link": "https://finance.sina.com.cn/videonews/zmt/futures/2026-10-27/doc-iniwrqsu2120906.shtml"
+    },
+    {
+      "id": "ff1893b879",
+      "source": "市场资讯",
+      "tag": "期货",
+      "time": "10-27 10:55",
+      "title": "光大期货：10月27日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周一，CB…",
+      "link": "https://finance.sina.com.cn/videonews/zmt/futures/2026-10-27/doc-iniwrqsz1525978.shtml"
+    },
+    {
+      "id": "ff79e4c27c",
+      "source": "市场资讯",
+      "tag": "期货",
+      "time": "10-27 10:54",
+      "title": "光大期货：10月27日能源化工日报",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周一油价重心…",
+      "link": "https://finance.sina.com.cn/videonews/zmt/futures/2026-10-27/doc-iniwrqsv8895392.shtml"
+    },
+    {
+      "id": "ff9322d24d",
+      "source": "市场资讯",
+      "tag": "期货",
+      "time": "10-27 10:52",
+      "title": "光大期货：10月27日矿钢煤焦日报",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/videonews/zmt/futures/2026-10-27/doc-iniwrqsx4747814.shtml"
+    },
+    {
+      "id": "ff54ddff9a",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-27 05:58",
-      "title": "大宗商品综述：油价回落 铜价基本持平 金价微升",
-      "insight": "布伦特从六个月高点回落，多国高级官员赴德黑兰推动重启安全谈判，市场对中东局势进一步升级的担忧有所…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrecc4897696.shtml"
+      "time": "10-27 10:44",
+      "title": "印尼盾逼近历史低点考验央行捍卫能力 分析师称或须加息等更积极策略",
+      "insight": "分析师表示，印尼央行可能需要采取更积极的措施，包括进一步加息，才能使印尼盾从接近历史低位的水平持…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsu2110758.shtml"
     },
     {
-      "id": "ff58463624",
+      "id": "ff4b87b4ff",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-27 05:30",
-      "title": "10月27日外盘头条：巴西股市暴跌 特朗普质疑卢拉胜选 苹果承认少量iPhoneDuo内屏裂纹 Anthropic递表",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、巴西股市暴跌 雷亚尔下挫 卢拉胜选震动巴西市…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwreay2126719.shtml"
+      "time": "10-27 10:41",
+      "title": "原油价格下跌 以色列和美国选举前围绕伊朗问题的外交活动升温",
+      "insight": "原油价格连续第二天下跌，进一步从六个月高点回落。随着外交斡旋力度加大，市场愈发预期美国与伊朗之间…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsx4743194.shtml"
     },
     {
-      "id": "ff77c71f9f",
+      "id": "ff9793f2ad",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-27 05:23",
-      "title": "美国股市：AI交易回暖提振大盘 Anthropic推进上市受关注",
-      "insight": "Anthropic公开提交IPO文件带动AI交易回暖并提振大盘，投资者密切关注本周科技巨头财报及…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwreay2130692.shtml"
+      "time": "10-27 10:34",
+      "title": "摩根资产管理固定收益首席投资官看好长期美债",
+      "insight": "摩根资产管理全球固定收益首席投资官Bob Michele表示，美联储本周料不会加息，但12月很可…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsv8879255.shtml"
     },
     {
-      "id": "ffebc95df0",
+      "id": "ffc6de5fc5",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-27 05:11",
-      "title": "卢拉意外逆势翻盘 特朗普称巴西总统大选似“被操纵”",
-      "insight": "巴西总统卢拉在惊天逆转中战胜挑战者弗拉维奥·博索纳罗后，美国总统特朗普声称第二轮选举结果看起来是…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwreay2120990.shtml"
+      "time": "10-27 10:22",
+      "title": "日元仍是拉美套利交易重要融资货币 经受住巴西市场重挫的考验",
+      "insight": "日元作为拉美套利交易融资货币的角色依然稳固。 巴西总统卢拉意外胜选后，雷亚尔兑日元大幅下挫，但拉…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsz1511485.shtml"
     },
     {
-      "id": "ff9a185cae",
+      "id": "ff290fd93a",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 10:20",
+      "title": "李宁早盘涨超4%将于11月5日举行董事会会议 考虑向股东宣派特别股息",
+      "insight": "李宁（02331）早盘涨超4%，截至发稿，股价上涨4.36%，现报13.4港元，成交额2.682…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-27/doc-iniwrqsv8866954.shtml"
+    },
+    {
+      "id": "ff2eecb921",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-27 05:09",
-      "title": "原油：油价回落 多国官员赴德黑兰推动重启谈判",
-      "insight": "布伦特原油周一从六个月高点回落，多国高级官员赴德黑兰推动重启安全谈判，市场对中东局势进一步升级的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrecf1665800.shtml"
+      "time": "10-27 10:18",
+      "title": "韩国央行警告：若AI支出放缓，韩国芯片出口可能减少多达1000亿美元",
+      "insight": "根据韩国央行的数据，如果美国大型科技公司明年放缓在人工智能领域的资本支出，韩国的半导体出口额可能…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwrqsz1509475.shtml"
     },
     {
-      "id": "fffa8072fb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 05:07",
-      "title": "巴西股市暴跌 雷亚尔下挫 卢拉胜选震动巴西市场",
-      "insight": "巴西选举现任总统卢拉获胜，该国股票、货币和债务暴跌。 雷亚尔下跌8%，势将创下自1990年代以来…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwreaz8894843.shtml"
+      "id": "ff246f8e32",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 10:15",
+      "title": "药捷安康-B收到中国证监会就实施本公司H股全流通发出的备案通知书",
+      "insight": "药捷安康-B（02617）发布公告，本公司于2026年10月26日已收到中国证券监督管理委员会（…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwrqsz1507615.shtml"
     },
     {
-      "id": "ff944334fd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:55",
-      "title": "美国债市：美债收益率曲线趋平 市场聚焦债券标售与美联储决议",
-      "insight": "美国国债收盘涨跌不一，收益率曲线显著趋平。截至纽约时间下午3点，期货成交量约为20日均值的65%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvc9019965.shtml"
+      "id": "ff2fa613fa",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 10:14",
+      "title": "欢喜传媒建议委任立信德豪为新任核数师",
+      "insight": "欢喜传媒（01003）发布公告，董事会建议罢免罗兵咸永道会计师事务所的公司核数师职务； 及委任香…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwrqsz1507377.shtml"
     },
     {
-      "id": "ff4cf01bb5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:45",
-      "title": "10月27日热门中概股多数上涨 贝壳涨超3% 富途涨超2% 拼多多跌超1%",
-      "insight": "10月27日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.63%。 上涨个股（按市值…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvi1792325.shtml"
+      "id": "ff0e8e308e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 10:13",
+      "title": "中金公司将派发中期股息每10股2.6元",
+      "insight": "中金公司（03908）发布公告，将派发2026年6月30日止六个月中期股息每10股2.6元。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwrqsz1507044.shtml"
     },
     {
-      "id": "ff60e5232f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:32",
-      "title": "10月27日美股成交额前20：特斯拉涨超5% 核心业务前景改善 目标股价获机构上调",
-      "insight": "周一美股成交额第3名特斯拉收涨5.21%，成交207.06亿美元。 巴克莱将特斯拉12个月目标价…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxva2233756.shtml"
-    },
-    {
-      "id": "ffb2c09296",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:14",
-      "title": "10月27日收盘：美股三大股指收高 Anthropic提交IPO文件重燃AI交易热情",
-      "insight": "周一美股上涨，此前Anthropic提交IPO文件重新点燃了市场对人工智能交易的热情，半导体制造…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxva2227240.shtml"
-    },
-    {
-      "id": "ff7cc6f57f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:10",
-      "title": "伊朗：若条件获满足 可接受缩短拟议的七天期限",
-      "insight": "伊朗周一向在德黑兰参加会谈的沙特阿拉伯、土耳其和巴基斯坦官员表示，对于以七天内重开霍尔木兹海峡换…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxva2226085.shtml"
-    },
-    {
-      "id": "ff53a00223",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:08",
-      "title": "美国投资级债券发行规模势创年度纪录 AI支出激增推动企业加大举债",
-      "insight": "美国投资级债券今年的发行规模有望在周一刷新历史纪录，超过2020年疫情引发的借贷热潮中创下的1.…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxva2225275.shtml"
-    },
-    {
-      "id": "fff68d57ca",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 04:07",
-      "title": "纽约汇市：美元指数微升 中东局势磋商推动油价回落",
-      "insight": "在安全官员会面讨论缓和中东地区局势后，原油价格从六个月高位回落，美元兑G10货币涨跌不一。 彭博…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvc9002187.shtml"
-    },
-    {
-      "id": "ffc379ee6e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 03:30",
-      "title": "Anthropic七位创始人身家均超130亿美元 IPO文件揭示持股和控制权",
-      "insight": "Anthropic周一提交的IPO文件显示，该公司七位创始人各持有约1.4%的股份，每人的财富超…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvc8995247.shtml"
-    },
-    {
-      "id": "ff381c0ed0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 03:28",
-      "title": "人工智能交易规模惊人 城堡证券称到了“没有容错空间”的地步",
-      "insight": "城堡证券认为，市场对人工智能交易的投入如此之大，到了一旦巨额投入产生不了回报就几乎没有犯错空间的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvc8995037.shtml"
-    },
-    {
-      "id": "ff3ccf1ba2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 03:28",
-      "title": "高盛：对冲基金以两年来最快速度抛售科技股 AI交易信念面临考验",
-      "insight": "高盛集团的Tony Pasquariello表示，华尔街遭遇7月份以来最大规模抛售之际，对冲基金…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqxvf5003114.shtml"
-    },
-    {
-      "id": "ff9e596649",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-27 02:38",
-      "title": "特朗普关联企业严阵以待民主党调查攻势",
-      "insight": "随着中期选举临近，与美国总统唐纳德·特朗普及其家族有关联的企业正纷纷扩充律师和游说团队。民主党人…",
-      "link": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpm1904609.shtml"
-    },
-    {
-      "id": "ffbe033060",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-27 02:33",
-      "title": "iPhone Duo开售不久即被曝内屏出现裂纹 苹果承认少量设备受影响",
-      "insight": "被视为苹果多年来最重要新产品之一的iPhone Duo正遭到越来越多用户投诉，一些购买者称该折叠…",
-      "link": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpf9115121.shtml"
-    },
-    {
-      "id": "ffc9c10d0c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-27 02:25",
-      "title": "美国2年期国债中标收益率高于发行前交易水平 直接投标人获配却创纪录",
-      "insight": "美国财政部发行690亿美元2年期国债，中标收益率为4.708%，高于纽约时间下午1点投标截止时4…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwqtpe2335262.shtml"
-    },
-    {
-      "id": "ff7d1b8290",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-27 01:43",
-      "title": "欧洲债市：法国国债上涨 法德利差收窄",
-      "insight": "法国和德国10年期国债收益率之差创2020年3月以来最大收窄幅度，收盘报约154个基点。此前，穆…",
-      "link": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwqtpe2323065.shtml"
+      "id": "ff40ce17dd",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "10-27 10:13",
+      "title": "中金公司根据拟议合并按换股比例发行31.04亿股A股",
+      "insight": "中金公司（03908）发布公告，于2026年10月26日，根据拟议合并按换股比例发行31.04亿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-27/doc-iniwrqsz1506714.shtml"
     }
   ],
-  "updateTime": "2026-10-27 06:09"
+  "updateTime": "2026-10-27 11:13"
 }
