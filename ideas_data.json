@@ -2,8 +2,18 @@
   "ideas": [
     {
       "rank": 1,
+      "topic": "各地科技赋能助力金秋丰收",
+      "heat": 11141504,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%90%84%E5%9C%B0%E7%A7%91%E6%8A%80%E8%B5%8B%E8%83%BD%E5%8A%A9%E5%8A%9B%E9%87%91%E7%A7%8B%E4%B8%B0%E6%94%B6?type=general",
+      "scheme": "snssdk1128://search/各地科技赋能助力金秋丰收"
+    },
+    {
+      "rank": 2,
       "topic": "在稻城亚丁看一场秋日童话",
-      "heat": 12289506,
+      "heat": 10786742,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -11,69 +21,169 @@
       "scheme": "snssdk1128://search/在稻城亚丁看一场秋日童话"
     },
     {
-      "rank": 2,
-      "topic": "外媒解读华为手机芯片自研突破",
-      "heat": 11044808,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A4%96%E5%AA%92%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%87%AA%E7%A0%94%E7%AA%81%E7%A0%B4?type=general",
-      "scheme": "snssdk1128://search/外媒解读华为手机芯片自研突破"
-    },
-    {
       "rank": 3,
-      "topic": "八大算力枢纽连成一张网",
-      "heat": 10920048,
+      "topic": "中方敦促美方停止对古巴封锁施压",
+      "heat": 10238627,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%85%AB%E5%A4%A7%E7%AE%97%E5%8A%9B%E6%9E%A2%E7%BA%BD%E8%BF%9E%E6%88%90%E4%B8%80%E5%BC%A0%E7%BD%91?type=general",
-      "scheme": "snssdk1128://search/八大算力枢纽连成一张网"
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E6%96%B9%E6%95%A6%E4%BF%83%E7%BE%8E%E6%96%B9%E5%81%9C%E6%AD%A2%E5%AF%B9%E5%8F%A4%E5%B7%B4%E5%B0%81%E9%94%81%E6%96%BD%E5%8E%8B?type=general",
+      "scheme": "snssdk1128://search/中方敦促美方停止对古巴封锁施压"
     },
     {
       "rank": 4,
-      "topic": "祖国大地一片丰收景象",
-      "heat": 10900062,
+      "topic": "普京会晤伊朗总统讨论中东局势",
+      "heat": 10220873,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A5%96%E5%9B%BD%E5%A4%A7%E5%9C%B0%E4%B8%80%E7%89%87%E4%B8%B0%E6%94%B6%E6%99%AF%E8%B1%A1?type=general",
-      "scheme": "snssdk1128://search/祖国大地一片丰收景象"
+      "link": "https://www.douyin.com/search/%E6%99%AE%E4%BA%AC%E4%BC%9A%E6%99%A4%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E8%AE%A8%E8%AE%BA%E4%B8%AD%E4%B8%9C%E5%B1%80%E5%8A%BF?type=general",
+      "scheme": "snssdk1128://search/普京会晤伊朗总统讨论中东局势"
     },
     {
       "rank": 5,
-      "topic": "4名诺奖得主将亮相大湾区科学论坛",
-      "heat": 10348407,
+      "topic": "表演艺术家戈治均逝世",
+      "heat": 9109478,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/4%E5%90%8D%E8%AF%BA%E5%A5%96%E5%BE%97%E4%B8%BB%E5%B0%86%E4%BA%AE%E7%9B%B8%E5%A4%A7%E6%B9%BE%E5%8C%BA%E7%A7%91%E5%AD%A6%E8%AE%BA%E5%9D%9B?type=general",
-      "scheme": "snssdk1128://search/4名诺奖得主将亮相大湾区科学论坛"
+      "link": "https://www.douyin.com/search/%E8%A1%A8%E6%BC%94%E8%89%BA%E6%9C%AF%E5%AE%B6%E6%88%88%E6%B2%BB%E5%9D%87%E9%80%9D%E4%B8%96?type=general",
+      "scheme": "snssdk1128://search/表演艺术家戈治均逝世"
     },
     {
       "rank": 6,
-      "topic": "CBA常规赛浙江力克辽宁",
-      "heat": 10346422,
+      "topic": "以色列议会选举投票结束",
+      "heat": 8642941,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/CBA%E5%B8%B8%E8%A7%84%E8%B5%9B%E6%B5%99%E6%B1%9F%E5%8A%9B%E5%85%8B%E8%BE%BD%E5%AE%81?type=general",
-      "scheme": "snssdk1128://search/CBA常规赛浙江力克辽宁"
+      "link": "https://www.douyin.com/search/%E4%BB%A5%E8%89%B2%E5%88%97%E8%AE%AE%E4%BC%9A%E9%80%89%E4%B8%BE%E6%8A%95%E7%A5%A8%E7%BB%93%E6%9D%9F?type=general",
+      "scheme": "snssdk1128://search/以色列议会选举投票结束"
     },
     {
       "rank": 7,
-      "topic": "“蛟龙”号完成7000米级海试",
-      "heat": 8590613,
+      "topic": "多国外交官感悟长征精神",
+      "heat": 8424320,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E2%80%9C%E8%9B%9F%E9%BE%99%E2%80%9D%E5%8F%B7%E5%AE%8C%E6%88%907000%E7%B1%B3%E7%BA%A7%E6%B5%B7%E8%AF%95?type=general",
-      "scheme": "snssdk1128://search/“蛟龙”号完成7000米级海试"
+      "link": "https://www.douyin.com/search/%E5%A4%9A%E5%9B%BD%E5%A4%96%E4%BA%A4%E5%AE%98%E6%84%9F%E6%82%9F%E9%95%BF%E5%BE%81%E7%B2%BE%E7%A5%9E?type=general",
+      "scheme": "snssdk1128://search/多国外交官感悟长征精神"
     },
     {
       "rank": 8,
+      "topic": "买一杯咖啡来敬重自己",
+      "heat": 8422310,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B9%B0%E4%B8%80%E6%9D%AF%E5%92%96%E5%95%A1%E6%9D%A5%E6%95%AC%E9%87%8D%E8%87%AA%E5%B7%B1?type=general",
+      "scheme": "snssdk1128://search/买一杯咖啡来敬重自己"
+    },
+    {
+      "rank": 9,
+      "topic": "中国体操队世锦赛载誉归来",
+      "heat": 8103802,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E4%B8%AD%E5%9B%BD%E4%BD%93%E6%93%8D%E9%98%9F%E4%B8%96%E9%94%A6%E8%B5%9B%E8%BD%BD%E8%AA%89%E5%BD%92%E6%9D%A5?type=general",
+      "scheme": "snssdk1128://search/中国体操队世锦赛载誉归来"
+    },
+    {
+      "rank": 10,
+      "topic": "皇马官方致歉",
+      "heat": 7746535,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E5%AE%98%E6%96%B9%E8%87%B4%E6%AD%89?type=general",
+      "scheme": "snssdk1128://search/皇马官方致歉"
+    },
+    {
+      "rank": 11,
+      "topic": "长期吃太多会把胃撑大吗",
+      "heat": 7745200,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%95%BF%E6%9C%9F%E5%90%83%E5%A4%AA%E5%A4%9A%E4%BC%9A%E6%8A%8A%E8%83%83%E6%92%91%E5%A4%A7%E5%90%97?type=general",
+      "scheme": "snssdk1128://search/长期吃太多会把胃撑大吗"
+    },
+    {
+      "rank": 12,
+      "topic": "肖战评论张百乔抖音合拍视频",
+      "heat": 7744792,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%82%96%E6%88%98%E8%AF%84%E8%AE%BA%E5%BC%A0%E7%99%BE%E4%B9%94%E6%8A%96%E9%9F%B3%E5%90%88%E6%8B%8D%E8%A7%86%E9%A2%91?type=general",
+      "scheme": "snssdk1128://search/肖战评论张百乔抖音合拍视频"
+    },
+    {
+      "rank": 13,
+      "topic": "桨板跨障的打开方式到底是什么",
+      "heat": 7714668,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%A1%A8%E6%9D%BF%E8%B7%A8%E9%9A%9C%E7%9A%84%E6%89%93%E5%BC%80%E6%96%B9%E5%BC%8F%E5%88%B0%E5%BA%95%E6%98%AF%E4%BB%80%E4%B9%88?type=general",
+      "scheme": "snssdk1128://search/桨板跨障的打开方式到底是什么"
+    },
+    {
+      "rank": 14,
+      "topic": "鞠婧祎万花世界首发预告",
+      "heat": 7705709,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E9%9E%A0%E5%A9%A7%E7%A5%8E%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E9%A6%96%E5%8F%91%E9%A2%84%E5%91%8A?type=general",
+      "scheme": "snssdk1128://search/鞠婧祎万花世界首发预告"
+    },
+    {
+      "rank": 15,
+      "topic": "开拓者136:129战胜湖人",
+      "heat": 7705510,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85136%3A129%E6%88%98%E8%83%9C%E6%B9%96%E4%BA%BA?type=general",
+      "scheme": "snssdk1128://search/开拓者136:129战胜湖人"
+    },
+    {
+      "rank": 16,
+      "topic": "萌宠滑镜定格挑战",
+      "heat": 7692262,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E8%90%8C%E5%AE%A0%E6%BB%91%E9%95%9C%E5%AE%9A%E6%A0%BC%E6%8C%91%E6%88%98?type=general",
+      "scheme": "snssdk1128://search/萌宠滑镜定格挑战"
+    },
+    {
+      "rank": 17,
+      "topic": "凯恩获金球奖给中国足球的启示",
+      "heat": 7690793,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%87%AF%E6%81%A9%E8%8E%B7%E9%87%91%E7%90%83%E5%A5%96%E7%BB%99%E4%B8%AD%E5%9B%BD%E8%B6%B3%E7%90%83%E7%9A%84%E5%90%AF%E7%A4%BA?type=general",
+      "scheme": "snssdk1128://search/凯恩获金球奖给中国足球的启示"
+    },
+    {
+      "rank": 18,
+      "topic": "听大麦哥聊爱情",
+      "heat": 7682074,
+      "videos": 0,
+      "type": "情感共鸣",
+      "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
+      "link": "https://www.douyin.com/search/%E5%90%AC%E5%A4%A7%E9%BA%A6%E5%93%A5%E8%81%8A%E7%88%B1%E6%83%85?type=general",
+      "scheme": "snssdk1128://search/听大麦哥聊爱情"
+    },
+    {
+      "rank": 19,
       "topic": "这次季候风吹得格外凶",
-      "heat": 8224112,
+      "heat": 7669837,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -81,225 +191,115 @@
       "scheme": "snssdk1128://search/这次季候风吹得格外凶"
     },
     {
-      "rank": 9,
-      "topic": "“四价流感疫苗消失”传言有误",
-      "heat": 7705954,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E2%80%9C%E5%9B%9B%E4%BB%B7%E6%B5%81%E6%84%9F%E7%96%AB%E8%8B%97%E6%B6%88%E5%A4%B1%E2%80%9D%E4%BC%A0%E8%A8%80%E6%9C%89%E8%AF%AF?type=general",
-      "scheme": "snssdk1128://search/“四价流感疫苗消失”传言有误"
-    },
-    {
-      "rank": 10,
-      "topic": "人类为什么喜欢毛茸茸",
-      "heat": 7703487,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BA%BA%E7%B1%BB%E4%B8%BA%E4%BB%80%E4%B9%88%E5%96%9C%E6%AC%A2%E6%AF%9B%E8%8C%B8%E8%8C%B8?type=general",
-      "scheme": "snssdk1128://search/人类为什么喜欢毛茸茸"
-    },
-    {
-      "rank": 11,
-      "topic": "醉梦开分7.5",
-      "heat": 7692818,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%86%89%E6%A2%A6%E5%BC%80%E5%88%867.5?type=general",
-      "scheme": "snssdk1128://search/醉梦开分7.5"
-    },
-    {
-      "rank": 12,
-      "topic": "外交部回应姆巴佩发表不当言论",
-      "heat": 7689456,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E5%8F%91%E8%A1%A8%E4%B8%8D%E5%BD%93%E8%A8%80%E8%AE%BA?type=general",
-      "scheme": "snssdk1128://search/外交部回应姆巴佩发表不当言论"
-    },
-    {
-      "rank": 13,
-      "topic": "爱德华兹右膝手术预计缺阵两月",
-      "heat": 7676117,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%88%B1%E5%BE%B7%E5%8D%8E%E5%85%B9%E5%8F%B3%E8%86%9D%E6%89%8B%E6%9C%AF%E9%A2%84%E8%AE%A1%E7%BC%BA%E9%98%B5%E4%B8%A4%E6%9C%88?type=general",
-      "scheme": "snssdk1128://search/爱德华兹右膝手术预计缺阵两月"
-    },
-    {
-      "rank": 14,
-      "topic": "抓紧你的手走过我的朝朝暮暮",
-      "heat": 7668520,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8A%93%E7%B4%A7%E4%BD%A0%E7%9A%84%E6%89%8B%E8%B5%B0%E8%BF%87%E6%88%91%E7%9A%84%E6%9C%9D%E6%9C%9D%E6%9A%AE%E6%9A%AE?type=general",
-      "scheme": "snssdk1128://search/抓紧你的手走过我的朝朝暮暮"
-    },
-    {
-      "rank": 15,
-      "topic": "王者荣耀王昭君增强方案出炉",
-      "heat": 7649002,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%8E%8B%E8%80%85%E8%8D%A3%E8%80%80%E7%8E%8B%E6%98%AD%E5%90%9B%E5%A2%9E%E5%BC%BA%E6%96%B9%E6%A1%88%E5%87%BA%E7%82%89?type=general",
-      "scheme": "snssdk1128://search/王者荣耀王昭君增强方案出炉"
-    },
-    {
-      "rank": 16,
-      "topic": "鞠婧祎掀翻万花世界系统",
-      "heat": 7647713,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%9E%A0%E5%A9%A7%E7%A5%8E%E6%8E%80%E7%BF%BB%E4%B8%87%E8%8A%B1%E4%B8%96%E7%95%8C%E7%B3%BB%E7%BB%9F?type=general",
-      "scheme": "snssdk1128://search/鞠婧祎掀翻万花世界系统"
-    },
-    {
-      "rank": 17,
-      "topic": "倪大红找到了最佳声替",
-      "heat": 7645835,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%80%AA%E5%A4%A7%E7%BA%A2%E6%89%BE%E5%88%B0%E4%BA%86%E6%9C%80%E4%BD%B3%E5%A3%B0%E6%9B%BF?type=general",
-      "scheme": "snssdk1128://search/倪大红找到了最佳声替"
-    },
-    {
-      "rank": 18,
-      "topic": "皇马称姆巴佩言论仅代表个人",
-      "heat": 7645387,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9A%87%E9%A9%AC%E7%A7%B0%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%A8%80%E8%AE%BA%E4%BB%85%E4%BB%A3%E8%A1%A8%E4%B8%AA%E4%BA%BA?type=general",
-      "scheme": "snssdk1128://search/皇马称姆巴佩言论仅代表个人"
-    },
-    {
-      "rank": 19,
-      "topic": "穆祉丞翻跳2.0简直夯爆了",
-      "heat": 7643552,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A9%86%E7%A5%89%E4%B8%9E%E7%BF%BB%E8%B7%B32.0%E7%AE%80%E7%9B%B4%E5%A4%AF%E7%88%86%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/穆祉丞翻跳2.0简直夯爆了"
-    },
-    {
       "rank": 20,
-      "topic": "iPad mini8升级总结",
-      "heat": 7639584,
+      "topic": "国足出征U17世界杯名单公布",
+      "heat": 7662413,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/iPad%20mini8%E5%8D%87%E7%BA%A7%E6%80%BB%E7%BB%93?type=general",
-      "scheme": "snssdk1128://search/iPad mini8升级总结"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%87%BA%E5%BE%81U17%E4%B8%96%E7%95%8C%E6%9D%AF%E5%90%8D%E5%8D%95%E5%85%AC%E5%B8%83?type=general",
+      "scheme": "snssdk1128://search/国足出征U17世界杯名单公布"
     },
     {
       "rank": 21,
-      "topic": "AI小狗男主进入白切黑时代",
-      "heat": 7638587,
+      "topic": "外媒解读华为手机芯片自研突破",
+      "heat": 7660998,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/AI%E5%B0%8F%E7%8B%97%E7%94%B7%E4%B8%BB%E8%BF%9B%E5%85%A5%E7%99%BD%E5%88%87%E9%BB%91%E6%97%B6%E4%BB%A3?type=general",
-      "scheme": "snssdk1128://search/AI小狗男主进入白切黑时代"
+      "link": "https://www.douyin.com/search/%E5%A4%96%E5%AA%92%E8%A7%A3%E8%AF%BB%E5%8D%8E%E4%B8%BA%E6%89%8B%E6%9C%BA%E8%8A%AF%E7%89%87%E8%87%AA%E7%A0%94%E7%AA%81%E7%A0%B4?type=general",
+      "scheme": "snssdk1128://search/外媒解读华为手机芯片自研突破"
     },
     {
       "rank": 22,
-      "topic": "武将杯S2一霖16杀直通决赛",
-      "heat": 7638025,
+      "topic": "外交部回应姆巴佩致歉",
+      "heat": 7658976,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%AD%A6%E5%B0%86%E6%9D%AFS2%E4%B8%80%E9%9C%9616%E6%9D%80%E7%9B%B4%E9%80%9A%E5%86%B3%E8%B5%9B?type=general",
-      "scheme": "snssdk1128://search/武将杯S2一霖16杀直通决赛"
+      "link": "https://www.douyin.com/search/%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E5%A7%86%E5%B7%B4%E4%BD%A9%E8%87%B4%E6%AD%89?type=general",
+      "scheme": "snssdk1128://search/外交部回应姆巴佩致歉"
     },
     {
       "rank": 23,
-      "topic": "嫁金钗祖孙三代全员拿大结果",
-      "heat": 7635825,
+      "topic": "西班牙高铁相撞已致50人死亡",
+      "heat": 7656137,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%AB%81%E9%87%91%E9%92%97%E7%A5%96%E5%AD%99%E4%B8%89%E4%BB%A3%E5%85%A8%E5%91%98%E6%8B%BF%E5%A4%A7%E7%BB%93%E6%9E%9C?type=general",
-      "scheme": "snssdk1128://search/嫁金钗祖孙三代全员拿大结果"
+      "link": "https://www.douyin.com/search/%E8%A5%BF%E7%8F%AD%E7%89%99%E9%AB%98%E9%93%81%E7%9B%B8%E6%92%9E%E5%B7%B2%E8%87%B450%E4%BA%BA%E6%AD%BB%E4%BA%A1?type=general",
+      "scheme": "snssdk1128://search/西班牙高铁相撞已致50人死亡"
     },
     {
       "rank": 24,
-      "topic": "AL出局了我有话说",
-      "heat": 7635214,
+      "topic": "大麦哥视频播客观后感",
+      "heat": 7655366,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/AL%E5%87%BA%E5%B1%80%E4%BA%86%E6%88%91%E6%9C%89%E8%AF%9D%E8%AF%B4?type=general",
-      "scheme": "snssdk1128://search/AL出局了我有话说"
+      "link": "https://www.douyin.com/search/%E5%A4%A7%E9%BA%A6%E5%93%A5%E8%A7%86%E9%A2%91%E6%92%AD%E5%AE%A2%E8%A7%82%E5%90%8E%E6%84%9F?type=general",
+      "scheme": "snssdk1128://search/大麦哥视频播客观后感"
     },
     {
       "rank": 25,
-      "topic": "盆栽哥香港演唱会采样王菲季候风",
-      "heat": 7633096,
+      "topic": "王彦霖车流中救下受伤流浪狗",
+      "heat": 7654673,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%9B%86%E6%A0%BD%E5%93%A5%E9%A6%99%E6%B8%AF%E6%BC%94%E5%94%B1%E4%BC%9A%E9%87%87%E6%A0%B7%E7%8E%8B%E8%8F%B2%E5%AD%A3%E5%80%99%E9%A3%8E?type=general",
-      "scheme": "snssdk1128://search/盆栽哥香港演唱会采样王菲季候风"
+      "link": "https://www.douyin.com/search/%E7%8E%8B%E5%BD%A6%E9%9C%96%E8%BD%A6%E6%B5%81%E4%B8%AD%E6%95%91%E4%B8%8B%E5%8F%97%E4%BC%A4%E6%B5%81%E6%B5%AA%E7%8B%97?type=general",
+      "scheme": "snssdk1128://search/王彦霖车流中救下受伤流浪狗"
     },
     {
       "rank": 26,
-      "topic": "河头老街NPC唱歌太牛了",
-      "heat": 7632841,
+      "topic": "IU也被ILLIT逮捕了",
+      "heat": 7653770,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B2%B3%E5%A4%B4%E8%80%81%E8%A1%97NPC%E5%94%B1%E6%AD%8C%E5%A4%AA%E7%89%9B%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/河头老街NPC唱歌太牛了"
+      "link": "https://www.douyin.com/search/IU%E4%B9%9F%E8%A2%ABILLIT%E9%80%AE%E6%8D%95%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/IU也被ILLIT逮捕了"
     },
     {
       "rank": 27,
-      "topic": "秋冬轻亚风清冷穿搭",
-      "heat": 7632059,
+      "topic": "幸福在蔓延 爱你永恒不孤单",
+      "heat": 7653694,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%A7%8B%E5%86%AC%E8%BD%BB%E4%BA%9A%E9%A3%8E%E6%B8%85%E5%86%B7%E7%A9%BF%E6%90%AD?type=general",
-      "scheme": "snssdk1128://search/秋冬轻亚风清冷穿搭"
+      "link": "https://www.douyin.com/search/%E5%B9%B8%E7%A6%8F%E5%9C%A8%E8%94%93%E5%BB%B6%20%E7%88%B1%E4%BD%A0%E6%B0%B8%E6%81%92%E4%B8%8D%E5%AD%A4%E5%8D%95?type=general",
+      "scheme": "snssdk1128://search/幸福在蔓延 爱你永恒不孤单"
     },
     {
       "rank": 28,
-      "topic": "拆长相锐评测试盲盒",
-      "heat": 7631683,
+      "topic": "天空之外再次迎来了宣发期",
+      "heat": 7646998,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%8B%86%E9%95%BF%E7%9B%B8%E9%94%90%E8%AF%84%E6%B5%8B%E8%AF%95%E7%9B%B2%E7%9B%92?type=general",
-      "scheme": "snssdk1128://search/拆长相锐评测试盲盒"
+      "link": "https://www.douyin.com/search/%E5%A4%A9%E7%A9%BA%E4%B9%8B%E5%A4%96%E5%86%8D%E6%AC%A1%E8%BF%8E%E6%9D%A5%E4%BA%86%E5%AE%A3%E5%8F%91%E6%9C%9F?type=general",
+      "scheme": "snssdk1128://search/天空之外再次迎来了宣发期"
     },
     {
       "rank": 29,
-      "topic": "承诺是你转场挑战",
-      "heat": 7630061,
+      "topic": "江南又梦烟雨",
+      "heat": 7646784,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%89%BF%E8%AF%BA%E6%98%AF%E4%BD%A0%E8%BD%AC%E5%9C%BA%E6%8C%91%E6%88%98?type=general",
-      "scheme": "snssdk1128://search/承诺是你转场挑战"
+      "link": "https://www.douyin.com/search/%E6%B1%9F%E5%8D%97%E5%8F%88%E6%A2%A6%E7%83%9F%E9%9B%A8?type=general",
+      "scheme": "snssdk1128://search/江南又梦烟雨"
     },
     {
       "rank": 30,
-      "topic": "想要秋天不烧心就去山里野",
-      "heat": 7627067,
+      "topic": "后会友期人物关系全梳理",
+      "heat": 7646772,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%83%B3%E8%A6%81%E7%A7%8B%E5%A4%A9%E4%B8%8D%E7%83%A7%E5%BF%83%E5%B0%B1%E5%8E%BB%E5%B1%B1%E9%87%8C%E9%87%8E?type=general",
-      "scheme": "snssdk1128://search/想要秋天不烧心就去山里野"
+      "link": "https://www.douyin.com/search/%E5%90%8E%E4%BC%9A%E5%8F%8B%E6%9C%9F%E4%BA%BA%E7%89%A9%E5%85%B3%E7%B3%BB%E5%85%A8%E6%A2%B3%E7%90%86?type=general",
+      "scheme": "snssdk1128://search/后会友期人物关系全梳理"
     }
   ],
-  "updateTime": "2026-10-28 11:27"
+  "updateTime": "2026-10-28 19:56"
 }
