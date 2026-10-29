@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff8a4466a1",
+      "id": "ff571e5ef1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-29 11:48",
-      "title": "市场动荡之际 超九成美国杠杆贷款在折价交易",
-      "insight": "本周美国杠杆贷款市场中，以低于面值价格交易的贷款比例升至近18个月来最高水平，成为市场压力加剧的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwiew6038172.shtml"
+      "time": "10-29 20:02",
+      "title": "Foundry融资1亿美元，打造自主化工厂",
+      "insight": "过去几年，大型企业意识到，想要充分发挥 AI 智能体的价值，应当从零重新设计业务流程，而不只是简…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyat8786850.shtml"
     },
     {
-      "id": "ff88fa93c2",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:45",
-      "title": "深圳高速公路股份午前涨近4% 第三季度归母净利润同比增长24%",
-      "insight": "深圳高速公路股份（00548）AH股均走高，截至发稿，股价上涨3.98%，现报6.53港元，成交…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwiez8869538.shtml"
-    },
-    {
-      "id": "ffb531fc27",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:45",
-      "title": "国泰航空午前涨逾2% 瑞银指市场低估公司股本回报率表现持久性",
-      "insight": "国泰航空（00293）午前涨逾2%，截至发稿，股价上涨1.76%，现报13.30港元，成交额40…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwiew6035636.shtml"
-    },
-    {
-      "id": "ffb28adff8",
-      "source": "市场资讯",
-      "tag": "债券",
-      "time": "10-29 11:42",
-      "title": "委内瑞拉代总统要求英格兰银行归还黄金储备",
-      "insight": "文章来源：新华社 新华财经加拉加斯10月28日电（记者田睿）委内瑞拉代总统德尔西·罗德里格斯28…",
-      "link": "https://finance.sina.com.cn/money/bond/2026-10-29/doc-iniwwiew6035678.shtml"
-    },
-    {
-      "id": "ff0779dcaf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:39",
-      "title": "裕元集团盘中涨超3% 大摩料公司前三季度业绩盈警对股价短期压力有限",
-      "insight": "裕元集团（00551）盘中涨超3%，截至发稿，股价上涨2.07%，现报13.34港元，成交额17…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwaxf5447140.shtml"
-    },
-    {
-      "id": "ffa1b585e2",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:37",
-      "title": "金川国际午前涨超10% 获批最高购回13.13亿股彰显发展信心",
-      "insight": "金川国际（02362）早盘股价走高，截至发稿，现涨10.17%，报0.65港元，成交额1821.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwaxa2936748.shtml"
-    },
-    {
-      "id": "ff3ef93a77",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:36",
-      "title": "西部水泥盘中涨近4% 公司海外业务开始贡献盈利",
-      "insight": "西部水泥（02233）盘中涨近4%。截至发稿，股价回落小涨1.43%，现报1.78港元，成交额1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwawy6158999.shtml"
-    },
-    {
-      "id": "ff5e870625",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:12",
-      "title": "光大期货：10月29日有色金属日报",
-      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwawy6140140.shtml"
-    },
-    {
-      "id": "ff57f782fa",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:11",
-      "title": "光大期货：10月29日软商品日报",
-      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 原糖方面，巴…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwaxa2915411.shtml"
-    },
-    {
-      "id": "fff69d4d5b",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:10",
-      "title": "光大期货：10月29日农产品日报",
-      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周三，CB…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwawy6138073.shtml"
-    },
-    {
-      "id": "ffd129eed8",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:09",
-      "title": "光大期货：10月29日能源化工日报",
-      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周三油价再度…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwawy6136915.shtml"
-    },
-    {
-      "id": "ff1075bbe9",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:08",
-      "title": "光大期货：10月29日矿钢煤焦日报",
-      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwaxa2912378.shtml"
-    },
-    {
-      "id": "ff3c670870",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 11:07",
-      "title": "光大期货：10月29日金融日报",
-      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwaxf5427282.shtml"
-    },
-    {
-      "id": "ffa0b15578",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:02",
-      "title": "君正股份早盘涨近8% 第三季度归母净利润同比大增近26倍",
-      "insight": "君正股份（03223）早盘涨近8%。截至发稿，股价上涨7.93%，现报85.75港元，成交额96…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwaxc8973219.shtml"
-    },
-    {
-      "id": "ff8dcc21ac",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 11:01",
-      "title": "内银股早盘集体走高 青岛银行涨逾5%建设银行涨逾3%",
-      "insight": "内银股早盘集体走高，工行、建行、农行再创历史新高。截至发稿，青岛银行（03866）上涨4.91%…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwawy6131420.shtml"
-    },
-    {
-      "id": "ffef938ac2",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 10:55",
-      "title": "应星控股盘中涨超5% 近日拟出售Circle Time全部权益",
-      "insight": "应星控股（01440）盘中涨超5%，截至发稿，股价上涨3.17%，报15.97港元，成交额111…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwaxa2903917.shtml"
-    },
-    {
-      "id": "ffd0f35c79",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-29 10:54",
-      "title": "钧达股份早盘大涨超17%公司A股今早涨停 上海发力卫星互联网",
-      "insight": "钧达股份（02865）早盘大幅走高，公司A股今早涨停。截至发稿，股价上涨17.41%，现报12.…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-29/doc-iniwwaxc8968642.shtml"
-    },
-    {
-      "id": "ff306ce6e3",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "10-29 10:47",
-      "title": "光大期货1029黄金点评：美联储按兵不动但鹰气未散，黄金窄幅震荡",
-      "insight": "10月28日，COMEX黄金在4000点附近宽幅震荡，报收4081.2美元/盎司，涨幅0.16%…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-10-29/doc-iniwwaxc8964669.shtml"
-    },
-    {
-      "id": "ffc930b667",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "10-29 10:47",
-      "title": "香港金管局回应美联储议息决定：香港货币及金融市场保持有序运作",
-      "insight": "美联储联邦公开市场委员会在香港时间今日（10月29日）清晨公布维持联邦基金利率目标区间于3.75…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-29/doc-iniwwaxa2902794.shtml"
-    },
-    {
-      "id": "ff2d94b64a",
+      "id": "ff5aa51374",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "10-29 10:46",
-      "title": "安本预计美联储或将在12月和3月加息",
-      "insight": "安本投资表示，美联储主席凯文·沃什在最新一次政策会议上仍然对美国经济持乐观态度，但也重申通胀仍然…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwaxc8963997.shtml"
+      "time": "10-29 19:59",
+      "title": "谷歌季度营收增长25%，但不及市场预期",
+      "insight": "尽管云业务营收同比大涨 103%，盘前股价依旧下跌 谷歌云本季度销售额大幅攀升，但母公司字母表（…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyas2795945.shtml"
+    },
+    {
+      "id": "ff8e71a866",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 19:56",
+      "title": "人人都在用AI，但分歧持续加剧：WTF峰会要点汇总",
+      "insight": "人工智能已经全面渗透商业与政治领域，但同时也开始在企业与投资者之间制造分歧。这是本周《The I…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq6018527.shtml"
+    },
+    {
+      "id": "ff4ffb22e1",
+      "source": "证券时报",
+      "tag": "股市",
+      "time": "10-29 19:38",
+      "title": "301468，重大资产重组！明起复牌",
+      "insight": "10月29日晚，博盈特焊（301468）披露重组预案，拟向7名股东收购苏州罗克莱海洋装备股份有限…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwwyav5226655.shtml"
+    },
+    {
+      "id": "ff996c18a6",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "10-29 19:35",
+      "title": "披露重组预案！博盈特焊，复牌！",
+      "insight": "来源：资本秘闻 10月29日晚间，博盈特焊披露重组预案，公司股票将于10月30日起复牌。 预案显…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwwyaq6008226.shtml"
+    },
+    {
+      "id": "ff1d3b29a0",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-29 19:17",
+      "title": "卖电池赚1.45亿，炒股亏了近9亿！002074跌停，股民：“有钱为啥不炒自家股票”",
+      "insight": "来源：华夏时报 10月29日，国轩高科（002074）以跌停收盘，股价报23.13元/股，跌幅1…",
+      "link": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwwyaq5992105.shtml"
+    },
+    {
+      "id": "ffe13337d9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 19:10",
+      "title": "欧洲央行行长拉加德将提前卸任 继任之争将升温",
+      "insight": "欧洲央行行长克里斯蒂娜·拉加德宣布她将于2027年初卸任，接替这位全球最具权势的货币政策制定者之…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyas2762760.shtml"
+    },
+    {
+      "id": "ffaa9b4447",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-29 19:04",
+      "title": "伊朗局势推高利润 欧洲大型油企加码股票回购",
+      "insight": "周四，欧洲三大石油巨头提高了对股东的回报力度。伊朗局势带来的市场动荡，推动企业利润逼近2022年…",
+      "link": "https://finance.sina.com.cn/world/2026-10-29/doc-iniwwyas2758238.shtml"
+    },
+    {
+      "id": "ff652cf684",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "10-29 19:00",
+      "title": "AI催生的铜价热潮，迎来现实检验",
+      "insight": "上周，数千名金属领域投资者与企业高管齐聚伦敦，参加伦敦金属交易所年度行业聚会，全场焦点只有一个：…",
+      "link": "https://finance.sina.com.cn/world/2026-10-29/doc-iniwwyav5203325.shtml"
+    },
+    {
+      "id": "ff3a617073",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-29 18:48",
+      "title": "东方非遗亮相华盛顿 ，“非遗大豫园”助力中美民间人文交流",
+      "insight": "（来源：上观新闻）“共鸣未来——ShanghaiEye之夜”中美人文交流暨“魅力上海”城市形象推…",
+      "link": "https://finance.sina.com.cn/china/2026-10-29/doc-iniwwyaq5970572.shtml"
+    },
+    {
+      "id": "fff4ec1160",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-29 18:45",
+      "title": "国际青年体验海派文化之美，在豫园海上梨园邂逅戏曲非遗",
+      "insight": "（来源：上观新闻）日前，来自德国、墨西哥、西班牙、意大利、波兰、英国、印度、越南、马来西亚、尼日…",
+      "link": "https://finance.sina.com.cn/china/2026-10-29/doc-iniwwyaq5968567.shtml"
+    },
+    {
+      "id": "ff85c2c8ca",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-29 18:42",
+      "title": "非遗大豫园音乐季再添秋日新玩法，BFC拉美文化周、豫园城市游牧场接力登场",
+      "insight": "（来源：上观新闻）在外滩BFC的江风中随拉丁电音起舞，在豫园商城的蒙古包里聆听悠远呼麦，再与“才…",
+      "link": "https://finance.sina.com.cn/china/2026-10-29/doc-iniwwyas2742489.shtml"
+    },
+    {
+      "id": "ff652ae160",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:38",
+      "title": "金巴利警示美国市场受竞争与供应链问题挤压，股价下挫5%",
+      "insight": "欧洲早盘该股跌幅达 5%尽管整体表现优于行业多数同行，但大卫・金巴利‑米兰集团的销售增长呈现不均…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq5962046.shtml"
+    },
+    {
+      "id": "ff4526991a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:33",
+      "title": "赫力昂下调业绩指引，布洛芬生产商股价大跌13.5%",
+      "insight": "公司目前预计全年有机营收增速约 2.5%，低于 7 月给出的 3%‑5%赫力昂呼吸健康品类营收出…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyat8734765.shtml"
+    },
+    {
+      "id": "ff0ccf02e6",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "10-29 18:32",
+      "title": "外滩邂逅拉美狂欢，老城厢奏响游牧牧歌，非遗大豫园音乐季解锁秋日文旅新体验",
+      "insight": "（来源：上观新闻）金秋上海，黄浦江畔与老城厢内好戏轮番上演。即日起至11月1日，非遗大豫园音乐季…",
+      "link": "https://finance.sina.com.cn/china/2026-10-29/doc-iniwwyav5187530.shtml"
+    },
+    {
+      "id": "fff0af8d75",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:31",
+      "title": "德国房东巨头沃诺维亚警示市场形势严峻，股价下挫5.3%",
+      "insight": "欧洲早盘交易中该股下跌 5.3%沃诺维亚表示，投资项目推进速度放缓，促使其下调 2028 年有机…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyav5184256.shtml"
+    },
+    {
+      "id": "ff73f107e8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:30",
+      "title": "欧洲理事会主席称新任欧洲央行行长的遴选程序将于周四启动",
+      "insight": "欧洲理事会主席安东尼奥·科斯塔表示，物色欧洲央行行长克里斯蒂娜·拉加德继任者的程序将于周四启动。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyav5183906.shtml"
+    },
+    {
+      "id": "ffdf7c36bc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:28",
+      "title": "百威英博：替代饮品助力啤酒销量跌幅收窄",
+      "insight": "第三季度啤酒有机销量同比下降 0.1%百威英博维持本年度业绩预期。 内容简要摘要 百威英博表示，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwtus6086247.shtml"
+    },
+    {
+      "id": "ff0f87b853",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:26",
+      "title": "为抵御奢侈品购物放缓，这家电商企业瞄准超级富豪群体",
+      "insight": "LuxExperience 放弃追求捡漏的普通消费者，转而瞄准在服饰上动辄消费数万美元的购物人群…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwtux5312533.shtml"
+    },
+    {
+      "id": "ff984295af",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "10-29 18:08",
+      "title": "欧洲央行行长拉加德将于明年2月卸任",
+      "insight": "欧洲央行行长克里斯蒂娜·拉加德已通知该行管理委员会和欧洲理事会主席安东尼奥·科斯塔，她将于202…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwtuu2847390.shtml"
     }
   ],
-  "updateTime": "2026-10-29 11:50"
+  "updateTime": "2026-10-29 20:04"
 }
