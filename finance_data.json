@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ff3ea7d626",
+      "source": "滚动播报",
+      "tag": "股市",
+      "time": "11-01 07:41",
+      "title": "特朗普“尚未决定是否对伊朗发动新的军事打击”",
+      "insight": "美国国务卿鲁比奥当地时间10月31日称，美国总统特朗普“尚未决定是否对伊朗发动新的军事打击”。 …",
+      "link": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixepty4343881.shtml"
+    },
+    {
+      "id": "ffa6dd0794",
+      "source": "21世纪经济报道",
+      "tag": "财经热点",
+      "time": "11-01 07:33",
+      "title": "欧洲多国爆发抗议，德国法兰克福多家商铺被砸抢，法国马赛一所幼儿园遭闯入，意大利多地发生冲突",
+      "insight": "据CCTV国际时讯报道，近日，欧洲多国爆发抗议。 法国连续第三个周末爆发全国抗议 10月31日，…",
+      "link": "https://finance.sina.com.cn/world/2026-11-01/doc-inixepuc6895787.shtml"
+    },
+    {
+      "id": "ff3cc647bf",
+      "source": "券商中国",
+      "tag": "股市",
+      "time": "11-01 07:19",
+      "title": "如何对抗股市暴涨暴跌？坚守“四不”原则，才能不入危局",
+      "insight": "费城半导体指数自今年5月份高点以来跌幅已经超过20%，但伯克希尔哈撒韦股价却在近期又创新高。 伯…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixepuf3344157.shtml"
+    },
+    {
+      "id": "ffc25db809",
+      "source": "中国证券报",
+      "tag": "财经热点",
+      "time": "11-01 07:12",
+      "title": "美伊谈判，最新消息",
+      "insight": "伊朗最高国家安全委员会秘书称尚未回应万斯来信 新华社德黑兰10月31日电 伊朗最高国家安全委员会…",
+      "link": "https://finance.sina.com.cn/world/2026-11-01/doc-inixepty4336887.shtml"
+    },
+    {
+      "id": "ffec6d12a4",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 05:00",
+      "title": "伊朗军方称已制定新的“敌方目标与资产清单”",
+      "insight": "伊朗武装部队总参谋长阿里·阿卜杜拉希10月31日警告美国和以色列称，如果再次对伊实施军事打击，伊…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixeini3447989.shtml"
+    },
+    {
+      "id": "ff50b372c1",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 03:53",
+      "title": "英国海上贸易行动办公室：一大型渔船遭非法人员登船",
+      "insight": "英国海上贸易行动办公室10月31日通报称，当地时间30日，一艘大型渔船遭未经授权人员登船，相关部…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixeina4438281.shtml"
+    },
+    {
+      "id": "ff9b495a6e",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 02:59",
+      "title": "法国再现大规模示威活动 警方逮捕422人",
+      "insight": "当地时间10月31日，法国发生三周以来第三轮全国性大规模示威活动。当天晚间，法国内政部长洛朗·努…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecei7109678.shtml"
+    },
+    {
       "id": "ffdb57f0fe",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -116,70 +179,7 @@
       "title": "花旗：潍柴动力维持“买入”评级 目标价50港元",
       "insight": "花旗发布研报称，维持潍柴动力（02338）“买入”评级及50港元目标价。公司第三季度实现收入58…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqk4723499.shtml"
-    },
-    {
-      "id": "ff4921b38f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:48",
-      "title": "花旗：渣打集团目标价升至230.8港元 上调盈利预测看好近期动能",
-      "insight": "花旗发布研报称，渣打集团（02888）公布2026年第三季业绩后，该行上调2026年每股盈利预测…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqk4723065.shtml"
-    },
-    {
-      "id": "ff833fa9dd",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:47",
-      "title": "花旗：百威亚太维持“买入”评级 目标价8.7港元",
-      "insight": "花旗发布研报称，维持百威亚太（01876）“买入”评级及8.7港元目标价。公司第三季度自然EBI…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3735321.shtml"
-    },
-    {
-      "id": "ff6c61a98f",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:44",
-      "title": "花旗：中国联通第三季业绩大致符预期",
-      "insight": "花旗发布研报称，中国联通（00762）今年第三季收入同比增长1%至933亿元人民币，大致符合该行…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3734407.shtml"
-    },
-    {
-      "id": "ffa286b05c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:44",
-      "title": "里昂：中国石油股份目标价升至12.4港元 维持“跑赢大市”评级",
-      "insight": "里昂发布研报称，中国石油股份（00857、601857.SH）H股被市场错价；该行上调中国石油股…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3734110.shtml"
-    },
-    {
-      "id": "ffce0c2348",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:43",
-      "title": "大摩：中国联通维持H股“与大市同步”评级 目标价7港元",
-      "insight": "摩根士丹利发布研报称，维持中国联通（00762）H股“与大市同步”评级及7港元目标价。公司第三季…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3733740.shtml"
-    },
-    {
-      "id": "ffcf846ce8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:41",
-      "title": "小摩：渣打集团重申“增持”评级 目标价310港元不变",
-      "insight": "摩根大通发布研报称，渣打集团（02888）第三季业绩大幅胜预期，核心盈利强劲增长及减值偏低，期内…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3733191.shtml"
-    },
-    {
-      "id": "ff36b9ad89",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:40",
-      "title": "大摩：美高梅中国维持“增持”评级 目标价12港元",
-      "insight": "摩根士丹利发布研报称，维持美高梅中国（02282）“增持”评级及12港元目标价。公司第三季度业绩…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732786.shtml"
     }
   ],
-  "updateTime": "2026-11-01 04:51"
+  "updateTime": "2026-11-01 07:53"
 }
