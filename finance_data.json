@@ -1,6 +1,69 @@
 {
   "news": [
     {
+      "id": "ffdb57f0fe",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-01 02:08",
+      "title": "鲁比奥称美国尚未决定恢复打击",
+      "insight": "美国国务卿鲁比奥表示，美国尚未就恢复对伊朗的打击作出任何决定，总统特朗普更倾向于通过外交途径解决…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-01/doc-inixecem3548510.shtml"
+    },
+    {
+      "id": "ff99280cef",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-01 01:56",
+      "title": "伊斯坦布尔证券交易所首席执行官因基金调查被拘留",
+      "insight": "土耳其伊斯坦布尔证券交易所首席执行官科尔克马兹·埃尔贡在土耳其投资基金危机相关调查中被拘留。埃尔…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-01/doc-inixecem3546139.shtml"
+    },
+    {
+      "id": "ff6e4aff7d",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 01:39",
+      "title": "伊朗官员：伊方目前尚未作出任何新的修改核战略的决定",
+      "insight": "当地时间31日，伊朗最高国家安全委员会秘书雷扎伊在谈到该国核战略时表示，伊朗人民在修改核战略方面…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecee4547411.shtml"
+    },
+    {
+      "id": "ff3553cf51",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 01:34",
+      "title": "AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌",
+      "insight": "过去两周，随着一系列科技巨头相继发布财报，原本被认为能为因诸多风险——尤其是对人工智能巨额投资的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml"
+    },
+    {
+      "id": "fffaec3257",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 01:24",
+      "title": "伊朗最高国家安全委员会秘书：尚未回应美国信函",
+      "insight": "当地时间31日，伊朗最高国家安全委员会秘书雷扎伊表示，其已阅读美国副总统万斯的来信，但尚未回复。…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecem3544303.shtml"
+    },
+    {
+      "id": "ff59cf2c1d",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 00:58",
+      "title": "伊朗称一艘违规油轮在霍尔木兹海峡东部触雷起火",
+      "insight": "当地时间31日，伊朗海军宣布，当天下午，一艘违规油轮在霍尔木兹海峡东部禁航区航行，无视伊朗警告后…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecee4539200.shtml"
+    },
+    {
+      "id": "ff8adaa537",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-01 00:43",
+      "title": "乌土两国总统举行会谈 聚焦黑海安全局势",
+      "insight": "当地时间10月31日，乌克兰总统泽连斯基在伊斯坦布尔与土耳其总统埃尔多安举行会谈，双方围绕俄乌冲…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixcwwh4668227.shtml"
+    },
+    {
       "id": "fff662f613",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -116,70 +179,7 @@
       "title": "大摩：美高梅中国维持“增持”评级 目标价12港元",
       "insight": "摩根士丹利发布研报称，维持美高梅中国（02282）“增持”评级及12港元目标价。公司第三季度业绩…",
       "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732786.shtml"
-    },
-    {
-      "id": "ff34ba8cde",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:39",
-      "title": "高盛：友邦保险维持“买入”评级 目标价95港元",
-      "insight": "高盛发布研报称，维持友邦保险（01299）“买入”评级，目标价95港元。公司第三季度新业务价值（…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3732140.shtml"
-    },
-    {
-      "id": "ff4f5e5316",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:38",
-      "title": "美银证券：中国石油化工股份目标价升至6港元 重申“买入”评级",
-      "insight": "美银证券发布研报称，中国石油化工股份（00386、600028.SH）第三季业绩胜预期，炼油业务…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3731884.shtml"
-    },
-    {
-      "id": "ff5c19ffa8",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:37",
-      "title": "中金：维持美高梅中国“跑赢行业”评级 目标价11港元",
-      "insight": "中金发布研报称，维持美高梅中国（02282）“跑赢行业”评级及11港元目标价。公司第三季度净收入…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqp7280785.shtml"
-    },
-    {
-      "id": "ff007f9618",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:36",
-      "title": "瑞银：中国石油股份目标价升至13.3港元 维持“买入”评级",
-      "insight": "瑞银发布研报称，中国石油股份（00857、601857.SH）首九个月收入及净利润分别同比增长7…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqn1492576.shtml"
-    },
-    {
-      "id": "ff0368bdf5",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:35",
-      "title": "里昂：百威亚太目标价削29.9%至6.1港元 维持“跑赢大市”评级",
-      "insight": "里昂发布研报称，中国及韩国啤酒市场需求疲弱，且复苏能见度较低，加上铝价上升等成本因素影响，该行对…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3730628.shtml"
-    },
-    {
-      "id": "ff79d50d73",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:34",
-      "title": "里昂：美高梅中国维持“跑赢大市”评级 目标价13.8港元",
-      "insight": "里昂发布研报称，维持美高梅中国（02282）“跑赢大市”评级及13.8港元目标价。公司第三季度物…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqn1491433.shtml"
-    },
-    {
-      "id": "ffaa439aba",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:30",
-      "title": "海通国际：美高梅中国第三季度业绩略胜预期",
-      "insight": "海通国际发布研报称，美高梅中国（02282）第三季度业绩略胜预期。公司第三季度总收益为89.26…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqr3728895.shtml"
     }
   ],
-  "updateTime": "2026-11-01 00:38"
+  "updateTime": "2026-11-01 04:51"
 }
