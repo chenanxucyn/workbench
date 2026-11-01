@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ffb2d5b91b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 11:35",
+      "title": "民调：中期选举若失利MAGA不会抛弃特朗普 反而归咎于共和党",
+      "insight": "民调显示，无论周二选举结果如何，特朗普的忠实基本盘都会继续支持他。 民调结果显示，多数2024年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeyiw0956869.shtml"
+    },
+    {
+      "id": "ff92fc7f12",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 10:25",
+      "title": "美国田纳西州再添乱象：无期囚犯越狱偷走卡车",
+      "insight": "下周二即将进行中期选举的美国共和党传统票仓田纳西州，近日再曝监狱管理问题。 近日，田纳西州一名因…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeyiz3147318.shtml"
+    },
+    {
+      "id": "ffb8569dcc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 09:56",
+      "title": "苹果CEO：不会为了做AI而做产品",
+      "insight": "苹果CEO约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。 过去几年，外界常…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzz6817310.shtml"
+    },
+    {
+      "id": "ff4458ed97",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 09:27",
+      "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
+      "insight": "今年韩国上市公司申报的自有股份回购及处置规模大幅飙升。 韩国交易所11月1日消息，今年1–10月…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy1031682.shtml"
+    },
+    {
+      "id": "ff85b323dc",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 09:10",
+      "title": "韩国10月出口同比增长93.7% 芯片出口暴涨259%",
+      "insight": "韩国10月出口维持强劲增长，人工智能热潮持续拉动这个依赖贸易的经济体。 韩国产业部周日公布的数据…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzz6797762.shtml"
+    },
+    {
+      "id": "ff13d21eca",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 08:39",
+      "title": "海湾国家急于斡旋美伊和谈：难承担战事重启风险 但美国高层意见存在分歧",
+      "insight": "美国有可能再度打击伊朗，波斯湾地区随之弥漫着疲惫又紧张的情绪。海湾国家官员正加紧斡旋，试图打破美…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeuac3236972.shtml"
+    },
+    {
+      "id": "ff547f2b48",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 08:20",
+      "title": "券商称韩国KOSPI被严重低估 建议6000点下方逐步加仓",
+      "insight": "接下来一周（11月2日–6日），韩国股市预计将受到美国中期选举以及多项核心经济指标公布的影响。券…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy1000184.shtml"
+    },
+    {
+      "id": "ff87073f2d",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "11-01 08:18",
+      "title": "600734，筹划重大资产重组！",
+      "insight": "【导读】*ST实达拟现金收购凯特科技不低于51%股权 中国基金报记者 夏天 10月30日晚间，*…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixetzw4224932.shtml"
+    },
+    {
+      "id": "fff2bab09c",
+      "source": "市场资讯",
+      "tag": "财经热点",
+      "time": "11-01 08:18",
+      "title": "一觉醒来，伊朗军方强硬发声，对万斯来信已读未回，特朗普“尚未决定是否对伊发动新的军事打击”",
+      "insight": "来源：华夏时报 据CCTV国际时讯报道，美国国务卿鲁比奥当地时间10月31日称，美国总统特朗普“…",
+      "link": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixetzz6776914.shtml"
+    },
+    {
+      "id": "ff4781e201",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "11-01 07:59",
+      "title": "603008，A股公司大举增持，进入前十大股东！",
+      "insight": "慕思股份（001323）对同行的一笔投资，从半年报里的“单独现身”，变成了三季报中的“组团进场”…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixetzy0993637.shtml"
+    },
+    {
+      "id": "ff2b963362",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-01 07:56",
+      "title": "预测市场与民调看似分歧：二者衡量指标并不相同",
+      "insight": "在外行看来，预测市场的结果几乎锁定了明尼苏达州参议员竞选的胜选者：Kalshi平台的赔率显示民主…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy0992738.shtml"
+    },
+    {
+      "id": "ffcdea71a1",
+      "source": "数据宝",
+      "tag": "股市",
+      "time": "11-01 07:53",
+      "title": "阳光私募持仓揭秘，成功“押中”万亿巨头！七大行业最集中，还有16只绩优“超跌”股浮现",
+      "insight": "透过观察阳光私募持仓的情况，投资者可以窥见其在市场跌宕起伏的过程中，是如何把握机会的。 持仓呈现…",
+      "link": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixetzw4217629.shtml"
+    },
+    {
       "id": "ff3ea7d626",
       "source": "滚动播报",
       "tag": "股市",
@@ -8,6 +116,15 @@
       "title": "特朗普“尚未决定是否对伊朗发动新的军事打击”",
       "insight": "美国国务卿鲁比奥当地时间10月31日称，美国总统特朗普“尚未决定是否对伊朗发动新的军事打击”。 …",
       "link": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixepty4343881.shtml"
+    },
+    {
+      "id": "ff307e0a7a",
+      "source": "牛弹琴",
+      "tag": "财经热点",
+      "time": "11-01 07:36",
+      "title": "牛弹琴：波兰啊波兰，波涛正汹涌",
+      "insight": "不看不知道，一看吓一跳。民主和法治，原来，还能这么玩。 反正，过去的这个周末，西班牙还在高铁事故…",
+      "link": "https://finance.sina.com.cn/world/2026-11-01/doc-inixetzy0995218.shtml"
     },
     {
       "id": "ffa6dd0794",
@@ -62,124 +179,7 @@
       "title": "法国再现大规模示威活动 警方逮捕422人",
       "insight": "当地时间10月31日，法国发生三周以来第三轮全国性大规模示威活动。当天晚间，法国内政部长洛朗·努…",
       "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecei7109678.shtml"
-    },
-    {
-      "id": "ffdb57f0fe",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-01 02:08",
-      "title": "鲁比奥称美国尚未决定恢复打击",
-      "insight": "美国国务卿鲁比奥表示，美国尚未就恢复对伊朗的打击作出任何决定，总统特朗普更倾向于通过外交途径解决…",
-      "link": "https://finance.sina.com.cn/7x24/2026-11-01/doc-inixecem3548510.shtml"
-    },
-    {
-      "id": "ff99280cef",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-01 01:56",
-      "title": "伊斯坦布尔证券交易所首席执行官因基金调查被拘留",
-      "insight": "土耳其伊斯坦布尔证券交易所首席执行官科尔克马兹·埃尔贡在土耳其投资基金危机相关调查中被拘留。埃尔…",
-      "link": "https://finance.sina.com.cn/7x24/2026-11-01/doc-inixecem3546139.shtml"
-    },
-    {
-      "id": "ff6e4aff7d",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-01 01:39",
-      "title": "伊朗官员：伊方目前尚未作出任何新的修改核战略的决定",
-      "insight": "当地时间31日，伊朗最高国家安全委员会秘书雷扎伊在谈到该国核战略时表示，伊朗人民在修改核战略方面…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecee4547411.shtml"
-    },
-    {
-      "id": "ff3553cf51",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-01 01:34",
-      "title": "AI热潮遭遇回报拷问 美股科技巨头财报触发市场暴跌",
-      "insight": "过去两周，随着一系列科技巨头相继发布财报，原本被认为能为因诸多风险——尤其是对人工智能巨额投资的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeceh1320354.shtml"
-    },
-    {
-      "id": "fffaec3257",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-01 01:24",
-      "title": "伊朗最高国家安全委员会秘书：尚未回应美国信函",
-      "insight": "当地时间31日，伊朗最高国家安全委员会秘书雷扎伊表示，其已阅读美国副总统万斯的来信，但尚未回复。…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecem3544303.shtml"
-    },
-    {
-      "id": "ff59cf2c1d",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-01 00:58",
-      "title": "伊朗称一艘违规油轮在霍尔木兹海峡东部触雷起火",
-      "insight": "当地时间31日，伊朗海军宣布，当天下午，一艘违规油轮在霍尔木兹海峡东部禁航区航行，无视伊朗警告后…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixecee4539200.shtml"
-    },
-    {
-      "id": "ff8adaa537",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-01 00:43",
-      "title": "乌土两国总统举行会谈 聚焦黑海安全局势",
-      "insight": "当地时间10月31日，乌克兰总统泽连斯基在伊斯坦布尔与土耳其总统埃尔多安举行会谈，双方围绕俄乌冲…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixcwwh4668227.shtml"
-    },
-    {
-      "id": "fff662f613",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "10-31 22:58",
-      "title": "币安称已补回近期安全事件中90%的被盗资产 将于周日开放提现",
-      "insight": "币安表示，已补回近期一起安全事件中90%的被盗资产，高于此前的80%。该公司已拨出超过63.4亿…",
-      "link": "https://finance.sina.com.cn/7x24/2026-10-31/doc-inixcwwm7180757.shtml"
-    },
-    {
-      "id": "ff5222cd06",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-31 22:39",
-      "title": "伊朗最高领袖要求军方扩大报复选项 且不受地域限制",
-      "insight": "伊朗最高领袖穆杰塔巴命令最高军事指挥官为与美国和以色列再次发生对抗做好准备，并扩大德黑兰的报复选…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-31/doc-inixcsqr3756589.shtml"
-    },
-    {
-      "id": "fff70de761",
-      "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "10-31 22:31",
-      "title": "美国国防部启动“子午线计划”，马斯克“接管”军队",
-      "insight": "来源：国是直通车 近日，美国国防部长赫格塞思在弗吉尼亚州匡蒂科海军陆战队基地发表讲话，宣布启动“…",
-      "link": "https://finance.sina.com.cn/wm/2026-10-31/doc-inixcsqr3757784.shtml"
-    },
-    {
-      "id": "ff93eecc3e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "10-31 22:09",
-      "title": "加密货币行业向美国2026年中期选举投入超过2亿美元",
-      "insight": "据Public Citizen称，在美国本选举周期中，加密货币团体在联邦企业政治支出方面超过了在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-10-31/doc-inixcsqr3743827.shtml"
-    },
-    {
-      "id": "ff922d9fe4",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "10-31 21:51",
-      "title": "消息人士称伊朗正在研究万斯来信中的提议",
-      "insight": "据沙特方面10月31日援引消息人士的话称，伊朗正在研究美国副总统万斯在致伊方信件中的提议。 消息…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-10-31/doc-inixcsqp7302314.shtml"
-    },
-    {
-      "id": "ff2830d366",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "10-31 21:49",
-      "title": "花旗：潍柴动力维持“买入”评级 目标价50港元",
-      "insight": "花旗发布研报称，维持潍柴动力（02338）“买入”评级及50港元目标价。公司第三季度实现收入58…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-31/doc-inixcsqk4723499.shtml"
     }
   ],
-  "updateTime": "2026-11-01 07:53"
+  "updateTime": "2026-11-01 11:42"
 }
