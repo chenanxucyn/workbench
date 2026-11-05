@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff8dbf0817",
+      "id": "ffd5b5c271",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 18:07",
+      "title": "红杉资本关闭伦敦办公室，重心转向硅谷",
+      "insight": "这家风投机构表示，在推进多项内部架构调整的背景下，已不再需要设立欧洲分支机构。 曾投资谷歌、Yo…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrs5589828.shtml"
+    },
+    {
+      "id": "ff7843571f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 18:05",
+      "title": "Snap广告业务增长乏力",
+      "insight": "Snap 美国与欧洲地区日活用户环比持平，同比出现下滑。 Snap 公布财报，营收同比上涨 14…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrq8812681.shtml"
+    },
+    {
+      "id": "ffce7db8e8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 18:03",
+      "title": "无人机巨头Neros及其23岁CEO获得五角大楼青睐",
+      "insight": "五角大楼又推出一项举措：向美国无人机龙头初创企业 Neros Technologies 提供 4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9451985.shtml"
+    },
+    {
+      "id": "ffbdce1a0c",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-05 17:51",
+      "title": "江淮三季报：减亏可喜，现金流堪忧",
+      "insight": "来源：国际金融报 营收在增长，亏损在收窄，现金流却在加速流出。 近日，江淮汽车披露的2026年三…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsrrw9446136.shtml"
+    },
+    {
+      "id": "ff58efbf71",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 17:47",
+      "title": "受云服务商Iren项目延期影响，微软削减数据中心开支",
+      "insight": "Iren 将于本周发布财报，目前正承受借贷成本上升带来的经营压力。 微软上周披露，受计划租赁的数…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6089517.shtml"
+    },
+    {
+      "id": "ff59a7eb51",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 17:45",
+      "title": "司法部调取Rippling与Deel商业间谍案相关文件",
+      "insight": "据法庭文件显示，美国司法部向薪资服务初创企业 Rippling 发出传票，要求获取该公司起诉竞争…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6088576.shtml"
+    },
+    {
+      "id": "ff61215bc1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 17:44",
+      "title": "Cerebras的限售股案例，给Anthropic员工上的一课",
+      "insight": "早在周三受选举影响引发科技股集体抛售之前，Cerebras 自半年前 IPO 上市后，股价就已经…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9439416.shtml"
+    },
+    {
+      "id": "ff9eddc69c",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-05 17:41",
+      "title": "沁恒微重启IPO：上半年营收3.6亿，净利1.4亿 拟募资14.9亿",
+      "insight": "来源：雷递 雷递网 雷建平 11月5日 南京沁恒微电子股份有限公司（简称：“沁恒微”）日前重启I…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsrrq8799840.shtml"
+    },
+    {
+      "id": "ffe83b71c4",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-05 17:41",
+      "title": "阳光电源第三季营收180亿：同比降22% 净利降68% 市值一年跌去2500亿",
+      "insight": "来源：雷递 雷递网 雷建平 11月5日 阳光电源（证券代码：300274）日前发布2026年第三…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-05/doc-inixsrrq8799516.shtml"
+    },
+    {
+      "id": "ffb7f48fed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-05 17:39",
+      "title": "蓝潮重塑AI、加密货币与科技行业的六大路径",
+      "insight": "民主党借民众对 AI 的担忧拿下选举胜利。接下来，数据中心限制、传票调查、前沿大模型立法或将接踵…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9436009.shtml"
+    },
+    {
+      "id": "ff42e528ca",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "11-05 17:37",
+      "title": "极智嘉RS Hyper攀爬机器人首秀，千平方米每小时吞吐6000箱",
+      "insight": "新浪科技讯 11月5日下午消息，正在举办的2026亚洲国际物流技术与运输系统展览会上，极智嘉集中…",
+      "link": "https://finance.sina.com.cn/tob/2026-11-05/doc-inixsrrq8792885.shtml"
+    },
+    {
+      "id": "ff69423b5c",
       "source": "市场资讯",
       "tag": "理财",
-      "time": "11-05 09:04",
-      "title": "快讯：苯乙烯、纯苯、聚丙烯期货主力合约触及跌停",
-      "insight": "快讯：2026年11月5日，苯乙烯、纯苯、聚丙烯期货主力合约触及跌停。",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-05/doc-inixrunh9622121.shtml"
+      "time": "11-05 17:37",
+      "title": "炒期货用什么APP？主流软件大比拼，这一款拔得头筹！",
+      "insight": "很多做期货的朋友，最头疼就是选一款顺手的行情软件，行情延迟、K 线卡顿、指标不全，都会影响看盘。…",
+      "link": "https://finance.sina.com.cn/money/future/qhhz/2026-11-05/doc-inixsrry6082572.shtml"
     },
     {
-      "id": "ff744d1f49",
+      "id": "ff90d7ae64",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 09:03",
-      "title": "SK海力士下跌8%，市场担忧数据中心受到更严格监管",
-      "insight": "SK海力士领跌韩国芯片股，市场担忧数据中心受到更严格监管。 SK海力士股价早盘下跌8%，报1，2…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixruna5710542.shtml"
+      "time": "11-05 17:34",
+      "title": "迈威尔收购提案引发朗美通股价大跌，第三方竞价可能性上升",
+      "insight": "光网络器件厂商朗美通（Lumentum）周一收到迈威尔的收购邀约，周三随本轮选举行情一同遭遇抛售…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6080652.shtml"
     },
     {
-      "id": "ffbd854683",
+      "id": "ffc10e79f2",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 09:02",
-      "title": "美参议员克鲁兹感叹共和党在中期选举中遭遇遭遇“堪比水门事件”的惨败",
-      "insight": "得克萨斯州参议员特德·克鲁兹（Ted Cruz）将民主党在全美各地的压倒性胜利称为“蓝色海啸”，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9621100.shtml"
+      "time": "11-05 17:30",
+      "title": "中期选举当日全美爆发反数据中心浪潮 AI或成为2028美国大选头号议题",
+      "insight": "当地时间周二，全美至少38个辖区的选民通过禁令或管控措施限制数据中心建设，反映出公众对这类设施普…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6078492.shtml"
     },
     {
-      "id": "ffc1e5828e",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "11-05 09:00",
-      "title": "开盘|国内期货主力合约涨跌不一 燃料油、低硫燃料油（LU）、沥青跌超10%",
-      "insight": "2026年11月5日，早盘开盘，国内期货主力合约涨跌不一，燃料油、低硫燃料油（LU）、沥青跌超1…",
-      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-05/doc-inixrunh9619415.shtml"
-    },
-    {
-      "id": "ffb5358d5b",
+      "id": "ffb1cda944",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 08:53",
-      "title": "韩国将引入基石投资者锁定期制度，以遏制新股上市后的抛售潮",
-      "insight": "韩国最高金融监管机构将针对首次公开募股（IPO）引入基石投资者制度，以遏制新股上市后股价的大幅下…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrumy8928058.shtml"
+      "time": "11-05 17:29",
+      "title": "机构：第三季度三星电子稳坐DRAM市场份额第一宝座",
+      "insight": "市场调研机构Counterpoint Research 5日发布数据称，第三季度DRAM市场份额…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrry6077766.shtml"
     },
     {
-      "id": "ff26e592f4",
+      "id": "ffbfeef64d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 08:49",
-      "title": "美国财政部微调发债指引 暗示未来或改变招标规模",
-      "insight": "美国财政部调整了自2024年初以来一直沿用的中长期国债发行指引。交易商表示，此举为扩大短期限国债…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9614433.shtml"
+      "time": "11-05 17:24",
+      "title": "鸿海10月营收增长46% 得益于人工智能需求",
+      "insight": "鸿海报告10月份销售额增长46%，反映出全球人工智能（AI）基础设施建设浪潮之下，对其业务伙伴英…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrw9425813.shtml"
     },
     {
-      "id": "ff236a97fc",
+      "id": "ff5e232507",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-05 17:22",
+      "title": "印度拟针对售电企业出台强制储能规定",
+      "insight": "印度计划强制配电企业在采购可再生能源的同时配套采购储能容量，以此减少清洁能源弃电。 电力秘书潘卡…",
+      "link": "https://finance.sina.com.cn/world/2026-11-05/doc-inixsrry6072539.shtml"
+    },
+    {
+      "id": "ffdc3104de",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-05 17:21",
+      "title": "泰国总理：希望说服特朗普将关税税率从19%下调",
+      "insight": "泰国总理阿努廷称，泰美贸易协议谈判已进入最后阶段，根据协议，美国对泰国征收的对等关税税率预计将维…",
+      "link": "https://finance.sina.com.cn/world/2026-11-05/doc-inixsrry6071959.shtml"
+    },
+    {
+      "id": "ff4d4e1566",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 08:46",
-      "title": "迪士尼宣布乔纳森·加森将出任皮克斯总裁",
-      "insight": "迪士尼宣布，自明年1月4日起，乔纳森·加森（Jonathan Garson）将正式出任皮克斯动画…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9613224.shtml"
+      "time": "11-05 17:21",
+      "title": "丰田汽车创近40年最大升幅 公司提高利润展望并扩大股票回购",
+      "insight": "丰田汽车股价创下近四十年来最大涨幅，此前这家汽车制造商提高了年度利润预期并加大了股东回报力度，因…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrq8781166.shtml"
     },
     {
-      "id": "ff746241ef",
+      "id": "ff5bdcdcd1",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-05 08:32",
-      "title": "特斯拉前10月澳洲交付量同比飙升94%，全年销量有望创新高",
-      "insight": "特斯拉今年在澳大利亚的销量有望创下历史新高，在此前两年交付量持续下滑后，该公司已几乎收复了全部失…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrumy8914624.shtml"
-    },
-    {
-      "id": "ff86e5ceb4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:20",
-      "title": "日本芯片相关股票大幅下跌，爱德万测试股价下跌8.2%",
-      "insight": "日本芯片相关股票大幅下跌，爱德万测试股价下跌8.2%，铠侠下跌7.0%，软银集团下跌5.8%。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9597742.shtml"
-    },
-    {
-      "id": "ff6d7e625e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:17",
-      "title": "马斯克在中期选举后删除了投票支持共和党的帖子",
-      "insight": "在美国中期选举日当天，科技富豪埃隆·马斯克在X上发布了一条简短的帖子：“今天投‘红色’一票！” …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9595133.shtml"
-    },
-    {
-      "id": "ffce398ca0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:14",
-      "title": "花旗银行一名员工在佛罗里达州办公室枪击案中遇害",
-      "insight": "花旗集团首席执行官弗雷泽 （Jane Fraser） 表示，周三在佛罗里达州坦帕市花旗银行办公室…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunh9593107.shtml"
-    },
-    {
-      "id": "ff18cbfa94",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:08",
-      "title": "日本汽车股大幅上涨 丰田汽车股价上涨7.8%",
-      "insight": "日本汽车股大幅上涨，丰田汽车股价上涨7.8%，本田上涨6.2%，日产上涨5.8%。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixruna5671753.shtml"
-    },
-    {
-      "id": "ff31536517",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:01",
-      "title": "日韩股市开盘 韩国KOSPI指数开盘下跌1.8%",
-      "insight": "日经225指数上午开盘报62384.73点，涨幅0.32%。韩国综合股价指数（KOSPI）开盘下…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixruna5665657.shtml"
-    },
-    {
-      "id": "ffd179ece9",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 08:01",
-      "title": "美团-W获摩根大通增持约4976.71万股 每股作价65.9604港元",
-      "insight": "香港联交所最新数据显示，10月29日，摩根大通增持美团-W（03690）4976.7134万股，…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrunh9583131.shtml"
-    },
-    {
-      "id": "ff4508d76b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-05 08:00",
-      "title": "洛克希德马丁支付2950万美元和解歧视白人员工指控",
-      "insight": "美国国防承包商洛克希德马丁公司已同意支付2950万美元，以和解特朗普政府提出的一项指控。该指控称…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixrunk6230797.shtml"
-    },
-    {
-      "id": "ff2b14dcbf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 07:59",
-      "title": "创联控股获蔡忠林增持6752万股 每股作价约0.15港元",
-      "insight": "香港联交所最新数据显示，11月2日，蔡忠林增持创联控股（02371）6752万股，每股作价0.1…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrunh9582310.shtml"
-    },
-    {
-      "id": "ff771e4a4e",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 07:59",
-      "title": "HASHKEY HLDGS获董事会主席肖风增持30.96万股 每股作价约1.75港元",
-      "insight": "香港联交所最新数据显示，10月30日，肖风增持HASHKEY HLDGS（03887）30.96…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrumy8888120.shtml"
-    },
-    {
-      "id": "ff9adfe6d4",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 07:58",
-      "title": "华大酒店获董事长郑启文增持498万股 每股作价约0.07港元",
-      "insight": "香港联交所最新数据显示，11月2日，董事长郑启文增持华大酒店（00201）498万股，每股作价0…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrunk6229883.shtml"
-    },
-    {
-      "id": "ffdd80564c",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 07:57",
-      "title": "福田实业遭夏松芳减持423万股 每股作价0.62港元",
-      "insight": "香港联交所最新数据显示，11月3日，夏松芳减持福田实业（00420）423万股，每股作价0.62…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrunk6229638.shtml"
-    },
-    {
-      "id": "ffab9503d0",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-05 07:55",
-      "title": "梧桐国际遭Future Capital Group Limited减持90万股 每股作价5.05港元",
-      "insight": "香港联交所最新数据显示，11月3日，Future Capital Group Limited减持…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-05/doc-inixrunh9580844.shtml"
+      "time": "11-05 17:19",
+      "title": "策略师：通胀将降温 5%美债收益率具备吸引力",
+      "insight": "亚德尼研究公司总裁埃德·亚德尼认为，在通胀有望回落的背景下，10年期美债收益率在5%附近水平“极…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-05/doc-inixsrrq8779585.shtml"
     }
   ],
-  "updateTime": "2026-11-05 09:13"
+  "updateTime": "2026-11-05 18:09"
 }
