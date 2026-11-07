@@ -1,6 +1,33 @@
 {
   "news": [
     {
+      "id": "ffc379bbdd",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-08 03:32",
+      "title": "特朗普邀请终极格斗冠军赛负责人Dana White担任新闻秘书",
+      "insight": "美国总统特朗普宣布邀请终极格斗冠军赛（UFC）负责人Dana White出任白宫新闻秘书，并表示…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixxyzk7652911.shtml"
+    },
+    {
+      "id": "ffa741ea01",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-08 02:09",
+      "title": "俄罗斯派出高规格代表团与乌克兰会谈 特朗普称俄乌第一次想和解",
+      "insight": "俄罗斯将派出一个级别高于前几轮的代表团，参加在阿布扎比举行的美国斡旋下与乌克兰的谈判。在外交僵局…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixxyzq7805954.shtml"
+    },
+    {
+      "id": "ffe878ef26",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-08 01:25",
+      "title": "美股暴跌令华尔街始料未及 策略师却看到买入良机",
+      "insight": "华尔街一众策略师此前押注，美国中期选举后股市将出现短期抛售，为投资者提供折价买入股票的机会。 周…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-08/doc-inixxuts7927190.shtml"
+    },
+    {
       "id": "ff9f565e02",
       "source": "环球市场播报",
       "tag": "美股",
@@ -152,34 +179,7 @@
       "title": "形势突变！史上最大IPO，估值或大幅下调",
       "insight": "美国中期选举结果引发的抛售潮，冲击了Anthropic的首次公开募股（IPO）计划，迫使潜在投资…",
       "link": "https://finance.sina.com.cn/world/gjcj/2026-11-07/doc-inixxcvw4672438.shtml"
-    },
-    {
-      "id": "ff4c664ab6",
-      "source": "新浪科技",
-      "tag": "财经热点",
-      "time": "11-07 18:27",
-      "title": "直击进博会|飞利浦九赴进博，携七大个护核心产品线集中亮相",
-      "insight": "新浪科技讯 11月7日晚间消息，11月5日至10日，第九届中国国际进口博览会（以下简称“进博会”…",
-      "link": "https://finance.sina.com.cn/world/gjcj/2026-11-07/doc-inixxcvy8177863.shtml"
-    },
-    {
-      "id": "ff5d419af2",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-07 18:21",
-      "title": "又一A股公司，遭证监会立案！",
-      "insight": "来源：央视财经 凤凰航运（000520）11月7日发布公告，公司于11月6日收到中国证监会下发的…",
-      "link": "https://finance.sina.com.cn/wm/2026-11-07/doc-inixxcvy8181027.shtml"
-    },
-    {
-      "id": "fff705b5f0",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-07 18:06",
-      "title": "暴雪黄色预警持续！8省份有大到暴雪，局地特大暴雪",
-      "insight": "中央气象台11月7日18时继续发布暴雪黄色预警： 预计11月7日20时至8日20时，北京西部和北…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixxcvy8170759.shtml"
     }
   ],
-  "updateTime": "2026-11-08 01:15"
+  "updateTime": "2026-11-08 05:17"
 }
