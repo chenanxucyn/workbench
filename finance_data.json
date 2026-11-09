@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff7e908fa8",
-      "source": "新浪港股",
+      "id": "ff6e17c341",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 18:33",
+      "title": "看空英特尔的人错在哪里",
+      "insight": "如果你在 2025 年 11 月初评估英特尔，当时新闻报道呈现两极分化：一方面是一套复杂的重组计…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycwiu6430866.shtml"
+    },
+    {
+      "id": "ff963707a9",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-09 18:29",
+      "title": "ETF资金流向显示：散户尚未跟随对冲基金抛售",
+      "insight": "上周股票型及杠杆ETF的资金流向，并未出现散户大规模卖出的迹象。 对股票投资者而言，上周行情惨淡…",
+      "link": "https://finance.sina.com.cn/world/2026-11-09/doc-iniycwis2792112.shtml"
+    },
+    {
+      "id": "ffcdedcbe2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 18:28",
+      "title": "亿万富豪大举布局太空股：火箭实验室（RKLB）是否入选？",
+      "insight": "作者：阿沙尔・贾瓦德 我们刚刚发布《亿万富豪正在买入的 10 只最佳卫星与太空概念股》榜单，火箭…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycwis2791691.shtml"
+    },
+    {
+      "id": "fff0205022",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 18:24",
+      "title": "自动驾驶出租车并未冲击来福车业务：CEO称公司在自动驾驶市场实现增长",
+      "insight": "来福车（Lyft）首席执行官戴维・里舍在上周四公司 2026 年第三季度财报电话会上表示，自动驾…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzz3381917.shtml"
+    },
+    {
+      "id": "ff017a104a",
+      "source": "新浪证券",
       "tag": "股市",
-      "time": "11-09 08:24",
-      "title": "华新建材拟开展外汇衍生品交易",
-      "insight": "华新建材（06655）发布公告，华新建材集团股份有限公司（以下简称“公司”）拟收购巴西国家钢铁公…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-09/doc-iniyauwk3435192.shtml"
+      "time": "11-09 18:20",
+      "title": "芯德半导体港股IPO：收入三年翻倍却从未赚过毛利 重资产封测厂的爬坡与债务压力",
+      "insight": "出品：新浪财经上市公司研究院/港市多维镜 作者：喜乐 2026年10月底，港股IPO市场迎来一波…",
+      "link": "https://finance.sina.com.cn/stock/observe/2026-11-09/doc-iniycrzu2918795.shtml"
     },
     {
-      "id": "ff91c7dc92",
+      "id": "ffd9bc226b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 08:20",
-      "title": "特朗普敦促参议院投票支持支持《美国可负担性与就业法案》",
-      "insight": "特朗普在社交媒体上发文：“我敦促所有参议员对《两党美国可负担性与就业法案》投赞成票（YES）。这…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3433462.shtml"
+      "time": "11-09 18:13",
+      "title": "摩根大通策略师Lakos-Bujas：投资者抛售潮可能接近尾声",
+      "insight": "摩根大通策略师表示，在上周动量股暴跌之后，投资者的悲观情绪可能已接近顶峰，而此次市场抛售主要是一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzu2915671.shtml"
     },
     {
-      "id": "ffcbc85895",
+      "id": "ffd0da2796",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 08:18",
-      "title": "特朗普将于美国东部时间中午12点会见卡塔尔首相",
-      "insight": "根据白宫官方日程安排，美国总统特朗普将于美国东部时间周一中午12点在椭圆形办公室会见卡塔尔首相。",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwh6655944.shtml"
+      "time": "11-09 18:12",
+      "title": "美国中期选举过后，加密货币跌至两个月低点",
+      "insight": "周一交易时段加密货币大幅下挫，比特币与以太坊触及两个多月以来的最低价位。投资者担忧由民主党掌控的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzu2914474.shtml"
     },
     {
-      "id": "fff7059c6c",
+      "id": "ffcbcdb196",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 08:05",
-      "title": "瑞银首席执行官：中期选举为AI基础设施建设带来不确定性",
-      "insight": "瑞银集团（UBS Group AG）首席执行官塞尔吉奥·埃莫蒂（Sergio Ermotti）表…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3424179.shtml"
+      "time": "11-09 18:11",
+      "title": "美国参议员要求谷歌允许学校关闭搜索引擎中的AI功能",
+      "insight": "美国马萨诸塞州民主党参议员爱德华·马基（Edward J． Markey）周一致信谷歌，要求这家…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzw6545699.shtml"
     },
     {
-      "id": "ff1a841c6f",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 08:05",
-      "title": "亚马逊Astro家用机器人有拥趸，但似乎难逃被淘汰命运 为何它还要再试一次？",
-      "insight": "2017年贝索斯押注家用机器人赛道，推动亚马逊团队研发，最终在2021年秋季发布轮式机器人Ast…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwe3090712.shtml"
-    },
-    {
-      "id": "fffe9bca23",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 08:03",
-      "title": "日韩股市开盘涨跌互现 韩国综合股价指数开盘下跌0.5％",
-      "insight": "日经225指数上午开盘报57960.70点，涨幅0.92％。韩国综合股价指数（KOSPI）开盘下…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwh6646675.shtml"
-    },
-    {
-      "id": "ffb5fe2971",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 07:58",
-      "title": "澳联储助理主席亨特称：AI热潮将在短期内给CPI带来上行压力",
-      "insight": "澳大利亚央行一位高级官员表示，在决策者已大幅加息以应对通胀之际，人工智能相关领域投资的激增将进一…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwh6644009.shtml"
-    },
-    {
-      "id": "ffc43ff3ee",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 07:56",
-      "title": "“市场感到担忧时，我反而心里更踏实”——木头姐为何这么看",
-      "insight": "方舟投资CEO 凯瑟琳・伍德对本周市场震荡不以为意。她周五在接受采访时表示，投资者的种种担忧，反…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwa6437952.shtml"
-    },
-    {
-      "id": "ff172cd425",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 07:55",
-      "title": "特朗普称邀请UFC总裁怀特出任白宫新闻秘书只是“开个玩笑”",
-      "insight": "美国总统唐纳德·特朗普表示，当他邀请UFC总裁达纳·怀特担任白宫新闻秘书时，他“只是在开玩笑”。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3418607.shtml"
-    },
-    {
-      "id": "ff83a9b7a0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-09 07:51",
-      "title": "特朗普称认为黄仁勋应该继续担任英伟达CEO",
-      "insight": "美国总统唐纳德·特朗普在回答记者提问时表示，黄仁勋应该继续担任英伟达首席执行官。当被问及黄仁勋是…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3417092.shtml"
-    },
-    {
-      "id": "ff8c3745d8",
-      "source": "股市直击",
+      "id": "ffefcf968c",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-09 07:47",
-      "title": "股海导航_2026年11月9日_沪深股市公告与交易提示",
-      "insight": "【停牌】 无 【复牌】 无 【品大事】 华新建材：拟约16.42亿美元收购巴西CSN CIMEN…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-09/doc-iniyauwa6435053.shtml"
+      "time": "11-09 18:08",
+      "title": "片仔癀原董事长林志辉，任福建一市局局长",
+      "insight": "来源：观八闽 林志辉已任漳州市医疗保障局党组书记、局长。 林志辉，男，汉族，1974年10月出生…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-09/doc-iniycwix3252965.shtml"
     },
     {
-      "id": "ff951467b2",
+      "id": "ffcca947ea",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 07:46",
-      "title": "欧洲央行行长拉加德暗示12月将加息",
-      "insight": "欧洲央行行长克里斯蒂娜·拉加德在接受日本《读卖新闻》采访时暗示，欧洲央行有可能在下个月举行的管理…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwa6434134.shtml"
+      "time": "11-09 18:08",
+      "title": "美债收益率保持平稳，投资者静待更多经济数据",
+      "insight": "继上周五就业数据表现强劲之后，周一债券收益率维持震荡走平，投资者静待新一轮经济数据出炉。 10 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3319546.shtml"
     },
     {
-      "id": "ff53cb0ebf",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-09 07:45",
-      "title": "巨星传奇：股价及交投量不寻常波动 不知悉其他原因",
-      "insight": "巨星传奇（06683）发布公告，公司董事会注意到本公司股份价格及交投量于2026年11月6日上升…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-09/doc-iniyauwe3082127.shtml"
-    },
-    {
-      "id": "ff02528c44",
+      "id": "ffd67d3e59",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 07:45",
-      "title": "特朗普说黄仁勋是个好人 还没有和他谈过婚外情事件",
-      "insight": "美国总统唐纳德·特朗普称黄仁勋是个“好人”。“我没有和他谈过这件事。”特朗普周日在返回华盛顿前对…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwe3082104.shtml"
+      "time": "11-09 18:07",
+      "title": "加密货币交易所Coinbase获得正式信托银行牌照",
+      "insight": "Coinbase表示，美国货币监理署已将这家美国最大加密货币交易所的信托银行资格从有条件批准升级…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3318016.shtml"
     },
     {
-      "id": "ffe70ae225",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-09 07:44",
-      "title": "创胜集团医药-B建议委任国卫为新任核数师",
-      "insight": "创胜集团医药-B（06628）发布公告，由于本公司与本公司现任核数师安永会计师事务所（安永）未能…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-09/doc-iniyauwe3081878.shtml"
-    },
-    {
-      "id": "ff64abd13d",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-09 07:43",
-      "title": "汇聚科技拟回购不超过5亿港元的股份",
-      "insight": "汇聚科技（01729）公布，董事会于2026年11月6日已授权及批准一项计划，自批准日期起计24…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-09/doc-iniyauwa6433378.shtml"
-    },
-    {
-      "id": "ff1612b966",
+      "id": "ff404caeda",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 07:43",
-      "title": "苹果通过在新加坡归集利润，省下27亿美元税款",
-      "insight": "根据最新披露文件，苹果今年通过将营收归集至新加坡，减少了27亿美元的税负。文件显示，这座城市国家…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3414930.shtml"
+      "time": "11-09 18:03",
+      "title": "联合圣保罗银行收购锡耶纳牧山银行的要约获意大利市场监管机构批准",
+      "insight": "本次收购要约的接受期将于 11 月 24 日开启，至次年 1 月 22 日结束联合圣保罗银行周日…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzw6538063.shtml"
     },
     {
-      "id": "ff18455891",
-      "source": "新浪港股",
-      "tag": "股市",
-      "time": "11-09 07:41",
-      "title": "龙湖集团前10个月累计实现总合同销售金额255.7亿元",
-      "insight": "龙湖集团（00960）发布公告，截至2026年10月31日止十个月，集团累计实现总合同销售金额人…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-09/doc-iniyauwa6432982.shtml"
-    },
-    {
-      "id": "ff3c71f106",
+      "id": "ff7bedf54f",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-09 07:40",
-      "title": "新西兰元兑美元走高 新西兰执政党在议会选举中占据优势",
-      "insight": "新西兰元在早盘交易中小幅走高，此前新西兰执政党国家党在周末选举中处于领先位置，有望继续执政。 新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniyauwk3414262.shtml"
+      "time": "11-09 18:00",
+      "title": "MTN集团营收实现增长，盈利能力有所提升",
+      "insight": "按固定汇率计算，服务收入大幅增长 17%MTN 集团首席执行官表示，公司将在今年余下时间着力维持…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3311403.shtml"
     },
     {
-      "id": "ff4922ce0e",
-      "source": "智通财经APP",
-      "tag": "外汇",
-      "time": "11-09 07:37",
-      "title": "资金蜂拥美债助“全球资产定价之锚”加速下行，AI算力与半导体修复行情再添动力?",
-      "insight": "美国国债市场可谓正同时获得全球AI算力主题、半导体以及广泛科技股暴跌态势之下的资金强劲避险需求、…",
-      "link": "https://finance.sina.com.cn/money/forex/forexroll/2026-11-09/doc-iniyauwe3083814.shtml"
+      "id": "ffd14932a9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 17:58",
+      "title": "汉诺威再保险：重大损失低于预算，净利润同比走高",
+      "insight": "季度净利润从 7.252 亿美元增至 7.741 亿美元汉诺威再保险标识。该公司重申全年业绩指引…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzu2904634.shtml"
+    },
+    {
+      "id": "fff6ca400c",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "11-09 17:51",
+      "title": "放量涨停后，002488，紧急公告！",
+      "insight": "11月9日，金固股份（002488）股价强势涨停，成交继续放量。盘后公司紧急公告。 金固股份最近…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-09/doc-iniycrzw6530817.shtml"
+    },
+    {
+      "id": "ffccf8b651",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 17:48",
+      "title": "英伟达调查、Anthropic、CoreWeave与Unity 重磅消息云集，本周注定波澜不断",
+      "insight": "如果你还盼着前几天动荡过后能迎来平静一周，那还是直接休假吧。本周的热闹程度大概率不输上周。英伟达…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzu2898897.shtml"
+    },
+    {
+      "id": "ff51e82645",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 17:48",
+      "title": "软银为美国AI数据中心市场可能降温作准备",
+      "insight": "软银公司负责人正为美国人工智能（AI）数据中心需求可能放缓作准备，并表示公司可能转向其他市场寻求…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzy3301384.shtml"
+    },
+    {
+      "id": "ffe65386ed",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-09 17:46",
+      "title": "民主党真的会重创数据中心行业吗？",
+      "insight": "我建议大家周末练练瑜伽、做做深呼吸 —— 或者干脆来点助放松的零食。周二民主党大选大胜，而这场胜…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-09/doc-iniycrzw6523690.shtml"
+    },
+    {
+      "id": "ffad0a0fcf",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-09 17:45",
+      "title": "特朗普：不太可能对伊朗发动大规模打击",
+      "insight": "美国总统唐纳德·特朗普周末对伊朗采取了较为温和的态度，表示他“极不可能”下令对伊朗发动大规模打击…",
+      "link": "https://finance.sina.com.cn/world/2026-11-09/doc-iniycrzw6523671.shtml"
+    },
+    {
+      "id": "ffe08d0cf1",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-09 17:45",
+      "title": "罗博特科港股股价已腰斩：淡马锡浮亏1.6亿 晟天实业浮亏1.4亿 常春藤浮亏1亿",
+      "insight": "来源：雷递 雷递网 雷建平 11月9日 罗博特科（股票代码：“03757”）今日股价继续走低，今…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-09/doc-iniycrzw6534082.shtml"
     }
   ],
-  "updateTime": "2026-11-09 08:24"
+  "updateTime": "2026-11-09 18:45"
 }
