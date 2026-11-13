@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff52ea9dbd",
+      "id": "ffd51fab6d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 05:37",
-      "title": "美国债市：国债大跌 特朗普涉伊言论推高油价",
-      "insight": "美国国债周四早盘大幅下跌，此前美国总统特朗普表示不需要与伊朗达成协议，推动了油价上涨。短债和中期…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyi1079771.shtml"
+      "time": "11-13 11:26",
+      "title": "比特币一度跌破7万美元关口 债券收益率上行拖累加密货币市场",
+      "insight": "尽管亚洲股市周五走高，但比特币仍盘中跌破7万美元，创下三个月来新低，原因是债券收益率上升拖累了加…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyqfwf1243245.shtml"
     },
     {
-      "id": "ffa8a793f6",
+      "id": "ff417c6c50",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 05:34",
-      "title": "原油：油价上涨 特朗普称美国不需要与伊朗达成协议",
-      "insight": "油价周四走高，此前美国总统特朗普表示，美国可以不与伊朗达成协议，令结束这场扰乱中东供应的战争取得…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyi1076995.shtml"
+      "time": "11-13 11:21",
+      "title": "美国证实此前在干预日元行动中动用了价值约5亿美元的欧元",
+      "insight": "纽约联储一份报告证实：美国财政部在7月31日与日本协调进行的干预行动中，动用了其持有的价值约5亿…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyqfwh8014609.shtml"
     },
     {
-      "id": "ff060c430c",
+      "id": "ffa89cd8ca",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 05:33",
-      "title": "11月13日热门中概股普遍下跌，阿里巴巴跌超7%，BOSS直聘暴跌25%",
-      "insight": "11月13日，热门中概股普遍下跌，纳斯达克中国金龙指数盘中跌逾3%。阿里巴巴跌7.05%，BOS…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyr3736708.shtml"
+      "time": "11-13 11:14",
+      "title": "美民主党议员夫妇在英伟达高位减持",
+      "insight": "一名民主党议员在这场英伟达风波中，交易时机恰好站在了有利一侧。追踪国会议员股票交易的平台数据显示…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyqfwh8009053.shtml"
     },
     {
-      "id": "ff61eb49c7",
+      "id": "ff4c3416e2",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 05:29",
-      "title": "11月13日美股成交额前20：英伟达成交1186亿美元居首，AMD、博通逆势上涨",
-      "insight": "周四第1名英伟达收跌约4%，成交1186.21亿美元。英伟达周四宣布，联合创始人兼首席执行官黄仁…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyi1072162.shtml"
+      "time": "11-13 11:14",
+      "title": "苏姿丰获雅虎财经“年度CEO”：她如何带领AMD逆袭？",
+      "insight": "AMD首席执行官苏姿丰（Lisa Su）在2026年交出了一份亮眼的成绩单。她过去近15年的职业…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniyqfwi3653911.shtml"
     },
     {
-      "id": "ff8aa12d53",
+      "id": "ff9246a741",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-13 11:11",
+      "title": "牧原股份早盘涨逾4% 10月生猪养殖完全成本降至约11.4元/kg",
+      "insight": "牧原股份（02714）早盘涨超4%。截至发稿，股价上涨3.83%，现报40.12港元，成交额66…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-13/doc-iniypzqc1121920.shtml"
+    },
+    {
+      "id": "ffa328df69",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-13 11:10",
+      "title": "创梦天地盘中涨超15% 与腾讯业务协同延伸至AI及云服务",
+      "insight": "创梦天地（01119）盘中走高，截至发稿，股价上涨11.11%，现报0.35港元，成交额94.6…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-13/doc-iniypzqc1120747.shtml"
+    },
+    {
+      "id": "ff93fc836c",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-13 11:06",
+      "title": "真健康医疗-B早盘一度涨超18% 公司核心产品CE认证预计年内获批",
+      "insight": "真健康医疗-B（02697）今早一度大涨超18%，截至发稿，股价回落小涨1.24%，现报53.0…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-13/doc-iniypzqk8132265.shtml"
+    },
+    {
+      "id": "ffa42da45d",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-13 11:04",
+      "title": "群核科技盘中涨超9%本周累涨逾50% 携手禾赛科技推出联名款3D空间相机",
+      "insight": "群核科技（00068）盘中涨超9%，本周累计涨幅超50%。截至发稿，股价上涨3.02%，现报3.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-13/doc-iniypzqc1115366.shtml"
+    },
+    {
+      "id": "ff27366314",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 05:10",
-      "title": "11月13日美股收盘：三大股指集体收跌约0.4%，英伟达跌超4%",
-      "insight": "美东时间11月12日，美股三大股指集体收跌，英伟达首席执行官黄仁勋辞职及中东局势持续紧张打击市场…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1379851.shtml"
+      "time": "11-13 11:01",
+      "title": "字节跳动据悉拟以约4000亿美元估值回购至多60亿美元股份",
+      "insight": "据知情人士称，字节跳动计划以约4000亿美元估值，从现有投资者手中回购不超过60亿美元的股份。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1112600.shtml"
     },
     {
-      "id": "ff38a0fad4",
+      "id": "ffca25cf02",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 04:50",
-      "title": "特朗普称希望在卸任前“搞定”古巴问题",
-      "insight": "美国总统特朗普表示，“我希望在卸任前搞定古巴问题”。 特朗普在Hugh Hewitt Show节…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371839.shtml"
+      "time": "11-13 10:55",
+      "title": "特朗普的特别工作组开会讨论应对AI网络攻击",
+      "insight": "特朗普政府发言人称，美国总统唐纳德·特朗普的人工智能工作组成员于当地时间周四举行会议，讨论如何鼓…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqc1107039.shtml"
     },
     {
-      "id": "fff8bb4043",
+      "id": "ff3552d06d",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 04:49",
-      "title": "高盛发布2027年经济展望：全球GDP料增长2.8%，AI投资继续支撑美国经济",
-      "insight": "高盛最新发布的2027年经济展望预计，明年全球GDP增长2.8%，其中美国经济增长2.4%，英国…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1371471.shtml"
+      "time": "11-13 10:47",
+      "title": "多名投资者：没了黄仁勋 AI热潮仍将支撑英伟达",
+      "insight": "多名核心投资者表示，尽管联合创始人黄仁勋突然辞职引发这家芯片巨头股价大跌，但英伟达作为AI浪潮最…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqi1339307.shtml"
     },
     {
-      "id": "ffc6a7af3a",
+      "id": "ff20e16a7b",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:40",
+      "title": "光大期货1113黄金点评：地缘升级反成利空，黄金刷新年内低点",
+      "insight": "隔夜伦敦现货贵金属再次走弱，现货黄金再创年内新低，跌超2%，失守3900美元/盎司关口，盘中承压…",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-13/doc-iniypzqm3754026.shtml"
+    },
+    {
+      "id": "ff7f9f3d48",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-13 04:36",
-      "title": "托克大举买入LME铝合约，伦敦铝库存创36年新低引发历史性逼仓",
-      "insight": "全球大宗商品贸易巨头托克集团（Trafigura）在伦敦金属交易所（LME）建立大量铝期货多头头…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyp1368581.shtml"
+      "time": "11-13 10:40",
+      "title": "英伟达临时CEO，曾被黄仁勋轻视",
+      "insight": "今年夏天，黄仁勋把一众核心财务高管召集到办公室。依靠英伟达不断加码的激进兜底交易支撑起来的AI经…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypzqi1332888.shtml"
     },
     {
-      "id": "ffd16214cd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 04:30",
-      "title": "Truist证券将英伟达评级下调 目标价腰斩",
-      "insight": "Truist Securities分析师William Stein将英伟达评级从“买入”下调至“…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyi1017277.shtml"
+      "id": "ff49f2a506",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:38",
+      "title": "光大期货：能源化工类日报11.13",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周四油价反弹…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqc1091642.shtml"
     },
     {
-      "id": "ff344fb4a2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 04:23",
-      "title": "11月13日外盘头条：英伟达官宣黄仁勋离职 伊朗称锡里克遭敌方军事袭击 SpaceX与特斯拉合并谈判取得进展",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、全文|英伟达官宣黄仁勋辞职，称贡献极其深远，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypqyi1011235.shtml"
+      "id": "ff8b1a7967",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:38",
+      "title": "光大期货：有色金属类日报11.13",
+      "insight": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价震…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqc1091348.shtml"
     },
     {
-      "id": "ffe7144a7e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 04:20",
-      "title": "SpaceX与特斯拉合并谈判取得进展，最早12月宣布交易",
-      "insight": "知情人士透露，马斯克旗下SpaceX与特斯拉的合并谈判正取得进展，双方最早可能于今年12月宣布交…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypksr1495342.shtml"
+      "id": "ff0f9e3987",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:37",
+      "title": "光大期货：软商品类日报11.13",
+      "insight": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，S…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqc1090273.shtml"
     },
     {
-      "id": "ff45510c8c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 04:12",
-      "title": "伊朗称霍尔木兹海峡附近锡里克遭敌方军事袭击",
-      "insight": "当地时间11月12日晚，伊朗霍尔木兹甘省锡里克地区传出多次爆炸声。伊朗官方消息人士随后表示，该地…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypkss8268354.shtml"
+      "id": "ff49db5ab1",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:35",
+      "title": "光大期货：农产品类日报11.13",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周四，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqc1088915.shtml"
     },
     {
-      "id": "fff989b729",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 04:00",
-      "title": "“传奇”接替“传奇”！ 特朗普建议由库克接黄仁勋的班",
-      "insight": "美国总统唐纳德·特朗普建议，由苹果公司的蒂姆·库克接替他所说的“传奇”人物、被迫下台的英伟达首席…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypksm1116631.shtml"
+      "id": "ff7b679814",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:32",
+      "title": "光大期货：矿钢煤焦类日报11.13",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqc1087185.shtml"
     },
     {
-      "id": "ffec81dc5d",
-      "source": "央视",
-      "tag": "财经热点",
-      "time": "11-13 03:54",
-      "title": "墨西哥总统回应特朗普关税威胁：没有移民队伍抵达美墨边境",
-      "insight": "△墨西哥总统辛鲍姆（资料图）当地时间12日，美国总统特朗普威胁称，如果墨西哥政府不立即阻止移民队…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-13/doc-iniypksm1138237.shtml"
+      "id": "ff208738bc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-13 10:30",
+      "title": "康耐特光学盘中涨超4% 不超过4亿港元的回购方案获批",
+      "insight": "康耐特光学（02276）盘中涨超4%，截至发稿，股价上涨1.89%，现报36.64港元，成交额1…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-13/doc-iniypzqi1324796.shtml"
     },
     {
-      "id": "ff015591d2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:52",
-      "title": "克利夫兰联储行长称通胀正朝错误方向发展 利率需更具限制性",
-      "insight": "克利夫兰联储行长贝丝·哈马克重申，她认为在人工智能投资所带来的需求压力下，需要提高利率以抗击通胀…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypkst3769524.shtml"
-    },
-    {
-      "id": "ff61513979",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:52",
-      "title": "欧洲债市：德债下跌 油价上涨促使交易员加码央行加息押注",
-      "insight": "美国总统特朗普表示，美国不需要与伊朗达成协议，推动油价上涨，交易员随之加码对央行加息的押注。 英…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypksr1483972.shtml"
-    },
-    {
-      "id": "ff05e464e1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:51",
-      "title": "美国250亿美元30年期国债拍卖需求不及预期，中标收益率升至5.441%",
-      "insight": "11月12日，美国财政部进行的250亿美元30年期国债拍卖需求略显疲软，中标收益率为5.441%…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypkss8259783.shtml"
-    },
-    {
-      "id": "ff76e34132",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:44",
-      "title": "郭明錤：黄仁勋离职为谷歌TPU创造机会，博通和联发科有望受益",
-      "insight": "11月12日，分析师郭明錤表示，英伟达首席执行官黄仁勋突然离职所引发的管理层接班不确定性，可能为…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypksr1481984.shtml"
-    },
-    {
-      "id": "ffe9bd8560",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:43",
-      "title": "币安宣布已全额补齐63亿美元被盗资产，10月黑客攻击损失全部得到弥补",
-      "insight": "11月12日，全球加密货币交易所币安（Binance）宣布，已完成对10月29日网络攻击事件中全…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypkss8257791.shtml"
-    },
-    {
-      "id": "ff2ac27811",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-13 03:41",
-      "title": "微软多项服务发生大规模故障，Outlook异常报告超过13万起",
-      "insight": "11月12日，微软旗下Outlook、Teams及Microsoft 365等多项服务出现大规模…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-13/doc-iniypkss8257052.shtml"
+      "id": "ffced739f2",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-13 10:30",
+      "title": "光大期货热点追踪：橡胶再度大涨？未来还能涨多高？",
+      "insight": "光大期货热点追踪：橡胶再度大涨？未来还能涨多高？",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-13/doc-iniypzqk8100667.shtml"
     }
   ],
-  "updateTime": "2026-11-13 05:40"
+  "updateTime": "2026-11-13 12:30"
 }
