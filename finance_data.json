@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "id": "ff310742c6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 20:33",
+      "title": "英国央行首席经济学家：明年或需进一步加息，伊朗冲突结束可能性极低",
+      "insight": "英国央行首席经济学家皮尔（Huw Pill）在周六刊出的采访中表示，为抑制通胀，英国央行除了12…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyx2726460.shtml"
+    },
+    {
+      "id": "ff6c8a2783",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 19:16",
+      "title": "印尼总统下令提高国家在矿业收益中的分成比例",
+      "insight": "印尼总统普拉博沃·苏比延多周六表示，国家应从各类采矿许可中获取更大份额的收益；如有必要，还应在矿…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyz3927495.shtml"
+    },
+    {
+      "id": "ff46f49521",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 19:11",
+      "title": "特朗普据悉考虑暂缓对伊朗军事打击",
+      "insight": "据知情人士透露，美国总统唐纳德·特朗普近日向高级顾问表示，如果美国未受到来自伊朗或也门胡塞武装的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyw7122179.shtml"
+    },
+    {
+      "id": "ff037ca3f4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 17:44",
+      "title": "泽连斯基称美国提出以让乌克兰加入北约来换取其放弃顿巴斯地区",
+      "insight": "乌克兰总统泽连斯基表示，美国特使曾询问乌克兰是否愿意将东部的顿巴斯地区让给俄罗斯，以此换取加入北…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyszsy7219163.shtml"
+    },
+    {
+      "id": "ff18d135d2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 16:41",
+      "title": "币安称计划下周全面恢复提现服务",
+      "insight": "币安周六表示，计划在下周末前恢复所有剩余网络和资产的提现功能。此前，这家全球最大的加密货币交易所…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7323868.shtml"
+    },
+    {
+      "id": "ffa94914b4",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 16:26",
+      "title": "微软称服务已全面恢复 此前故障波及全球",
+      "insight": "微软公司表示，其旗舰软件服务已全面恢复。此前发生的故障导致全球多地政府部门、交易员和企业的工作陷…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7318329.shtml"
+    },
+    {
+      "id": "ff1d06d83c",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-14 16:20",
+      "title": "黄仁勋时代落幕 英伟达面临三重考验",
+      "insight": "英伟达（NVDA.US）的黄仁勋时代正式落幕。 当地时间11月12日，黄仁勋宣布辞去公司总裁、C…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysvmc2897712.shtml"
+    },
+    {
+      "id": "ff3ee216eb",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 15:07",
+      "title": "黄仁勋辞职后：亲友齐聚旧金山豪宅 点炸鸡外卖",
+      "insight": "深陷风波的科技巨头黄仁勋被曝光存在多段婚外情、戏剧性宣布辞职后，数小时内，他的亲友陆续聚集在其价…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvmc2868383.shtml"
+    },
+    {
+      "id": "ff0f10e14c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 15:06",
+      "title": "马斯克称Cybercab每月299美元自动驾驶订阅费太高",
+      "insight": "特斯拉宣布开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29990 美元，首批车…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7285464.shtml"
+    },
+    {
+      "id": "ff64e165b0",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-14 13:45",
+      "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
+      "insight": "本文转自“华尔街见闻” 作者：张雅琦 英伟达（NVDA.US）CEO黄仁勋的离职令科技股前景蒙上…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysrcf2969234.shtml"
+    },
+    {
+      "id": "ffe48d2fbc",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-14 13:06",
+      "title": "英国央行首席经济学家：需进一步加息",
+      "insight": "英国央行首席经济学家警告，继12月加息之后，明年央行大概率还需要进一步加息，这表明部分政策制定者…",
+      "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrcc0597024.shtml"
+    },
+    {
       "id": "ff07040141",
       "source": "环球市场播报",
       "tag": "财经热点",
@@ -80,106 +179,7 @@
       "title": "特斯拉：开始面向个人销售Cybercab",
       "insight": "特斯拉表示，已向一小部分客户开放Cybercab预订，意味着该公司准备向普通消费者推出这款无人驾…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepi0754222.shtml"
-    },
-    {
-      "id": "ffadf65c23",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:46",
-      "title": "Anthropic摩根大通总部路演 对算力支出表态谨慎",
-      "insight": "周五，华尔街一众头部投资者到场，参与摩根大通CEO杰米·戴蒙与Anthropic首席执行官达里奥…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepm3111917.shtml"
-    },
-    {
-      "id": "ffc4816645",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:40",
-      "title": "白宫呼吁放宽责任追究 鼓励AI企业上报安全事件",
-      "insight": "知情官员透露，在周四白宫会议上，特朗普总统旗下人工智能专项工作组的官员建议各机构放宽网络安全追责…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7526023.shtml"
-    },
-    {
-      "id": "ffbf37caff",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:35",
-      "title": "风投人士：黄仁勋离任给AI创企融资留下巨大缺口",
-      "insight": "这是一场举世瞩目的离职。深陷风波的英伟达首席执行官黄仁勋，作为联合创始人执掌公司33年，现已正式…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7523945.shtml"
-    },
-    {
-      "id": "ffd37f6b4f",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-14 08:34",
-      "title": "麻疹疫情历史性反弹、数千人感染，美国失去“麻疹消除认证”",
-      "insight": "知情人士透露，泛美卫生组织已撤销美国的麻疹消除认证。数十年来美国一直控制住这种可通过疫苗预防的疾…",
-      "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysepk7523383.shtml"
-    },
-    {
-      "id": "ffbc3e6ef0",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-14 08:28",
-      "title": "英伟达淡化CEO继任者传闻：尚未正式接触任何潜在人选，称一切猜测“为时过早”",
-      "insight": "来源：智通财经网 英伟达（NVDA.US）淡化了有关该公司已在接触潜在首席执行官人选的猜测，称其…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-14/doc-iniysepc0445992.shtml"
-    },
-    {
-      "id": "ffc8c0fef0",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:20",
-      "title": "“911”以来第二次全美停飞！已有超1.3万架次航班延误或取消",
-      "insight": "美国联邦航空局周五下午在全国范围内暂停航班起飞，原因是空管通信系统中断，该局称出现特殊情况并存在…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0440232.shtml"
-    },
-    {
-      "id": "ff41c433a6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:05",
-      "title": "美联储副主席杰斐逊表态：通胀已成利率最重要的参考指标",
-      "insight": "美联储副主席菲利普·杰斐逊表示，在政策制定者考虑是否进一步加息时，通胀已成为最重要的参考指标。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0432942.shtml"
-    },
-    {
-      "id": "fff9fbb710",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 07:47",
-      "title": "Uber回应用户信息外泄：第三方数据泄露所致",
-      "insight": "Uber技术公司正在通知用户，其个人信息在一家合作服务商的数据泄露事件中遭到暴露。 加州总检察长…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepm3084900.shtml"
-    },
-    {
-      "id": "fff020c663",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 07:40",
-      "title": "美国民主党：马斯克应该保存乌克兰星链等记录",
-      "insight": "一封信件显示，民主党参议员要求埃隆·马斯克留存所有与太空探索技术公司（SpaceX）限制乌克兰使…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryff0552127.shtml"
-    },
-    {
-      "id": "fff8a29ff5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 07:26",
-      "title": "黄仁勋出事，Anthropic承压？",
-      "insight": "Anthropic即将启动本轮热度极高的IPO。在局势突变之下，这场上市恰逢行业失去一位极具影响…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfp3208766.shtml"
-    },
-    {
-      "id": "ff5171fee4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 07:04",
-      "title": "美国突发全国性航班停飞事件始末",
-      "insight": "北京时间11月14日凌晨，美国航空交通系统突发大规模通信故障，事件在约半小时内从芝加哥奥黑尔国际…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyryfm0835195.shtml"
     }
   ],
-  "updateTime": "2026-11-14 12:27"
+  "updateTime": "2026-11-14 20:48"
 }
