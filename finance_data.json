@@ -1,6 +1,114 @@
 {
   "news": [
     {
+      "id": "ff119bd466",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 01:58",
+      "title": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris",
+      "insight": "美国交通部长肖恩·达菲周六表示，官员们正在调查航空航天和国防承包商L3Harris Techno…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml"
+    },
+    {
+      "id": "ff23597c41",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-15 00:18",
+      "title": "特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab",
+      "insight": "特斯拉公司开始邀请部分客户订购Cybercab，这款双座车型没有方向盘和脚踏板。 特斯拉人工智能…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytsqr0181590.shtml"
+    },
+    {
+      "id": "ff640fd15b",
+      "source": "新浪科技",
+      "tag": "财经热点",
+      "time": "11-14 23:55",
+      "title": "索菲亚发布设计趋势洞察 推进全案定制战略落地",
+      "insight": "11月14日晚间消息，11月11日，第二届索菲亚5A好设计大赛全国总决赛暨趋势洞察发布会于广州举…",
+      "link": "https://finance.sina.com.cn/chanjing/gsnews/2026-11-14/doc-iniytsqs6949054.shtml"
+    },
+    {
+      "id": "ff84629a8d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-14 23:51",
+      "title": "伊朗驳斥美方制裁威胁，邻国贸易稳步增长",
+      "insight": "伊朗经济部长马达尼扎德驳斥了华盛顿进一步实施经济制裁的威胁，称尽管面临美国压力，伊朗与邻国的贸易…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-14/doc-iniytsqr0172002.shtml"
+    },
+    {
+      "id": "ff4a3f4cd8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 23:33",
+      "title": "Meta在意大利被罚款8.05亿欧元 涉未经明确同意访问用户相册",
+      "insight": "意大利数据保护局对Meta Platforms处以8.05亿欧元（8.87亿美元）罚款，原因是该…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhx3878199.shtml"
+    },
+    {
+      "id": "ffd7b647da",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 23:32",
+      "title": "美联储柯林斯：稳步、渐进加息是适宜之举",
+      "insight": "波士顿联储行长苏珊·柯林斯表示，随着劳动力市场站稳脚跟而没有加剧价格压力，循序渐进的加息路径对于…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhx3878101.shtml"
+    },
+    {
+      "id": "ff921551fe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 22:51",
+      "title": "美国航班大乱持续 数千架次取消或延误",
+      "insight": "美国航空出行周六仍在艰难恢复。此前发生的系统故障导致美国经历自2001年9月恐怖袭击以来持续时间…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnht0289195.shtml"
+    },
+    {
+      "id": "ff44167ae5",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-14 22:50",
+      "title": "美国空管系统故障致4小时停飞，交通部长申请500亿升级资金",
+      "insight": "美国交通部长达菲呼吁国会批准500亿美元紧急资金，用于对该国老化的空中交通管制系统进行现代化改造…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-14/doc-iniytnhu7064817.shtml"
+    },
+    {
+      "id": "ffb7a0ef66",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 22:30",
+      "title": "乌克兰“星盾”又被限速，泽连斯基痛批SpaceX",
+      "insight": "乌克兰总统泽连斯基周六加大了对SpaceX的批评，称该公司对其军用级“星盾”（Starshiel…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhu7057329.shtml"
+    },
+    {
+      "id": "ff6bae3997",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 21:08",
+      "title": "Meta被意大利数据保护机构罚款8.07亿欧元",
+      "insight": "意大利数据保护机构周六表示，已对美国科技巨头Meta Platforms处以 8.05 亿欧元（…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyx2738454.shtml"
+    },
+    {
+      "id": "ff1b419433",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 20:57",
+      "title": "英国央行委员格林：现在就通胀采取主动行动，才能将决策失误的负面影响降至最低",
+      "insight": "英国央行委员梅根·格林（Megan Greene）周六表示，与其采取过于谨慎的态度并冒着引发严重…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyz3959762.shtml"
+    },
+    {
+      "id": "ffe9cc827a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-14 20:50",
+      "title": "意大利表示支持德国加入下一代战斗机项目",
+      "insight": "意大利周六表示，完全支持德国参与旨在研发下一代战斗机的“全球空战计划”（Global Comba…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyv0380109.shtml"
+    },
+    {
       "id": "ff310742c6",
       "source": "环球市场播报",
       "tag": "美股",
@@ -71,115 +179,7 @@
       "title": "黄仁勋辞职后：亲友齐聚旧金山豪宅 点炸鸡外卖",
       "insight": "深陷风波的科技巨头黄仁勋被曝光存在多段婚外情、戏剧性宣布辞职后，数小时内，他的亲友陆续聚集在其价…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvmc2868383.shtml"
-    },
-    {
-      "id": "ff0f10e14c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 15:06",
-      "title": "马斯克称Cybercab每月299美元自动驾驶订阅费太高",
-      "insight": "特斯拉宣布开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29990 美元，首批车…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7285464.shtml"
-    },
-    {
-      "id": "ff64e165b0",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-14 13:45",
-      "title": "老黄离职后，“大空头”加码做空科技股！警告AI热潮或陷入“牛市陷阱”",
-      "insight": "本文转自“华尔街见闻” 作者：张雅琦 英伟达（NVDA.US）CEO黄仁勋的离职令科技股前景蒙上…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysrcf2969234.shtml"
-    },
-    {
-      "id": "ffe48d2fbc",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-14 13:06",
-      "title": "英国央行首席经济学家：需进一步加息",
-      "insight": "英国央行首席经济学家警告，继12月加息之后，明年央行大概率还需要进一步加息，这表明部分政策制定者…",
-      "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrcc0597024.shtml"
-    },
-    {
-      "id": "ff07040141",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-14 12:20",
-      "title": "美国解除全国停飞令 此前航班因空管系统故障停飞逾四小时",
-      "insight": "美国有关部门解除了影响数千架次航班、导致旅客滞留全国各地的停飞令，为航空公司在停飞逾四小时后恢复…",
-      "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniysrax0273459.shtml"
-    },
-    {
-      "id": "ffbc3bed17",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-14 10:55",
-      "title": "美国交通部长谈全美停飞：国会应该批准500亿美元改造空管系统",
-      "insight": "一场技术故障引发二十多年来持续时间最长的全美航班停飞后，美国交通部长肖恩·达菲呼吁国会批准500…",
-      "link": "https://finance.sina.com.cn/world/2026-11-14/doc-iniyskvf0673816.shtml"
-    },
-    {
-      "id": "ff4a2bb33d",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-14 10:53",
-      "title": "传统的圣诞行情，今年的美股还有吗？",
-      "insight": "本文来源：华尔街见闻 作者：鲍奕龙 美股在经历一轮剧烈抛售后，技术面与仓位面同步修复，高盛（GS…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniyskvi3034331.shtml"
-    },
-    {
-      "id": "ff15630f1e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 10:48",
-      "title": "Afterpay联合创始人莫尔纳将于年底离开",
-      "insight": "先买后付平台Afterpay联合创始人尼克·莫尔纳宣布，他将于今年年底离开这家公司及其美国母公司…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyskvf0669977.shtml"
-    },
-    {
-      "id": "ff3a71009e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 09:34",
-      "title": "美国联邦航空管理局已解除全国停飞令",
-      "insight": "知情人士透露，美国联邦航空管理局已解除全国停飞令。此前通信故障导致全美航班暂停起飞，在停飞超四小…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepk7547195.shtml"
-    },
-    {
-      "id": "ff853cfc09",
-      "source": "澎湃新闻",
-      "tag": "财经热点",
-      "time": "11-14 09:21",
-      "title": "今年1至10月全国铁路发送旅客41.3亿人次，创历史同期新高",
-      "insight": "今年1至10月全国铁路累计发送旅客41.3亿人次，同比增长4.7%，创历史同期新高，全国铁路运输…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-14/doc-iniysepm3126927.shtml"
-    },
-    {
-      "id": "ff532c2ea2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 09:06",
-      "title": "以色列风投：英伟达风波给竞品带来机遇",
-      "insight": "英伟达前首席执行官黄仁勋辞职的消息在以色列引发担忧。双方的绑定是双向的：这家半导体巨头近年显著推…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0461217.shtml"
-    },
-    {
-      "id": "ff4b91c80e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:55",
-      "title": "SpaceX星舰第15次试飞 助推器未能按计划返回发射场",
-      "insight": "周五，SpaceX完成星舰关键试飞，但未能回收火箭的两级箭体。 火箭于当地时间下午4时47分（美…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepc0456728.shtml"
-    },
-    {
-      "id": "ff49c9f616",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 08:48",
-      "title": "特斯拉：开始面向个人销售Cybercab",
-      "insight": "特斯拉表示，已向一小部分客户开放Cybercab预订，意味着该公司准备向普通消费者推出这款无人驾…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysepi0754222.shtml"
     }
   ],
-  "updateTime": "2026-11-14 20:48"
+  "updateTime": "2026-11-15 03:38"
 }

@@ -2,68 +2,58 @@
   "ideas": [
     {
       "rank": 1,
-      "topic": "上抖音看阿图什杯",
-      "heat": 12102777,
+      "topic": "BLG对阵GEN",
+      "heat": 12130809,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%8A%E6%8A%96%E9%9F%B3%E7%9C%8B%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF?type=general",
-      "scheme": "snssdk1128://search/上抖音看阿图什杯"
+      "link": "https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN?type=general",
+      "scheme": "snssdk1128://search/BLG对阵GEN"
     },
     {
       "rank": 2,
-      "topic": "马刺38分大胜勇士豪取11连胜",
-      "heat": 11053023,
+      "topic": "国足2:0马来西亚",
+      "heat": 12045275,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%A9%AC%E5%88%BA38%E5%88%86%E5%A4%A7%E8%83%9C%E5%8B%87%E5%A3%AB%E8%B1%AA%E5%8F%9611%E8%BF%9E%E8%83%9C?type=general",
-      "scheme": "snssdk1128://search/马刺38分大胜勇士豪取11连胜"
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B32%3A0%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A?type=general",
+      "scheme": "snssdk1128://search/国足2:0马来西亚"
     },
     {
       "rank": 3,
-      "topic": "为亚太地区增“绿”",
-      "heat": 11050525,
+      "topic": "我国新增3处世界地质遗产地",
+      "heat": 11911328,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%B8%BA%E4%BA%9A%E5%A4%AA%E5%9C%B0%E5%8C%BA%E5%A2%9E%E2%80%9C%E7%BB%BF%E2%80%9D?type=general",
-      "scheme": "snssdk1128://search/为亚太地区增“绿”"
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E6%96%B0%E5%A2%9E3%E5%A4%84%E4%B8%96%E7%95%8C%E5%9C%B0%E8%B4%A8%E9%81%97%E4%BA%A7%E5%9C%B0?type=general",
+      "scheme": "snssdk1128://search/我国新增3处世界地质遗产地"
     },
     {
       "rank": 4,
-      "topic": "KPL年总决战凤凰山",
-      "heat": 10801026,
+      "topic": "北京WB夺得KPL年总冠军",
+      "heat": 11284854,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/KPL%E5%B9%B4%E6%80%BB%E5%86%B3%E6%88%98%E5%87%A4%E5%87%B0%E5%B1%B1?type=general",
-      "scheme": "snssdk1128://search/KPL年总决战凤凰山"
+      "link": "https://www.douyin.com/search/%E5%8C%97%E4%BA%ACWB%E5%A4%BA%E5%BE%97KPL%E5%B9%B4%E6%80%BB%E5%86%A0%E5%86%9B?type=general",
+      "scheme": "snssdk1128://search/北京WB夺得KPL年总冠军"
     },
     {
       "rank": 5,
-      "topic": "国足对阵马来西亚前瞻",
-      "heat": 10255362,
+      "topic": "湘超永州队晋级四强",
+      "heat": 10290034,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E5%89%8D%E7%9E%BB?type=general",
-      "scheme": "snssdk1128://search/国足对阵马来西亚前瞻"
+      "link": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E6%B0%B8%E5%B7%9E%E9%98%9F%E6%99%8B%E7%BA%A7%E5%9B%9B%E5%BC%BA?type=general",
+      "scheme": "snssdk1128://search/湘超永州队晋级四强"
     },
     {
       "rank": 6,
-      "topic": "情呀爱呀手势舞",
-      "heat": 10224531,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%83%85%E5%91%80%E7%88%B1%E5%91%80%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
-      "scheme": "snssdk1128://search/情呀爱呀手势舞"
-    },
-    {
-      "rank": 7,
       "topic": "请选择你的秋假遛娃地",
-      "heat": 9015446,
+      "heat": 9469505,
       "videos": 0,
       "type": "母婴萌娃",
       "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
@@ -71,19 +61,19 @@
       "scheme": "snssdk1128://search/请选择你的秋假遛娃地"
     },
     {
-      "rank": 8,
-      "topic": "阿图什杯现场太震撼了",
-      "heat": 8916318,
+      "rank": 7,
+      "topic": "换季乱穿也能搭",
+      "heat": 8089257,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%98%BF%E5%9B%BE%E4%BB%80%E6%9D%AF%E7%8E%B0%E5%9C%BA%E5%A4%AA%E9%9C%87%E6%92%BC%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/阿图什杯现场太震撼了"
+      "link": "https://www.douyin.com/search/%E6%8D%A2%E5%AD%A3%E4%B9%B1%E7%A9%BF%E4%B9%9F%E8%83%BD%E6%90%AD?type=general",
+      "scheme": "snssdk1128://search/换季乱穿也能搭"
     },
     {
-      "rank": 9,
+      "rank": 8,
       "topic": "孩子的想象力太治愈了",
-      "heat": 8789759,
+      "heat": 7883348,
       "videos": 0,
       "type": "母婴萌娃",
       "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
@@ -91,19 +81,19 @@
       "scheme": "snssdk1128://search/孩子的想象力太治愈了"
     },
     {
-      "rank": 10,
-      "topic": "美国一油轮与游船相撞32人送医",
-      "heat": 8460153,
+      "rank": 9,
+      "topic": "我的S16决赛观赛日记",
+      "heat": 7830783,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%BE%8E%E5%9B%BD%E4%B8%80%E6%B2%B9%E8%BD%AE%E4%B8%8E%E6%B8%B8%E8%88%B9%E7%9B%B8%E6%92%9E32%E4%BA%BA%E9%80%81%E5%8C%BB?type=general",
-      "scheme": "snssdk1128://search/美国一油轮与游船相撞32人送医"
+      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84S16%E5%86%B3%E8%B5%9B%E8%A7%82%E8%B5%9B%E6%97%A5%E8%AE%B0?type=general",
+      "scheme": "snssdk1128://search/我的S16决赛观赛日记"
     },
     {
-      "rank": 11,
+      "rank": 10,
       "topic": "用一次旅行来敬重自己",
-      "heat": 7875498,
+      "heat": 7780098,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -111,19 +101,29 @@
       "scheme": "snssdk1128://search/用一次旅行来敬重自己"
     },
     {
-      "rank": 12,
-      "topic": "湘超岳阳队vs永州队",
-      "heat": 7857706,
+      "rank": 11,
+      "topic": "BLG发布决赛赛前预告",
+      "heat": 7774470,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%B9%98%E8%B6%85%E5%B2%B3%E9%98%B3%E9%98%9Fvs%E6%B0%B8%E5%B7%9E%E9%98%9F?type=general",
-      "scheme": "snssdk1128://search/湘超岳阳队vs永州队"
+      "link": "https://www.douyin.com/search/BLG%E5%8F%91%E5%B8%83%E5%86%B3%E8%B5%9B%E8%B5%9B%E5%89%8D%E9%A2%84%E5%91%8A?type=general",
+      "scheme": "snssdk1128://search/BLG发布决赛赛前预告"
+    },
+    {
+      "rank": 12,
+      "topic": "最有安全感的覆面系出现了",
+      "heat": 7740167,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E6%9C%80%E6%9C%89%E5%AE%89%E5%85%A8%E6%84%9F%E7%9A%84%E8%A6%86%E9%9D%A2%E7%B3%BB%E5%87%BA%E7%8E%B0%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/最有安全感的覆面系出现了"
     },
     {
       "rank": 13,
       "topic": "本周谣言鉴赏",
-      "heat": 7842032,
+      "heat": 7738300,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -132,28 +132,68 @@
     },
     {
       "rank": 14,
-      "topic": "BLG对阵GEN",
-      "heat": 7815280,
+      "topic": "把这份庆祝留给BLG",
+      "heat": 7730698,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/BLG%E5%AF%B9%E9%98%B5GEN?type=general",
-      "scheme": "snssdk1128://search/BLG对阵GEN"
+      "link": "https://www.douyin.com/search/%E6%8A%8A%E8%BF%99%E4%BB%BD%E5%BA%86%E7%A5%9D%E7%95%99%E7%BB%99BLG?type=general",
+      "scheme": "snssdk1128://search/把这份庆祝留给BLG"
     },
     {
       "rank": 15,
-      "topic": "以我之名为LPL加油",
-      "heat": 7813958,
+      "topic": "我国10吨级电动商用飞机首飞成功",
+      "heat": 7715234,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BB%A5%E6%88%91%E4%B9%8B%E5%90%8D%E4%B8%BALPL%E5%8A%A0%E6%B2%B9?type=general",
-      "scheme": "snssdk1128://search/以我之名为LPL加油"
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD10%E5%90%A8%E7%BA%A7%E7%94%B5%E5%8A%A8%E5%95%86%E7%94%A8%E9%A3%9E%E6%9C%BA%E9%A6%96%E9%A3%9E%E6%88%90%E5%8A%9F?type=general",
+      "scheme": "snssdk1128://search/我国10吨级电动商用飞机首飞成功"
     },
     {
       "rank": 16,
+      "topic": "国足对阵马来西亚赛场爆发冲突",
+      "heat": 7709165,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%9B%BD%E8%B6%B3%E5%AF%B9%E9%98%B5%E9%A9%AC%E6%9D%A5%E8%A5%BF%E4%BA%9A%E8%B5%9B%E5%9C%BA%E7%88%86%E5%8F%91%E5%86%B2%E7%AA%81?type=general",
+      "scheme": "snssdk1128://search/国足对阵马来西亚赛场爆发冲突"
+    },
+    {
+      "rank": 17,
+      "topic": "KPL年度总决赛现场直击",
+      "heat": 7701505,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/KPL%E5%B9%B4%E5%BA%A6%E6%80%BB%E5%86%B3%E8%B5%9B%E7%8E%B0%E5%9C%BA%E7%9B%B4%E5%87%BB?type=general",
+      "scheme": "snssdk1128://search/KPL年度总决赛现场直击"
+    },
+    {
+      "rank": 18,
+      "topic": "独属我们的非凡之爱",
+      "heat": 7700377,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E7%8B%AC%E5%B1%9E%E6%88%91%E4%BB%AC%E7%9A%84%E9%9D%9E%E5%87%A1%E4%B9%8B%E7%88%B1?type=general",
+      "scheme": "snssdk1128://search/独属我们的非凡之爱"
+    },
+    {
+      "rank": 19,
+      "topic": "Tim变装变上瘾了",
+      "heat": 7700005,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/Tim%E5%8F%98%E8%A3%85%E5%8F%98%E4%B8%8A%E7%98%BE%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/Tim变装变上瘾了"
+    },
+    {
+      "rank": 20,
       "topic": "慌啥子嘛配什么都好治愈",
-      "heat": 7808487,
+      "heat": 7698394,
       "videos": 0,
       "type": "情感共鸣",
       "insight": "情感类靠共鸣转发，文案戳中一类人的心事，评论区自然热。",
@@ -161,69 +201,39 @@
       "scheme": "snssdk1128://search/慌啥子嘛配什么都好治愈"
     },
     {
-      "rank": 17,
-      "topic": "宝宝接爸爸下班名场面",
-      "heat": 7741356,
-      "videos": 0,
-      "type": "母婴萌娃",
-      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
-      "link": "https://www.douyin.com/search/%E5%AE%9D%E5%AE%9D%E6%8E%A5%E7%88%B8%E7%88%B8%E4%B8%8B%E7%8F%AD%E5%90%8D%E5%9C%BA%E9%9D%A2?type=general",
-      "scheme": "snssdk1128://search/宝宝接爸爸下班名场面"
-    },
-    {
-      "rank": 18,
-      "topic": "烂奇迹手势舞挑战",
-      "heat": 7736623,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E7%83%82%E5%A5%87%E8%BF%B9%E6%89%8B%E5%8A%BF%E8%88%9E%E6%8C%91%E6%88%98?type=general",
-      "scheme": "snssdk1128://search/烂奇迹手势舞挑战"
-    },
-    {
-      "rank": 19,
-      "topic": "我国多地迎大范围雨雪天气",
-      "heat": 7732624,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E5%9B%BD%E5%A4%9A%E5%9C%B0%E8%BF%8E%E5%A4%A7%E8%8C%83%E5%9B%B4%E9%9B%A8%E9%9B%AA%E5%A4%A9%E6%B0%94?type=general",
-      "scheme": "snssdk1128://search/我国多地迎大范围雨雪天气"
-    },
-    {
-      "rank": 20,
-      "topic": "和BLG一起逐星",
-      "heat": 7729836,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%92%8CBLG%E4%B8%80%E8%B5%B7%E9%80%90%E6%98%9F?type=general",
-      "scheme": "snssdk1128://search/和BLG一起逐星"
-    },
-    {
       "rank": 21,
-      "topic": "当你被选中和吴彦祖一起嗦粉",
-      "heat": 7726156,
+      "topic": "写在BLG赛前的一封长文",
+      "heat": 7698192,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BD%93%E4%BD%A0%E8%A2%AB%E9%80%89%E4%B8%AD%E5%92%8C%E5%90%B4%E5%BD%A6%E7%A5%96%E4%B8%80%E8%B5%B7%E5%97%A6%E7%B2%89?type=general",
-      "scheme": "snssdk1128://search/当你被选中和吴彦祖一起嗦粉"
+      "link": "https://www.douyin.com/search/%E5%86%99%E5%9C%A8BLG%E8%B5%9B%E5%89%8D%E7%9A%84%E4%B8%80%E5%B0%81%E9%95%BF%E6%96%87?type=general",
+      "scheme": "snssdk1128://search/写在BLG赛前的一封长文"
     },
     {
       "rank": 22,
-      "topic": "开拓者战胜国王",
-      "heat": 7725227,
+      "topic": "华晨宇第100场演唱会",
+      "heat": 7698185,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BC%80%E6%8B%93%E8%80%85%E6%88%98%E8%83%9C%E5%9B%BD%E7%8E%8B?type=general",
-      "scheme": "snssdk1128://search/开拓者战胜国王"
+      "link": "https://www.douyin.com/search/%E5%8D%8E%E6%99%A8%E5%AE%87%E7%AC%AC100%E5%9C%BA%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/华晨宇第100场演唱会"
     },
     {
       "rank": 23,
+      "topic": "和青稚一起拍斜构图",
+      "heat": 7677358,
+      "videos": 0,
+      "type": "热门爆款",
+      "insight": "热点事件，从你的视角解读能快速涨粉。",
+      "link": "https://www.douyin.com/search/%E5%92%8C%E9%9D%92%E7%A8%9A%E4%B8%80%E8%B5%B7%E6%8B%8D%E6%96%9C%E6%9E%84%E5%9B%BE?type=general",
+      "scheme": "snssdk1128://search/和青稚一起拍斜构图"
+    },
+    {
+      "rank": 24,
       "topic": "海陆再扮紫薇",
-      "heat": 7724580,
+      "heat": 7671503,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
@@ -231,75 +241,65 @@
       "scheme": "snssdk1128://search/海陆再扮紫薇"
     },
     {
-      "rank": 24,
-      "topic": "高校学子为BLG助威",
-      "heat": 7723138,
-      "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E9%AB%98%E6%A0%A1%E5%AD%A6%E5%AD%90%E4%B8%BABLG%E5%8A%A9%E5%A8%81?type=general",
-      "scheme": "snssdk1128://search/高校学子为BLG助威"
-    },
-    {
       "rank": 25,
-      "topic": "会呼麦的咖啡机集合了",
-      "heat": 7708282,
+      "topic": "谢霆锋杭州演唱会",
+      "heat": 7670851,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E4%BC%9A%E5%91%BC%E9%BA%A6%E7%9A%84%E5%92%96%E5%95%A1%E6%9C%BA%E9%9B%86%E5%90%88%E4%BA%86?type=general",
-      "scheme": "snssdk1128://search/会呼麦的咖啡机集合了"
+      "link": "https://www.douyin.com/search/%E8%B0%A2%E9%9C%86%E9%94%8B%E6%9D%AD%E5%B7%9E%E6%BC%94%E5%94%B1%E4%BC%9A?type=general",
+      "scheme": "snssdk1128://search/谢霆锋杭州演唱会"
     },
     {
       "rank": 26,
-      "topic": "和范丞丞一起看昊天武道会",
-      "heat": 7707238,
+      "topic": "许飞专辑开售销量破万",
+      "heat": 7666841,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%92%8C%E8%8C%83%E4%B8%9E%E4%B8%9E%E4%B8%80%E8%B5%B7%E7%9C%8B%E6%98%8A%E5%A4%A9%E6%AD%A6%E9%81%93%E4%BC%9A?type=general",
-      "scheme": "snssdk1128://search/和范丞丞一起看昊天武道会"
+      "link": "https://www.douyin.com/search/%E8%AE%B8%E9%A3%9E%E4%B8%93%E8%BE%91%E5%BC%80%E5%94%AE%E9%94%80%E9%87%8F%E7%A0%B4%E4%B8%87?type=general",
+      "scheme": "snssdk1128://search/许飞专辑开售销量破万"
     },
     {
       "rank": 27,
-      "topic": "我的脸不接受锐评谢谢",
-      "heat": 7707171,
+      "topic": "和赵露思一起跳茉茉手势舞",
+      "heat": 7666771,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E7%9A%84%E8%84%B8%E4%B8%8D%E6%8E%A5%E5%8F%97%E9%94%90%E8%AF%84%E8%B0%A2%E8%B0%A2?type=general",
-      "scheme": "snssdk1128://search/我的脸不接受锐评谢谢"
+      "link": "https://www.douyin.com/search/%E5%92%8C%E8%B5%B5%E9%9C%B2%E6%80%9D%E4%B8%80%E8%B5%B7%E8%B7%B3%E8%8C%89%E8%8C%89%E6%89%8B%E5%8A%BF%E8%88%9E?type=general",
+      "scheme": "snssdk1128://search/和赵露思一起跳茉茉手势舞"
     },
     {
       "rank": 28,
-      "topic": "我选择糖葫芦作为我的咒语",
-      "heat": 7698691,
+      "topic": "宝宝接爸爸下班名场面",
+      "heat": 7666409,
       "videos": 0,
-      "type": "热门爆款",
-      "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E9%80%89%E6%8B%A9%E7%B3%96%E8%91%AB%E8%8A%A6%E4%BD%9C%E4%B8%BA%E6%88%91%E7%9A%84%E5%92%92%E8%AF%AD?type=general",
-      "scheme": "snssdk1128://search/我选择糖葫芦作为我的咒语"
+      "type": "母婴萌娃",
+      "insight": "萌娃/亲子天然高互动，主打真实带娃日常与情绪共鸣，容易出爆款。",
+      "link": "https://www.douyin.com/search/%E5%AE%9D%E5%AE%9D%E6%8E%A5%E7%88%B8%E7%88%B8%E4%B8%8B%E7%8F%AD%E5%90%8D%E5%9C%BA%E9%9D%A2?type=general",
+      "scheme": "snssdk1128://search/宝宝接爸爸下班名场面"
     },
     {
       "rank": 29,
-      "topic": "我们再发光开播啦",
-      "heat": 7692810,
+      "topic": "我在抖音有了自己的专属歌曲",
+      "heat": 7664241,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E6%88%91%E4%BB%AC%E5%86%8D%E5%8F%91%E5%85%89%E5%BC%80%E6%92%AD%E5%95%A6?type=general",
-      "scheme": "snssdk1128://search/我们再发光开播啦"
+      "link": "https://www.douyin.com/search/%E6%88%91%E5%9C%A8%E6%8A%96%E9%9F%B3%E6%9C%89%E4%BA%86%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%93%E5%B1%9E%E6%AD%8C%E6%9B%B2?type=general",
+      "scheme": "snssdk1128://search/我在抖音有了自己的专属歌曲"
     },
     {
       "rank": 30,
-      "topic": "影视飓风Tim开通个人账号",
-      "heat": 7690930,
+      "topic": "首届天霸主播比武大会要来了",
+      "heat": 7659967,
       "videos": 0,
       "type": "热门爆款",
       "insight": "热点事件，从你的视角解读能快速涨粉。",
-      "link": "https://www.douyin.com/search/%E5%BD%B1%E8%A7%86%E9%A3%93%E9%A3%8ETim%E5%BC%80%E9%80%9A%E4%B8%AA%E4%BA%BA%E8%B4%A6%E5%8F%B7?type=general",
-      "scheme": "snssdk1128://search/影视飓风Tim开通个人账号"
+      "link": "https://www.douyin.com/search/%E9%A6%96%E5%B1%8A%E5%A4%A9%E9%9C%B8%E4%B8%BB%E6%92%AD%E6%AF%94%E6%AD%A6%E5%A4%A7%E4%BC%9A%E8%A6%81%E6%9D%A5%E4%BA%86?type=general",
+      "scheme": "snssdk1128://search/首届天霸主播比武大会要来了"
     }
   ],
-  "updateTime": "2026-11-14 20:48"
+  "updateTime": "2026-11-15 03:38"
 }
