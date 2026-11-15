@@ -1,6 +1,150 @@
 {
   "news": [
     {
+      "id": "ffc65f0f79",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-15 23:30",
+      "title": "贝森特：预计下月通胀显著回落，呼吁美联储着眼未来",
+      "insight": "美国财政部长贝森特就当前经济形势发表系列表态。在通胀方面，他指出核心通胀保持温和，已接近美联储目…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniyvvpt1689841.shtml"
+    },
+    {
+      "id": "ff8036d070",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-15 23:16",
+      "title": "美财长施压英伟达：要求外部换帅，限期10天回应合规问题",
+      "insight": "针对英伟达近期的出口限制争议，美国财政部长贝森特发表系列强硬表态，要求英伟达必须从外部寻找新领导…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniyvvpv2911966.shtml"
+    },
+    {
+      "id": "ff8a7260ec",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 22:37",
+      "title": "美国二叠纪盆地地区石油产量稳健增长再次超出预期",
+      "insight": "这一年原本被普遍预期为美国最高产油田产量终于停止增长的一年。然而，伊朗战争爆发了。 随着美国对伊…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvvpt1673394.shtml"
+    },
+    {
+      "id": "ff07c10da5",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-15 22:37",
+      "title": "共享开放机遇 实现互利共赢！《APEC大使与CEO圆桌会》在深圳举办",
+      "insight": "11月15日，中央广播电视总台财经节目中心《APEC大使与CEO圆桌会》在深圳举办。圆桌会以“共…",
+      "link": "https://finance.sina.com.cn/chanjing/cyxw/2026-11-15/doc-iniyvzvn9279870.shtml"
+    },
+    {
+      "id": "ff85ca303a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 21:57",
+      "title": "伊朗数周来首次直接袭击巴林 同时重申与美国结束冲突仍有可能",
+      "insight": "伊朗袭击了巴林的一处空军基地，这是数周来伊朗首次直接袭击这个海湾国家。与此同时，伊朗重申，结束与…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfx3012576.shtml"
+    },
+    {
+      "id": "ff45ba3996",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "11-15 21:47",
+      "title": "闻泰科技：将提起上诉",
+      "insight": "闻泰科技（证券简称：*ST闻泰，证券代码：600745）与境外子公司NexperiaHoldin…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyvrfv1784336.shtml"
+    },
+    {
+      "id": "ff64c84648",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 21:25",
+      "title": "美国电动车企首席执行官：不指望民主党支持我们",
+      "insight": "几家美国电动车制造商的负责人表示，即便民主党在一月份掌控国会，他们也不指望企业能获得更强的联邦支…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfv1776381.shtml"
+    },
+    {
+      "id": "ff11da5f76",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-15 21:15",
+      "title": "内幕交易栽跟头！南卫股份实控人被刑拘",
+      "insight": "来源：资本秘闻 11月15日晚间，南卫股份实控人突发利空。 南卫股份披露公告称，当日收到公司实际…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvrfx3005741.shtml"
+    },
+    {
+      "id": "ff92331523",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-15 21:15",
+      "title": "A股又一例重组，暂缓审议！",
+      "insight": "来源：资本秘闻 近日，海南矿业披露公告称，公司重组事项遭暂缓审议。 海南矿业表示，公司收到上交所…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvrfx3005468.shtml"
+    },
+    {
+      "id": "ff74957e2b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 20:59",
+      "title": "全美停飞令余波未平，航班延误持续，航空公司正竭力恢复运营",
+      "insight": "在联邦航空管理局（FAA）下令全国停飞四个多小时后，航空公司正手忙脚乱地重新安置旅客和机组人员。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfs9444373.shtml"
+    },
+    {
+      "id": "ff8c71712c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 20:56",
+      "title": "英国海事贸易行动中心：印度当局报告波斯湾油轮遇袭",
+      "insight": "据一份安全通告称，英国海事贸易行动中心（UKMTO）表示，印度航运当局报告了一艘油轮在波斯湾遭到…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfu6219418.shtml"
+    },
+    {
+      "id": "ff7b7fd059",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 20:54",
+      "title": "新兴市场债券供应枯竭推高价格，发行量暴跌41%",
+      "insight": "尽管国际投资者需求强劲，新兴市场主权债券的新发行量在今年下半年急剧萎缩。这种供应短缺在预期明年年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfs9442650.shtml"
+    },
+    {
+      "id": "ff31399749",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 20:36",
+      "title": "Anthropic IPO 之际，深陷困境的 AI 交易正寻求急需的亮点",
+      "insight": "在利率上升、全国范围内的 AI 反弹、华盛顿政坛发生重大转变以及英伟达（Nvidia）CEO 黄…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvrfu6210816.shtml"
+    },
+    {
+      "id": "ff7a3125bc",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-15 19:30",
+      "title": "已报案！又有A股公司公章被冒用",
+      "insight": "涞源：资本秘闻 ST恒信称公司已作废公章被冒用。 近日，ST恒信披露公告称，公司编号为13010…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvkxw6320193.shtml"
+    },
+    {
+      "id": "ff237de63c",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-15 18:54",
+      "title": "斩获三连板！刚刚，提示风险！",
+      "insight": "来源：资本秘闻 在二级市场接连斩获三个涨停板后，11月15日晚间，金辰股份发布股票交易风险提示公…",
+      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvkxu9526994.shtml"
+    },
+    {
+      "id": "ffdacc80c6",
+      "source": "新浪财经",
+      "tag": "股市",
+      "time": "11-15 18:50",
+      "title": "002174：控股子公司签超14亿元闪存颗粒采购订单",
+      "insight": "11月15日晚间，游族网络（002174）披露签署日常经营重大合同的公告显示，该公司控股子公司收…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-15/doc-iniyvkxu9524898.shtml"
+    },
+    {
       "id": "ff34e8aaed",
       "source": "证券时报",
       "tag": "股市",
@@ -35,151 +179,7 @@
       "title": "英伟达CEO继承难题",
       "insight": "多年来，黄仁勋一直开玩笑说，作为英伟达的联合创始人兼首席执行官，他执掌这家公司已逾三十年，想要取…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvery6380208.shtml"
-    },
-    {
-      "id": "ff232f5ac5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 16:28",
-      "title": "伊朗称当前局势下无法推进与国际原子能机构合作",
-      "insight": "伊朗外交部发言人巴加埃在电视直播的记者会上表示，“只要当前局势持续，我们就不能指望伊朗与国际原子…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyverw9592601.shtml"
-    },
-    {
-      "id": "ffd07aec5b",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 15:46",
-      "title": "韩国税务师考试第一名因利用人工智能作弊自首",
-      "insight": "今年韩国税务师资格考试的第一名于周日承认，他在两轮考试中利用微型摄像头、智能手机和生成式人工智能…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyvery6351217.shtml"
-    },
-    {
-      "id": "ff8f9d6b36",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-15 15:13",
-      "title": "德明利4亿投资宏祺芯：后者半年亏1.5亿 李虎斥资1亿买下鞠韶复老股",
-      "insight": "来源：雷递  雷递网 雷建平 11月15日 深圳市德明利技术股份有限公司（证券代码：001309…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyuyka6469836.shtml"
-    },
-    {
-      "id": "ffc494d486",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-15 15:09",
-      "title": "天力锂能多重忧：实控人王瑞庆质押率近六成，被立案后辞任总经理，Q3净利环比转亏",
-      "insight": "来源：证券之星 当前，天力锂能（301152.SZ）正处在多重压力交织的节点。近日，公司实控人新…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyverw9594925.shtml"
-    },
-    {
-      "id": "ff43104c5a",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-15 15:09",
-      "title": "国联民生迎整合大考：并购红利兑现，罚单与高管变动接踵而至",
-      "insight": "来源：证券之星 10月28日晚，国联民生证券（601456.SH）披露2026年第三季度报告，前…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvery6370815.shtml"
-    },
-    {
-      "id": "fff7952204",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-15 15:09",
-      "title": "油价上涨推高成本，春秋航空三季报净利下降逾两成，资本开支与债务隐忧浮现",
-      "insight": "来源：证券之星 在航油价格大幅上涨的背景下，春秋航空（601021.SH）交出了一份业绩严重下滑…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-15/doc-iniyvesc3148942.shtml"
-    },
-    {
-      "id": "ff4b1d96f6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 14:34",
-      "title": "“黄仁勋将重磅回归硅谷” 业内高管称多家公司伸出橄榄枝",
-      "insight": "黄仁勋从英伟达辞职的次日，硅谷已经在期待他的回归。 黄仁勋是唐纳德·特朗普的亲密盟友，经常接到总…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuyka6448550.shtml"
-    },
-    {
-      "id": "fffdaff46d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 13:57",
-      "title": "韩国央行逢低买金 第三季度黄金ETF持仓增40%",
-      "insight": "韩国央行在时隔13年、于二季度重新布局黄金投资后，三季度将一只黄金交易所交易基金（ETF）的持仓…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuyka6430476.shtml"
-    },
-    {
-      "id": "ffdd70ffff",
-      "source": "智通财经APP",
-      "tag": "股市",
-      "time": "11-15 13:46",
-      "title": "招商证券：AI投资预期不断调整 市场在担忧什么？",
-      "insight": "招商证券发布研报称，资本开支预期持续上修，但实际交付节奏仍存不确定性。主要科技企业不断提高未来投…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-15/doc-iniyuykf3216101.shtml"
-    },
-    {
-      "id": "ffd5d87362",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 13:25",
-      "title": "伊朗革命卫队：出动六架无人机袭击了巴林美军基地一防空雷达",
-      "insight": "伊朗革命卫队在一份声明中称，其出动六架无人机，袭击了巴林里法直升机基地内的一处美国防空雷达，将此…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuykf3208928.shtml"
-    },
-    {
-      "id": "ffdba0d220",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 12:29",
-      "title": "韩国10月ICT产业出口额达703.5亿美元 芯片出口同比大增259.4%",
-      "insight": "上月，韩国信息通信技术（ICT）产业出口额达703.5亿美元，连续第二个月突破700亿美元关口。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuuae6531237.shtml"
-    },
-    {
-      "id": "ffff711484",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 12:11",
-      "title": "巴拿马航空客机与UPS货机在迈阿密机场滑行时相撞",
-      "insight": "根据空中交通管制员的通话记录，一架巴拿马航空客机与一架UPS货机在迈阿密国际机场滑行时发生碰撞。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuuaa9745755.shtml"
-    },
-    {
-      "id": "ff849ed573",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 11:59",
-      "title": "全球资金大轮动 AI热潮退却推动印度股市强势回归",
-      "insight": "今年前九个月，人工智能热潮吸走全球投资者资金，令印度股市遭受重创。如今，随着这一交易策略开始逆转…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuuae6514778.shtml"
-    },
-    {
-      "id": "ff0da39c78",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 11:24",
-      "title": "纳斯达克23小时交易临近 韩资美股投资或将扩容",
-      "insight": "距离美国纳斯达克实施“23小时交易”仅剩三周，这项新规对韩国股市带来的影响也备受关注。 美国各大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuuaf2063749.shtml"
-    },
-    {
-      "id": "ffc9b2797a",
-      "source": "一财网",
-      "tag": "财经",
-      "time": "11-15 11:03",
-      "title": "下周关注丨10月经济数据将公布，这些投资机会最靠谱",
-      "insight": "国家统计局将公布10月国民经济数据，APEC第三十三次领导人非正式会议将举行。 【重磅新闻】 国…",
-      "link": "https://finance.sina.com.cn/roll/2026-11-15/doc-iniyuuaa9713991.shtml"
-    },
-    {
-      "id": "ffee86a700",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-15 10:48",
-      "title": "黄仁勋离职引发双层股权讨论：一股一票与创始人控制权之争",
-      "insight": "英伟达前首席执行官黄仁勋辞职一事，再度在美国引发围绕双层股权结构的讨论，焦点集中于大型科技企业的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyupum3407264.shtml"
     }
   ],
-  "updateTime": "2026-11-15 18:15"
+  "updateTime": "2026-11-16 02:20"
 }
