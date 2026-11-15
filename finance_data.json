@@ -1,6 +1,105 @@
 {
   "news": [
     {
+      "id": "ffd755cfd1",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 08:33",
+      "title": "马斯克力挺 超10万人请愿黄仁勋回归",
+      "insight": "有些人还不愿接受前首席执行官黄仁勋离职。 截至当地时间周六下午，一份呼吁恢复黄仁勋英伟达首席执行…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuink6675800.shtml"
+    },
+    {
+      "id": "ffc6913602",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 08:19",
+      "title": "比特币跌至三个月低点 现货比特币ETF资金大幅流出",
+      "insight": "加密货币周末大幅下挫，比特币跌至63000美元上方的三个月低点，大量杠杆多头头寸遭到强平。 这一…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuinp3474182.shtml"
+    },
+    {
+      "id": "ff2ae4d880",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 07:59",
+      "title": "白宫法律顾问：不会无条件配合民主党传票 已扩充律师团队",
+      "insight": "美国白宫法律顾问威尔·沙夫表示，白宫不会承诺配合民主党主导国会发出的传票，并且认为与总统特朗普有…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyuinp3464763.shtml"
+    },
+    {
+      "id": "fffe64a032",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-15 07:29",
+      "title": "关键芯片材料，大缺货，持续到2030！",
+      "insight": "来源：半导体行业观察 在半导体产业链中，光刻胶、硅片、电子特气等材料已经为人熟知，但还有一些材料…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-15/doc-iniyuinm2235629.shtml"
+    },
+    {
+      "id": "ff2bfee9cb",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-15 07:22",
+      "title": "北交所开市五周年 总市值约8000亿元",
+      "insight": "今天（15日），北京证券交易所迎来开市五周年。 截至目前，北交所有上市公司355家，总市值约80…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyuink6653654.shtml"
+    },
+    {
+      "id": "ffa4247efe",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 05:51",
+      "title": "SpaceX星舰返回德克萨斯州发射场 发射塔机械臂成功捕获",
+      "insight": "SpaceX的星舰火箭返回德克萨斯州发射场时成功被接住，这是一次创新性的工程壮举，也是朝着埃隆·…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniyucep2333298.shtml"
+    },
+    {
+      "id": "ff2b650957",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-15 05:38",
+      "title": "伊朗称霍尔木兹海峡以南2艘油轮触雷发生爆炸",
+      "insight": "当地时间15日凌晨，伊朗伊斯兰革命卫队海军表示，稍早前，两艘油轮在霍尔木兹海峡触碰了水雷，引发爆…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucen6757144.shtml"
+    },
+    {
+      "id": "ffd426b80d",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-15 05:27",
+      "title": "美“星舰”飞船首次被发射塔机械臂“捕获”回收",
+      "insight": "美国太空探索技术公司重型运载火箭“星舰”的第二级飞船14日返回地球，并由发射塔机械臂“捕获”回收…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniyucer3563747.shtml"
+    },
+    {
+      "id": "ffae469a9f",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-15 04:08",
+      "title": "摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固",
+      "insight": "英伟达公司领导层的动荡以及民主党在中期选举中获胜，加剧了市场对人工智能热潮的担忧，但摩根士丹利财…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwt3669681.shtml"
+    },
+    {
+      "id": "ff2c8ea108",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-15 03:57",
+      "title": "伊拉克查处石油走私，九名安全及石油官员遭解职",
+      "insight": "伊拉克总理周六解除了九名安全和石油部门官员的职务。此前一项调查证实，在伊朗支持的“真主党旅”民兵…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytwwt3669141.shtml"
+    },
+    {
+      "id": "ff2ab30421",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-15 03:37",
+      "title": "前沿 AI 研发回报持续缩水 行业专家否定模型快速自我迭代前景",
+      "insight": "以色列初创企业Tenzai联合创始人兼CEO阿里尔·蔡特林表示，并不认同递归自我提升的设想。他表…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytwwt3667857.shtml"
+    },
+    {
       "id": "ff119bd466",
       "source": "环球市场播报",
       "tag": "美股",
@@ -8,6 +107,15 @@
       "title": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris",
       "insight": "美国交通部长肖恩·达菲周六表示，官员们正在调查航空航天和国防承包商L3Harris Techno…",
       "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml"
+    },
+    {
+      "id": "ff10cb62ce",
+      "source": "央视",
+      "tag": "财经热点",
+      "time": "11-15 00:28",
+      "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常",
+      "insight": "美国联邦航空局局长布赖恩·贝德福德14日说，全美航空运输预计15日晚能恢复正常。在全国航班停飞引…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniytwwt3664711.shtml"
     },
     {
       "id": "ff23597c41",
@@ -71,115 +179,7 @@
       "title": "美国空管系统故障致4小时停飞，交通部长申请500亿升级资金",
       "insight": "美国交通部长达菲呼吁国会批准500亿美元紧急资金，用于对该国老化的空中交通管制系统进行现代化改造…",
       "link": "https://finance.sina.com.cn/7x24/2026-11-14/doc-iniytnhu7064817.shtml"
-    },
-    {
-      "id": "ffb7a0ef66",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 22:30",
-      "title": "乌克兰“星盾”又被限速，泽连斯基痛批SpaceX",
-      "insight": "乌克兰总统泽连斯基周六加大了对SpaceX的批评，称该公司对其军用级“星盾”（Starshiel…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhu7057329.shtml"
-    },
-    {
-      "id": "ff6bae3997",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 21:08",
-      "title": "Meta被意大利数据保护机构罚款8.07亿欧元",
-      "insight": "意大利数据保护机构周六表示，已对美国科技巨头Meta Platforms处以 8.05 亿欧元（…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyx2738454.shtml"
-    },
-    {
-      "id": "ff1b419433",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 20:57",
-      "title": "英国央行委员格林：现在就通胀采取主动行动，才能将决策失误的负面影响降至最低",
-      "insight": "英国央行委员梅根·格林（Megan Greene）周六表示，与其采取过于谨慎的态度并冒着引发严重…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyz3959762.shtml"
-    },
-    {
-      "id": "ffe9cc827a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 20:50",
-      "title": "意大利表示支持德国加入下一代战斗机项目",
-      "insight": "意大利周六表示，完全支持德国参与旨在研发下一代战斗机的“全球空战计划”（Global Comba…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyv0380109.shtml"
-    },
-    {
-      "id": "ff310742c6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 20:33",
-      "title": "英国央行首席经济学家：明年或需进一步加息，伊朗冲突结束可能性极低",
-      "insight": "英国央行首席经济学家皮尔（Huw Pill）在周六刊出的采访中表示，为抑制通胀，英国央行除了12…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyx2726460.shtml"
-    },
-    {
-      "id": "ff6c8a2783",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 19:16",
-      "title": "印尼总统下令提高国家在矿业收益中的分成比例",
-      "insight": "印尼总统普拉博沃·苏比延多周六表示，国家应从各类采矿许可中获取更大份额的收益；如有必要，还应在矿…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyz3927495.shtml"
-    },
-    {
-      "id": "ff46f49521",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 19:11",
-      "title": "特朗普据悉考虑暂缓对伊朗军事打击",
-      "insight": "据知情人士透露，美国总统唐纳德·特朗普近日向高级顾问表示，如果美国未受到来自伊朗或也门胡塞武装的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytfyw7122179.shtml"
-    },
-    {
-      "id": "ff037ca3f4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 17:44",
-      "title": "泽连斯基称美国提出以让乌克兰加入北约来换取其放弃顿巴斯地区",
-      "insight": "乌克兰总统泽连斯基表示，美国特使曾询问乌克兰是否愿意将东部的顿巴斯地区让给俄罗斯，以此换取加入北…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniyszsy7219163.shtml"
-    },
-    {
-      "id": "ff18d135d2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 16:41",
-      "title": "币安称计划下周全面恢复提现服务",
-      "insight": "币安周六表示，计划在下周末前恢复所有剩余网络和资产的提现功能。此前，这家全球最大的加密货币交易所…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7323868.shtml"
-    },
-    {
-      "id": "ffa94914b4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 16:26",
-      "title": "微软称服务已全面恢复 此前故障波及全球",
-      "insight": "微软公司表示，其旗舰软件服务已全面恢复。此前发生的故障导致全球多地政府部门、交易员和企业的工作陷…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7318329.shtml"
-    },
-    {
-      "id": "ff1d06d83c",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-14 16:20",
-      "title": "黄仁勋时代落幕 英伟达面临三重考验",
-      "insight": "英伟达（NVDA.US）的黄仁勋时代正式落幕。 当地时间11月12日，黄仁勋宣布辞去公司总裁、C…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-11-14/doc-iniysvmc2897712.shtml"
-    },
-    {
-      "id": "ff3ee216eb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-14 15:07",
-      "title": "黄仁勋辞职后：亲友齐聚旧金山豪宅 点炸鸡外卖",
-      "insight": "深陷风波的科技巨头黄仁勋被曝光存在多段婚外情、戏剧性宣布辞职后，数小时内，他的亲友陆续聚集在其价…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvmc2868383.shtml"
     }
   ],
-  "updateTime": "2026-11-15 03:38"
+  "updateTime": "2026-11-15 08:35"
 }
