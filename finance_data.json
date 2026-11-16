@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff5352f7e5",
+      "id": "ff88282728",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:28",
-      "title": "英伟达财报、Anthropic IPO前夕，全球股市走低",
-      "insight": "经历动荡一周，英伟达 CEO 黄仁勋意外离职收尾，全球股市周一走弱。本周，这家芯片巨头的财报以及…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc6009559.shtml"
+      "time": "11-17 05:11",
+      "title": "加州就 Hugging Face 遭入侵及其他 AI 模型失控事件起诉 OpenAI",
+      "insight": "加利福尼亚州总检察长罗布·邦塔周一（11月16日）对人工智能巨头 OpenAI 提起诉讼，指控该…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkt7874617.shtml"
     },
     {
-      "id": "ffdcc34f12",
+      "id": "ffb2be0499",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:26",
-      "title": "欧洲央行副行长Vujcic：市场押注欧洲央行明年加息似乎并非不合理",
-      "insight": "欧洲央行副行长Boris Vujcic表示，市场押注2027年进一步收紧货币政策，最终可能被证明…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpwz2406683.shtml"
+      "time": "11-17 04:47",
+      "title": "原油：油价下跌 供应充足迹象盖过中东局势风险",
+      "insight": "油价创约一周来最大跌幅，因现货市场供应充足的迹象压过了中东紧张局势可能阻碍该地区出口的风险。 布…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkr5620485.shtml"
     },
     {
-      "id": "ff682ab124",
+      "id": "ffac0d29f8",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:17",
-      "title": "欧洲央行副行长呼吁加强非银行金融机构监管，警告AI资产估值回调风险",
-      "insight": "11月16日，欧洲央行副行长武伊契奇呼吁加强对非银行金融机构的监管，在扩大市场化融资规模、弥补欧…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc6001239.shtml"
+      "time": "11-17 04:40",
+      "title": "美国副总统万斯：美国不会长期投入伊朗战争 甚至不会持续两年",
+      "insight": "美国副总统JD·万斯在福克斯新闻预先录制的采访片段中谈到伊朗战争时表示：“我们不会让这成为一项持…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkp1985854.shtml"
     },
     {
-      "id": "ffba96c1ff",
+      "id": "ff685bebf7",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:13",
-      "title": "Anthropic启动IPO：承压的AI交易市场急需这一剂强心针",
-      "insight": "核心要点科技行业当下处境艰难，接连遭遇利空冲击：AI 专用新云厂商经营承压、英伟达爆发危机，An…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxf2773673.shtml"
+      "time": "11-17 04:28",
+      "title": "美国称霍尔木兹海峡石油运输量第三季度增长78%",
+      "insight": "根据美国能源信息管理局（EIA）的数据，第三季度经霍尔木兹海峡运输的原油和燃料量较第二季度增加4…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkr5617278.shtml"
     },
     {
-      "id": "ffc43d9f4a",
+      "id": "ff815786a4",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:09",
-      "title": "“单腿站立”：IMF总裁警示全球经济，AI循环融资规模突破1万亿美元",
-      "insight": "核心要点国际货币基金组织（IMF）总裁克里斯塔利娜・格奥尔基耶娃表示，全球经济正 “单腿站立”，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc5994503.shtml"
+      "time": "11-17 04:11",
+      "title": "克利夫兰联储行长倾向小幅稳步加息 警告通胀压力在扩大",
+      "insight": "克利夫兰联储行长贝丝·哈马克重申，她倾向于以较小幅度稳步加息，以应对她认为正在向更广泛经济领域扩…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkp1976237.shtml"
     },
     {
-      "id": "ff4bbca6c8",
+      "id": "ff1aefb054",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 18:05",
-      "title": "规模庞大的二手车市场：CarMax与Carvana围绕美国人购车方式展开交锋",
-      "insight": "老牌巨头CarMax光环褪去，新锐企业Carvana迅速崛起；CarMax寄望全新策略与线下门店…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpwx1164618.shtml"
+      "time": "11-17 04:07",
+      "title": "券商和交易所股票下跌 Kalshi据报拟进军股票交易",
+      "insight": "交易平台和交易所的股价周一下跌，此前报道称，Kalshi正向股票交易领域拓展。 嘉信理财股价回吐…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyrkp1974347.shtml"
     },
     {
-      "id": "ff3edcb003",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:59",
-      "title": "三年虚增收入6.38亿，立方数科摘牌后索赔窗口未关",
-      "insight": "2月14日，立方数科（300344）公告称，公司收到安徽证监局《行政处罚决定书》（〔2026〕1…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2386156.shtml"
-    },
-    {
-      "id": "ff23cf6887",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:58",
-      "title": "罚单落地，ST南新2023年报虚增利润总额157%",
-      "insight": "8月13日盘后，ST南新（688189）公告：公司收到湖南证监局《行政处罚决定书》，认定其202…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2386008.shtml"
-    },
-    {
-      "id": "fffd220b01",
+      "id": "ffe5e902ca",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 17:58",
-      "title": "亚洲对冲基金10月遭遇亏损 但仍守住年内涨幅",
-      "insight": "亚洲对冲基金10月普遍遭遇亏损，但最新的投资者报告显示，尽管今年市场剧烈震荡，但仍基本守住了年内…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxf2762791.shtml"
+      "time": "11-17 03:45",
+      "title": "摩根大通正抓紧解决影响客户交易的“技术问题” 据悉无关网络安全",
+      "insight": "摩根大通表示，遇到的“技术问题”导致该行部分交易的处理时间比正常情况下更长。 该行周一通过电子邮…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyymav7984980.shtml"
     },
     {
-      "id": "fff29691db",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "11-16 17:57",
-      "title": "利好！003015，拟最高2亿元回购，全部注销！",
-      "insight": "今天又有多家公司披露股份回购计划。 11月16日晚间，日久光电（003015）公告，公司将以集中…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-16/doc-iniyxpwx1160238.shtml"
+      "id": "ff71a7cc94",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 02:53",
+      "title": "道明证券料美元保持韧性 美联储鹰派前景提供支撑",
+      "insight": "道明证券策略师预计，在市场预期美联储将加息的背景下，美元将保持韧性，同时美国国债收益率上升继续为…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyymar2089697.shtml"
     },
     {
-      "id": "ff14c6fa3e",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:57",
-      "title": "预案连拉三个涨停，向日葵被认定误导性陈述",
-      "insight": "2026年4月，向日葵（300111）收到浙江证监局《行政处罚决定书》，因2025年9月22日披…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2384978.shtml"
+      "id": "ff577b5294",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 02:04",
+      "title": "欧洲股市收盘下跌 科技股受挫",
+      "insight": "欧洲股市由涨转跌，对AI交易的持续担忧拖累科技股走低。 斯托克欧洲600指数收盘下跌0.3%，奢…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyymar2077601.shtml"
     },
     {
-      "id": "ffe35fb290",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:56",
-      "title": "五年年报虚假记载，ST合泰收到事先告知书",
-      "insight": "6月18日晚，ST合泰（002217）公告：公司收到福建证监局《行政处罚事先告知书》，告知书载明…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwx1158893.shtml"
+      "id": "ff771938b3",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:57",
+      "title": "黑石REIT收购亚马逊数据中心多数股权 交易估值约50亿美元",
+      "insight": "黑石新近上市的数据中心收购平台收购了两家与亚马逊云服务（AWS）共同持有的合资企业的多数股权，交…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyymav7959202.shtml"
     },
     {
-      "id": "ffd1f6cc61",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:54",
-      "title": "立方数科三年造假，罚千万并摘牌",
-      "insight": "2026年2月14日，创业板公司立方数科（300344）发布公告称，公司收到安徽证监局出具的《行…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxc5984577.shtml"
+      "id": "ff30b86919",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:50",
+      "title": "西班牙希望尽快敲定De Cos出任下一任欧洲央行行长",
+      "insight": "西班牙希望有关下一任欧洲央行行长人选的决定尽快作出，并再次力挺本国候选人。 西班牙外交大臣阿尔瓦…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyymav7957940.shtml"
     },
     {
-      "id": "ff3412c055",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:54",
-      "title": "向日葵重组预案误导性陈述，公司被罚300万",
-      "insight": "2026年4月，创业板上市公司向日葵（300111）收到浙江证监局《行政处罚决定书》，因重大资产…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2760946.shtml"
+      "id": "ff22208bf9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:36",
+      "title": "美联储推演AI对经济潜在影响 主席沃什称涵盖多重情景",
+      "insight": "美联储主席凯文·沃什表示，美联储工作人员已开始推演AI加速普及可能对美国经济产生影响的不同情景。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux2614603.shtml"
     },
     {
-      "id": "ff974ff1a8",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:54",
-      "title": "ST合泰五年年报虚假记载，拟罚900万",
-      "insight": "2026年6月18日晚间，深市上市公司ST合泰（002217）发布公告称，公司收到福建证监局出具…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2761163.shtml"
+      "id": "ff468a19e0",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:11",
+      "title": "Wolfe：英伟达若守不住150美元支撑位，下一目标支撑位看100美元",
+      "insight": "英伟达股价周四出现反弹，但周五没能延续涨势，这使得 Wolfe 的分析师重新审视上周给出的 15…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeut2195629.shtml"
     },
     {
-      "id": "ff6750c4cb",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "11-16 17:53",
-      "title": "双焦：现实偏紧与预期宽松错位，供应扰动主导盘面波动",
-      "insight": "一、行情回顾：先抑后扬，双焦低位反弹 上周双焦先抑后扬、低位反弹。焦煤主力JM2701周四下探1…",
-      "link": "https://finance.sina.com.cn/money/future/2026-11-16/doc-iniyxpxc5983914.shtml"
+      "id": "ffce310f1c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:10",
+      "title": "Trivariate：英伟达风波之下，半导体板块后市仍有上行动力",
+      "insight": "Trivariate Research 认为，尽管芯片厂商英伟达的管理层前景存在不确定性，但半导…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeuv5829407.shtml"
     },
     {
-      "id": "ffe828a6e1",
-      "source": "市场资讯",
-      "tag": "理财",
-      "time": "11-16 17:53",
-      "title": "甲醇：地缘溢价消退，低库存高基差托底",
-      "insight": "一、行情回顾：地缘溢价消退，急跌后止跌反弹 上周甲醇急跌后反弹。周一、周二受中东局势缓和消息影响…",
-      "link": "https://finance.sina.com.cn/money/future/2026-11-16/doc-iniyxpwz2383219.shtml"
+      "id": "ff7233c731",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:08",
+      "title": "诺斯海岸研究下调好市多评级",
+      "insight": "诺斯海岸研究周一将好市多（COST）的股票评级从买入下调至中性，此前该股今年股价一路走高。 分析…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux2605091.shtml"
     },
     {
-      "id": "ff7897e942",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:53",
-      "title": "ST南新年报虚增利润157%，罚单已落地",
-      "insight": "2026年8月13日盘后，科创板上市公司ST南新（688189）发布公告称，公司收到湖南证监局出…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2760390.shtml"
+      "id": "ffd5f0dc62",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:05",
+      "title": "Anthropic的华尔街操盘手：首席财务官拉奥",
+      "insight": "核心要点多位投资者与前同事称，Anthropic 首席财务官克里希纳・拉奥是这家公司崛起过程中的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeut2194388.shtml"
     },
     {
-      "id": "ff879f3e99",
-      "source": "新华社",
-      "tag": "财经热点",
-      "time": "11-16 17:51",
-      "title": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新局面 蔡奇陪同考察",
-      "insight": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新…",
-      "link": "https://finance.sina.com.cn/china/2026-11-16/doc-iniyxpxf2761809.shtml"
+      "id": "ff1a38b68d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:02",
+      "title": "中东出口恢复，美国原油跌至每桶87美元",
+      "insight": "周一油价走低，霍尔木兹海峡航运运输逐步恢复，伊朗与美国之间的局势陷入僵持。 布伦特原油期货周一下…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux8076743.shtml"
     },
     {
-      "id": "ff3c520398",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-16 17:49",
-      "title": "海王生物索赔进行时，受损股民可进行预登记索赔",
-      "insight": "根据最新消息，赵敬国律师团队代理的部分投资者诉海王生物证券虚假陈述的案件，已收到法院下发的《受理…",
-      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2757585.shtml"
+      "id": "ffc2b05a5e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 01:00",
+      "title": "预测市场：特斯拉‑SpaceX在2027年4月前完成合并的概率升至60%以上",
+      "insight": "核心要点自上周末以来，Kalshi 多个预测交易市场中，埃隆・马斯克旗下火箭卫星企业 Space…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux2602280.shtml"
+    },
+    {
+      "id": "ff46a10977",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 00:57",
+      "title": "诺和诺德临床试验显示：维格菲注射剂可降低儿童BMI与肥胖患病率",
+      "insight": "核心要点诺和诺德公布后期临床试验完整数据：维格菲（Wegovy）可显著降低 6‑12 岁肥胖儿童…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux2601481.shtml"
+    },
+    {
+      "id": "ff7ad1c704",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-17 00:51",
+      "title": "没考虑换人 特朗普力挺因英伟达风波遭围攻的卢特尼克",
+      "insight": "美国商务部长霍华德·卢特尼克因英伟达事件受到猛烈批评后，美国总统特朗普公开表达了对这位商务部长的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-17/doc-iniyyeux2599944.shtml"
     }
   ],
-  "updateTime": "2026-11-16 18:28"
+  "updateTime": "2026-11-17 05:29"
 }
