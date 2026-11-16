@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffaf316a06",
-      "source": "新浪港股",
+      "id": "ff5352f7e5",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:28",
+      "title": "英伟达财报、Anthropic IPO前夕，全球股市走低",
+      "insight": "经历动荡一周，英伟达 CEO 黄仁勋意外离职收尾，全球股市周一走弱。本周，这家芯片巨头的财报以及…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc6009559.shtml"
+    },
+    {
+      "id": "ffdcc34f12",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:26",
+      "title": "欧洲央行副行长Vujcic：市场押注欧洲央行明年加息似乎并非不合理",
+      "insight": "欧洲央行副行长Boris Vujcic表示，市场押注2027年进一步收紧货币政策，最终可能被证明…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpwz2406683.shtml"
+    },
+    {
+      "id": "ff682ab124",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:17",
+      "title": "欧洲央行副行长呼吁加强非银行金融机构监管，警告AI资产估值回调风险",
+      "insight": "11月16日，欧洲央行副行长武伊契奇呼吁加强对非银行金融机构的监管，在扩大市场化融资规模、弥补欧…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc6001239.shtml"
+    },
+    {
+      "id": "ffba96c1ff",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:13",
+      "title": "Anthropic启动IPO：承压的AI交易市场急需这一剂强心针",
+      "insight": "核心要点科技行业当下处境艰难，接连遭遇利空冲击：AI 专用新云厂商经营承压、英伟达爆发危机，An…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxf2773673.shtml"
+    },
+    {
+      "id": "ffc43d9f4a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:09",
+      "title": "“单腿站立”：IMF总裁警示全球经济，AI循环融资规模突破1万亿美元",
+      "insight": "核心要点国际货币基金组织（IMF）总裁克里斯塔利娜・格奥尔基耶娃表示，全球经济正 “单腿站立”，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxc5994503.shtml"
+    },
+    {
+      "id": "ff4bbca6c8",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-16 18:05",
+      "title": "规模庞大的二手车市场：CarMax与Carvana围绕美国人购车方式展开交锋",
+      "insight": "老牌巨头CarMax光环褪去，新锐企业Carvana迅速崛起；CarMax寄望全新策略与线下门店…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpwx1164618.shtml"
+    },
+    {
+      "id": "ff3edcb003",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:35",
-      "title": "耐世特于11月13日斥资422.54万港元回购91.7万股",
-      "insight": "耐世特（01316）发布公告，于2026年11月13日斥资422.54万港元回购91.7万股。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsti1317136.shtml"
+      "time": "11-16 17:59",
+      "title": "三年虚增收入6.38亿，立方数科摘牌后索赔窗口未关",
+      "insight": "2月14日，立方数科（300344）公告称，公司收到安徽证监局《行政处罚决定书》（〔2026〕1…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2386156.shtml"
     },
     {
-      "id": "ff2b98b67a",
-      "source": "新浪港股",
+      "id": "ff23cf6887",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:34",
-      "title": "国银金租拟9.81亿元购买信息技术计算机设备",
-      "insight": "国银金租（01606）发布公告，公司作为买方与卖方（广东数寰智联科技有限公司）于2026年11月…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsti1316803.shtml"
+      "time": "11-16 17:58",
+      "title": "罚单落地，ST南新2023年报虚增利润总额157%",
+      "insight": "8月13日盘后，ST南新（688189）公告：公司收到湖南证监局《行政处罚决定书》，认定其202…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2386008.shtml"
     },
     {
-      "id": "ffc83584cd",
+      "id": "fffd220b01",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-16 08:34",
-      "title": "机构：日本第三季度的经济表现可能不会阻止日本央行在12月加息",
-      "insight": "凯投宏观称，日本第三季度的经济表现可能不会阻止日本央行在12月加息。事实上，随着通胀即将飙升，日…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5771131.shtml"
+      "time": "11-16 17:58",
+      "title": "亚洲对冲基金10月遭遇亏损 但仍守住年内涨幅",
+      "insight": "亚洲对冲基金10月普遍遭遇亏损，但最新的投资者报告显示，尽管今年市场剧烈震荡，但仍基本守住了年内…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniyxpxf2762791.shtml"
     },
     {
-      "id": "ff71ccd1f8",
-      "source": "新浪港股",
+      "id": "fff29691db",
+      "source": "新浪财经",
       "tag": "股市",
-      "time": "11-16 08:34",
-      "title": "天长集团附属拟收购7台注塑机",
-      "insight": "天长集团（02182）发布公告，于2026年11月13日，惠州天长（公司间接全资附属公司）向卖方…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsth5770543.shtml"
+      "time": "11-16 17:57",
+      "title": "利好！003015，拟最高2亿元回购，全部注销！",
+      "insight": "今天又有多家公司披露股份回购计划。 11月16日晚间，日久光电（003015）公告，公司将以集中…",
+      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-16/doc-iniyxpwx1160238.shtml"
     },
     {
-      "id": "ffcfb3ad67",
-      "source": "新浪港股",
+      "id": "ff14c6fa3e",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:32",
-      "title": "玮俊生物科技发布年度业绩股东应占溢利720.5万港元 11月16日上午起复牌",
-      "insight": "玮俊生物科技（00660）发布截至2026年6月30日止年度业绩，收入4.05亿港元，同比增长7…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywste8992927.shtml"
+      "time": "11-16 17:57",
+      "title": "预案连拉三个涨停，向日葵被认定误导性陈述",
+      "insight": "2026年4月，向日葵（300111）收到浙江证监局《行政处罚决定书》，因2025年9月22日披…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwz2384978.shtml"
     },
     {
-      "id": "ff970c9f0f",
-      "source": "新浪港股",
+      "id": "ffe35fb290",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:30",
-      "title": "博雷顿于11月13日耗资339.99万港元回购20万股",
-      "insight": "博雷顿（01333）公布，2026年11月13日耗资339.99万港元回购20万股股份。",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsti1313801.shtml"
+      "time": "11-16 17:56",
+      "title": "五年年报虚假记载，ST合泰收到事先告知书",
+      "insight": "6月18日晚，ST合泰（002217）公告：公司收到福建证监局《行政处罚事先告知书》，告知书载明…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpwx1158893.shtml"
     },
     {
-      "id": "fff3825575",
-      "source": "新浪港股",
+      "id": "ffd1f6cc61",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:29",
-      "title": "联邦制药：共约253.48万股奖励股份已获归属",
-      "insight": "联邦制药（03933）公布，共约253.48万股奖励股份已根据2023年股份奖励计划的条款及20…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywstm2538457.shtml"
+      "time": "11-16 17:54",
+      "title": "立方数科三年造假，罚千万并摘牌",
+      "insight": "2026年2月14日，创业板公司立方数科（300344）发布公告称，公司收到安徽证监局出具的《行…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxc5984577.shtml"
     },
     {
-      "id": "ff89e9f5e6",
-      "source": "新浪港股",
+      "id": "ff3412c055",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:28",
-      "title": "翰森制药：阿美替尼上市许可获欧洲药品管理局人用药品委员会积极意见",
-      "insight": "翰森制药（03692）公布，于2026年11月12日，欧洲药品管理局 （EMA）人用药品委员会（…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywste8989956.shtml"
+      "time": "11-16 17:54",
+      "title": "向日葵重组预案误导性陈述，公司被罚300万",
+      "insight": "2026年4月，创业板上市公司向日葵（300111）收到浙江证监局《行政处罚决定书》，因重大资产…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2760946.shtml"
     },
     {
-      "id": "ff14dd372f",
-      "source": "新浪港股",
+      "id": "ff974ff1a8",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:27",
-      "title": "新世界发展供股集资约250亿港元 周大福企业联合汇丰及星展银行全额包销显信心",
-      "insight": "新世界发展（00017）今日宣布，公司建议进行全额包销供股，筹集约250亿港元（扣除开支前）。此…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywsth5765279.shtml"
+      "time": "11-16 17:54",
+      "title": "ST合泰五年年报虚假记载，拟罚900万",
+      "insight": "2026年6月18日晚间，深市上市公司ST合泰（002217）发布公告称，公司收到福建证监局出具…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2761163.shtml"
     },
     {
-      "id": "ffcc1d39ab",
-      "source": "新浪港股",
+      "id": "ff6750c4cb",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-16 17:53",
+      "title": "双焦：现实偏紧与预期宽松错位，供应扰动主导盘面波动",
+      "insight": "一、行情回顾：先抑后扬，双焦低位反弹 上周双焦先抑后扬、低位反弹。焦煤主力JM2701周四下探1…",
+      "link": "https://finance.sina.com.cn/money/future/2026-11-16/doc-iniyxpxc5983914.shtml"
+    },
+    {
+      "id": "ffe828a6e1",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-16 17:53",
+      "title": "甲醇：地缘溢价消退，低库存高基差托底",
+      "insight": "一、行情回顾：地缘溢价消退，急跌后止跌反弹 上周甲醇急跌后反弹。周一、周二受中东局势缓和消息影响…",
+      "link": "https://finance.sina.com.cn/money/future/2026-11-16/doc-iniyxpwz2383219.shtml"
+    },
+    {
+      "id": "ff7897e942",
+      "source": "市场资讯",
       "tag": "股市",
-      "time": "11-16 08:25",
-      "title": "恒瑞医药：部分产品纳入2026年国家医保目录",
-      "insight": "恒瑞医药（01276）公布，公司部分产品纳入2026年国家医保目录。 通过医保谈判，泽美妥司他片…",
-      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-16/doc-iniywste8987364.shtml"
+      "time": "11-16 17:53",
+      "title": "ST南新年报虚增利润157%，罚单已落地",
+      "insight": "2026年8月13日盘后，科创板上市公司ST南新（688189）发布公告称，公司收到湖南证监局出…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2760390.shtml"
     },
     {
-      "id": "ff0edb29f5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:24",
-      "title": "比特币周末一度逼近6.2万美元 本轮以阴跌为特征的走势考验信仰",
-      "insight": "随着接连不断的利空推动比特币价格跌向年内低点，以及主要需求来源缩水，最新这轮抛售正在考验加密货币…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywstm2535037.shtml"
-    },
-    {
-      "id": "ffe586ff3e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:20",
-      "title": "高盛与摩根士丹利对日元前景看法不一 受多重分歧力量影响",
-      "insight": "高盛集团与摩根士丹利对日元的走势采取了截然相反的观点，这凸显了在多重反向拉锯力量下，预测该货币的…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5759404.shtml"
-    },
-    {
-      "id": "ffc5116c22",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:16",
-      "title": "摩根士丹利预计标普500指数将升至8700点，看好2027年的德国国债和英国国债",
-      "insight": "摩根士丹利在2027年市场展望中看好美国股票和部分G10国家债券。包括Marina Zavolo…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsti1303275.shtml"
-    },
-    {
-      "id": "ffecb4db48",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:14",
-      "title": "未提前规划黄仁勋接班人 财富500强前CEO：英伟达董事会严重失职",
-      "insight": "多名见证英伟达这场风波的前企业CEO表示，英伟达董事会没能通过这场最重要的考验。 在三位财富50…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsti1301960.shtml"
-    },
-    {
-      "id": "ff9b67b6b1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:05",
-      "title": "日本经济一年来首现萎缩 恶劣天气因素导致消费疲软",
-      "insight": "日本经济一年来首次出现萎缩，恶劣天气令消费支出受到抑制，凸显了国内需求的脆弱性。 据内阁府周一发…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5748877.shtml"
-    },
-    {
-      "id": "ffc32e3ea5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:04",
-      "title": "SK海力士将在五年内投入10亿美元支持芯片供应商",
-      "insight": "韩国SK海力士周一表示，计划在未来五年内投入1.4万亿韩元（约合10.5亿美元），用于支持国内半…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywste8972452.shtml"
-    },
-    {
-      "id": "ffcc2a8155",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 08:02",
-      "title": "日韩股市高开 韩国综合股价指数开盘上涨0.3%",
-      "insight": "日经平均指数开盘上涨0.3%，报61348.21点，零售、机械股领涨。韩国综合股价指数（KOSP…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywstm2520344.shtml"
-    },
-    {
-      "id": "ff5896877a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 07:58",
-      "title": "强生拟斥资至多34亿美元收购眼科疾病生物科技公司",
-      "insight": "据 报道，强生（Johnson &amp; Johnson）正洽谈以最高 34 亿美元的价格收购…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsth5745412.shtml"
-    },
-    {
-      "id": "ff04814444",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-16 07:52",
-      "title": "SpaceX星舰成功回收 联合发射联盟“火神”复飞失败损失40颗亚马逊卫星",
-      "insight": "联合发射联盟的火箭罕见地在升空途中遭遇故障，对这家市场份额本已不断被埃隆·马斯克旗下SpaceX…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-16/doc-iniywsti1292477.shtml"
-    },
-    {
-      "id": "ff0acac5f1",
-      "source": "新京报",
+      "id": "ff879f3e99",
+      "source": "新华社",
       "tag": "财经热点",
-      "time": "11-16 07:43",
-      "title": "伊朗称2艘油轮触雷爆炸：一艘载有超200万桶原油 爆炸后沉没",
-      "insight": "【#伊朗称2艘油轮触雷爆炸#：一艘载有超200万桶原油 爆炸后沉没】#伊朗称一超级油轮爆炸起火后…",
-      "link": "https://finance.sina.com.cn/jjxw/2026-11-16/doc-iniywste8968409.shtml"
+      "time": "11-16 17:51",
+      "title": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新局面 蔡奇陪同考察",
+      "insight": "习近平在广东中山考察时强调 深入学习贯彻党的二十届五中全会精神 奋力开创粤港澳大湾区高质量发展新…",
+      "link": "https://finance.sina.com.cn/china/2026-11-16/doc-iniyxpxf2761809.shtml"
+    },
+    {
+      "id": "ff3c520398",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-16 17:49",
+      "title": "海王生物索赔进行时，受损股民可进行预登记索赔",
+      "insight": "根据最新消息，赵敬国律师团队代理的部分投资者诉海王生物证券虚假陈述的案件，已收到法院下发的《受理…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-16/doc-iniyxpxf2757585.shtml"
     }
   ],
-  "updateTime": "2026-11-16 08:36"
+  "updateTime": "2026-11-16 18:28"
 }
