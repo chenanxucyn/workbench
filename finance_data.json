@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ff923e2f77",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 03:25",
-      "title": "英伟达董事会所聘猎头公司接洽Arm首席执行官Rene Haas",
-      "insight": "一位了解相关流程的知情人士透露，猎头公司Heidrick &amp; Struggles已就英伟…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizexhp0754527.shtml"
+      "id": "ff5eabe21f",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:09",
+      "title": "光大期货1119黄金点评：鹰派纪要施压，COMEX金暴跌3.5%失守3750点",
+      "insight": "隔夜贵金属遭遇了猛烈的单日抛售。11月18日（周三）纽约时段，现货黄金接连跌破3800、3750…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqef0527803.shtml"
     },
     {
-      "id": "ff33870f43",
-      "source": "环球市场播报",
+      "id": "ff1e4c2296",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:09",
+      "title": "光大期货：11月19日农产品日报",
+      "insight": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周三，CB…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem6410942.shtml"
+    },
+    {
+      "id": "ff3dc992bf",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-19 10:09",
+      "title": "九鼎新材索赔时效将届满 受损股民仍可索赔",
+      "insight": "近日，投资者诉江苏九鼎新材料股份有限公司（简称九鼎新材或公司，原正威新材，代码：002201）证…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-19/doc-inizfqef0527814.shtml"
+    },
+    {
+      "id": "ff86d6a6cf",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:08",
+      "title": "光大期货：11月19日能源化工日报",
+      "insight": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周三油价再度…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqef0527120.shtml"
+    },
+    {
+      "id": "ff683c310b",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:07",
+      "title": "光大期货：11月19日矿钢煤焦日报",
+      "insight": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem6409476.shtml"
+    },
+    {
+      "id": "ff5b095b22",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:07",
+      "title": "光大期货：11月19日金融日报",
+      "insight": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem6409102.shtml"
+    },
+    {
+      "id": "ff21e6ac2b",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 10:06",
+      "title": "华泰期货：宏观压力下，铝远月过剩提前演绎",
+      "insight": "来源：华泰期货 作者： 封帆 重要数据 铝现货方面：SMM数据，华东A00铝价22540元/吨，…",
+      "link": "https://finance.sina.com.cn/money/future/roll/2026-11-19/doc-inizfqem1129551.shtml"
+    },
+    {
+      "id": "ff12af7da9",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 10:02",
+      "title": "晶圆代工双雄继续逆市走高 华虹宏力现涨超4%中芯国际涨超3%",
+      "insight": "晶圆代工双雄继续逆市走高，截至发稿，华虹宏力（01347）上涨4.13%，报80.60港元；中芯…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-19/doc-inizfqei4350373.shtml"
+    },
+    {
+      "id": "ffcfe89646",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-19 10:02",
+      "title": "诺泰生物（688076）投资者索赔案已获法院立案，还可起诉",
+      "insight": "上海久诚律师事务股票索赔律师许峰律师代理的诺泰生物（688076）虚假陈述引发的投资者索赔案已获…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-19/doc-inizfqem6407230.shtml"
+    },
+    {
+      "id": "ff116403e9",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-19 10:02",
+      "title": "华西能源（002630）投资者索赔案已提交法院立案",
+      "insight": "2026年11月17日，上海久诚律师事务所股票索赔律师许峰律师代理的华西能源（002630）投资…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-19/doc-inizfqei4352202.shtml"
+    },
+    {
+      "id": "ff64e161ce",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-19 10:02",
+      "title": "易事特（300376）投资者索赔再提交法院立案，还在时效内，已有胜诉",
+      "insight": "2026年11月17日，上海久诚律师事务所股票索赔律师许峰律师代理的易事特（300376）虚假陈…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-19/doc-inizfqef0523253.shtml"
+    },
+    {
+      "id": "ffb0680259",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-19 10:01",
+      "title": "兴化股份（002109）投资者索赔案已获得法院立案",
+      "insight": "上海久诚律师事务所股票索赔律师许峰律师代理的兴化股份（002109）虚假陈述引发的投资者索赔案已…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-19/doc-inizfqei4351344.shtml"
+    },
+    {
+      "id": "ff3adfd12c",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:58",
+      "title": "家电股早盘部分走高 奥克斯电气涨逾8%海信家电涨逾6%",
+      "insight": "家电股早盘部分走高，截至发稿，奥克斯电气（02580）上涨7.84%，报7.84港元；海信家电（…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-19/doc-inizfqef0518721.shtml"
+    },
+    {
+      "id": "ffa18e72bc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:54",
+      "title": "剂泰科技-P盘初涨超7% 公司启动A股上市相关工作有望形成“A+H”资本布局",
+      "insight": "剂泰科技-P（07666）盘初涨超7%。截至发稿，股价回落微涨0.14%，现报7.27港元，成交…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-19/doc-inizfqef0516821.shtml"
+    },
+    {
+      "id": "ff99741862",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:51",
+      "title": "中信证券：海致科技集团首予“买入”评级 目标价49港元",
+      "insight": "11月17日，中信证券发布研究报告，海致科技集团（02706）智能体客单价和毛利率高于图谱业务，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-19/doc-inizfqef0514539.shtml"
+    },
+    {
+      "id": "fffe900205",
+      "source": "新京报",
       "tag": "财经热点",
-      "time": "11-19 03:19",
-      "title": "10月美联储暂停加息或只是时机考量，而非政策转向",
-      "insight": "美联储10月FOMC会议纪要显示，暂停加息更多出于大选时间因素，并不代表官员认定当前政策力度已经…",
-      "link": "https://finance.sina.com.cn/7x24/2026-11-19/doc-inizexhr4557009.shtml"
+      "time": "11-19 09:51",
+      "title": "围猎代购：职业打假人专盯海外保健品，索赔近百万被警方立案",
+      "insight": "近日，有代购商向新京报记者反映，多名打假人士疑似有组织地“知假买假”后再索赔。他们通过社交平台联…",
+      "link": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizfqem6398456.shtml"
     },
     {
-      "id": "ff5ef48a91",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 02:56",
-      "title": "美国二手房签约量降至纪录新低 抵押贷款利率高企抑制需求",
-      "insight": "美国10月二手房签约量降至纪录新低，抵押贷款利率高企抑制住房需求。 美国全国房地产经纪人协会（N…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizexhr4551667.shtml"
+      "id": "ff2ac505cc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:49",
+      "title": "大摩：腾讯控股维持“增持”评级 目标价550港元",
+      "insight": "摩根士丹利发布研报称，腾讯控股（00700）2026年第三季度业绩出现“小幅不及预期”，主要受核…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-19/doc-inizfqef0513888.shtml"
     },
     {
-      "id": "fffdd65a72",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 02:16",
-      "title": "CoreWeave淡化黄仁勋离任影响 称英伟达仍是关键合作伙伴",
-      "insight": "CoreWeave Inc．试图打消市场对于黄仁勋离开英伟达可能影响这家芯片制造商支持新型云服务…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizexht6624979.shtml"
+      "id": "ffed9411d0",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:38",
+      "title": "花旗：中国宏桥给予“买入”评级 目标价48港元",
+      "insight": "花旗集团在11月15日发布的中国宏桥（01378）会议点评中，给予这家港股上市公司“买入”评级，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-19/doc-inizfqef0506554.shtml"
     },
     {
-      "id": "ff1b4fcaff",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:37",
-      "title": "拉加德：不打算退休 世界经济论坛职位是选项之一",
-      "insight": "欧洲央行行长克里斯蒂娜·拉加德表示，她卸任后可能会考虑出任世界经济论坛领导职务。 她表示，“这是…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizexhr4537107.shtml"
+      "id": "ffcd4360fa",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-19 09:36",
+      "title": "智云科技建设早盘高开近5% 预计中期股东应占溢利不少于1000万港元",
+      "insight": "智云科技建设（09900）早盘高开近5%，截至发稿，股价回落小涨1.63%，现报5.62港元，成…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-19/doc-inizfqem1104728.shtml"
     },
     {
-      "id": "ff5724d709",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:19",
-      "title": "欧洲债市：油价回落 欧洲债券收复失地",
-      "insight": "欧洲债券走势变化不大，随着油价下跌，早前跌幅收窄；全球股市走弱也对债券价格形成支撑。英国国债上涨…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyt4664753.shtml"
-    },
-    {
-      "id": "ffb8c5d776",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:17",
-      "title": "欧洲股市连续第三日走低 铜价暴跌拖累矿业股",
-      "insight": "欧洲股市连续第三天下跌，矿业股指数创六个月最大跌幅，因围绕人工智能交易的忧虑导致铜价重挫近6%。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv1440904.shtml"
-    },
-    {
-      "id": "ff890e7c4d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:05",
-      "title": "消息人士称，投资者需求火爆，Anthropic考虑上调IPO发行规模",
-      "insight": "核心要点 据知情人士透露，Anthropic 正考虑上调本次 IPO 发行规模。 这家 AI 企…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyt4661723.shtml"
-    },
-    {
-      "id": "ffb290fae1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:02",
-      "title": "杰弗里斯赢得民主党众议院议长党内提名，有望在1月创造历史",
-      "insight": "核心要点 众议院少数党领袖哈基姆・杰弗里斯获得本党党团提名，将角逐下一任众议院议长。 来自纽约州…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv1437132.shtml"
-    },
-    {
-      "id": "ff63ade26d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 01:00",
-      "title": "Anthropic IPO前夕，关联受益标的股价走高",
-      "insight": "以下是部分市场行情变动： 亚马逊（AMZN）、谷歌（GOOGL）股价分别上涨 2%、接近 1%。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv6738639.shtml"
-    },
-    {
-      "id": "ff66da2863",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:59",
-      "title": "摩根士丹利：SpaceX或将与AI板块行情走势脱钩",
-      "insight": "截至周三早盘交易时段，SpaceX（SPCX）过去五个交易日累计涨幅超 3%，而纳斯达克综合指数…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv6738321.shtml"
-    },
-    {
-      "id": "ffce320011",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:53",
-      "title": "AI需求叙事降温 多头撤退令铜价重挫逾5%",
-      "insight": "铜价在伦敦、纽约和上海市场全面遭抛售之际大跌。看多投资者纷纷撤出与人工智能热潮相关的押注，另一些…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyt4657794.shtml"
-    },
-    {
-      "id": "ffa5801200",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:53",
-      "title": "欧洲央行行长拉加德：AI股票估值“非常激进” 最终可能出现调整",
-      "insight": "欧洲央行行长克里斯蒂娜·拉加德表示，人工智能公司的高估值最终可能回落。 尽管“过去几周出现了显著…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyr0853159.shtml"
-    },
-    {
-      "id": "ff3ed7eb32",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:51",
-      "title": "Lombard Odier：几乎满仓美股 尤其看好科技股",
-      "insight": "Lombard Odier Group全球首席投资官Michael Strobaek表示，该公司…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv1433754.shtml"
-    },
-    {
-      "id": "ff407e38e5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:03",
-      "title": "EIA：美国上周原油库存增加338万桶 预期中值为减少1.8万桶",
-      "insight": "EIA的库存报告还显示以下变化： 汽油库存增加519.2万桶，预期增加92.4万桶； 馏分油库存…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv6720186.shtml"
-    },
-    {
-      "id": "ff9cf96a86",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-19 00:00",
-      "title": "Anthropic七位创始人即将跻身亿万富豪行列",
-      "insight": "短短五年，Anthropic 从一家无名初创企业成长为估值超万亿美元的科技巨头。 这家开发 Cl…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizesyv1413719.shtml"
-    },
-    {
-      "id": "ff026e0016",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-18 23:53",
-      "title": "沃尔玛财报预期：美国消费者承压之下，公司市场份额有望继续扩张",
-      "insight": "面对持续通胀环境，沃尔玛有望再度扩大市场份额。 这家美国规模最大的零售商，被视作零售业风向标，也…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizesyv1410952.shtml"
-    },
-    {
-      "id": "ff142ce918",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-18 23:36",
-      "title": "美国土安全部长：伊朗将美国能源和金融网络作为目标",
-      "insight": "美国国土安全部长Markwayne Mullin在国会年度全球安全威胁听证会前提交的书面证词中表…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizesyt4628900.shtml"
-    },
-    {
-      "id": "ff1a317bf2",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-18 23:33",
-      "title": "科技系统接连宕机引发民众恐慌性囤货，好市多从中受益",
-      "insight": "接连多起科技系统宕机事件，促使消费者大量采购应急物资。 据瑞穗证券研究机构的数据，好市多（Cos…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizesyv1404387.shtml"
-    },
-    {
-      "id": "fff9b1f67a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-18 23:17",
-      "title": "两份最新住房报告预示楼市寒冬将至，房屋销量创下历史新低",
-      "insight": "核心要点 10 月成屋待售签约量创下历史新低。 10 月独栋住宅建筑许可环比 9 月暴跌 8.7…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-18/doc-inizesyv1400252.shtml"
+      "id": "ff8f534823",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-19 09:20",
+      "title": "罗马尼亚与保加利亚2026/27榨季油菜籽出口强劲，能否替代乌克兰成为主要出口国？",
+      "insight": "来源：华尔街见闻 据报道，自2026/27榨季开始以来，罗马尼亚和保加利亚油菜籽出口装运快速推进…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-19/doc-inizfqem6378369.shtml"
     }
   ],
-  "updateTime": "2026-11-19 03:49"
+  "updateTime": "2026-11-19 10:09"
 }
