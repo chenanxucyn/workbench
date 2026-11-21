@@ -1,6 +1,123 @@
 {
   "news": [
     {
+      "id": "ff43ecd29d",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-22 01:33",
+      "title": "亚马逊接近以75亿美元收购AI初创企业Decart",
+      "insight": "亚马逊即将达成一项75亿美元收购AI初创公司Decart的交易。双方谈判已进入后期阶段，交易最早…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-22/doc-inizpqms6400684.shtml"
+    },
+    {
+      "id": "ffbd132c71",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-22 01:05",
+      "title": "美国财长贝森特：调查将确定英伟达是否有“滥售”行为",
+      "insight": "美国财政部长贝森特表示：“随着（英伟达）临时管理层调查究竟发生了什么，我们将看看该公司是否在某种…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizpqmw9384620.shtml"
+    },
+    {
+      "id": "ff9a28600a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-22 00:54",
+      "title": "加密货币正在淡出时代潮流 投资者开始厌倦",
+      "insight": "随着价格下跌、交易日趋清淡以及黑客攻击造成损失，加密货币每周都在给其死忠拥趸一个新的退出理由。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizpqmu3159375.shtml"
+    },
+    {
+      "id": "ff6ea04063",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-22 00:28",
+      "title": "众议院民主党领袖杰弗里斯接受访谈：拒绝与斯蒂芬·米勒会面，上任首要务是终止伊朗战争，推动两国方案",
+      "insight": "周三，美国众议院民主党人以压倒性票数提名哈基姆·杰弗里斯担任下一任众议院议长，这几乎意味着，明年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizpqmw9372978.shtml"
+    },
+    {
+      "id": "ffe392e167",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-22 00:12",
+      "title": "Anthropic上市未能止住美股暴跌 华尔街追问什么能拯救AI交易",
+      "insight": "本月美股走势艰难，民主党在中期选举中取得胜利，英伟达公司黄仁勋突然遭罢免，接连给市场带来冲击。 …",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizpqms6366294.shtml"
+    },
+    {
+      "id": "ffe1f6ef69",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-22 00:03",
+      "title": "共和党中期选举失败 万斯陷入被动 2028参选阵营扩大",
+      "insight": "美国共和党在中期选举失败，党内人心惶惶，几乎没有时间重整旗鼓，角逐2028年共和党总统提名的潜在…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizpqmw9362673.shtml"
+    },
+    {
+      "id": "ff004ee3ca",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-21 23:41",
+      "title": "特朗普称2028大选候选人或现黑马",
+      "insight": "美国总统特朗普被问及他认为谁应当参选2028年总统时表示，副总统万斯、国务卿鲁比奥显然是头号潜在…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-21/doc-inizpkcw3261451.shtml"
+    },
+    {
+      "id": "ffac9e438b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-21 23:37",
+      "title": "高盛为SpaceX设计融资方案，为AI芯片债务难题提供思路",
+      "insight": "高盛耗时一年多，试图解决科技行业一大棘手难题：如何采购AI芯片，同时不破坏企业资产负债表。 周四…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizpkcu6483121.shtml"
+    },
+    {
+      "id": "ffb3647623",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-21 23:29",
+      "title": "泽连斯基提名乌克兰下一任驻美大使人选",
+      "insight": "乌克兰总统泽连斯基已提名多名潜在人选，角逐乌克兰下一任驻美国大使一职，该职位自今年8月起空缺。 …",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-21/doc-inizpkcw3256543.shtml"
+    },
+    {
+      "id": "ff3c99943a",
+      "source": "环球市场播报",
+      "tag": "财经热点",
+      "time": "11-21 23:19",
+      "title": "伊朗正在探索外交是否仍有机会",
+      "insight": "“我们正与包括卡塔尔方面在内的调解方保持接触，既有面对面接触，也有线上接触，并正在进行必要的谈判…",
+      "link": "https://finance.sina.com.cn/7x24/2026-11-21/doc-inizpkcw3253048.shtml"
+    },
+    {
+      "id": "ff480e4c83",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-21 23:01",
+      "title": "特朗普白宫记者会复盘亚洲之行 宣扬美国取得历史性胜利",
+      "insight": "当地时间11月20日白宫记者简报会上，美国总统特朗普与副总统万斯、国务卿鲁比奥一同到场，接受记者…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizpkcw3247451.shtml"
+    },
+    {
+      "id": "ff8fdaf17d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-21 22:23",
+      "title": "Anthropic创纪录IPO撞上华尔街科技股自2020年以来最糟糕的一周",
+      "insight": "初创企业投资人本·纳拉辛对Anthropic的重磅IPO兴奋不已，他计划本月晚些时候在硅谷的家中…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizpkcu6455439.shtml"
+    },
+    {
+      "id": "ff8d193b39",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-21 22:19",
+      "title": "巴菲特将感恩节礼物提高三倍 捐赠财富详细分析",
+      "insight": "巴菲特称善良会“复利”，其感恩节礼物大幅增加。 96岁的沃伦·巴菲特今年将向四家家族基金会的感恩…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-inizpkcw3230385.shtml"
+    },
+    {
       "id": "ff987e1a1e",
       "source": "环球市场播报",
       "tag": "美股",
@@ -62,124 +179,7 @@
       "title": "穆迪出手！英伟达信用评级展望被降！",
       "insight": "据彭博社19日报道，国际信用评级机构穆迪已将英伟达的信用评级展望从“正面”下调至“稳定”，理由是…",
       "link": "https://finance.sina.com.cn/roll/2026-11-21/doc-iniznnyh3494181.shtml"
-    },
-    {
-      "id": "ff0619e556",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 13:32",
-      "title": "美国创企GG在印度起诉苹果 指控NameDrop功能侵权",
-      "insight": "法庭文件显示，美国初创企业GG Technologies在印度起诉苹果，指控苹果的NameDro…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznnyc4968963.shtml"
-    },
-    {
-      "id": "ff961d3097",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-21 13:16",
-      "title": "印尼金融服务监管局责令股票操纵案相关方返还240亿印尼盾",
-      "insight": "印尼金融服务监管局要求三起股票操纵案件的相关主体，合计返还237.7亿印尼盾非法所得，监管机构正…",
-      "link": "https://finance.sina.com.cn/world/2026-11-21/doc-iniznnyh3480554.shtml"
-    },
-    {
-      "id": "ff97bff37b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-21 13:01",
-      "title": "比特币跌破56000美元 风险资产抛售加剧下行压力",
-      "insight": "比特币跌至两年多来的最低水平，从特朗普再次当选后备受市场追捧的资产，进一步转变为更广泛投机性押注…",
-      "link": "https://finance.sina.com.cn/world/2026-11-21/doc-iniznnyh3473939.shtml"
-    },
-    {
-      "id": "ffdd13cf19",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 12:58",
-      "title": "Anthropic CEO阿莫代，多年前曾拒绝过马斯克",
-      "insight": "在完成史上规模最大IPO的两年前，一个闷热的秋日，丹妮拉·阿莫代把Anthropic全体员工召集…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznnyk9736552.shtml"
-    },
-    {
-      "id": "ffced3d0ee",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 12:46",
-      "title": "Anthropic IPO份额，优先倾斜“Claude重度使用”客户",
-      "insight": "Anthropic及其承销顾问清楚，在AI交易行情有史以来最剧烈的波动期推进IPO本身就存在风险…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznnyc4951838.shtml"
-    },
-    {
-      "id": "ffb08b0fa7",
-      "source": "证券时报",
-      "tag": "股市",
-      "time": "11-21 12:28",
-      "title": "6G将迎重磅大会，这些公司抢先布局！机构资金潜伏10只概念股",
-      "insight": "正如5G是数字经济时代的重要底座，6G也将成为决定未来产业发展速度、广度、深度的基础性产业。 2…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-21/doc-iniznhsh6814449.shtml"
-    },
-    {
-      "id": "ffae14a326",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 12:25",
-      "title": "新加坡数据中心DayOne暂缓美国IPO",
-      "insight": "知情人士透露，新加坡数据中心DayOne Data Centers已搁置规模数十亿美元的美国IP…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznhsk3585576.shtml"
-    },
-    {
-      "id": "ff27a40f1b",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-21 12:18",
-      "title": "牛剑MIT等不愿落地迈阿密 格里芬30亿美元捐赠花落卡内基梅隆",
-      "insight": "过去数年，肯·格里芬一直在和顶尖高校沟通，抛出他重塑迈阿密的构想。他希望把这座新定居的城市打造为…",
-      "link": "https://finance.sina.com.cn/world/2026-11-21/doc-iniznhsh6804579.shtml"
-    },
-    {
-      "id": "ffef68e80f",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-21 11:30",
-      "title": "视频|ST恒信股东大会上演闹剧 多名股东被挡会场外",
-      "insight": "市场波动中保持理性——不追涨杀跌，关注长期价值。",
-      "link": "https://finance.sina.com.cn/stock/2026-11-21/doc-iniznhsf5042953.shtml"
-    },
-    {
-      "id": "ff541464c7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 10:39",
-      "title": "软银孙正义被曝曾考虑1万亿美元收购SK海力士",
-      "insight": "据知情人士透露，软银首席执行官孙正义近期接洽华尔街机构，商议融资推进一笔规模达万亿级美元的收购，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznhsf5015629.shtml"
-    },
-    {
-      "id": "ff2b3a8e60",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-21 10:20",
-      "title": "美国FBI再度遭黑客入侵 目标为其犯罪数据库",
-      "insight": "据报道，美国联邦调查局（FBI）国家犯罪信息中心遭黑客攻击。 近日这起入侵事件被曝光之际，特朗普…",
-      "link": "https://finance.sina.com.cn/world/2026-11-21/doc-iniznakk6859982.shtml"
-    },
-    {
-      "id": "ff27d8badb",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-21 10:13",
-      "title": "黄仁勋遭董事会罢免主要原因曝光：缺乏坦诚",
-      "insight": "两名熟悉英伟达董事长及其他董事私下讨论情况的人士透露，最终促使董事会做出决定的，是和黄仁勋“缺乏…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-21/doc-iniznaki5130702.shtml"
-    },
-    {
-      "id": "ff31c8f9aa",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "11-21 10:03",
-      "title": "300755，拟跨界采购！",
-      "insight": "酒类流通商华致酒行（300755）11月20日晚披露，其全资子公司深圳华致科技有限公司（下称“华…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-21/doc-iniznakk6852493.shtml"
     }
   ],
-  "updateTime": "2026-11-21 18:30"
+  "updateTime": "2026-11-22 02:32"
 }
