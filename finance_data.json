@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffe922d86f",
+      "id": "ff38deff4c",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-23 09:16",
+      "title": "长安期货梁安迪：供应压力仍存而需求偏弱，花生基本面偏空",
+      "insight": "一、花生供应压力仍存 由于花生现货价格跌至低位，且部分产区现货价格已经处于种植成本附近，基层农户…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-inizsqqh5557236.shtml"
+    },
+    {
+      "id": "ff3286422e",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-23 00:40",
-      "title": "美国财长贝森特警告美联储过度紧缩风险 指出金融体系出现脆弱迹象",
-      "insight": "美国财政部长贝森特警告称，美联储若针对最新通胀数据而过度收紧政策，则可能危及美国经济，并指出金融…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizrtkw8726223.shtml"
+      "time": "11-23 09:11",
+      "title": "AI交易动摇、VIX升至2025年4月来最高 美股波动恐更剧烈",
+      "insight": "这波令人胆战心惊的股市抛售重创市场，期权交易员正为接下来更大的波动做好准备。 近几周股市动荡日益…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizsqqq0740198.shtml"
     },
     {
-      "id": "ff7e86dbf3",
-      "source": "环球市场播报",
-      "tag": "财经热点",
-      "time": "11-22 23:25",
-      "title": "华尔街策略师再度下调标普500目标位，认为熊市不太可能出现",
-      "insight": "在美股大幅下跌、标普500进入技术性回调之后，华尔街策略师艾德·亚德尼在约两个月内第二次下调标普…",
-      "link": "https://finance.sina.com.cn/7x24/2026-11-22/doc-inizrtky1026263.shtml"
-    },
-    {
-      "id": "ff0d1889fe",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "11-22 22:41",
-      "title": "涉财务造假，300500下周二“戴帽”",
-      "insight": "11月22日，启迪设计（300500）一连披露3则公告，公司于11月19日收到江苏证监局下发的《…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpau5912384.shtml"
-    },
-    {
-      "id": "ff2957bdd5",
-      "source": "上海证券报",
-      "tag": "财经热点",
-      "time": "11-22 22:41",
-      "title": "“杨东”，打开限购！",
-      "insight": "22日晚间，宁泉资产发布公告称，自2026年11月23日起，恢复接受公司旗下所有基金的新投资者首…",
-      "link": "https://finance.sina.com.cn/china/2026-11-22/doc-inizrpau5911335.shtml"
-    },
-    {
-      "id": "ff2c4a5085",
-      "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-22 22:11",
-      "title": "603799，拟最高15亿元回购",
-      "insight": "来源：中国基金报 【导读】华友钴业拟回购10至15亿元股份 中国基金报记者 夏天 11月22日晚…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpca1130475.shtml"
-    },
-    {
-      "id": "ffd4ffc494",
-      "source": "上海证券报",
-      "tag": "股市",
-      "time": "11-22 21:34",
-      "title": "持仓13.35亿元！章建平家族大举加仓300903",
-      "insight": "两个月内股价腰斩，章建平家族大手笔加仓。 科翔股份（300903）最新公告显示，四季度以来，章建…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpay8782439.shtml"
-    },
-    {
-      "id": "ff3a746a43",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "11-22 20:09",
-      "title": "三连跌停后，002187，最新回应！",
-      "insight": "近期，广百股份（002187）经历了一轮暴涨暴跌。 11月22日，广百股份再次披露异动公告，公司…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrhva8874824.shtml"
-    },
-    {
-      "id": "ff67066f4e",
-      "source": "证券日报",
-      "tag": "股市",
-      "time": "11-22 20:00",
-      "title": "千亿龙头，又“追光”！",
-      "insight": "证券日报之声 本报记者 陈红 11月22日晚间，苏州天孚光通信股份有限公司（以下简称“天孚通信”…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrhuw5958649.shtml"
-    },
-    {
-      "id": "ff0c389770",
+      "id": "ffed601c9b",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-22 19:06",
-      "title": "韩国将推出分阶段措施以稳定市场波动",
-      "insight": "韩国高层金融官员在周日召开的紧急会议后表示，鉴于市场波动加剧，韩国宣布了分阶段措施以稳定市场，其…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizrhuy2705671.shtml"
+      "time": "11-23 09:08",
+      "title": "AI抛售潮来袭，新兴市场股票势将抹去2026年全部涨幅",
+      "insight": "随着市场对人工智能交易可持续性的担忧不断加剧，抛售潮从美国蔓延至亚洲，新兴市场股票正面临抹去今年…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizsqqn8409564.shtml"
     },
     {
-      "id": "ff1b74d144",
-      "source": "上海证券报",
-      "tag": "财经热点",
-      "time": "11-22 18:45",
-      "title": "沪深交易所、中国结算集体降费",
-      "insight": "上证报记者22日获悉，沪深交易所近日拟发布《关于进一步减免相关费用的通知》，推出新一批降费措施。…",
-      "link": "https://finance.sina.com.cn/china/2026-11-22/doc-inizrhuw5919916.shtml"
-    },
-    {
-      "id": "fff6177fb1",
-      "source": "上海证券报",
-      "tag": "财经热点",
-      "time": "11-22 18:39",
-      "title": "刚刚官宣！融资保证金比例下限降至80%！有望释放4000亿元增量资金",
-      "insight": "11月22日，经中国证监会批准，沪深北交易所发布《关于调整融资保证金比例等相关安排的通知》（下称…",
-      "link": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizrhuw5918701.shtml"
-    },
-    {
-      "id": "ffde71d247",
+      "id": "fffbeed8f7",
       "source": "市场资讯",
-      "tag": "财经热点",
-      "time": "11-22 18:32",
-      "title": "深交所组合式推出新一批降费措施 助力激发市场主体活力",
-      "insight": "来源：深交所 11月22日，深交所发布《关于进一步减免相关费用的通知》，推出新一批降费措施，包括…",
-      "link": "https://finance.sina.com.cn/china/2026-11-22/doc-inizrhva8835650.shtml"
+      "tag": "理财",
+      "time": "11-23 09:02",
+      "title": "光大期货1123黄金点评：市场低估美联储集体鹰派，短线黄金承压",
+      "insight": "11月16日至22日当周，市场焦点在利率预期与中期选举后续影响发酵导致风险资产流动性冲击方面，伦…",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-23/doc-inizsqqk2320522.shtml"
     },
     {
-      "id": "ffc1d37983",
+      "id": "fff890defa",
       "source": "市场资讯",
-      "tag": "股市",
-      "time": "11-22 18:09",
-      "title": "将被实施ST！启迪设计，停牌一天！",
-      "insight": "来源：资本秘闻 11月22日晚间，启迪设计（300500）披露公告称，公司于11月19日收到江苏…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrhva8823772.shtml"
+      "tag": "理财",
+      "time": "11-23 09:00",
+      "title": "开盘|国内期货主力合约跌多涨少 液化石油气（LPG）跌超6%",
+      "insight": "2026年11月23日，早盘开盘，国内期货主力合约跌多涨少，液化石油气（LPG）跌超6%，沪银跌…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-23/doc-inizsqqn8402961.shtml"
     },
     {
-      "id": "ffc7a3cf87",
-      "source": "市场资讯",
+      "id": "ffc277aaa1",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 18:08",
-      "title": "300500，将被ST",
-      "insight": "来源：中国基金报 【导读】启迪设计将被实施其他风险警示，股票于11月23日停牌一天 中国基金报记…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrhuw5899036.shtml"
+      "time": "11-23 08:43",
+      "title": "禾赛-W获纳入恒生科技指数成份股",
+      "insight": "禾赛-W（02525）发布公告，根据恒生指数有限公司于2026年11月20日刊发的公告，公司于香…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqq0719229.shtml"
     },
     {
-      "id": "ff2c93af09",
-      "source": "证券时报",
+      "id": "ffdda9ac0d",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 17:57",
-      "title": "最高15亿元，603799拟再度回购！多家A股公司也公告",
-      "insight": "刚完成6亿元股份回购，钴业龙头拟再度出手回购。 11月22日，A股钴业龙头华友钴业（603799…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrapa2800381.shtml"
+      "time": "11-23 08:42",
+      "title": "金石资本集团公布于11月23日上午起复牌",
+      "insight": "金石资本集团（01160）发布公告，公司已向联交所提出申请，自2026年11月23日上午9时起恢…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2303684.shtml"
     },
     {
-      "id": "ffe9426391",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "11-22 17:55",
-      "title": "明天停牌！300500，将被实施其他风险警示",
-      "insight": "公司股票将于11月23日停牌一天。 启迪设计（300500）11月22日公告称，公司收到证监会江…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8946833.shtml"
+      "id": "ffe9826f84",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-23 08:42",
+      "title": "特朗普：伊朗上周发射的无人机和导弹数量创一年多来新高",
+      "insight": "美国总统唐纳德·特朗普在Truth Social发文称：“伊朗上周发射的无人机和导弹数量超过过去…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizsqqq0718417.shtml"
     },
     {
-      "id": "ff2a98189a",
-      "source": "证券时报",
+      "id": "ff3bc34582",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 17:45",
-      "title": "退市警报拉响！002146，股价再度跌破1元",
-      "insight": "11月20日，荣盛发展（002146）股票收盘价为0.96元/股，再度触发面值退市风险。11月2…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8940615.shtml"
+      "time": "11-23 08:37",
+      "title": "传音控股获易方达基金管理增持171.81万股 每股作价约44.14港元",
+      "insight": "香港联交所最新数据显示，11月16日，易方达基金管理有限公司增持传音控股（02636）171.8…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2299006.shtml"
     },
     {
-      "id": "ff2cb44b1d",
-      "source": "新浪财经",
+      "id": "ff5c23bbf3",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 17:37",
-      "title": "利好！603799，宣布大手笔回购，最高15亿元！",
-      "insight": "刚完成6亿元股份回购，钴业龙头拟再度出手回购。 11月22日，A股钴业龙头华友钴业（603799…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrapa2788239.shtml"
+      "time": "11-23 08:36",
+      "title": "金风科技遭贝莱德减持25.54万股 每股作价约7.19港元",
+      "insight": "香港联交所最新数据显示，11月17日，贝莱德减持金风科技（02208）25.54万股，每股作价7…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqh5521565.shtml"
     },
     {
-      "id": "ff5e3009e3",
-      "source": "新浪财经",
+      "id": "ff3e1780e5",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 17:00",
-      "title": "昔日牛股，被立案",
-      "insight": "ST洲际被证监会立案。 11月22日，ST洲际（600759）公告，公司于11月20日收到证监会…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8920090.shtml"
+      "time": "11-23 08:36",
+      "title": "海普瑞获洪泽君增持36.85万股 每股作价约3.89港元",
+      "insight": "香港联交所最新数据显示，11月19日，洪泽君增持海普瑞（09989）36.85万股，每股作价3.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297906.shtml"
     },
     {
-      "id": "ff416e0754",
-      "source": "新浪财经",
+      "id": "ff0fd20779",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-22 16:33",
-      "title": "300872，被证监会立案！",
-      "insight": "天阳科技涉嫌信披违法违规被证监会立案。 天阳科技（300872）11月22日晚间公告，公司于11…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrape8906082.shtml"
+      "time": "11-23 08:36",
+      "title": "哔哩哔哩获摩根大通增持约97.36万股 每股作价约95.5港元",
+      "insight": "香港联交所最新数据显示，11月17日，摩根大通增持哔哩哔哩（09626）97.3574万股，每股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297849.shtml"
+    },
+    {
+      "id": "ff2db82ceb",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "东山精密获UBS Group AG增持114.79万股 每股作价约83.96港元",
+      "insight": "香港联交所最新数据显示，11月16日，UBS Group AG增持东山精密（02384）114.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqh5521381.shtml"
+    },
+    {
+      "id": "ff262804b8",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "立讯精密获摩根大通增持约5.26万股 每股作价45.501港元",
+      "insight": "香港联交所最新数据显示，11月17日，摩根大通增持立讯精密（02475）5.2606万股，每股作…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297658.shtml"
+    },
+    {
+      "id": "ff4422f2d0",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "天齐锂业获摩根大通增持约27.06万股 每股作价约22.17港元",
+      "insight": "香港联交所最新数据显示，11月17日，摩根大通增持天齐锂业（09696）27.0609万股，每股…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqn8384223.shtml"
+    },
+    {
+      "id": "ff21f18e59",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "金浔资源遭小摩减持约2.36万股 每股作价约4.54港元",
+      "insight": "香港联交所最新资料显示，11月17日，小摩减持金浔资源（03636）2.362万股，每股作价4.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqh5521057.shtml"
+    },
+    {
+      "id": "ff2f41a70e",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "先声药业获彭素琴增持20万股 每股作价10.41港元",
+      "insight": "香港联交所最新资料显示，11月18日，彭素琴增持先声药业（02096）20万股，每股作价10.4…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297319.shtml"
+    },
+    {
+      "id": "ff6c8b9584",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "申洲国际获The Capital Group Companies, Inc.增持497.13万股 每股作价约42.63港元",
+      "insight": "香港联交所最新数据显示，11月18日，The Capital Group Companies， …",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297242.shtml"
+    },
+    {
+      "id": "ff34c80141",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-23 08:36",
+      "title": "金力永磁获Morgan Stanley增持约415.72万股 每股作价约12.29港元",
+      "insight": "香港联交所最新数据显示，11月17日，Morgan Stanley增持金力永磁（06680）41…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-23/doc-inizsqqk2297191.shtml"
+    },
+    {
+      "id": "ff1dd6e26b",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-23 08:28",
+      "title": "Nscale拟募资350亿美元IPO前夕放缓招聘、缩减开支",
+      "insight": "为筹备规模350亿美元的首次公开募股（IPO），英国数据中心运营商Nscale开始放缓招聘、压缩…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizsqqh5513446.shtml"
     }
   ],
-  "updateTime": "2026-11-23 02:54"
+  "updateTime": "2026-11-23 09:18"
 }
