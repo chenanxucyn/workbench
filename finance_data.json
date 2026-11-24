@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffc2e06824",
-      "source": "一财网",
+      "id": "ff0274779a",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:49",
+      "title": "黄仁勋身家暴涨360亿美元，英伟达暴涨令空头账面浮亏120亿美元",
+      "insight": "英伟达董事会恢复黄仁勋CEO职务后，周一黄仁勋的净资产暴增超360亿美元。这场戏剧性反转推动芯片…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqte0007631.shtml"
+    },
+    {
+      "id": "ffad6089f2",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:48",
+      "title": "现代汽车宣布在印度涨价，最高提价8000卢比",
+      "insight": "现代汽车印度公司周二表示，自12月1日起，将上调部分车型及配置版本的售价，最高提价8000卢比（…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvqtf2159142.shtml"
+    },
+    {
+      "id": "fff2cd3696",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:42",
+      "title": "美国检方：OpenAI工程师存有数十份会议录音",
+      "insight": "美国检察官称，这名被指控在OpenAI办公场所私装窃听设备的工程师，录下了该公司与外国政府的会谈…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmk9060135.shtml"
+    },
+    {
+      "id": "ff37c8ccaf",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:42",
+      "title": "拜耳暗示未来制药交易或更多瞄准临床试验中期资产",
+      "insight": "拜耳（Bayer）一名高管表示，该公司在寻找下一笔制药交易时，将更加关注处于临床试验中期阶段的药…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmh0133496.shtml"
+    },
+    {
+      "id": "ff7471fa9c",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:41",
+      "title": "黄仁勋回归后，特朗普英伟达持仓最高浮盈1500万美元",
+      "insight": "在黄仁勋意外复职的消息推动下，英伟达股价周一暴涨，美国总统特朗普所持英伟达股票的市值最高增加了1…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmk9058825.shtml"
+    },
+    {
+      "id": "ff1eb43c8d",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:34",
+      "title": "报道：法国将建立稀土“战略储备”",
+      "insight": "据报道，爱丽舍宫表示，法国计划储备稀土和某些对工业至关重要的“优先金属”。 该储备机制将与石油储…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmi2275473.shtml"
+    },
+    {
+      "id": "ff41fdaad8",
+      "source": "市场资讯",
+      "tag": "股市",
+      "time": "11-24 15:33",
+      "title": "跌至1元再收立案，000010索赔开启了",
+      "insight": "11月23日晚间，*ST美丽（000010）的一纸公告，让这家早已披星戴帽的老牌上市公司再度站在…",
+      "link": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-24/doc-inizvkme7799368.shtml"
+    },
+    {
+      "id": "ff61b3b0ce",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:33",
+      "title": "英国餐饮巨头金巴斯计划将主要上市地点迁至纽约",
+      "insight": "全球最大的餐饮服务企业金巴斯集团（Compass Group）周二确认，计划将其主要上市地从伦敦…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkme7798269.shtml"
+    },
+    {
+      "id": "ff7aca83ee",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:31",
+      "title": "StoneX维持AMD买入评级及685美元目标价，称近期抛售源于市场情绪恶化",
+      "insight": "11月23日，StoneX重申对AMD的“买入”评级及685美元目标价。该机构指出，尽管AMD股…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkme7796573.shtml"
+    },
+    {
+      "id": "ff81609485",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:29",
+      "title": "高盛称在遏制韩国通胀方面 稳定韩元比加息更有效",
+      "insight": "高盛表示，稳定韩元比加息更能有效遏制韩国通胀，认为该国的价格压力更多源于进口成本上升，而非强劲的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkme7794950.shtml"
+    },
+    {
+      "id": "ff1e5b80b6",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:28",
+      "title": "黄仁勋重返英伟达CEO职位后台积电单日市值暴增1580亿美元",
+      "insight": "英伟达董事会周一投票决定恢复黄仁勋的首席执行官职务，结束了此前重创人工智能（AI）供应链的领导层…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmi2269113.shtml"
+    },
+    {
+      "id": "ffa9ce9b40",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:27",
+      "title": "赛诺菲宣布以410亿美元现金收购Insmed，扩大呼吸系统及罕见病药物业务",
+      "insight": "11月24日，法国制药巨头赛诺菲（Sanofi）宣布，已达成协议，将以约410亿美元现金收购美国…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmk9044696.shtml"
+    },
+    {
+      "id": "ff100ce025",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:26",
+      "title": "今日比特币：徘徊于6万美元附近，美股反弹未能扭转加密货币资金流出趋势",
+      "insight": "11月24日，尽管黄仁勋重返英伟达推动美股大幅反弹，加密货币市场表现仍然疲软。美联储进一步加息的…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmi2266845.shtml"
+    },
+    {
+      "id": "ff3d9ba47e",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-24 15:24",
+      "title": "氢氧化锂期货和期权要来了！你想了解的都在这里→",
+      "insight": "来源：期货日报 编者按 作为高镍三元电池不可或缺的核心原料，氢氧化锂关乎我国锂电产业链供应链稳定…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-24/doc-inizvkmh0127538.shtml"
+    },
+    {
+      "id": "ff64d0baf9",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-24 15:23",
+      "title": "瑞士议会将审议更严格的银行资本监管规定，瑞银或需额外补充160亿美元资本",
+      "insight": "11月24日，瑞士国民院（议会下院）相关委员会将审议针对瑞银集团（UBS）的资本监管改革方案。根…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmh0119147.shtml"
+    },
+    {
+      "id": "ffb1e09487",
+      "source": "新华社",
       "tag": "财经",
-      "time": "11-24 06:54",
-      "title": "英伟达暴涨31.48%，“黄仁勋行情”引爆美股，纳指狂飙6.5%，道指涨近1500点",
-      "insight": "黄仁勋复职消息一出，市场信心陡然上升，美股行情被瞬间引爆。 *三大股指集体飙高，AI抛售逆转； …",
-      "link": "https://finance.sina.com.cn/roll/2026-11-24/doc-inizutph5119681.shtml"
+      "time": "11-24 15:22",
+      "title": "中巴航天员将携手进入中国空间站 外交部：充满期待",
+      "insight": "新华社北京11月24日电（记者曹嘉玥、伍岳）外交部发言人郭嘉昆24日在例行记者会上表示，中国和巴…",
+      "link": "https://finance.sina.com.cn/roll/2026-11-24/doc-inizvkme7796072.shtml"
     },
     {
-      "id": "ffdd78982e",
+      "id": "fffc1d3b48",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-24 06:30",
-      "title": "大宗商品综述：油价跌 伊朗紧张局势暂缓 金价反弹 锡领涨基本金属",
-      "insight": "油价下跌，有迹象显示美国目前对伊朗的立场趋于温和，投资者因此解除为防范周末美军对伊行动升级而建立…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfk5237765.shtml"
+      "time": "11-24 15:19",
+      "title": "“木头姐”错失英伟达31%大涨行情 在黄仁勋回归前抛售持仓",
+      "insight": "由于担心黄仁勋离职会冲击英伟达管理层，凯西・伍德（Cathie Wood）此前减持了价值近1.0…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmi2258212.shtml"
     },
     {
-      "id": "ffa4b08bbc",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 06:30",
-      "title": "11月24日隔夜要闻：美股反弹 中概普涨 油价下跌 黄仁勋戏剧性重返英伟达 AI股票随涨 Anthropic收跌",
-      "insight": "市场 11月24日美股收盘：道指飙升1400点 纳指涨6% 黄仁勋重掌英伟达 英伟达涨超31% …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfs0280256.shtml"
+      "id": "ff9b371722",
+      "source": "北京日报客户端",
+      "tag": "财经热点",
+      "time": "11-24 15:18",
+      "title": "中方回应黄仁勋重返英伟达",
+      "insight": "【#中方回应黄仁勋重返英伟达#】#中方回应黄仁勋重新担任英伟达CEO#11月24日，外交部发言人…",
+      "link": "https://finance.sina.com.cn/china/2026-11-24/doc-inizvkmi2256364.shtml"
     },
     {
-      "id": "ff939e0018",
+      "id": "ffec3e96a3",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-24 06:12",
-      "title": "美国股市：美股上演惊人反弹 黄仁勋回归点燃科技股涨势",
-      "insight": "美国股市周一上演惊人反弹，从上周科技股领跌的惨烈抛售中强势回升。黄仁勋意外重返英伟达掌舵，推动华…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfn2004725.shtml"
+      "time": "11-24 15:11",
+      "title": "最大科技多头正在领取他的奖励：黄仁勋回归或促使特朗普一天挣1500万美元",
+      "insight": "根据美国总统特朗普向美国政府道德办公室（OGE）提交的财务披露文件测算，截至9月30日，特朗普可…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmk9024873.shtml"
     },
     {
-      "id": "ff76f008ca",
+      "id": "ffbc509694",
       "source": "环球市场播报",
       "tag": "美股",
-      "time": "11-24 06:10",
-      "title": "观点综述：美股回调带来绝佳买入时机 富国将美国大盘股上调至最看好",
-      "insight": "摩根士丹利策略师认为美股回调带来绝佳的买入时机。富国将美国大盘股上调至“最看好”评级，认为上周暴…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfn2003961.shtml"
-    },
-    {
-      "id": "ff2763007d",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 06:09",
-      "title": "11月24日热门中概股收盘普涨 阿里涨超6% 拼多多涨超4% 百度涨超5%",
-      "insight": "11月24日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨2.44%。 上涨个股（按市值…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfk5226966.shtml"
-    },
-    {
-      "id": "ff9629ec08",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 06:02",
-      "title": "11月24日美股成交额前20：英伟达成交1200亿美元 历史第二 黄仁勋重掌英伟达",
-      "insight": "周四美股成交额第1名美股成交额第1名英伟达收涨31.48%，成交1272.3亿美元。 英伟达重新…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfs0269502.shtml"
-    },
-    {
-      "id": "ffcdb11494",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:43",
-      "title": "纽约汇市：美元上涨 股市在AI相关抛售潮后反弹 欧元表现落后",
-      "insight": "美元兑所有G10货币普涨，股市在AI相关抛售潮后反弹；这波抛售上周曾推动标普500指数进入技术性…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfn1990166.shtml"
-    },
-    {
-      "id": "ff45f4ffc7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:38",
-      "title": "11月24日外盘头条：特朗普介入推动 黄仁勋重掌英伟达 公司市值增加9500亿美元 AI相关股票普涨",
-      "insight": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、原油：油价下跌 供应趋于充裕且伊朗局势暂缓 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfs0261380.shtml"
-    },
-    {
-      "id": "fffad89a88",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:27",
-      "title": "纽约联储行长：美联储需逐步采取行动 将通胀降至2%目标",
-      "insight": "纽约联储行长约翰·威廉姆斯表示，央行在遏制持续过高的通胀方面仍“有工作要做”。 “我们必须逐步采…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfk5204642.shtml"
-    },
-    {
-      "id": "ffed0fd421",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:18",
-      "title": "11月24日美股收盘：道指飙升1400点 纳指涨6% 黄仁勋重掌英伟达 英伟达涨超31%",
-      "insight": "周一，美国股市大幅上涨，此前英伟达重新任命黄仁勋为首席执行官，重振了人工智能交易，并推动主要股指…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfs0253751.shtml"
-    },
-    {
-      "id": "ff01b63f34",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:11",
-      "title": "美国债市：国债短端下跌而中长端上涨 股市飙升而油价重挫",
-      "insight": "美国国债收益率曲线短端品种日内收跌，而中段至长端上涨，因WTI原油期货日内下跌逾4%。早间短端领…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfk5196440.shtml"
-    },
-    {
-      "id": "ff883543bf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 05:10",
-      "title": "原油：油价下跌 供应趋于充裕且伊朗局势暂缓",
-      "insight": "油价下跌，有迹象显示美国目前对伊朗的立场趋于温和，投资者因此解除为防范周末美军对伊行动升级而建立…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizupfn1972560.shtml"
-    },
-    {
-      "id": "ffec4becba",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 04:12",
-      "title": "美国众议院候任议长杰弗里斯：国会将对英伟达展开全面调查",
-      "insight": "“国会不会因任何阻力而放弃对英伟达商业不当行为展开迅速、彻底且广泛的调查，”美国众议院候任议长哈…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxq2080803.shtml"
-    },
-    {
-      "id": "ffb47f4e18",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 04:11",
-      "title": "富国将美国大盘股上调至“最看好”评级 上周暴跌提供加仓机会",
-      "insight": "富国投资研究院（Wells Fargo Investment Institute）分析师将美国大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxq2080679.shtml"
-    },
-    {
-      "id": "ff226a2f9e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 04:11",
-      "title": "苹果拟推出红色款HomePod Mini和AirPods Max 迎战假日购物季",
-      "insight": "苹果公司正准备推出入门级音箱和高端耳机的红色版本，重启与Product（RED）长期以来的合作。…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxq2080554.shtml"
-    },
-    {
-      "id": "ff04101b5c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 03:34",
-      "title": "黄仁勋重返英伟达总部",
-      "insight": "援引一段来自员工的视频报道称，黄仁勋已返回英伟达总部，员工欢呼迎接。 该视频报道称，黄仁勋对员工…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxq2065696.shtml"
-    },
-    {
-      "id": "ff0ec809f6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 03:31",
-      "title": "美国2年期国债发行中标收益率低于发行前交易水平 显示需求略超预期",
-      "insight": "美国财政部发行690亿美元2年期国债，中标收益率为4.700%，略低于纽约时间下午1点投标截止时…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxs8020042.shtml"
-    },
-    {
-      "id": "ffff979381",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 03:30",
-      "title": "英伟达强势反弹凸显投资者两难 减持巨头虽能抗跌却可能错失反弹",
-      "insight": "周一股市的大幅反弹暴露出在由少数科技巨头主导的市场中投资者面临的最新陷阱：市场暴跌时，卖出这些股…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxq2063770.shtml"
-    },
-    {
-      "id": "ff9655b47c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-24 03:26",
-      "title": "黄仁勋戏剧性重返英伟达掌舵 特朗普介入推动其复职",
-      "insight": "英伟达董事会恢复黄仁勋的领导职务，上演企业史上最令人震惊的高管回归之一，并推动公司股价创下数十年…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizuhxu0347227.shtml"
+      "time": "11-24 15:10",
+      "title": "伯恩斯坦分析师：上调英伟达评级 但分析师直言董事会反复摇摆的决策表现十分糟糕",
+      "insight": "伯恩斯坦将英伟达评级从“与市场表现一致” 上调至“跑赢大盘”，目标价维持不变，为 200 美元。…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvkmh0105760.shtml"
     }
   ],
-  "updateTime": "2026-11-24 07:11"
+  "updateTime": "2026-11-24 15:52"
 }
