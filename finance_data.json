@@ -1,185 +1,185 @@
 {
   "news": [
     {
-      "id": "ffcc5b119a",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:35",
-      "title": "哈塞特：PCE数据显示“海湾地区动荡”的影响正在减弱",
-      "insight": "白宫国家经济委员会主任凯文·哈塞特表示，今天的个人消费支出（PCE）数据表明，“海湾地区动荡”和…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvw8416670.shtml"
-    },
-    {
-      "id": "ffbeae84e7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:33",
-      "title": "合并传闻持续发酵，特斯拉与SpaceX股价双双下挫",
-      "insight": "受市场对两家企业潜在合并的抵触情绪加剧，叠加特斯拉全自动驾驶（FSD）软件的欧盟审批再度延期的双…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4066885.shtml"
-    },
-    {
-      "id": "ff904895b1",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:29",
-      "title": "Nutanix股价暴跌18%，首席执行官宣布计划卸任",
-      "insight": "这家云平台企业宣布，任职已满六年的首席执行官拉吉夫・拉马斯瓦米（Rajiv Ramaswami）…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvw8413863.shtml"
-    },
-    {
-      "id": "ffc72cdba7",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:27",
-      "title": "白宫经济顾问称当前通胀并未加速 美联储应重视供给侧因素",
-      "insight": "白宫国家经济委员会主任哈塞特接受采访时表示，在美联储主席沃什推动重新评估央行经济模型之际，“人们…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1636704.shtml"
-    },
-    {
-      "id": "ffa41e5f06",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:26",
-      "title": "AI安全倡导者对Anthropic渐生不满",
-      "insight": "Anthropic 的品牌很大程度上建立在人工智能安全之上，一直将自己塑造为审慎稳重、与 Ope…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvz4064415.shtml"
-    },
-    {
-      "id": "ff4ed16ad4",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-26 00:20",
-      "title": "黄仁勋回归难消英伟达隐忧 市值已蒸发2万亿美元",
-      "insight": "随着投资者开始正视全球最大芯片制造商仍然面临的诸多悬而未决问题，英伟达首席执行官黄仁勋回归后围绕…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizyqvv1633795.shtml"
-    },
-    {
-      "id": "ff0c97fedf",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 23:57",
-      "title": "纳斯达克100指数进入“先卖再说”模式 AI和加息之忧刺激抛售",
-      "insight": "纳斯达克100指数连续第二天暴跌并短暂进入熊市，投资者对人工智能过度投资的担忧加剧，重创了美国大…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvv1622639.shtml"
-    },
-    {
-      "id": "ffd55d071c",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 23:50",
-      "title": "美国10月份新建住宅折合年率销量上升14.2%至70.1万套",
-      "insight": "美国10月份新建住宅折合年率销量预估为65.0万套。47位经济学家的预估区间为60.0万套-68…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9288042.shtml"
-    },
-    {
-      "id": "ff74ebc816",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 23:48",
-      "title": "美国新建住宅销售意外升至年内最高 建商大力提供购房优惠",
-      "insight": "美国新建住宅销售上月意外升至年内最高水平，建商大力提供购房优惠，以抵消抵押贷款利率飙升的影响。 …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizyqvt9268961.shtml"
-    },
-    {
-      "id": "ffe731dc90",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 23:23",
-      "title": "亚马逊与Meta磋商AI购物的未来，但消费者尚未完全接受该模式",
-      "insight": "据《财富》独家消息，亚马逊与 Meta 正在谈判，计划恢复 Meta 热门个人 AI 智能体 M…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpv9391297.shtml"
-    },
-    {
-      "id": "ff216f53bd",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 23:20",
-      "title": "AI行情崩盘，纳斯达克100指数即将步入熊市",
-      "insight": "周三芯片板块遭遇抛售，纳斯达克 100 指数大跌超 4%。该指数较历史高点跌幅已经超过 20%，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykqc4170114.shtml"
-    },
-    {
-      "id": "ff11faddb5",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:46",
-      "title": "华尔街“恐慌指数”重回30上方",
-      "insight": "被称作华尔街 “恐慌指数” 的 VIX 指数，周三上午重新回升至 30 关口以上。 该指数早盘最…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykqc4157111.shtml"
-    },
-    {
-      "id": "ff1681a085",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:31",
-      "title": "开盘：三大股指齐跌，AI 板块承压，市场消化最新通胀数据与关税消息",
-      "insight": "道指跌1.49%，标普500指数跌2.26%，纳指跌3.32%。 英伟达与 Anthropic …",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpx1715155.shtml"
-    },
-    {
-      "id": "ffe81bb89e",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:24",
-      "title": "戴尔财报大超预期股价却暴跌，华尔街并不买账",
-      "insight": "华尔街对戴尔这份季度财报并不领情，这一现象十分反常。这家主营电脑与服务器的企业周二盘后公布业绩，…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpy8486581.shtml"
-    },
-    {
-      "id": "ffef130848",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:22",
-      "title": "投资者撤离AI交易赛道，英伟达、AMD和美光股价大跌",
-      "insight": "芯片股持续暴跌，英伟达周三盘前再度下挫 5%，前一交易日该股已经下跌 6%。 同行 AMD 与博…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpx1709093.shtml"
-    },
-    {
-      "id": "ff0e8fccb6",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:18",
-      "title": "AI重创软件股，债务高墙隐现",
-      "insight": "今年股票投资者一直在抛售软件板块个股，担忧 AI 会蚕食它们的业务。如今放贷机构也开始跟上这种风…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykqc4144494.shtml"
-    },
-    {
-      "id": "ffb832239b",
-      "source": "新浪财经",
-      "tag": "股市",
-      "time": "11-25 22:17",
-      "title": "600499，遭二度举牌！溢价近30%，斥资逾14亿元",
-      "insight": "科达制造第一大股东拟转让5%持股，受让方就是本月初刚刚举牌的沈延昌、杨艳娟夫妇。 11月25日晚…",
-      "link": "https://finance.sina.com.cn/stock/zqgd/2026-11-25/doc-inizykpy8485078.shtml"
-    },
-    {
-      "id": "ff16a02b69",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:07",
-      "title": "美联储青睐的通胀指标10月上升，市场预期美联储下月加息",
-      "insight": "美联储青睐的通胀指标在10月小幅走高，央行决策者正在权衡下月加息。 美国商务部周三公布，10月个…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpv9358143.shtml"
-    },
-    {
-      "id": "ffc83c8427",
-      "source": "环球市场播报",
-      "tag": "美股",
-      "time": "11-25 22:04",
-      "title": "美国运输安全管理局：预计感恩节周将有近1800万航空旅客",
-      "insight": "美国运输安全管理局周二宣布，预计感恩节周将有近1800万名航空旅客，并承诺帮助家庭“尽可能安全、…",
-      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizykpv9356347.shtml"
-    },
-    {
-      "id": "ff68b38340",
+      "id": "ffb444199d",
       "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:24",
+      "title": "华泰期货：中东地缘局势反复，聚烯烃盘面止跌反弹",
+      "insight": "作者： 陈莉 市场要闻与重要数据 价格与基差方面，L主力合约收盘价为7859元/吨（+52），P…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzm1416772.shtml"
+    },
+    {
+      "id": "ffa85ad895",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:22",
+      "title": "光大期货1126黄金点评：核心PCE超预期锁定加息路径，金价重心走低",
+      "insight": "隔夜（11月25日）贵金属走出了一轮教科书式的深V行情。COMEX黄金盘中最低触及3428.5美…",
+      "link": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-26/doc-inizzmzn8191641.shtml"
+    },
+    {
+      "id": "ffc66ae4d3",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:21",
+      "title": "华泰期货：国内现货强势，国外供应偏紧，为何沪铝昨日大跌？",
+      "insight": "作者： 有色组 昨日沪铝主力合约2701开盘于20580元/吨，收盘于20100元/吨，跌幅4.…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8190954.shtml"
+    },
+    {
+      "id": "ffb9fec7c9",
+      "source": "新浪港股",
       "tag": "股市",
-      "time": "11-25 22:00",
-      "title": "披露重组预案！珠免集团，复牌！",
-      "insight": "来源：资本秘闻 11月25日晚间，珠免集团（600185）披露重组预案，公司股票11月26日起复…",
-      "link": "https://finance.sina.com.cn/stock/s/2026-11-25/doc-inizykpv9357416.shtml"
+      "time": "11-26 09:20",
+      "title": "俄铝：集团成员公司订立新热能供应合约",
+      "insight": "俄铝（00486）发布公告，集团成员公司已与En+的联系人订立合约，据此，En+的联系人同意向集…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8190028.shtml"
+    },
+    {
+      "id": "ff3a41fb06",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:20",
+      "title": "快讯：恒指高开1.22% 恒科指涨2.29% 科网股、黄金股活跃 AI应用股高开",
+      "insight": "美股周三先跌后回稳，市场传出新一轮关税政策即将推出，加上美国最新通胀数据高于预期，均不利大市表现…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-26/doc-inizzmzm1414857.shtml"
+    },
+    {
+      "id": "ffaf62a113",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:19",
+      "title": "嘉涛(香港)控股公布中期业绩 拥有人应占溢利约3420万港元同比增加约26.8%",
+      "insight": "嘉涛（香港）控股（02189）公布截至2026年9月30日止6个月中期业绩，总收益约1.934亿…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzi9008638.shtml"
+    },
+    {
+      "id": "fff7a8547c",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:18",
+      "title": "NIRAKU发布中期业绩 股东应占溢利14.42亿日圆同比增加106.59%",
+      "insight": "NIRAKU（01245）发布截至2026年9月30日止6个月的中期业绩，该集团取得收益186.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzn8188317.shtml"
+    },
+    {
+      "id": "fff41d4c54",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-26 09:16",
+      "title": "韩国央行加息25个基点，以遏制通胀压力",
+      "insight": "韩国央行周四将基准利率上调25个基点，旨在遏制日益加剧的通胀压力；此举标志着该行在暂停三个月后，…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzi9005708.shtml"
+    },
+    {
+      "id": "ff36b9ad89",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:15",
+      "title": "大摩：美高梅中国维持“增持”评级 目标价12港元",
+      "insight": "摩根士丹利发布研报称，维持美高梅中国（02282）“增持”评级及目标价12港元。公司宣派每股0.…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-26/doc-inizzmzr3785158.shtml"
+    },
+    {
+      "id": "ffd9738bd6",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:14",
+      "title": "花旗：周大福维持“买入”评级 目标价15.20港元",
+      "insight": "花旗发布研报称，维持周大福（01929）“买入”评级，目标价由15.4港元轻微降至15.2港元，…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-26/doc-inizzmzi9004041.shtml"
+    },
+    {
+      "id": "ff94999251",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:13",
+      "title": "美银证券：小米集团-W重申“买入”评级 目标价34港元",
+      "insight": "美银证券发布研报称，略微上调小米集团-W（01810）2026年经调整盈利预测2%，以反映业绩及…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-26/doc-inizzmzn8183455.shtml"
+    },
+    {
+      "id": "ffef7db7ac",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:12",
+      "title": "华泰期货：碳酸锂昨日价格跌至年内新低，短期预计维持偏弱震荡",
+      "insight": "作者： 新能源及有色组 碳酸锂 昨日碳酸锂盘面大幅减仓下跌，主力合约2701减仓560手，跌幅达…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzi9003223.shtml"
+    },
+    {
+      "id": "fff12768cc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:11",
+      "title": "大摩：小米集团-W维持“增持”评级 目标价35港元",
+      "insight": "摩根士丹利发布研报称，重申小米集团-W（01810）“增持”评级及35港元目标价，预计公司202…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-26/doc-inizzmzi9002536.shtml"
+    },
+    {
+      "id": "ff76e0578a",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:11",
+      "title": "华泰期货：尼日利亚低硫燃料油出口反弹",
+      "insight": "作者： 康远宁 市场分析 上期所燃料油期货主力合约日盘收涨0.25%，报3640元/吨；INE低…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8181774.shtml"
+    },
+    {
+      "id": "ffdcf6dabc",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:10",
+      "title": "里昂：小米集团-W维持“跑赢大市”评级 目标价35港元",
+      "insight": "里昂发布研报称，维持小米集团-W（01810）“跑赢大市”评级，目标价35港元不变。小米第三季业…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-26/doc-inizzmzi9001532.shtml"
+    },
+    {
+      "id": "ff65358c7b",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:10",
+      "title": "华泰期货：沪铜昨日下跌，注意风险控制",
+      "insight": "日内沪铜主力2701合约收87，950元/吨，较前一交易日结算价93，900元下跌6.34%。下…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzm1404381.shtml"
+    },
+    {
+      "id": "ff285ae61d",
+      "source": "市场资讯",
+      "tag": "理财",
+      "time": "11-26 09:07",
+      "title": "开盘|国内期货主力合约涨多跌少，燃料油涨超6%",
+      "insight": "早盘开盘，国内期货主力合约涨多跌少，燃料油涨超6%，乙二醇（EG）涨超4%，丙烯涨近4%，低硫燃…",
+      "link": "https://finance.sina.com.cn/money/future/fmnews/2026-11-26/doc-inizzmzn8178942.shtml"
+    },
+    {
+      "id": "ff4b748f3e",
+      "source": "环球市场播报",
+      "tag": "美股",
+      "time": "11-26 09:05",
+      "title": "欧洲央行据悉就对冲基金风险敞口联系法巴和法兴等银行",
+      "insight": "据知情人士称，法国巴黎银行和法国兴业银行在受到欧洲央行检查的一系列银行之列，央行在调查银行业与对…",
+      "link": "https://finance.sina.com.cn/stock/usstock/c/2026-11-26/doc-inizzmzn8177101.shtml"
+    },
+    {
+      "id": "ff020e96ab",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:05",
+      "title": "国微控股股东鑫芯香港拟通过场外公开徵集受让方的方式转让2999.9万股公司股份",
+      "insight": "国微控股（02239）公布，于2026年11月25日，公司接获公司股东鑫芯（香港）投资有限公司（…",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzi8997519.shtml"
+    },
+    {
+      "id": "ff3e0fcdcb",
+      "source": "新浪港股",
+      "tag": "股市",
+      "time": "11-26 09:03",
+      "title": "波司登将于2027年1月12日派发中期股息每股6.6港仙",
+      "insight": "波司登（03998）公布，将于2027年1月12日派发中期股息每股6.6港仙。",
+      "link": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-26/doc-inizzmzm1398911.shtml"
     }
   ],
-  "updateTime": "2026-11-26 00:37"
+  "updateTime": "2026-11-26 09:24"
 }
